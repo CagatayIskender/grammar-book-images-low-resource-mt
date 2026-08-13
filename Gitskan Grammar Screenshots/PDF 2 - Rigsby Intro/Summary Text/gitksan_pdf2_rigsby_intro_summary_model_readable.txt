@@ -1,0 +1,36 @@
+Gitksan grammar reference summary: PDF 2 (Rigsby grammar introduction excerpts)
+===============================================================================
+
+This summary is derived from the corresponding grammar PDF and is intended to match the table-style summary image for controlled text-vs-image experiments.
+
+Document scope
+--------------
+Source: Excerpts from the introductory chapter of Bruce Rigsby's Gitksan Grammar.
+Main argument: The text treats Gitksan as a language, not merely a dialect, and discusses language identity, variation, and community history.
+Main value for translation: This PDF gives sociolinguistic and historical context more than detailed morphosyntax; it can help with dialect labels, proper names, and cautious interpretation.
+
+Language status and variation
+-----------------------------
+Language vs dialect: Gitksan speakers insist on calling Gitksan a language; the author frames language/dialect as social and empirical, not only structural.
+Competence by generation: At the time described, older people were generally fluent, many middle-aged speakers were English-dominant, and younger adults included many semispeakers.
+Language shift: English had become the vernacular for most Gitksan people; no monolingual Gitksan speakers and no children growing up only in Gitksan are reported.
+Grammar implication: A grammar must account for variability caused by intergenerational differences in competence and command.
+
+Cultural and translation context
+--------------------------------
+Place names: The Gitksan homeland is described as a humanized landscape with many place names and associated legends/historical narratives.
+Knowledge domains: The text mentions folk knowledge of animals and plants, origins and uses, and high culture of chiefs and Indian doctors.
+Translation caution: Unreflective translation into English can reduce and simplify Gitksan cultural knowledge and meanings.
+
+Contact and related languages
+-----------------------------
+Coast/Nass contact: Gitksan people traveled to the coast and lower Nass River for oolachen/candlefish, trade, ceremonies, and intermarriage.
+Coast Tsimshian: Knowing Coast Tsimshian was prestigious; chiefs used it in public speeches and ceremonies, and many songs were in it.
+Nisga'a relation: The text discusses the Gitksan/Nisga'a relationship and their connections with Coast Tsimshian.
+Historical comparison: The excerpt references Tsimshianic, Nass-Gitksan, Southern Tsimshian, Penutian debates, and numeral diffusion.
+
+Practical cues for experiments
+------------------------------
+Use carefully: This PDF is weaker than PDF 1 for direct sentence-level translation grammar, because most pages are introduction, history, and bibliography.
+Useful signals: Dialect identity, contact languages, named groups/places, and language shift context may still affect interpretation of examples.
+OCR caution: The scanned PDF has noisy text extraction, so image input may preserve layout and spelling better than raw OCR.

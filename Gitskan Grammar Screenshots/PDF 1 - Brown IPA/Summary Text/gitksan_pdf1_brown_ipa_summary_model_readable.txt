@@ -1,0 +1,39 @@
+Gitksan grammar reference summary: PDF 1 (Brown et al. IPA illustration)
+========================================================================
+
+This summary is derived from the corresponding grammar PDF and is intended to match the table-style summary image for controlled text-vs-image experiments.
+
+Document scope
+--------------
+Language/dialect: Gitksan, an Interior Tsimshianic language; the paper focuses on Eastern Gitksan.
+Dialect area: Eastern Gitksan is associated with Kispiox/Ansbayaxw, Glen Vowell/Sigit'ox, and Hazelton/Git-an'maaxs.
+Closest relatives: Closely related to Nisga'a; more distantly related to Coast Tsimshian and Southern Tsimshian.
+Main value for translation: Mostly phonetics/phonology plus a glossed narrative; useful for orthography, affixes, clitics, and example morphemes.
+
+Sound and orthography cues
+--------------------------
+Consonants: Includes plain stops p t kʲ kʷ q ʔ; ejectives/glottalized stops p' t' kʲ' kʷ' q'; affricates ts, ts', tl'; fricatives s xʲ xʷ X h hl/ɬ; sonorants m n y w l and glottalized sonorants.
+Vowels: Vowel length is contrastive. Schwa occurs in affixes and function words and changes quality by environment.
+Orthographic note: The examples align IPA, practical orthography, glosses, and English meanings, so spellings such as gy, kw, hl, xw, and apostrophe mark important sound contrasts.
+
+Phonological/morphophonological rules
+-------------------------------------
+Prevelars: Prevelar sounds are represented with superscript j/gy-like orthography; velarization appears before s or hl/ɬ.
+Voicing: Plosives and affricates may become voiced before a vowel, e.g. root-final consonants alternate in suffixed forms.
+Vowel length: Long vowels can shorten before consonantal suffixes; examples contrast possessor/person suffixes.
+Schwa/vowel lowering: Schwa is lowered near laryngeal or uvular consonants and tends toward high-central elsewhere; affix/reduplicant vowels lower near uvular/laryngeal consonants.
+Clusters: Word-final consonant clusters are common, especially after suffixes; five-consonant clusters can arise through affixation.
+
+Morphology and translation cues from examples
+---------------------------------------------
+Aspect/clitics: yukw marks imperfective (IPFV); =hl marks a common noun connector/context marker (CN); wil is glossed as COMP.
+Person/possessor: -t appears as 3.II; -n as 2SG.II; =t as 3.I; diit marks 3PL in examples.
+Common particles: dim = prospective (PROSP); nee = negative (NEG); ap = emphatic (EMPH); hlaa = inceptive (INCEP).
+Derivation: -asxw is antipassive (ANTIP); -xw and -s appear in passive-related forms; si- can be causative (CAUS).
+
+Useful examples
+---------------
+majagalee-t: flower-3.II = his/her flower; majagalee-n = your flower.
+yukw=hl t'aa-t: IPFV=CN sit-3.II = he/she is sitting; with -n = you are sitting (SG).
+nee ap hlgu-xw-s-in-'y: NEG EMPH small-PASS-PASS-CAUS-1SG.II = I cannot do it.
+guu-[t]-i=hl gwila=hl lixs-gyat-it: away take-T=CN blanket=CN different-person-SX = take away the blanket from the stranger/person.

@@ -1,0 +1,5 @@
+[
+  {"query": "ababa", "candidate": "zzbabaxx", "expected": 4},
+  {"query": "Natugu sentence", "candidate": "A Natugu grammar sentence.", "expected": 9},
+  {"query": "xyz", "candidate": "abc", "expected": 0}
+]

@@ -1,0 +1,14 @@
+{
+  "model_gloss": {
+    "bleu": 12.398435529488033,
+    "chrf": 35.813170614290996,
+    "xcomet": 0.5122237482975269
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "runtime_seconds": 190.66444444656372,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 3,
+    "seconds": 10
+  }
+}

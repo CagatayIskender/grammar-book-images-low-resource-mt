@@ -1,0 +1,73 @@
+# Selected Impactful PDF Pages
+
+## PDF page 1
+- JPG filename: page_001.jpg
+- Selection score: 9
+- Expected usefulness: medium
+- Reason selected: +3 phonology useful for forms; +3 text/translation; +3 language/dialect context
+- Grammar information: ILLUSTRATIONS OF THE IPA Gitksan Jason Brown School of Cultures, Languages and Linguistics, University of Auckland jason.brown@auckland.ac.nz Henry Davis
+- Readability/OCR concerns: embedded text extracted; some scanned/OCR text is noisy, especially in the Rigsby excerpt.
+
+## PDF page 2
+- JPG filename: page_002.jpg
+- Selection score: 14
+- Expected usefulness: high
+- Reason selected: +5 gloss labels/examples; +3 phonology useful for forms; +3 text/translation; +3 language/dialect context
+- Grammar information: 368 Journal of the International Phonetic Association: Illustrations of the IPA This Illustration provides an outline of the more prominent features of the phonetics and phonology of Gitksan. Further details of the language can be found in Rigsby (1986) and Brown (2008a). The data presented here are based on the speech forms of two female Gitksan speakers: Barbara Sennott and the late Doreen Jensen, sisters who grew up speaking Gitksan
+- Readability/OCR concerns: embedded text extracted; some scanned/OCR text is noisy, especially in the Rigsby excerpt.
+
+## PDF page 5
+- JPG filename: page_005.jpg
+- Selection score: 11
+- Expected usefulness: medium
+- Reason selected: +5 gloss labels/examples; +3 phonology useful for forms; +3 text/translation
+- Grammar information: Jason Brown, Henry Davis, Michael Schwan & Barbara Sennott: Gitksan 371 Figure 1 F1 × F2 plots for Gitksan vowels. Ellipses deﬁne one standard deviation. The grid lines mark intervals of 750 Hz for F2 and 200 Hz for F1. oː ɡʲoː
+- Readability/OCR concerns: embedded text extracted; some scanned/OCR text is noisy, especially in the Rigsby excerpt.
+
+## PDF page 6
+- JPG filename: page_006.jpg
+- Selection score: 11
+- Expected usefulness: medium
+- Reason selected: +5 gloss labels/examples; +3 phonology useful for forms; +3 language/dialect context
+- Grammar information: 372 Journal of the International Phonetic Association: Illustrations of the IPA sonorant, and long mid vowels preceding a sonorant). The following alternations illustrate this shortening: majagalee [mad͡zaɢaˈleː]
+- Readability/OCR concerns: embedded text extracted; some scanned/OCR text is noisy, especially in the Rigsby excerpt.
+
+## PDF page 7
+- JPG filename: page_007.jpg
+- Selection score: 9
+- Expected usefulness: medium
+- Reason selected: +3 phonology useful for forms; +3 text/translation; +3 language/dialect context
+- Grammar information: Jason Brown, Henry Davis, Michael Schwan & Barbara Sennott: Gitksan 373 Finally, there is a process of vowel lowering in the language. Within roots, only low or mid vowels are allowed adjacent to uvular and laryngeal consonants (with some exceptions; see Brown 2008a). In morphological contexts, such as afﬁxes and reduplicants, this consonantal effect on the vowel is grammaticized, resulting in an active lowering process
+- Readability/OCR concerns: embedded text extracted; some scanned/OCR text is noisy, especially in the Rigsby excerpt.
+
+## PDF page 8
+- JPG filename: page_008.jpg
+- Selection score: 18
+- Expected usefulness: high
+- Reason selected: +5 interlinear glossed text; +4 morphology/clitics; +3 phonology useful for forms; +3 text/translation; +3 language/dialect context
+- Grammar information: 374 Journal of the International Phonetic Association: Illustrations of the IPA Three-member clusters and larger are also found. The following clusters are in word-ﬁnal position, which, because of consonantal sufﬁxes, is a richer context for clustering: Word-ﬁnal consonant clusters plosive–plosive
+- Readability/OCR concerns: embedded text extracted; some scanned/OCR text is noisy, especially in the Rigsby excerpt.
+
+## PDF page 9
+- JPG filename: page_009.jpg
+- Selection score: 17
+- Expected usefulness: high
+- Reason selected: +5 interlinear glossed text; +5 gloss labels/examples; +4 morphology/clitics; +3 text/translation
+- Grammar information: Jason Brown, Henry Davis, Michael Schwan & Barbara Sennott: Gitksan 375 ɡIɬ ˀwiː ɡʷiˈlat wIl ɡʲamkt iː / iː heɬ ˈbahasxʷ / woj ˀniːnɬ kʲ’aː daXˈɡʲadIt wIl ˀniːn ant saːˈɡuːdIɬ ɡwIˈlaɬ lIxsˈɡʲadIt Orthographic transcription with interlinear English gloss The top line of each entry is an orthographic representation. The second line indicates where
+- Readability/OCR concerns: embedded text extracted; some scanned/OCR text is noisy, especially in the Rigsby excerpt.
+
+## PDF page 10
+- JPG filename: page_010.jpg
+- Selection score: 5
+- Expected usefulness: low
+- Reason selected: +5 gloss labels/examples
+- Grammar information: 376 Journal of the International Phonetic Association: Illustrations of the IPA Ii hlaa amhl ga‘nagwit
+- Readability/OCR concerns: embedded text extracted; some scanned/OCR text is noisy, especially in the Rigsby excerpt.
+
+## PDF page 11
+- JPG filename: page_011.jpg
+- Selection score: 1
+- Expected usefulness: low
+- Reason selected: +3 phonology useful for forms; +3 language/dialect context; -5 references/front matter
+- Grammar information: Jason Brown, Henry Davis, Michael Schwan & Barbara Sennott: Gitksan 377 saa guudihl gwilahl lixsgyadit.’
+- Readability/OCR concerns: embedded text extracted; some scanned/OCR text is noisy, especially in the Rigsby excerpt.

@@ -1,0 +1,9 @@
+{
+  "source_id": "lezgi",
+  "tokenizer": "tiktoken:gpt2",
+  "total_tokens": 34004,
+  "chunk_size": 512,
+  "chunk_overlap": 256,
+  "chunk_step": 256,
+  "chunk_count": 132
+}

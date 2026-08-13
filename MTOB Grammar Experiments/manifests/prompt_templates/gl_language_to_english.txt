@@ -1,0 +1,11 @@
+{LANGUAGE} is a language spoken in {LOCATION}. Translate the following sentence from {LANGUAGE} to English: {SOURCE}
+
+To help with the translation, here is the full text of a {LANGUAGE}-English grammar book:
+—
+{GL_TEXT}
+This is the end of the {LANGUAGE}-English grammar book.
+—
+
+Now write the translation.
+{LANGUAGE}: {SOURCE}
+English translation:

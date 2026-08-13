@@ -1,0 +1,7 @@
+Page conversion notes
+PDF file: Natugu Grammar Sketch/Boerger_Natqgu grammar sketch_final.pdf
+Total PDF pages: 71
+Selected pages rendered: 9
+All pages were not rendered because the instruction requested only translation-relevant pages.
+Rendering: PyMuPDF zoom=2.0, JPEG quality=82.
+Failures: none.

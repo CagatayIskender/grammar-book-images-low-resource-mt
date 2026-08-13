@@ -1,0 +1,13 @@
+{
+  "source_id": "lezgi",
+  "model": "sentence-transformers/all-mpnet-base-v2",
+  "similarity": "cosine_on_normalized_embeddings",
+  "pooling": "attention-mask mean pooling followed by L2 normalization",
+  "embedding_max_sequence_length": 384,
+  "vectors": 132,
+  "dimensions": 768,
+  "test_vectors": 87,
+  "chunk_file": "chunks/lezgi/chunks_512_overlap256.jsonl",
+  "chunk_sha256": "b117a554b1239ddbbd8fb03d952b15b943353c6e178157c93ecbc3adc39f50f0",
+  "test_file_sha256": "087de5f341f5264e003cf67f2ebf4891582aed5a2c6df6403a92ebab231001c6"
+}

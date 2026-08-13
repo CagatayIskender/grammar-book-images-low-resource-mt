@@ -1,0 +1,13 @@
+{
+  "source_id": "tsez",
+  "model": "sentence-transformers/all-mpnet-base-v2",
+  "similarity": "cosine_on_normalized_embeddings",
+  "pooling": "attention-mask mean pooling followed by L2 normalization",
+  "embedding_max_sequence_length": 384,
+  "vectors": 109,
+  "dimensions": 768,
+  "test_vectors": 445,
+  "chunk_file": "chunks/tsez/chunks_512_overlap256.jsonl",
+  "chunk_sha256": "80d73e8290c36d113a71dc76e356af9288a9c8621b443713baebf7bd1186393a",
+  "test_file_sha256": "95858a128728846cccecef64efef060f3df33c86fcf889e5e3610ac1d52dec7b"
+}

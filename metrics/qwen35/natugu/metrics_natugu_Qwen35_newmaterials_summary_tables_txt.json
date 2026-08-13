@@ -1,0 +1,20 @@
+{
+  "qwen35_context_shot": {
+    "bleu": 3.7582763684427345,
+    "chrf": 20.61484561885961,
+    "xcomet": 0.28653133878804216
+  },
+  "qwen35_context_chain": {
+    "bleu": 3.7582763684427345,
+    "chrf": 20.61484561885961,
+    "xcomet": 0.28653133878804216
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "scored_from_jsonl": "results/results_natugu_Qwen35_newmaterials_summary_tables_txt.jsonl",
+  "runtime_seconds": 35.89574670791626,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 35
+  }
+}

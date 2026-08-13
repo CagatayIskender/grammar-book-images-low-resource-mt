@@ -1,0 +1,17 @@
+{
+  "source_id": "natugu",
+  "language": "Natugu",
+  "location_from_pdf": "Santa Cruz Island in Temotu Province, Solomon Islands",
+  "input_pdf": "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/Natugu Grammar Sketch/Boerger_Natqgu grammar sketch_final.pdf",
+  "input_pdf_sha256": "fbfa8a17201cccb8a7e272d2eb93dda80b3039edab83fe147b4ff47fe83ae968",
+  "pdf_pages": 71,
+  "extracted_characters": 220880,
+  "repeated_margin_patterns_removed": [
+    "boerger, natqgu [ntu] grammar sketch"
+  ],
+  "extraction_policy": "preserve embedded PDF text; remove only repeated top/bottom marginal lines",
+  "warnings": [],
+  "audit_status": "manually_reviewed",
+  "audit_timestamp_utc": "2026-08-13T17:17:21.216594+00:00",
+  "audit_scope": "page counts, representative page text, extraction warnings, and Gl page ranges"
+}

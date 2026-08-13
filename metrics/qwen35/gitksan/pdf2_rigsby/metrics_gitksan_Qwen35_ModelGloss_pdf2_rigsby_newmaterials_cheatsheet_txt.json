@@ -1,0 +1,15 @@
+{
+  "qwen35_context_model_gloss": {
+    "bleu": 17.237741311419704,
+    "chrf": 47.41508834201492,
+    "xcomet": 0.5537447377636626
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "scored_from_jsonl": "results/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_newmaterials_cheatsheet_txt.jsonl",
+  "runtime_seconds": 16.43480348587036,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 16
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "qwen35_context_shot": {
+    "bleu": 2.445550839617489,
+    "chrf": 12.995807548910815,
+    "xcomet": 0.2328498675220314
+  },
+  "qwen35_context_chain": {
+    "bleu": 2.163990780004362,
+    "chrf": 12.445909951275008,
+    "xcomet": 0.22395442049393707
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "scored_from_jsonl": "results/results_lezgi_Qwen35_grammar_cheatsheet.jsonl",
+  "runtime_seconds": 35.914098024368286,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 35
+  }
+}

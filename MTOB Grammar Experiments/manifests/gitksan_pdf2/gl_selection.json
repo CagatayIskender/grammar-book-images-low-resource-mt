@@ -1,0 +1,24 @@
+{
+  "source_id": "gitksan_pdf2",
+  "condition": "Gl",
+  "selection_method": "manual page ranges",
+  "target_tokens": 100000,
+  "actual_gpt2_tokens": 13310,
+  "selected_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "selected_page_ranges": [
+    [
+      1,
+      7
+    ]
+  ],
+  "selection_notes": "The PDF contains excerpts from an introduction rather than a complete reference grammar; bibliography pages 8-9 are excluded.",
+  "below_target_reason": "The available translation-relevant source material is shorter than 100K tokens."
+}

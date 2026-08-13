@@ -1,0 +1,44 @@
+# Creation Report
+
+Language: Natugu
+PDF file processed: Natugu Grammar Sketch/Boerger_Natqgu grammar sketch_final.pdf
+Output location: Natugu Grammar Materials/Boerger Natqgu grammar sketch final
+Total PDF pages: 71
+Selected original PDF pages rendered to JPG: 9
+Selected pages: 3, 8, 23, 25, 37, 38, 39, 50, 58
+
+Files created:
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Summary Text/summary_model_readable.md
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Summary Text/summary_model_readable.txt
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Cheat Sheet from PDF/compact_cheatsheet.md
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Cheat Sheet from PDF/compact_cheatsheet.txt
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Cheat Sheet from PDF/compact_cheatsheet.jpg, Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Cheat Sheet from PDF/compact_cheatsheet_2.jpg
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Summary Image with Tables/summary_tables.md
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Summary Image with Tables/summary_tables.txt
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Summary Image with Tables/summary_tables.jpg, Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Summary Image with Tables/summary_tables_2.jpg
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Pages from the PDF/Selected impactful pages JPG/selected_pages_manifest.md
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Pages from the PDF/Selected impactful pages JPG/selected_pages_manifest.txt
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Pages from the PDF/optional_page_notes.md
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Pages from the PDF/optional_page_notes.txt
+- Natugu Grammar Materials/Boerger Natqgu grammar sketch final/Pages from the PDF/page_conversion_notes.txt
+
+Major grammar areas covered:
+- VAO/SV/VS word order
+- no case or number marked on nouns
+- person and number enclitics
+- demonstratives and plural marking on demonstratives
+- genitives and possessive classifiers
+- verb complex slots
+- causative, middle, applicative, passive, and valency
+- imperatives, questions, and negation
+- complement, relative, temporal, reason, purpose, and coordinate clauses
+
+Missing or unclear information:
+- Exact full forms in large tables are preserved on selected page JPGs; compact Markdown summarizes the translation-relevant facts.
+- Some categories may have more detail in non-selected pages; selected pages cover the main translation-relevant areas requested.
+
+Consistency and faithfulness:
+- Outputs are based only on the input PDF.
+- Markdown files are authoritative.
+- JPG files were rendered from Markdown or selected PDF pages.
+- Materials are ready for Qwen/Qwen-VL experiments.

@@ -1,0 +1,27 @@
+{
+  "qwen3": {
+    "backend": "qwen",
+    "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "temperature": 0.05,
+    "max_new_tokens": 256
+  },
+  "qwen35": {
+    "backend": "qwen",
+    "model_id": "Qwen/Qwen3.5-9B",
+    "temperature": 0.05,
+    "max_new_tokens": 256
+  },
+  "gemini25flashlite": {
+    "backend": "openrouter",
+    "model_id": "google/gemini-2.5-flash-lite",
+    "temperature": 0.05,
+    "max_new_tokens": 256
+  },
+  "gpt56luna": {
+    "backend": "openrouter",
+    "model_id": "openai/gpt-5.6-luna",
+    "temperature": null,
+    "max_new_tokens": 256
+  }
+}
+

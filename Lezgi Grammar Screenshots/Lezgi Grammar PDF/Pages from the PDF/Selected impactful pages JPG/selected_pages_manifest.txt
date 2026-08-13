@@ -1,0 +1,16 @@
+Selected impactful Lezgi grammar pages for VLM experiments
+
+The selected JPGs come from the compact all-pages folder and keep the original PDF page numbers.
+
+Pages:
+- 19-20: gloss abbreviations and argument-role notation.
+- 24-25: morphology overview, noun cases/localizations, verb categories.
+- 26-28: ergative alignment, dative subjects, subordination, converbs, questions, comparison.
+- 30-31: grammar terminology and verbal-category terminology.
+- 34-35: glossing conventions, oblique-stem notation, zero categories, subordinate-clause brackets.
+- 49-50: orthography/transliteration and spelling-to-phonology caveats.
+- 56: pretonic high-vowel syncope overview.
+- 59: post-tonic vowel syncope and verb-form alternations.
+
+Purpose:
+Use these pages as a lighter alternative to the full 59-page PDF image input while preserving the most translation-relevant grammar information.

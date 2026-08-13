@@ -1,0 +1,21 @@
+# Optional Page Notes
+
+## Source
+- PDF: Tsez_Grammar_PDF.pdf
+- Embedded text extraction: available for all pages checked.
+- OCR: not used.
+
+## Selected pages
+- Rendered selected page JPGs: page_008.jpg, page_009.jpg, page_010.jpg, page_012.jpg, page_015.jpg, page_016.jpg, page_020.jpg, page_021.jpg, page_025.jpg
+- The selected pages prioritize the highest-impact original PDF images for GPU-safe VLM runs: noun class/gender, case paradigms, local cases, pronouns, verb TAM/negation/non-finites, word order, agreement, and questions.
+- Previously selected but now skipped pages covered overlapping demonstrative details, converbs/relatives/adverbials, ditransitives, constituent negation, and abbreviation lists. Those facts remain represented in the Markdown/text summaries and rendered summary images.
+
+## Pages skipped
+- Skipped pages: 1, 2, 3, 4, 5, 6, 7, 11, 13, 14, 17, 18, 19, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40
+- Reason: lower direct usefulness for translation, bibliography/reference material, phonological background, sociolinguistic background, or overlap with selected grammar pages.
+
+## Uncertainty and rendering issues
+- Some table extraction from PDF text is linearized and imperfect; the selected JPG pages preserve original visual layout.
+- Unicode symbols such as ɬ, ƛ, χ, ˁ, ʁ, č, and pharyngealization symbols were preserved in Markdown/text and rendered with DejaVu fonts.
+- No external linguistic information was added.
+- If a model needs exact table cells, use the selected page JPGs alongside the Markdown summary.

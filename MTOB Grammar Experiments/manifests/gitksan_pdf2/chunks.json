@@ -1,0 +1,9 @@
+{
+  "source_id": "gitksan_pdf2",
+  "tokenizer": "tiktoken:gpt2",
+  "total_tokens": 15654,
+  "chunk_size": 512,
+  "chunk_overlap": 256,
+  "chunk_step": 256,
+  "chunk_count": 61
+}

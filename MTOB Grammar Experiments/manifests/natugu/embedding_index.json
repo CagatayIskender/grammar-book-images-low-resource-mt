@@ -1,0 +1,13 @@
+{
+  "source_id": "natugu",
+  "model": "sentence-transformers/all-mpnet-base-v2",
+  "similarity": "cosine_on_normalized_embeddings",
+  "pooling": "attention-mask mean pooling followed by L2 normalization",
+  "embedding_max_sequence_length": 384,
+  "vectors": 368,
+  "dimensions": 768,
+  "test_vectors": 99,
+  "chunk_file": "chunks/natugu/chunks_512_overlap256.jsonl",
+  "chunk_sha256": "3a6bb9715751a9344930e5dabd12cd13da8bc85bef913124bf16fd97410fd72a",
+  "test_file_sha256": "517745fbb984b64792044ffa9e49971d9e67c98f2b990f514730acff4fb63ab8"
+}

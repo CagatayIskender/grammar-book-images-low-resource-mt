@@ -1,0 +1,1 @@
+python run_grammamt.py --language Gitksan --model_id meta-llama/Meta-Llama-3.1-8B-Instruct --support_n 21 --test_n 37 --use_4bit --out_metrics metrics/metrics_gitksan_Llama_3.1.json --out_jsonl results/results_gitksan_Llama_3.1.jsonl

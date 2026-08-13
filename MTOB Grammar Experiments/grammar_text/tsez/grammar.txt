@@ -1,0 +1,2361 @@
+1
+Tsez
+
+Bernard Comrie* and Maria Polinsky‡
+*University of California, Santa Barbara; ‡University of Maryland, College Park
+
+1.
+Introduction1
+
+1.1.
+Area and speakers
+
+Tsez (Dido) is a member of the Tsezic group within the Nakh-Daghestanian
+language family. It has 12,467 speakers in the Russian Federation according to the 2010
+census (VPN 2010). The name Tsez derives from the indigenous self-designation cez or
+cezi, while the alternative Dido is the Georgian designation. The traditional lands of the
+Tsez are more or less coterminous with the Tsunta district (cuntinskij rajon) in
+Daghestan, excluding the Bezhta division (bežtinskij učastok), inhabited by speakers of
+Bezhta and Hunzib, and the village of Genukh, where speakers of Hinuq live.
+Approximately half of the Tsez continue to live in this area, the other half have
+migrated to Lowland parts of Daghestan, in particular to the Shamkhal area near
+Makhachkala.
+
+1.2.
+Dialects
+
+The usually accepted subdivision of Tsez dialects follows that proposed by
+Imnajšvili (1963: 9–10), which recognizes a primary distinction between the Sagada
+(soƛ’o) dialect and the rest, which in turn are divided into Kidero (kidiro), Shaytl
+(ešiƛ’), Asakh (asaq), Shapikh (šapiħ), and Elbok (elboq’) — the names in parentheses
+are the Tsez versions. The Mokok (newo) dialect is, however, sufficiently different from
+Kidero to be considered a separate dialect. The Sagada dialect diverges enough from the
+others to impair mutual intelligibility, and Sagada speakers need to make
+accommodations in interaction with speakers of other dialects. The other dialects are all
+mutually intelligible, and none has noticeably greater prestige than any other. The
+material in this article follows the Tsebari (ceboru) subdialect of Asakh, except where
+otherwise specified.
+
+1 This article is based upon work supported by the National Science Foundation under
+Grants BCS-9220219, BCS-0131946 and BCS-1144223. It incorporates material
+provided by Ramazan Rajabov in his capacity as Research Assistant to BCS-9220219.
+We are grateful to Bert Vaux and the late Helma van den Berg for comments on earlier
+versions.
+
+2
+1.3.
+Sociolinguistic situation
+
+Tsez has the official status of an unwritten language. A primer for use in schools
+has been prepared (Alekseev 1993; Alekseev, Radžabov & Abdulaev 2003), but seems
+to be little used. Occasional pieces in Tsez appear in the local newspaper Didojskie vesti
+<http://cunta.ru/didoyskievesti>, as well as occasional small publications, e.g. of
+poetry. But by far the most substantial collection of Tsez texts is the folklore anthology
+(Abdulaev & Abdullaev 2010). All of these, like the dictionary (Xalilov 1999), make
+use of adaptations of Avar Cyrillic orthography (see section 2.2); Avar and Tsez
+phonologies are typologically quite close.
+
+The traditional lingua franca of the area is Avar, which is still taught as a school
+subject in Tsez schools. However, the younger generation is more fluent in Russian,
+which is also the medium of education in Tsez schools. Prior to the break-up of the
+Soviet Union, the Russo-Georgian armed conflict, and the closure of the border,
+economic ties with the neighboring Georgian province of Kakhetia meant that there was
+also some knowledge of Georgian in the Tsez community; nowadays, there is no
+impetus to acquire or maintain competence in Georgian. At the end of the 20th century
+there were still a few elderly monolingual speakers of Tsez.
+
+Tsez is the main language of everyday communication for Tsez speakers in the
+Tsunta District, and children grow up speaking it as their first and, at least until
+recently, only language before entering school. But two recent factors have made
+Russian more salient in village life: accessibility to modern media, and the influx of
+members of the armed forces into what is now an international frontier area.
+
+1.4.
+State of research
+
+Although some basic material on Tsez is provided in Dirr (1909), the first
+reasonably detailed published sketch of the language is Bokarev (1959); a more up-to-
+date sketch is provided by Alekseev & Radžabov (1989). The fullest monograph
+grammar to date is Imnajšvili (1963), while a grammar meeting contemporary standards
+is under preparation by Polinsky & Comrie (in prep). The latter will also include a full
+bibliography of earlier work. Xalilov (1999) is a dictionary of about 7500 entries, the
+first and so far only substantial dictionary of the language.
+
+2.
+Phonology
+
+2.1.
+Vowels and consonants
+
+Tables 1–2 present the segmental phonemes of Tsez. In Table 1, the three series
+of plain stops are, in order: voiceless nonejective, voiceless ejective, voiced; the two
+
+3
+series of affricates are voiceless nonejective, voiceless ejective; the two series of
+fricatives are voiceless and voiced.
+
+Tsez has no phonemic glottal stop, although a nonphonemic glottal stop occurs
+before word-initial nonpharyngealized vowels, e.g. aw [ʔaw] ‘mouse’.
+
+The pharyngealized consonants shown in Table 1 can occur word-initially, -
+medially, and -finally, e.g. q’ˁim ‘head’, oʁˁ ‘leg’; they pharyngealize an immediately
+following vowel. Note that the expected /χˁ/ has shifted to /ħ/ and represents the only
+source of this phoneme in indigenous morphemes. In addition, Tsez has a phonetically
+identical pharyngealization that can occur only with word-initial (C)V sequences, as in
+ˁo ‘ax’, ɬˁono ‘six’; we represent this pharyngealization by means of a superscript
+symbol after the consonant (if any) and before the vowel. Words with initial ˁV, though
+phonetically [ʕVˁ], behave as vowel-initial for purposes of gender agreement, cf. b-
+ˁaƛ’u-χ ‘III-fall-PRS’. The precise phonological analysis of pharyngealization (or
+epiglottalization) in Tsez remains controversial: Starostin (1987: 465–466) and
+Nikolayev & Starostin (1994: 59, 115), like Bokarev (1959), treat it as a vocalic feature,
+while Kodzasov (1986) and Kibrik & Kodzasov 1990: 315, 318) argue that phonetically
+the locus of pharyngealization in Tsez is the consonant of a CV sequence. Our analysis
+here follows Maddieson et al. (1996). On this analysis, segmental /ʕ/ occurs only in
+loans.
+
+Labialized consonants occur only prevocalically, e.g. ʁˁʷaj ‘dog’, and are rare
+other than in loans from Avar and in certain morphological forms, often as the result of
+the morphophonemic loss of the vowel /u/ before another vowel, e.g. stem -esu- ‘find’,
+infinitive -esʷ-a. Most consonants are attested labialized, with the exception of labials,
+n, l, j, and ʕ (though rʷ does occur, as do q’ˁʷ, qˁʷ, and ʁˁʷ). It should be noted,
+however, that the Mokok dialect has lost all labialization.
+
+Table 1
+Tsez Consonants (Nonlabialized)
+
+Plain stop
+Affricate Fricative Nasal Liquid Semivowel
+Bilabial
+p
+p’
+b
+
+m
+
+w
+Apical
+t
+t’
+d
+c
+c’
+s
+z
+n
+r
+lateral
+
+ƛ
+ƛ’
+ɬ
+
+l
+Palatal
+
+č
+č’
+š
+ž
+
+j
+Velar
+k
+k’
+g
+Uvular
+
+q’
+
+q
+
+χ
+ʁ
+pharyngealized
+q’ˁ
+
+qˁ
+
+ʁˁ
+Pharyngeal
+
+ħ
+ʕ
+
+4
+Glottal
+
+h
+
+The long vowel a: occurs only in native morphemes and only under certain
+morphological conditions, for instance as the result of vowel lengthening in some verb
+forms, e.g. -iš- ‘eat’, future indefinite -a:š. In the Asakh dialect, all vowel qualities are
+neutralized under lengthening to a:. Other dialects (e.g. Mokok) also have a low front
+vowel, representable as ä: and reflecting the lengthening of the front vowels e and i, and
+some also have a long mid back rounded vowel o:, reflecting the lengthening of the
+rounded vowels o and u. Distinctive vowel length appears to be being lost in the Kidero
+dialect (Kibrik & Kodzasov 1990: 329).
+
+Table 2
+Tsez Vowels (Nonpharyngealized)
+
+Short
+
+Long
+
+Front Central Back
+Central
+High i
+
+u
+
+Mid
+e
+
+o
+
+Low
+a
+
+a:
+
+2.2.
+Script and transcription
+
+Tsez is officially an unwritten language, and in practice various adaptations of
+the Avar writing system have been used. The most consistent such system used in
+running text is to be found in Abdulaev & Abdullaev (2003), which uses the
+correspondences shown in Table 3.
+
+Table 3
+Tsez phoneme : grapheme correspondences
+
+a
+а
+d
+д
+š
+ш
+e
+э, е
+c
+ц
+ž
+ж
+i
+и
+c’
+цӀ
+j
+й
+o
+о
+s
+с
+k
+к
+u
+у
+z
+з
+k’
+кӀ
+
+n
+н
+q
+хъ
+p
+п
+r
+р
+q’
+къ
+p’
+пӀ
+ƛ
+лӀ
+g
+г
+b
+б
+ƛ’
+кь
+χ
+х
+
+5
+m
+м
+ɬ
+лъ
+ʁ
+гъ
+w
+в
+l
+л
+ħ
+хъ
+t
+т
+č
+ч
+ʕ
+гӀ
+t’
+тӀ
+č’
+чӀ
+h
+гь
+
+For /e/, <е> is used after consonants, <э> elsewhere. /ja/ and /ju/ are written <я>,
+<ю>. Long /a:/ and /ä:/ are written <а̄>, <аь>. Labialization is indicated by <в>
+after the consonant grapheme. /CˁV/ sequences are written <CVӀ>, while
+pharyngealization in the syllable coda is indicated by an apostrophe after the consonant
+grapheme.
+
+2.3.
+Phonotactics
+
+By far the most common syllable structure in native words is CV. Syllable-final
+consonants are also frequent morpheme-finally, whether or not word-finally, but are rare
+morpheme-medially. Syllable-initial vowels are found only word-initially (except in
+unassimilated loans), and phonetically take a prothetic [ʔ] (if nonpharyngealized) or [ʕ]
+(if pharyngealized). Examples: besuro ‘fish’, genitive 1 besuro-s, kid ‘girl’, asa
+‘mountain ash’, ˁomoj ‘donkey’, is ‘bull’, equative 1 is-ce, qondu ‘cave’, oc’c’ino ‘ten’
+(in other dialects oc’ino). Morpheme-medial clusters of two consonants are frequent in
+loans, e.g. ˁaq’lu ‘wisdom, intellect’ (from Arabic via Avar), wacʕal ‘cousin’ (from
+Avar). Most dialects allow syllable-final w/jC clusters, e.g. Mokok zow-s ‘be-PSTWIT’,
+but the Asakh dialect does not, e.g. Tsebari zow-si.
+
+2.4.
+Prosody
+
+Kibrik & Kodzasov (1990: 329) and Nikolayev & Starostin (1994: 115) note the
+existence of prosodic contrasts in Tsez words, but we have not investigated the area of
+prosody further. A targeted study is very much needed.
+
+2.5.
+Morphophonemics
+
+The major general phonological and morphophonemic processes are as follows:
+
+1) A vowel is dropped before another vowel, e.g. besuro ‘fish’, in.essive besur-a:, -ik’i-
+‘go’, infinitive -ik’-a, haqu ‘mouth’, in.essive haq-a:. However,
+
+1a) Final u of a verb stem is realized as labialization of the preceding consonant before
+a vowel, e.g. -esu- ‘find’, infinitive -esʷ-a.
+
+6
+2) Clusters of two consonants word-finally or of three consonants word-medially are
+broken up by inserting the vowel e, e.g. is ‘bull’, lative is-er, -iš- ‘eat’, causative -iš-er-
+(e.g. present -iš-er-χo, but infinitive -iš-r-a, where the environment for e-insertion is not
+met). However,
+
+2a) After j, i is inserted rather than e, e.g. zej ‘bear’, genitive 1 zej-is. This applies
+specifically to the Asakh dialect, since other dialects allow final jC clusters, e.g. Mokok
+zej-s.
+
+3) Verbs have a stem used in certain forms, for instance the future indefinite, which
+involves lengthening of the vowel before the last consonant of the stem, e.g. -iš- ‘eat’,
+future indefinite -a:š, -ik’i- ‘go’, future indefinite -a:k’i. The lengthened vowel, under
+appropriate circumstances, may be the inserted vowel, e.g. t’et’r- ‘read’, future
+indefinite t’et’a:r.
+
+4) Some inflectional suffixes have the shape -CV, but drop the final vowel word-finally
+after a vowel. Compare is ‘bull’, super.essive is-ƛ’o, super.lative is-ƛ’o-r with besuro
+‘fish’, super.essive besuro-ƛ’, super.lative besuro-ƛ’o-r. Such suffixes are represented as
+-ƛ’(o), etc.
+
+There are other, more sporadic morphophonemic alternations. For instance, the
+past participle of the verb t’et’r- ‘read’ is t’et’a:r-u (< t’et’r- + past participle suffix -
+ru with lengthening of the vowel before the last consonant of the stem, followed by
+simplification of rr to r). The fourth morphological group of verbs involves an
+alternation between stem-final d and j (section 3.6.1).
+
+3.
+Morphology: Word classes and inflection
+
+3.1.
+Overview
+
+Tsez morphology is largely suffixing, although there is also some stem-internal
+change, prefixing restricted to the gender prefixes, and occasional suppletion, e.g. in the
+second person singular pronoun. Reduplication is used to derive nouns, often with a
+change in the initial syllable of the second component, e.g. χisi-basi ‘changes’, biχ-miχ
+‘herbs’, and also for onomatopoeia (e.g. ħi-ħi ‘neigh’) and to intensify the meaning of
+adjectives and verbs (e.g. r-oč’i-r-oč’ij ‘very cold’, -ok’-ok’- ‘strike repeatedly’).
+
+The two most diametrically opposed word classes, nouns and verbs, are readily
+distinguished by their radically different morphologies. In particular, nouns obligatorily
+mark case, while verbs obligatorily mark tense-mood-aspect-evidentiality, except in
+
+7
+nonfinite forms, which have equally distinctive markers. Attributive and predicative
+adjectives do not inflect for case, though they do for number. Pronouns differ from
+nouns primarily in their more irregular morphology, while demonstrative pronouns used
+attributively have a simplified case opposition absolutive versus oblique. Numerals are
+identified primarily in semantic terms. Tsez has few basic adverbs, most being (either
+transparently or plausibly in diachronic terms) case forms of nouns or pronouns and
+converbs of verbs. There are also few basic postpositions, most also being usable as
+adverbs.
+
+3.2.
+Nouns
+
+3.2.1. Gender
+
+Tsez has four genders (traditionally called noun classes) in the singular; in the
+plural, and also in some singular pronouns, there is a two-way distinction between
+gender I and gender II-IV (non-I). Gender is shown only by (i) the gender agreement
+prefixes on most vowel-initial adjectives and verbs, some adverbs, some postpositions
+(section 0) and one particle; (ii) the forms of certain pronouns and numerals, which
+have the two-way opposition I versus II-IV (sections 0–0). The gender prefixes referred
+to in (i) are shown in Table 4.
+
+Table 4
+Tsez Gender Prefixes
+
+Singular Plural
+I
+Ø-
+b-
+II
+j-
+
+III b-
+r-
+IV r-
+
+Gender I consists of all and only nouns denoting male humans and male
+supernatural creatures. The core of gender II comprises nouns denoting female humans,
+although it also contains a number of inanimate nouns. The core of gender III comprises
+nouns referring to animals, though it also contains a number of inanimate nouns and the
+nouns ‘child’ and ‘devil’. Gender IV contains only inanimate nouns. Both formal and
+semantic principles are involved in the assignment of inanimate nouns to genders (see
+Plaster et al. 2013 for details and overview of the earlier literature, and Gagliardi &
+Lidz 2014 for the acquisition of genders in child language). One formal principle is that
+
+8
+derived inanimate nouns are usually assigned to gender IV, e.g. abstract nouns with the
+suffix -ɬi (see also section 0 for the gender of compound nouns). We know of one noun
+with singular and plural genders that do not match: χeχ-bi ‘child, children’ is gender III
+in the singular (though this assignment is being replaced by gender I in current usage),
+but gender I in the plural.
+
+3.2.2. Number and case
+
+Tsez nouns distinguish overtly the categories of number and case. The
+morphology of number and case is in general straightforward, despite the relative
+richness of the case system. The main complication in Tsez noun morphology is that a
+large number of nouns have a stem, used before inflectional suffixes, that is distinct
+from the absolutive singular, viz. the so-called oblique stem. Some nouns with such a
+distinct stem use it before local case suffixes and equative -ce, while other such nouns
+use their absolutive singular as stem here (except for the IN series, where the same stem
+as in nonlocal oblique cases is used). Some nouns use different stems (one of which
+may be the same as the absolutive singular) before some combination of oblique
+singular, absolutive plural, and oblique plural. In addition, many nouns allow variants.
+The most frequent difference between the absolutive singular and the stem used for
+other forms is the addition of a final segment or segment sequence in the latter, e.g. mec
+‘tongue’, in.essive mec-r-a:, lative mec-r-er, super.essive mec-r-eƛ’, plural absolutive
+mec-r-ebi, lative mec-r-eza-r. But ɬi ‘water’ adds -a:- in the singular oblique (e.g.
+genitive 1 ɬ-a:-s), but -da- in the plural absolutive (ɬi-da-bi), as well as having an
+idiosyncratic ergative singular ɬij-a:. Oblique singular stems ending in o usually shift
+this to a in the absolutive plural, e.g. giri ‘pole’, singular genitive 1 giri-mo-s, plural
+absolutive giri-ma-bi, genitive 1 giri-mo-za-s. The most frequent additions in the
+oblique stem are -mo, -m (these two largely in complementary distribution), -r, and -jo.
+Some nouns have more idiosyncratic relations between the absolutive singular and the
+stem used before case or number suffixes, such as loss of a final vowel (e.g. boc’i
+‘wolf’, genitive 1 boc’-es) or even a longer sequence (e.g. ozuri ‘eye’, genitive 1 oz-es),
+internal vowel change (e.g. buq ‘sun’, genitive 1 beq-es); these processes can even be
+combined (e.g. esij ‘brother’, plural absolutive es-na-bi, moči ‘place’, genitive 1 meč-o-
+s). There are, however, no instances of suppletion in noun morphology.
+
+Number is a binary distinction between singular and plural. For nearly all nouns,
+the singular is unmarked, the plural suffixed. The regular plural suffixes are absolutive -
+bi, oblique -za- (to which latter further case suffixes are added), e.g. besuro ‘fish’, plural
+absolutive besuro-bi, lative besuro-za-r. A small number of nouns take an alternative
+absolutive plural suffix -a, e.g. ʁˁul ‘stone’, plural absolutive ʁˁul-a, lative ʁˁul-a-r or,
+with etymologically double plural marking, ʁˁul-a-za-r. Two nouns use what is
+
+9
+etymologically a plural form as both singular and plural, namely ʁˁana-bi ‘woman,
+women’, χeχ-bi ‘child, children’; gender agreement, however, goes with the singular or
+plural sense.
+
+The nonlocal cases are: absolutive -Ø, ergative -a: (identical to in.essive) for
+most nouns, but -Ø for some nouns with an oblique stem ending in -o, genitive 1 -s
+(used as attribute to an absolutive head noun), genitive 2 -z (used as attribute to a non-
+absolutive head noun), lative -r (the same as the directional suffix discussed below),
+instrumental -d, and on the periphery of the system two equatives, in -ce and -q’a:j. The
+presence of two genitive forms reflects the limited case concord found in Tsez
+prenominal modifiers; these modifiers distinguish between the absolutive and all other
+cases of the head noun.
+The singular forms of besuro ‘fish’ and is ‘bull’ are shown in Table 5.
+
+Table 5
+Tsez Case Marking
+
+ABS
+besuro
+is
+ERG
+besur-a:
+is-a:
+GEN 1 besuro-s
+is-es
+GEN 2 besuro-z
+is-ez
+DAT
+besuro-r
+is-er
+INS
+besuro-d
+is-ed
+EQU 1 besuro-ce
+is-ce
+EQU 2 besuro-q’a:j is-q’a:j
+
+The equative 1 seems to be a case, on the basis of its attachment to oblique stems (see
+below), e.g. ca-dara-ce ‘like a star’ (ca, oblique stem ca-dara- ‘star’), but it can also
+attach to case-marked forms of nouns, e.g. besuro-s-ce ‘like a fish’s’.
+
+The same suffixes are used in the plural, e.g. besuro-bi, besuro-z-a:, besuro-za-s,
+etc.
+
+The spatial (local) cases form a rich array distinguishing seven locational series
+multiplied by four directional series multiplied by a non-distal versus distal (‘over
+there’) opposition, as in Tables 6–7. The suffixes shown with parenthetical o occur with
+this vowel except word-finally after a vowel, thus is ‘bull’, is-χo, is-χo-r, but besuro
+‘fish’, besuro-χ, besuro-χo-r (see also Comrie & Polinsky 1998).
+
+Table 6
+Tsez Local Cases (Non-Distal)
+
+10
+
+ESS
+LAT
+ABL
+VERS
+
+IN
+-a:
+-a:-r
+-a:j
+-a:ʁor
+‘in (a hollow obj)’
+CONT
+-ɬ
+-ɬ-er
+-ɬ-a:j
+-ɬ-χor
+‘in (a mass), among’
+SUPER
+-ƛ’(o) -ƛ’o-r -ƛ’-a:j -ƛ’-a:ʁor, -ƛ’-a:-r ‘on (horizontal)’
+SUB
+-ƛ
+-ƛ-er
+-ƛ-a:j
+-ƛ-χor
+‘under’
+AD
+-χ(o)
+-χo-r
+-χ-a:j
+-χ-a:ʁor, -χ-a:-r
+‘at’
+APUD
+-de
+-de-r
+-d-a:j
+-d-a:ʁor, -d-a:-r
+‘near’
+POSS
+-q(o)
+-qo-r
+-q-a:j
+-q-a:ʁor, -q-a:-r
+‘on (vertical)’
+
+‘at’
+‘to’
+‘from’ ‘towards’
+
+Table 7
+Tsez Local Cases (Distal)
+
+ESS
+LAT
+ABL
+‘behind’
+IN
+-a:z
+-a:z-a-r
+-a:z-aj
+-a:z-a
+CONT
+-ɬ-a:z
+-ɬ-a:z-a-r
+-ɬ-a:z-aj
+-ɬ-a:z-a
+SUPER
+-ƛ’-a:z -ƛ’-a:z-a-r -ƛ’-a:z-aj -ƛ’-a:z-a
+SUB
+-ƛ-a:z
+-ƛ-a:z-a-r
+-ƛ-a:z-aj
+-ƛ-a:z-a
+AD
+-χ-a:z
+-χ-a:z-a-r
+-χ-a:z-aj
+-χ-a:z-a
+APUD
+-d-a:z
+-d-a:z-a-r
+-d-a:z-aj
+-d-a:z-a
+POSS
+-q-a:z
+-q-a:z-a-r
+-q-a:z-aj
+-q-a:z-a
+
+Some Tsez nouns, which might be referred to as “spatial nouns”, have intrinsic
+localization without an overt suffix, e.g. elo ‘there’, idu ‘home; at home’, neširu
+‘evening; in the evening’. Directional suffixes are attached directly to such nouns, e.g.
+el-a:j ‘from there’, idu-r ‘(to) home’, neširu-r ‘until evening’. Some local toponyms are
+spatial nouns, e.g. newo ‘Mokok; in Mokok’, while others have an inbuilt localization
+suffix, e.g. asa-q ‘Asakh, in Asakh’, with the possessive suffix -q.
+
+3.2.3. Derivation of nouns
+
+Tsez has a number of suffixes that derive nouns from other word classes:
+
+-qu added to oblique stems forms agent nouns and names designating containers:
+magala-qu ‘baker’; boc’-a-qu ‘wolf-trap’ (where -a is the plural suffix). For agent
+nouns, this suffix alternates with the less productive suffix -qan borrowed from Avar:
+qido-qu/qido-qan ‘mason’.
+
+11
+
+-k’u forms names of instruments or evaluative names of persons, usually from
+the durative verb stem (see 3.6.6): ˁuƛ’no-k’u ‘coward’ (-ˁuƛ’- ‘be afraid’), ˁija-k’u
+‘cryer’ (ˁijad- ‘cry, weep’).
+
+The suffix -ɬi forms abstract nouns from the singular absolutive of nouns
+denoting people, e.g. laʁ-ɬi ‘slavery’ (laʁ ‘slave’), učitel-ɬi ‘teaching’ (as occupation;
+učitel ‘teacher’, from Russian). More typically, -ɬi is added to adjectives: bercin-ɬi
+‘beauty’ (bercinaw ‘beautiful’; note the truncation). If the adjective changes for gender,
+the gender IV form is used: r-ig(u)-ɬi ‘grace, kindness’ (-igu ‘good’; truncation of the
+stem-final vowel is preferred in the Asakh dialect). For -ɬi nominalizing clauses, see
+section 0.
+
+The non-productive derivational suffix -ni forms abstract nouns from verb stems
+as well as onomatopoetic nouns: reč’-ni ‘sharpness’ (-eč’- ‘cut’). (See section 3.6.4 for
+the role of -ni in forming the masdar.)
+
+-q’oj/-qoj/-ħoj (dialectal variants -q’ow, -q’u) derives the word for an enveloping
+object from a singular oblique noun stem: reƛ’i-qoj ‘glove’ (reƛ’a ‘hand’).
+
+-bi/-zi attaches to place names, deriving names of residents: newo-bi/newo-zi
+‘residents of Mokok’.
+
+-jo added to the lative singular derives nouns with the general meaning
+‘possessing X’: kot’u-r-jo ‘bearded man’ (kot’u ‘beard’).
+
+Examples of compound nouns include: eni-obij (variant eni-obu) ‘parents
+(mother-father)’, ħot’o-č’el ‘stirrup (foot-place)’, rigu-žuka ‘anything (good-bad)’. Only
+the last member of the compound noun inflects. If one of the compound elements
+belongs to gender I singular, the compound is assigned to gender I plural (e. g. eni-obij),
+otherwise to gender non-I plural.
+
+Compounding sometimes involves truncation of the final segment: ƛ’iri-ku
+‘shawl’ (ƛ’iri ‘above’, kur- ‘throw’), and can co-occur with suffixation: debi-dej-ɬi
+‘quarrel, dividing up (your-my-NMLZ)’.
+
+3.3.
+Adjectives
+
+3.3.1. Adjective inflection
+
+True adjectives in Tsez show no case morphology when used attributively or
+predicatively, but do have a plural suffix -t’a, in addition to which some adjectives
+beginning with a vowel take gender prefixes, e.g. -eχora ‘long’. Adjectives used
+independently (i.e. without a head) decline as nouns, with slight differences in stem
+formation.
+
+In addition, Tsez forms translation equivalents of adjectives by means of the
+genitive suffix -s, oblique -z, and the linker -si, oblique -zo (see section 0 on case
+
+12
+concord). The genitive suffix is attached to noun stems, e.g. ger-es beɬaj (iron-GEN1
+dagger) ‘iron dagger’; the attributive suffix is attached to other items, such as oblique
+case forms of nouns, as in ˁaƛ-a:-si χalq’i (village-IN.ESS-LNK1 people) ‘people [living]
+in the village’ (see also 4.1), and certain verbal forms, e.g. eχʷ-a:-si uži ‘dead boy’,
+where eχʷ-a:-si is the resultative participle of -eχu- ‘die’ (section 3.6.4).
+
+3.3.2. Derivation of adjectives
+
+Two suffixes, -šaj and -χu, form adjectives with the meaning
+‘containing/possessing X’ from an oblique nominal stem. -šaj implies that the contained
+object is inseparable or inalienable: čakarjo-šaj čaj ‘sweet (lit. sugar-containing) tea’; -
+χu implies that the contained object is separable, e.g. cijo-χu raƛ’ ‘soil with crystals of
+salt’; but in modern Tsez this semantic difference is becoming obscured, e.g. q’ot’ur-za-
+χu ged and q’ot’ur-za-šaj ged ‘shirt with buttons’.
+
+-taj is the caritive suffix (‘lacking X’), deriving adjectives from an oblique
+nominal stem: cijo-taj ‘unsalted’.
+
+-mu derives adjectives from a singular absolutive noun: borjo-mu ‘sickly’ (borjo
+‘sore, wound’), from other adjectives: at’i-mu ‘unripe’ (at’ij ‘wet’), and from verbs:
+šakarja-mu ‘jealous’ (šakarjad- ‘be jealous’).
+
+An example of a compound adjective is niga-c’uda ‘bruised (green-red)’.
+
+3.4.
+Pronouns
+
+Morphologically, Tsez has distinct classes of personal pronouns (first and second
+person only — third person pronouns are expressed as demonstratives, že ‘he, she, it’,
+žedi ‘they’), demonstrative pronouns, and interrogative pronouns.
+
+The first and second person singular pronouns are unusual in having a single
+form for both absolutive and ergative: di ‘I’, mi ‘you’. The oblique stem of ‘I’ is da:-,
+and that of ‘you’ is debe- before a syllable-final consonant (e.g. lative debe-r), dow-
+before a syllable-initial consonant (e.g. apud.essive dow-de). Both pronouns have
+irregular genitive 1: dej ‘my’, debi ‘your’ (the genitive 2 is regular: da:-z, debe-z).
+
+The first and second person plural pronouns eli ‘we’, meži ‘you-all’ have the
+regular absolutive versus ergative distinction; they also make a gender distinction in
+oblique cases, with stems I elu-, mežu-, II-IV ela-, meža-. In addition to the regular
+genitives elu-s, ela-s, elu-z, ela-z, mežu-s, mežu-z, meža-s, meža-z, they also have
+special forms genitive 1 eli, meži, genitive 2 eli-z, meži-z, used where the possessor is a
+close group, typically a family; compare eli enij ‘our mother’ with elu-s ˁaƛ ‘our
+village’. These same special genitive forms are also found with the demonstrative žedi
+in the meaning ‘they’: genitive 1 žedi, genitive 2 žedi-z for a close group possessor,
+genitive 1 žedu-s, žeda-s, genitive 2 žedu-z, žeda-z for all other possessors.
+
+13
+
+The demonstrative pronouns make a gender distinction I versus II-IV in the
+oblique forms, the proximal demonstratives also in the absolutive singular. The gender
+distinction is obligatory in the oblique singular, but generalization of the gender I form,
+to varying degrees, is found in the absolutive singular of the proximal demonstrative
+and in the oblique plural. The oblique forms given below are used attributively, and also
+serve as a base to which other case suffixes can be attached in independent use. The
+base forms of the proximal demonstrative, which occurs only prefixed, are singular
+absolutive I -da, II-IV -du, oblique I -si, II-IV -ɬa (which may optionally be reduced to -
+ɬ word-finally after a vowel), plural absolutive -ziri, oblique I -zi, II-IV -za. The
+prefixed forms are je-da (with ji- rather than je- except in the singular absolutive), ej-da,
+and how-da. The base forms of the distal demonstrative, which can occur in isolation,
+are singular absolutive že, oblique I nesi, II-IV neɬo, neɬ, plural absolutive žedi, oblique
+I žedu, II-IV žeda. The prefixed forms are el-že (with irregular singular oblique forms I
+enesi, II-IV eneɬ(o)) and how-že (with irregular singular oblique forms I hemesi, II-IV
+hemeɬ(o)).
+
+The interrogative pronouns make no distinction of humanness in the absolutive
+(šebi ‘who, what’), but have distinct oblique stems ɬa:- ‘who’, ɬina- ‘what’. The human
+interrogative pronoun has an irregular ergative ɬu, while the nonhuman one has
+regularly ɬin-a:.
+
+3.5.
+Numerals
+
+Used attributively, numerals distinguish a nominative and an oblique form.
+When used nonattributively, the oblique form serves as a stem to which case suffixes
+are attached. (In addition, there are specifically gender I oblique forms with final -e
+rather than -a, but the forms in -a can also be used with gender I nouns.) The simple
+numerals are given in Table 8. ‘100’ has an alternative form bišom, which is preferred
+before -no in compound numerals.
+
+Table 8
+Tsez Simple Numerals
+
+Absolutive
+Oblique
+1
+sis
+sida
+2
+q’ˁano
+q’ˁuna
+3
+ɬˁono
+ɬˁora
+4
+ujno
+ujra
+5
+ɬeno
+ɬera
+6
+iɬno
+iɬɬira
+
+14
+7
+ˁoƛno
+ˁoƛƛora
+8
+biƛno
+biƛƛira
+9
+oč’č’ino
+oč’č’ira
+10
+oc’c’ino
+oc’c’ira
+20
+qu
+qura
+100
+bišon
+bišonra
+1000 ˁazar
+ˁazarra
+
+There are two ways of forming the teens. The first has the structure oc’c’ino
+followed by the unit, e.g. oc’c’ino sis ‘11’; its oblique form is oc’c’ira sida, while in
+nonattributive use only the last component is further declined, e.g. lative oc’c’ira sida-r.
+The second method uses the unit in modified form with the suffix -oc’i; oblique -oc’ira;
+the forms are set out in Table 9. The second method is not found in all dialects, but is
+the preferred variant in the Asakh dialect.
+
+Table 9
+Tsez Teens (Second Formation)
+
+11
+sij-oc’i
+12
+q’ˁaj-oc’i
+13
+ɬˁoj-oc’i
+14
+uw-oc’i
+15
+ɬew-oc’i
+16
+iɬ-oc’i
+17
+ˁoƛ-oc’i
+18
+biƛ-oc’i
+19
+eč’-oc’i
+
+The Tsez numeral system from 20 to 99 is vigesimal, the relevant products of 20
+being: q’ˁano-qu ‘40’, ɬˁono-qu ‘60’, ujno-qu ‘80’; the oblique forms simply add -ra.
+The higher hundreds and thousands are expressed as ‘two hundred’, etc. The thousands,
+hundreds, twenties, and numerals below 20 are combined, from higher to lower, each
+element linked to the following by -no, e.g. q’ˁano bišom-no ɬˁono-qu-no oc’c’ino iɬno
+‘276’.
+
+3.6.
+Verbs
+
+3.6.1. Overview
+
+15
+
+Tsez verbs fall into four morphological groups according to the final segment of
+the stem. The first group consists of all verbs with stems ending in a consonant (other
+than those in the fourth group); such stems are invariable. The second group consists of
+all verbs with stems ending in -i; the final vowel drops before another vowel. The third
+group consists of all verbs with stems ending in -u; here the final vowel drops before
+another vowel but labializes the preceding consonant (except in the Mokok dialect,
+which lacks labialization). The fourth group consists of all verbs with variant stems
+ending in -d/-j; in general, the variant in -d occurs before a vowel (e.g. infinitive -
+eχʷad-a ‘slaughter’), the variant in -j elsewhere (e.g. present -eχʷaj-χo, future indefinite
+-eχʷa:j, causative -eχʷaj-r-, with the j remaining before an inserted vowel, e.g. causative
+present -eχʷaj-ir-χo). (In other dialects, short verbs in -d/-j have a stem in -di as an
+alterative to -j.) The only truly irregular verb is ‘to be’, which has suppletive stems joɬ
+(present), a:nu (present negative), zow- (past, e.g. past unwitnessed zow-no, past
+witnessed zow-si); several forms of the paradigm are missing, and are replaced by
+forms of -iči- ‘be located’ or -oq- ‘stay; become’.
+
+3.6.2. Tense-Mood-Aspect-Evidentiality
+
+Tsez has five simple indicative tense-aspect forms: past unwitnessed -n(o), past
+witnessed -s(i), present -χ(o), future definite -an, future indefinite -Ø but with vowel
+lengthening, e.g. -iš- ‘eat’, -iš-no, -iš-si, -iš-χo, -iš-an, -a:š; -esu- ‘find’, -esu-n, -esu-s, -
+esu-χ, -esʷ-an, -a:su. The past witnessed has a special form used in content questions,
+with the suffix -a:, e.g. -iš-a:, -esʷ-a:; other tense-aspects use their ordinary forms in
+content questions. In polarity questions, -a: is added to the finite verb form (e.g. present
+-ik’i-χ-a:), but again the past witnessed is exceptional, taking a special suffix -ija: (after
+consonants), -ja: (after vowels), e.g. -iš-ija:, -esu-ja:. The future forms have an almost
+complementary distribution across persons: the definite is used with first person, the
+indefinite is used with second and third.
+
+In addition, there are periphrastic forms, a selection of which are presented here.
+The combination of the infinitive with the present tense of ‘be’ gives emphatic future,
+e.g. -ik’-a joɬ ‘shall go’. The progressive uses the imperfective converb and the
+appropriate tense-aspect of the auxiliary ‘be’, e.g. -ik’i-χ zow-si ‘was going’. The
+completive uses the perfective gerund and the auxiliary ‘be’, e.g. -ik’i-n zow-si ‘had
+gone’. The perfect uses the resultative participle and the auxiliary ‘be’, e.g. -ik’-a:si
+zow-si ‘had gone’. The present participle with the auxiliary ‘be’ gives an intentive, e.g.
+-ik’i-χo-si zow-si ‘intended to go’. Resultatives use the imperfective or perfective
+gerund plus the resultative participle of -iči- ‘be located’ and the auxiliary ‘be’, e.g. -
+ik’i-n -ič-a:-si zow-si ‘was gone’; -ik’i-χ -ič-a:-si zow-si ‘was in the state of being on
+his way hence’.
+
+16
+
+The second-person imperative has a zero suffix for intransitive verbs and for
+derived transitive verbs, e.g. -ik’i ‘go!’, aj-ir ‘bring!’ (causative of aj- ‘come’), the
+suffix -o for simple transitive verbs, e.g. kur-o ‘throw!’, though there are a few
+anomalous formations. The optative is formed from the imperative with a final -ƛ, e.g.
+kur-o-ƛ ‘let him throw’ (see also 4.3.3).
+
+3.6.3 Negation
+
+Negation is expressed basically by a suffix -č’V, though with several
+idiosyncrasies, different in different dialects. Using the stem -ik’i- ‘go’, the forms are
+past unwitnessed -ik’i-č’ej, past witnessed -ik’i-č’u-s (also: -ik’i-č’u, with no tense
+suffix), present -ik’i-χ-a:nu (cf. a:nu, the suppletive negative of present joɬ ‘be’), future
+definite -ik’-a:-č’i-n, future indefinite -a:k’i-č’i. The negative finite past unwitnessed
+form -ik’i-č’ej, identical to the negative perfective converb, is, incidentally,
+characteristic of the Asakh dialect; most other dialects have a form like Mokok -ik’i-n-
+a:nu, paralleling the negative present.
+
+Prohibition is expressed by the portmanteau suffix -no with vowel lengthening,
+e.g. -a:š-no ‘don't eat!’, with addition of -ƛ for the negative optative: -a:š-no-ƛ ‘let him
+not eat!’
+
+3.6.4. Nonfinite Forms
+
+Participles form a unified class in terms of their external syntax, but not in terms
+of their internal structure. The past participle in -ru (with vowel lengthening) behaves
+like an adjective, and is thus invariable except for gender agreement, e.g. -a:š-ru ‘having
+eaten’; its negative has the suffix -č’i before the past participle suffix, e.g. -a:š-č’i-ru
+‘not having eaten’. The resultative participle in -a:-si (e.g. -esʷ-a:-si ‘in the state of
+having found’) and the present participle in -χo-si (e.g. -esu-χo-si ‘finding’) contain the
+attributive suffix -si, and thus have oblique forms in -a:-zo, -χo-zo. The present
+participle negates as expected, with addition of -si to the negative present (e.g. -ik’i-χ-
+a:nu-si ‘not going’), but the negative resultative participle is a portmanteau adjective
+form in -ani (e.g. -ik’-ani ‘in the state of not having gone’).
+
+Tsez has a rich set of converbs (gerunds, verbal adverbs), and the following list,
+illustrated by -ik’i- ‘go’, is not exhaustive. Converbs derive from the verb stem,
+sometimes with vowel lengthening, sometimes with the help of a locational series
+marker, which is sometimes preceded by the suffix -za-, sometimes with the help of
+some other suffix not found elsewhere in Tsez morphology. Converbs used for
+expressing temporal relations are set out in Table 10.
+
+Table 10
+
+17
+Temporal converbs
+
+Relationship between the
+Form
+Additional
+action expressed by the main
+
+characteristics
+verb (M) and by the converb (C)
+
+C and M are simultaneous
+ik’i-χ
+manner of action
+
+ik’i-ƛ’
+punctual
+
+ik’i-ƛ’orej
+simple simultaneous
+
+ik’i-zej
+simple simultaneous
+
+C precedes M
+ik’i-n
+manner of action
+
+ik’i-nosi
+simple anterior
+
+a:k’i-run
+immediate anterior
+
+C follows M
+ik’i-zaƛ’or
+simple posterior
+
+ik’-a-ce
+terminative
+
+The perfective (completive) and imperfective (durative) converbs are identical in form
+to the past unwitnessed and present respectively. Other converbs are locative (-a:k’i-z-
+a:), causal (e.g. -ik’i-χoj, -ik’i-za-ƛ’, -ik’i-za-q), conditional (-ik’i-na:j, -ik’i-ɬi),
+concessive (-ik’i-ɬin). See also 4.4.3.
+
+The infinitive takes the suffix -a, e.g. -iš-a ‘to eat’, -ik’-a ‘to go’. A verbal noun
+(masdar) has the suffix -(a)ni, e.g. -iš-ani ‘eating’, reč’-ni ‘cutting’ and is always of
+gender IV.
+
+3.6.5. Potential and Causative Forms
+
+Two derived forms are sufficiently productive to be considered part of the
+paradigm, the potential in -ɬ and the causative in -r, e.g. from -iš- ‘eat’ potential -iš-eɬ-
+(before a vowel, -iš-ɬ-), causative -iš-er- (before a vowel, -iš-r-).
+
+3.6.6. Derivation of verbs
+
+-k’- derives transitive verbs from qualitative adjectives (at’i-k’- ‘dampen, soak’,
+cf. atij ‘wet’) and adverbs (bito-k’- ‘move’, cf. bittaj ‘over there’).
+
+-ɬ- and -χ- derive intransitive verbs from a similar group of qualitative adjectives
+and adverbs: at’i-ɬ- ‘become wet’, ade-χ- ‘move forward’ (cf. ada:j ‘in front’).
+
+For causative and potential derivatives, see section 3.6.5. Some morphological
+causatives are lexicalized, e.g. -egi-r- ‘send’, cf. -egi- ‘fade; tear oneself away’).
+
+18
+
+Tsez forms durative (habitual-iterative) verbs with the suffixes -nod, -nad, -anad;
+the choice of suffix is lexicalized, and may vary dialectally. Examples are -ˁuƛ’- ‘fear’,
+-ˁuƛ’-nod- ‘fear habitually’, kur- ‘throw’, kur-nod- ‘be engaged in throwing’. Such
+derivatives of transitive verbs may either remain transitive, or become intransitive
+taking the erstwhile agent as sole core argument — this is the only known instance of
+verb lability in Tsez.
+
+Examples of compound verbs include: -ik’i-neχ- ‘go back and forth (go-come)’,
+t’it’i-eč’- ‘hash (tear-cut)’. If a verb inflects for gender in isolation, it does so too as a
+component of a compound verb.
+
+A highly productive way of forming new verbs is by combining a lexical item
+with a light verb, typically -oq- ‘stay, become’ for intransitive verbs and -od- ‘do’ for
+transitive verbs. The notional component is often borrowed from or via Avar
+(infinitives, masdars, adjectives and nouns) or Russian (infinitives and nouns). For
+example: t’amizi -od- ‘cause’ (Avar t’amize ‘to force’), woržizi -oq- ‘fly’ (Avar -oržize
+‘to fly’; the Avar gender prefix has been fossilized in Tsez), χabar b-od- ‘talk’ (Arabic
+via Avar χabar ‘story’), bercin -oq- ‘be decorated’ (Avar bercinaw ‘beautiful’), razwod
+b-od- ‘divorce’ (Russian razvod ‘divorce’), paradat -od- ‘sell’ (Russian prodat´ ‘to
+sell’). Some compounds containing a nominal component have a fixed gender prefix,
+usually gender III (but note sapu j-od- ‘destroy’, gender II).
+
+Besides regular combinations, whose semantics is quite transparent, Tsez has a
+few lexicalized idioms with other verbs, e.g. rok’-ƛ’o-r -aj- ‘remember (heart-SUPER-
+LAT arrive)’, rok’u r-eχu- ‘feel pity (heart die)’. The verb riƛu r-iƛ- ‘plough
+(ploughing_field plough)’ includes a cognate object.
+
+3.7.
+Adverbs
+
+Tsez has few simple adverbs, i.e. that are neither synchronically nor plausibly
+diachronically derived, e.g. ƛ’iri ‘above’, ži ‘now’, dahaw ‘a little’ (a loan from Avar).
+At most a couple of simple vowel-initial adverbs take agreement prefixes, e.g. -ˁaƛo
+‘quickly’. Many adverbs are spatial case forms of nouns or of stems not occurring in
+isolation, e.g. χeχɬi-ƛ’ ‘quickly’, the super.essive of χeχɬi ‘speed’; žaqˁuɬ ‘today’, i.e.
+ža-qˁu-ɬ ‘that-day-CONT’; ade-r ‘forwards’, with the lative suffix attached to a stem also
+found in the verb ade-χ- ‘advance’. Spatial nouns (3.2.2) stand at the border-line
+between nouns and adverbs. Adverbs of manner are often converbs, e.g. qˁaƛin ‘aloud’,
+i.e. qˁaƛi-n shout-IPFVCVB, or truncated forms of adjectives with an invariable gender
+prefix, e.g. rig ‘well’, cf. -igu ‘good’.
+
+An example of a compound adverb is taqqo-naqqo ‘back and forth (on that side-
+on this side)’.
+
+19
+3.8.
+Postpositions
+
+Many Tsez postpositions also function as adverbs, e.g. igo ‘near’, and it is
+questionable whether the adverb/postposition distinction is justified here. However,
+there are some clear instances of postpositions, e.g. ˁolo ‘because of’, -iɬe ‘as, like’, the
+latter requiring a gender prefix.
+
+3.9.
+Minor classes
+
+Tsez has a rich set of particles, most of them occurring as clitics and expressing
+various communicative functions. For example, the particle -tow is used for general
+emphasis and -kin is used for focusing; the particle -gon marks a contrastively
+topicalized constituent. Two clitics, -ƛin and -ƛaχ, are used to mark finite complements,
+mainly representing reported speech (see section 0). Free particles include hudu ‘yes’,
+a:j ‘no’, and -uj ‘well (then)’, the only vowel-initial particle to take a gender prefix.
+
+Tsez has few conjunctions appearing as separate words, although there are
+coordinating conjunctions ja ‘or’ and amma ‘but’ (section 4.7).
+
+4.
+Syntax
+
+4.1.
+Noun phrase and postpositional phrase
+
+A noun phrase can be represented by a noun with modifiers, or a pronoun, or a
+substantivized expression. Substantivized expressions include participles with the
+nominalizing suffix -ɬi, masdars, and substantivized restrictive adjectives, which all
+inflect for case:
+
+(1) ič’č’a j-eže-ni-r
+ˁomoj
+teƛ-no.
+
+INTNS II-older-RESTR-LAT donkey.ABS give-PSTUNW
+
+‘(They) gave the donkey to the oldest one [of the girls].’
+
+Dependent elements precede the head noun. The neutral order of preposed
+modifiers is as follows: (i) relative clause, (ii) unemphatic possessive pronoun, (iii)
+emphatic possessive pronoun, (iv) restrictive adjective, (v) demonstrative, (vi)
+numeral/quantifier, (vii) non-restrictive adjective, though the order of (iv), (v), and (vi)
+can vary:
+
+(2) [sideni
+ˁaƛ-a:
+b-iči-χosi]
+
+another village-IN.ESS IPL-be-PRSPTCP
+
+20
+nesi-s
+b-aq’ˁu
+žuka-t’a-ni
+ˁagarɬi
+he-GEN1 1PL-many bad-DISTR-RESTR relative
+‘his many unpleasant relatives who live in the next village’
+
+In addition, oblique noun phrases can appear as modifiers if they take the linker
+-si (-zo if the head noun is in an oblique case):
+
+(3) a. ħon-ƛ’o-si
+ˁadala
+
+hill-SUPER.ESS-LNK1 fool.ABS
+
+‘the fool on the hill’
+b. ħon-ƛ’o-zo
+ˁadala-r
+
+hill-SUPER.ESS-LNK2 fool-LAT
+
+‘to the fool on the hill’
+
+Modifying nominals typically precede other adjectives.
+
+Adpositional phrases are always head-final. Tsez has a number of postpositions,
+for example, ada:z/ada:j ‘in front, ahead, before (location in space or time)’, ˤolo
+‘because of’, soder ‘after, following’, χiza:z/χiza:j ‘after, behind (location in space or
+time)’, etc. (see also 0). The boundary between postpositions and adverbs is not always
+clear. Additionally, the spatial suffixes on nouns (see section 0) may be analyzed as
+postpositions rather than case affixes.
+
+4.2.
+Clause structure
+
+4.2.1. Word order
+
+Tsez is consistently head-final: it uses postpositions, prenominal relative clauses,
+adjectives, genitives, and numerals, and places dependent clauses before main clauses.
+In clauses with several nominals, the neutral order is (i) Agent (Experiencer), (ii)
+Recipient (Addressee, Goal, Beneficiary), (iii) Patient, (iv) Locative, (v) Instrument; the
+order of locative and instrumental can vary. Despite the strong head-final features, the
+position of the predicate is often clause-medial. Such word order is common in
+everyday speech and seems to be increasing, possibly under the influence of Russian.
+
+4.2.2. Case alignment and valency changes
+
+Tsez is morphologically ergative. All intransitive verbs take an absolutive
+subject, although this fact may be obscured by argument drop and by the low type
+frequency of absolutive agreement, which is only visible on a subset of verbs and
+predicative complements. Transitive (including ditransitive) verbs take an ergative and
+
+21
+absolutive argument. A subset of two-place verbs, mostly verbs of cognition and
+perception, take a lative experiencer and absolutive stimulus.
+
+4.2.3. Gender agreement and cross-reference
+
+Within noun phrases, certain modifiers agree with the head noun in gender and
+number. Within clausal syntax, the predicate and some adverbs agree with the
+absolutive noun phrase in gender and number, regardless of the transitivity of a clause.
+Agreement is marked by gender prefixes (see 0) which combine only with a subset of
+vowel-initial adjectives, adverbs, and verbs. Agreeing adjectives, adverbs, and verbs
+make up only a small proportion of total adjectives, adverbs and verbs in Xalilov
+(1999), but they are highly frequent (Gagliardi & Lidz 2014: 68). As a result, agreement
+is very frequent in the language system and is highly visible to a child language learner.
+
+If several absolutives are linked by -n(o) ‘and’, then if at least one of the
+nominals belongs to gender I singular, the agreement is gender I plural, otherwise, it is
+gender non-I plural (the same agreement principle is observed with compound nouns):
+
+(4) a. kid-no
+uži-n
+b-aj-si.
+
+girl.ABS-and boy.ABS-and IPL-come-PSTWIT
+
+‘A boy and a girl arrived.’
+b. kid-no
+meši-n
+r-aj-si.
+
+girl.ABS-and calf.ABS-and nIPL-come-PSTWIT
+
+‘A girl and a calf arrived.’
+
+Tsez also has long-distance agreement, whereby the absolutive argument in an
+embedded clause which is itself in the absolutive argument position determines
+agreement on the predicate of the clause immediately above it. For example, in 0 the
+matrix verb -ikʷad- ‘see’ agrees with the absolutive noun phrase elus ʁwˤay ‘your dog’
+contained in the embedded nominalized clause (that clause is shown in brackets):
+
+(5) da:r
+[elu-s
+ʁwˤaj
+k’et’u-za-ɬ
+χiza:j
+
+me-LAT we-GEN1 dog(III) cat-PL.OBL-CONT.ESS
+behind
+
+k’āɬi-ru-łi]
+b-ikʷaj-si.
+run-PSTPTCP-NMLZ III-see-PSTWIT
+
+‘I saw how our dog was chasing cats (lit. ran behind cats).’
+
+Long-distance agreement can alternate with local agreement; the choice between long-
+distance agreement and local agreement is determined by the information-structural
+
+22
+status of the absolutive noun phrase that triggers agreement. In Tsez, long-distance
+agreement occurs when the absolutive noun phrase is interpreted as topic, thus encoding
+this topicality (Polinsky & Potsdam 2001).
+
+4.3.
+Major Sentence Types
+
+4.3.1. Declarative clauses
+It is common to find impersonal constructions with meteorological verbs, which
+are often taken cross-linguistically to be avalent. However, meteorological descriptions
+in Tsez allow for the introduction of the absolutive argument ʁudi ‘day’ (gender IV) or
+hawa-baq’ ‘weather (lit. air-sun)’ (gender IV), and if a meteorological predicate can
+manifest agreement, it registers agreement in gender IV regardless of the presence of an
+overt absolutive argument. Consider the following examples, where 0 shows overt
+agreement and 0 does not:
+
+(6) a. ʁudi
+r-oč’ow joł.
+
+day(IV).ABS IV-cold be.PRS
+
+‘It is cold.’
+b. ʁudi
+tatanu joł.
+
+day.ABS.IV warm be.PRS
+
+‘It is warm.’
+
+One-place verbs form intransitive clauses, with the argument in the absolutive case,
+irrespective of volitionality:
+
+(7) is
+b-eχu-s.
+
+bull.ABS III-die-PSTWIT
+
+‘The bull died.’
+
+(8) ečru žek’u
+qoqoƛi-s.
+
+old
+man.ABS laugh-PSTWIT
+
+‘The old man laughed.’
+
+In the ergative clause, the agent is in the ergative case, and the patient is in the
+absolutive:
+
+(9) žek’-a:
+gulu
+žek’-si.
+
+man-ERG horse.ABS hit-PSTWIT
+
+23
+
+‘The man hit the horse.’
+
+Both the ergative and the absolutive noun phrases can be omitted if they are recoverable
+from the context; in other words, Tsez is a pro-drop language, with pro-drop affecting
+both subjects and objects.
+
+A number of verbs describing physical contact take the instrument in the
+absolutive and the patient in an oblique case. If the patient is animate, it appears in the
+genitive 2, being linked to the recoverable body-part nominal in a spatial case:
+
+(10) žek’-a:
+gulu-z
+(gugjo-ƛ’)
+čuret’
+b-ok’-si.
+
+man-ERG horse-GEN2 back-SUPER.ESS whip.ABS III-hit-PSTWIT
+
+‘The man whipped the horse (lit.: hit the whip (on) the horse’s (back)).’
+
+Ditransitive verbs take the agent in the ergative, the patient in the absolutive, and
+the recipient in the lative if the transfer of possession/information is permanent, but in a
+locative case if the transfer is temporary or incomplete:
+
+(11) a. ˁal-a:
+kid-b-er
+surat
+teƛ-si.
+
+Ali-ERG girl-OS-LAT picture.ABS give-PSTWIT
+
+‘Ali gave the girl a picture (for good, e.g. as a gift).’
+b. ˁal-a:
+kid-be-q-or
+surat
+teƛ-si.
+
+Ali-ERG girl-OS-POSS-LAT picture.ABS give-PSTWIT
+
+‘Ali lent the girl a picture.’
+
+The causative suffix -r- derives transitive verbs from intransitive or affective
+verbs, and ditransitive verbs from transitive verbs; in the latter, the causee appears in
+the poss.essive case.
+
+(12) obij-a:
+kid
+j-oχi-r-si.
+
+father-ERG girl.ABS II-run-CAUS-PSTWIT
+
+‘The father made the girl run.’
+
+(13) aħ-a:
+meši
+b-esu-r-si.
+
+shepherd-ERG calf.ABS III-find-CAUS-PSTWIT
+
+‘The shepherd found the calf.’
+
+(14) aħ-a:
+čanaq’an-qo
+zej
+žek’-er-si.
+
+shepherd-ERG hunter-POSS.ESS bear.ABS hit-CAUS-PSTWIT
+
+24
+
+‘The shepherd made the hunter hit the bear.’
+
+The affective clause has a perception verb or a psychological verb as predicate;
+the experiencer is in the lative case and the stimulus in the absolutive:
+
+(15) aħo-r
+meši
+b-esu-s.
+
+shepherd-LAT calf.ABS III-find-PSTWIT
+
+‘The shepherd found the calf.’
+
+The potential clause is used with the potential form of a transitive verb (potential
+forms of intransitive verbs retain a single argument in the absolutive):
+
+(16) k’et’u-q
+ʁˁaj
+ħaƛu-ɬ-χo.
+
+cat-POSS.ESS milk.ABS drink-POT-PRS
+
+‘The cat can drink (the) milk.’
+
+Lexically intransitive verbs can occur in a similar construction, with the patient
+in the absolutive and the agent in the poss.essive, with the meaning of an involuntary
+action:
+
+(17) uži-q
+č’ikaj
+j-eχu-s.
+
+boy-POSS.ESS glass(II).ABS II-break(intr)-PSTWIT
+
+‘The boy accidentally broke the glass.’
+
+The biabsolutive construction occurs with two types of analytical verbal
+predicates: the participial predicate expressing durative action and the transitive subject
+resultative. The durative predicate can occur in the ergative or in the biabsolutive
+construction:
+
+(18) už-a:/uži
+t’ek
+t’et’er-χo
+zow-si.
+
+boy-ERG/.ABS book.ABS read-IPFVCVB be-PSTWIT
+
+‘The boy was reading a book.’
+
+The transitive subject resultative expresses the state of the subject resulting from the
+respective action, and can occur only in the biabsolutive construction. It can be formed
+only from those transitives which can form an ergative clause and then exclusively from
+those which express an action with observable consequences:
+
+25
+(19) uži/*už-a:
+žin
+t’ek
+t’et’er-χo
+Ø-ič-a:si joɬ.
+
+boy.ABS/-ERG still book.ABS read-IPFVCVB I-be-RES be.PRS
+
+‘The boy is still engaged in reading a book.’
+
+For a detailed analysis of Tsez biabsolutives, see Gagliardi et al. (2014).
+
+4.3.2. Interrogative clauses
+
+Yes-no questions are marked by the interrogative suffix -(j)a: which is added to
+the constituent which is the focus of the question (see also 0). The focused constituent
+usually remains in situ.
+
+(20) a. k’et’u
+ʁˁutk-a:
+joɬ-a:?
+
+cat.ABS house-IN.ESS be.PRS-Q
+
+‘Is the cat in the house?’
+b. k’et’u-ja: ʁˁutk-a: joɬ?
+
+‘Is it the cat that is in the house?’
+c. k’et’u ʁˁutk-a:-ja: joɬ?
+
+‘Is it in the house that the cat is?’
+
+In content questions, the position of a wh-word depends on whether it is
+replacing an argument or an adjunct. The fronting of a wh-word is obligatory or
+strongly preferred for adjuncts but rather uncommon for arguments. In those cases when
+an argument wh-word is fronted, it receives a restricted, discourse-linked interpretation,
+compare 0 and 0:
+
+(21) a. neti
+obij
+kidir-a:-ʁor
+Ø-ik’i-χ?
+
+when father.ABS Kidero-IN-VERS I-go-PRS
+
+b. ??obij
+kidir-a:-ʁor
+neti
+Ø-ik’i-χ?
+
+father.ABS Kidero-IN-VERS when I-go-PRS
+
+‘When is father leaving for Kidero?’
+
+(22) a. kid-b-a:
+šebi
+t’et’er-χo?
+
+girl-OS-ERG what.ABS read-PRS
+
+‘What is the girl reading?’
+b. šebi kid-b-a: t’et’er-χo?
+
+‘Which thing is the girl reading?’
+
+26
+
+Multiple Wh-questions are rare, and the order of wh-words is fixed. Most likely
+such multiple wh-word clusters are set phrases which cannot be expanded. For example,
+0 is possible but none of the combinations in 0 are allowed:
+
+(23) a. ɬu
+šebi
+r-oj-χo?
+
+who.ERG what.ABS IV-do-PRS
+
+b. *šebi ɬu r-oj-χo?
+
+‘Who is doing what?’
+
+(24) a. *kid-b-a:
+šebi
+neti
+r-oj-χo?
+
+girl-OS-ERG what.ABS when
+IV-do-PRS
+
+b. *šebi neti kid-b-a: r-oj-χo?
+
+‘When is the girl doing what?’
+
+In questions, the verb appears in the declarative form in all tenses except the past
+witnessed affirmative, where special forms are used (see 0).
+
+4.3.3. Imperatives and optatives
+
+Direct commands are expressed by the imperative and prohibitive forms of the
+verb:
+
+(25) ik’i/a:k’i-no.
+
+go.IMP/go-PROH
+
+‘Go./Don’t go.’
+
+The optative, which is frequent in formulaic expressions, can express a command
+directed to someone other than the addressee:
+
+(26) debe-r
+huni
+r-egir-oƛ.
+
+you-LAT road.ABS IV-send-OPT
+
+‘Bon voyage (lit. may it send the road to you).’
+
+4.3.4 Exclamatives
+
+Dice ‘how much/many’ is the most common wh-expression used in
+exclamatives, for example:
+
+(27) Oh dice
+di
+akił-a:!
+
+27
+
+oh
+how_much
+1SG.ABS get.tired-PST.INTERR
+
+‘Oh how tired I am!’
+
+A common way of conveying the exclamative meaning is through the use of a non-
+witnessed past tense predicate. In exclamative contexts, this tense form can be used to
+comment on the event that is ongoing on at the moment of the utterance:
+
+(28) Dice
+Ø-eženi
+obiy
+ħarƛi-n!
+
+how.much I-old
+father(I).ABS snore-PSTUNW
+
+‘Does father snore!’
+
+4.4.
+Complex sentences
+
+4.4.1. Relative clauses
+
+The predicate of a relative clause is a participle. Arguments and adjuncts are
+accessible to relativization using the same participial form:
+
+(29) a. už-a:
+kid-b-er
+gagali
+teƛ-si/teƛ-χo.
+
+boy-ERG girl-OS-LAT flower.ABS give-PSTWIT/give-PRS
+
+‘The boy gave/gives a flower to the girl.’
+b. kid-b-er
+gagali
+ta:ƛ-ru/teƛ-χosi
+uži
+
+girl-OS-LAT flower.ABS give-PSTPTCP/give-PRSPTCP boy
+
+‘the boy who gave/gives a flower to the girl’
+c. už-a:
+gagali
+ta:ƛ-ru/teƛ-χosi
+kid
+
+boy-ERG flower.ABS give-PSTPTCP/give-PRSPTCP girl
+
+‘the girl to whom the boy gave/gives a flower’
+d. už-a:
+kid-b-er
+ta:ƛ-ru/teƛ-χosi
+gagali
+
+boy-ERG girl-OS-LAT give-PSTPTCP/give-PRSPTCP flower
+
+‘the flower that the boy gave/gives to the girl’
+e. už-a:
+kid-b-er
+gagali
+ta:ƛ-ru/teƛ-χosi
+ʁudi
+
+boy-ERG girl-OS-LAT flower.ABS give-PSTPTCP/give-PRSPTCP day
+
+‘the day on which the boy gave/gives a flower to the girl’
+
+Constituents of embedded clauses can also be relativized. Possessive phrases cannot be
+relativized.
+
+(30) ˁal-a:
+r-od-a
+bajbik
+b-a:j-ru
+ʁˁutku
+
+Ali-ERG IV-do-INF beginning III-do-PSTPTCP house
+
+28
+
+‘the house that Ali began to build’
+
+(31) *už-a:
+ˁoƛ’
+r-ecʷa:r-u
+enij
+
+boy-ERG spindle.ABS IV-break-PSTPRT mother
+
+‘the mother whose spindle the boy broke’
+
+In addition, Tsez has correlative clauses formed using wh-words and the interrogative
+form of the verb (see 0). In the example below, the bracketed material is the correlative
+and the demonstrative hemesi is its correlate in the related clause.
+
+(32) [na:si
+uži
+ič’č’a ada:z Ø-aj-χo]
+
+which boy(I).ABS most
+first
+I-come-PRS
+
+hemes-a: aħi
+b-od-o.
+that-ERG
+alarm.ABS III-do-IMPER
+‘The boy who comes first is to sound the alarm (lit. which boy comes first, he is
+to sound the alarm).’
+
+Tsez correlative formation is quite free and is possible for all clausal constituents.
+
+4.4.2. Complementation
+
+Typically, the predicate of a complement clause is a participle, marked
+optionally by the nominalizing suffix -ɬi. If such a complement clause is in the
+absolutive position it determines verbal agreement in gender IV (as in (33)), or its own
+absolutive argument can determine agreement by long-distance agreement (section 0).
+
+(33) obi-r
+uži-r
+magalu
+b-a:ti-ru-ɬi
+r-ij-si
+
+father-LAT boy-LAT bread(III).ABS III-want-PSTPTCP-NMLZ IV-know-PSTWIT
+
+‘The father knew that the boy wanted bread.’
+
+In addition to nominalized complement clauses, Tsez has finite-verb complements
+marked by the enclitics -ƛin and -ƛaχ (section 0). These clitics function as
+complementizers, heading finite clauses. Such clauses typically occur as complements
+of propositional-attitude verbs, and in this context, first and second pronouns in the
+complement clause can be interpreted as referring to the speech act participants or to the
+attitude holder:
+
+(34) irbahin-a:
+[di ʕajibijaw
+joł-ƛin]
+eƛi-χ.
+
+29
+
+Ibrahim-ERG me wrong/foolish be.PRS-QUOT say-PRS
+
+(i) ‘Ibrahim says that I was wrong.’ (speech-act-participant interpretation)
+
+(ii) ‘Ibrahimi says that hei was wrong.’ (attitude-holder interpretation)
+
+This pattern whereby the semantic value of a pronoun (indexical expression) can be
+changed from being determined by the utterance context to being determined by the
+context of the reported speech act is known as indexical shift. For details on indexical
+shift in Tsez, see Polinsky (2015).
+
+4.4.3. Adverbial clauses
+
+Adverbial clauses with converbs are very common; on the formation of
+converbs, see 0.
+Examples of temporal adverbial clauses:
+
+(35) buq b-aj-nosi
+eli
+ciqq-a:-ʁor
+b-ik’i-s.
+
+sun III-come-ANTCVB we.ABS forest-IN-VERS IPL-go-PSTWIT
+
+‘When the sun rose we went to the forest.’
+
+(36) is-χo
+Øi rok’u-n
+r-eχu-n
+
+bull-AD.ESS
+heart-and IV-die-PFVCVB
+
+ˁomoj-a:i
+neƛo-r
+sis
+ˁaq’lu
+b-oj-no.
+donkey-ERG 3SG.nI-LAT one advice.ABS III-do-PSTWIT
+
+‘The donkey felt sorry for the bull and gave it a piece of advice.’
+
+The arguments of the embedded and matrix clause need not be coreferential.
+
+Example of a locative adverbial clause:
+
+(37) enij-a:
+magalu
+χa:ci-za:-ʁor
+uži
+Ø-ik’i-s.
+
+mother-ERG bread.ABS leave-LOCCVB-VERS boy.ABS I-go-PSTWIT
+
+‘The boy went to the place where mother left the bread.’
+
+Example of a causal adverbial clause:
+
+(38) obij
+Ø-aj-zaƛ’/-zaq
+uži
+ʁˁaʁˁu Ø-izi-s.
+
+father.ABS I-come-CAUSCVB boy.ABS glad
+I-become-PSTWIT
+
+‘The boy was happy that/because the father had come.’
+
+30
+4.4.4. Other clause types
+
+Infinitival clauses occur with modal verbs (e.g. -a:j ‘must’, koƛ’- ‘be able’),
+phasal verbs (e.g. bajbik b-od- ‘begin’, -oq- ‘become’— often in the meaning ‘set to’),
+verbs of motion, psychological verbs (e.g. -eti- ‘want’, -ˁuƛ’- ‘be afraid’), and with
+t’amizi -od- ‘cause’. The ad.essive case of the masdar, expressing purpose more
+strongly than the infinitive, can also be used with some of these verbs:
+
+(39) a. da:-r
+new-a:-ʁor
+ujtow
+ik’-a
+r-eti-n.
+
+me-LAT Mokok-IN-VERS just_so go-INF IV-want-PSTUNW
+
+‘I wanted to go to Mokok just for the heck of it.’
+b. da:-r
+new-a:-ʁor
+(*ujtow) ik’-ani-χ
+r-eti-n.
+
+me-LAT Mokok-IN-VERS just_so
+go-MSD-AD.ESS IV-want-PSTUNW
+
+‘I wanted to go to Mokok [on purpose].’
+
+Four verbs: -oq- ‘begin’, -iħw
+- ‘start, begin’, -ik’- ‘begin (lit.: go)’, and -ič- ‘continue’,
+take infinitival complements exhibiting a pattern whereby the subject of the matrix verb
+is coreferential to the subject of the infinitival complement, but only the latter can be
+expressed. The matrix verb agrees with the silent subject in gender, which indicates that
+the subject, although unexpressed, is in the absolutive case.
+
+(40) a, [bełiqan-ä
+kawu-bi
+ser-a]
+Ø-iħu-n/*r-iħu-n.
+
+hunter-ERG gate(II)-PL.ABS unlock-INF I-begin-PSTUNW/IV- begin-PSTUNW
+
+‘The hunter began to unlock the gates.’
+b. *[kawu-bi
+ser-a]
+bełiqan
+Ø-iħu-n.
+
+gate(II)-PL.ABS unlock-INF hunter,ABS
+I-begin-PSTUNW
+
+This pattern, first noted in Kibrik (1981: 38–39), has become known as backward
+control (see Fukuda (2008) for an overview of the phenomenon from a cross-linguistic
+perspective and Polinsky & Potsdam (2002) for a detailed syntactic analysis of the Tsez
+data).
+
+Clauses with the masdar in the poss.essive case occur with psychological verbs:
+
+(41) enij
+sasaq
+irbahin
+aj-ani-q
+
+mother.ABS tomorrow Ibrahim.ABS come-MSD-POSS.ESS
+
+j-ˁuƛ’-no
+j-ič-a:si
+joɬ.
+II-afraid-IPFVCVB II-be-RES be.PRS
+
+31
+
+‘The mother is afraid that Ibrahim will come tomorrow.’
+
+4.5.
+Negation
+
+Sentential negation is expressed by negative forms of the verb (see 0). Multiple
+negation is impossible. Constituent negation is expressed by the negative particle a:nu
+following the negated constituent:
+
+(42)
+di
+t’ek
+ʁiʁi
+a:nu t’et’er-χo.
+
+me book.ABS slowly not
+read-PRS
+
+‘I am not reading slowly.’
+
+4.6.
+Comparative constructions
+
+Tsez does not have an overt comparative morpheme meaning ‘more’ or ‘less’.
+Comparatives of superiority are expressed by putting the standard of comparison in the
+super.ablative form, which precedes the gradable adjective. Consider the following
+example:
+
+(43)
+zarema-tow-ƛ’-a:j
+bercinaw
+
+Zarema-FOC-SUPER-ABL beautiful
+
+‘more beautiful than even Zarema’
+
+If the amount phrase is present in a comparative, it appears in the in.essive form:
+
+(44) jaq’ˤuł łera
+garadus-j-a:
+ħuł-zo-ƛ’a:j
+tatanu (joł).
+
+today
+five.OBL degree-OS-IN.ESS yesterday-LNK2-SUPER-ABL warm be.PRS
+
+‘It’s five degrees warmer today than yesterday.’
+
+Tsez also has comparative correlatives of the type the more… the better. In such
+comparative correlatives, the relative clause always appears with the equative suffix –ce,
+and the parallel clause is expressed by a regular finite construction. In the following
+example, we show the relative clause in brackets:
+
+(45) [eli
+b-eže
+b-a:q-ru]-*(ce)
+
+we(IPL).ABS IPL-big IPL-become-PST.PTCP-EQU
+
+r-aqˤu
+šebin
+r-a:j
+elu-r.
+IV-many thing(IV).ABS IV-come.FUT.DEF we-LAT
+‘The older we get, the more we know (lit. the bigger we become, the more things
+
+32
+will come to us).’
+
+4.7.
+Co-ordination and chaining
+
+Noun phrases are coordinated by means of the suffix -n(o), e.g., 0. Disjunction is
+expressed by the placement of -ja ‘or’ (see 3.9) on each constituent:
+
+(46)
+k’et’u-ja ʁˁʷaj-a
+
+cat-or
+dog-or
+
+‘a cat or a dog’
+
+Coordination of clauses is rare; usually coordinate clauses are not linked by
+conjunctions, but conjunctions are not disallowed.
+
+(47) werharaw q’aj-ƛ’o
+a:či,
+
+winner
+shepherds’_cabin-SUPER.ESS be.FUTINDEF
+
+q’uraw ˁijat’a
+a:či.
+loser
+at_the_herd be.FUTINDEF
+‘The winner gets the best (lit. the winner will be at the shepherds’ cabin, the loser
+will be with the herd).’
+
+Coordination is also observed in conditional sentences with the conditional
+adverb yoɬi ‘assuming; if’:
+
+(48) a. tatanu ʁudi r-oq-χo
+joɬi
+
+warm day
+IV-become-PRS COND
+
+eli ker-a:-ʁor
+esanad-a b-ik’-an.
+we river-IN-VERS bathe-INF IPL-go-FUTDEF
+‘If the day became warm, we would go to the river.’
+b.
+tatanu
+ʁudi r-oq-si
+joɬi
+
+warm day
+IV-become-PSTWIT COND
+
+eli ker-a:-ʁor
+esanad-a
+b-ik’-a
+zow-si
+we river-IN-VERS bathe-INF IPL-go-INF be-PSTWIT
+‘If the day had become warm, we would have gone to the river.’
+
+The rich inventory of converbs available in Tsez allows it to use clause chaining freely;
+in such chains, a number of converbal clauses are linked to a single finite clause. The
+
+33
+clause chain structure is often reinforced by the addition of -n(o) ‘and’ to the constituent
+immediately preceding the converb. In the following example, two converbal clauses are
+connected to the finite clause:
+
+(49) [sasaqozoχ
+[uži-r-no
+j-ij-č’ej]
+maħo-r-no
+
+early_in_the_morning lad-LAT-and II-know-NEG.PFVCVB outside-LAT-and
+
+j-oq-no]
+q’orol-a:
+uži-z
+obiy-qo
+II-become-PFV.CVB widow-ERG lad-GEN2 father-POSS.ESS
+
+esi-n
+nesi-ƛ’
+ja:ł-ru
+q’ʷariłi-ł-a:j.
+tell-PSTUNW that.I-SUPER.ESS be-PSTPTCP sadness-CONT-ABL
+‘In the morning the widow slipped outside unnoticed by the young man and told
+his father about the woes that befell him.’
+
+4.8.
+Non-verbal predication
+
+The copula combines with predicative adjectives and noun phrases. It is freely
+omitted in natural speech, cf. 0 above.
+
+(50) ˁali-s
+obij
+aħo
+joɬ.
+
+Ali-GEN1 father shepherd be.PRS
+
+‘Ali’s father is a shepherd.’
+
+4.9.
+Information structure
+
+Tsez has several particles that mark information-structural categories. In
+particular, -n(o) and -gon mark topic and contrastive topic respectively; particles -kin
+and -tow mark focus material. Long-distance agreement (see section 0) encodes the
+topic status of the absolutive argument that triggers such agreement.
+
+5.
+Lexicon
+
+Although no study on the Tsez lexicon as detailed as that conducted by Comrie
+& Xalilov (2009) for Bezhta has been carried out, the general line of the results for
+Bezhta carries over to Tsez. The percentage of loanwords in Bezhta obtained there for
+the relevant lexical sample puts Bezhta somewhat below Japanese and Indonesian (and
+well below English), and somewhat above Vietnamese and Swahili (Tadmor 2009: 56).
+There is a substantial body of non-borrowed lexicon, much of it traceable back to Proto-
+Nakh-Daghestanian or intermediate nodes, e.g. enij ‘mother’, is ‘ox’, mˁali ‘mountain’,
+huni ‘road’ (Nikolayev & Starostin 1994: 201–202, 680–681, 834, 606–607).
+
+34
+
+The three main sources of borrowed vocabulary are, in descending order, Avar,
+Russian, and Georgian. Avar has provided many words, including some for concepts
+already present in Tsez culture, but also reflecting early Tsez contact with the outside
+world, both physical and cultural; examples are halmaʁ ‘friend’, raɬad ‘sea’, gurħi
+‘compassion’. A particularly large proportion of Tsez adjectives are of Avar origin, e.g.
+bercinaw ‘beautiful’. (In the Avar etymon, the final -w is a gender I suffix, but in Tsez
+the adjective is invariable for gender.) Avar verbs are borrowed in the infinitive form
+accompanied by a Tsez light verb, usually -oq- ‘become’ for intransitives and -od- ‘do’
+for transitives, e.g. bak’arzi -oq-/-od- ‘gather (tr/intr)’. Avar has also been the conduit
+for many “orientalisms”, i.e. loans into Avar from Arabic, Persian, or Turkic languages,
+e.g. q’alam ‘pencil’, ˁumru ‘life’; daru ‘medicament’, kumak ‘help’; huruš ‘rouble’.
+Georgian has provided a substantial number of nouns reflecting the pre-technological
+modern world, e.g. k’owzi ‘spoon’, burti ‘ball’. Currently, Russian is the main source of
+loans, including internationalisms. Especially earlier loans from Russian often show
+some phonological adaptation or other modifications, e.g. doχtur ‘doctor’ (Russian
+doktor), gazit, gazjat, gazijat ‘newspaper’ (Russian gazeta), pabrika ‘factory’ (Russian
+fabrika), iškap ‘cupboard’ (Russian škaf). Russian verbs, like Avar verbs, are borrowed
+as infinitives with a Tsez light verb, e.g. paradat -od- ‘sell’ (Russian prodat´ ‘sell’)
+Loans from Russian also include discourse particles, especially in slang.
+
+More comparative work is needed before loans from other Tsezic or from Andic
+languages can be consistently identified, but bišon ‘hundred’ is clearly a loan from an
+Andic language (Nikolayev & Starostin 1994: 588).
+
+6.
+Sample text
+
+This text was recorded in Tsebari in July 1994 by Ramazan Rajabov. The narrator is
+Zahir Rajabov, then aged 58.
+
+ˁomoj-no
+is-no
+donkey-and bull-and
+
+zow-no-ƛaχ
+zow-č’ej-ƛaχ
+sida
+ˁaƛ-a:
+sis
+žek’u.
+was-PSTUNW-QUOT be-PSTUNW.NEG-QUOT one.OBL village-IN.ESS one man
+
+nesi
+žek’u-s
+zow-no
+ˁomoj-no
+is-no.
+that.I.OBL man-GEN1 be-PSTUNW donkey-and bull-and
+
+sidaquɬ is-a:
+neširu-r
+riƛu
+riƛi-n,
+
+35
+once
+bull-ERG evening-LAT ploughing plough-PFVCVB
+
+akiɬ-no,
+idu-r
+b-aj-nosi,
+be tired-PFVCVB home-LAT III-come-ANTCVB
+
+ˁomoj-qo-r
+ˁarza
+b-oʁ-no.
+donkey-POSS-LAT complaint III-take-PSTUNW
+
+dej
+ˁomoj,
+akiɬ-no
+b-eχu-χ.
+me-GEN1 donkey tire-PFVCVB III-die-PRS
+
+di
+hoboj da:-ƛ’
+bet’erhan-es gurħi-n
+a:nu.
+me now
+me-SUPER.ESS master-GEN1 compassion-and be.NEG.PRS
+
+šebi-tow
+di
+r-od-an
+howži?
+what-indeed me IV-do-FUTDEF Now
+
+is-χo
+rok’u-n
+r-eχu-n,
+bull-AD.ESS heart-and IV-die-PFVCVB
+
+ˁomoj-a:
+neɬo-r
+sis
+ˁaq’lu
+b-oj-no.
+donkey-ERG that.nIPL-LAT one advice III-do-PSTUNW
+
+neɬ-a:
+r-oƛ-χo-ƛin
+b-iči-ƛin
+eƛi-n.
+that.nI-ERG IV-be_sick-PRS-QUOT III-be.IMP-QUOT say-PSTUNW
+
+hudaj
+Is
+ˁomoj-a:
+a:ƛi-ru-χo-r
+next_time Bull donkey-ERG say-PSTPTCP-AD-LAT
+
+r-oƛ-χo-ƛin
+b-iš-č’ej
+b-iči-n.
+IV-be_ill-PRS-QUOT III-eat-NEG.PFVCVB III-be-PSTUNW
+
+bet’erhan-a: χabar-kin b-oj-č’ej
+is-ez
+mečʷ-a:
+master-ERG
+talk-even III-make-NEG.PFVCVB bull-GEN2 place-IN.ESS
+
+ˁomoj
+riƛu-ƚ
+b-iži-n.
+donkey ploughing-CONT.ESS III-take-PSTUNW
+
+sidaquɬ b-ik’i-n
+ˁomoj
+riƛu-ɬ,
+once
+III-go-PSTUNW donkey ploughing-CONT.ESS
+
+q’ˁuna
+ʁude-ɬ
+b-ik’i-n.
+
+36
+two.OBL day-CONT.ESS III-go-PSTUNW
+
+b-eχu-n
+tatu
+ˁomoj-is.
+III-die-PSTUNW strength donkey-GEN1
+
+neɬ-a:
+eƛi-n
+žek’u-r
+b-a:j-ru
+ˁaq’lu
+that.nI-ERG say-PSTUNW person-LAT III-make-PSTPTCP advice
+
+q’ˁime-z
+žukz-a:-r
+b-a:su-ƛin
+self-GEN2 malice-IN-LAT III-find.FUTINDF-QUOT
+
+neɬƛ’osi bet’erhan-a: hoboj jedu
+is
+later
+master-ERG
+now
+this.nI bull
+
+b-eχu-χ-ƛin
+b-eχʷaj-no
+kur-no.
+III-die-PRS-QUOT III-cut-PFVCVB throw-PSTUNW
+
+hudu cezj-a:
+eƛi-χosi
+joɬ:
+yes
+Tsez-ERG say-PRSPTCP be.PRS
+
+ħalt’o-q
+b-ˁa:ƛ’-ru
+posu mač’i-ƛ
+b-a:χu.
+work-POSS.ESS III-fear-PSTPTCP cattle dagger-SUB.ESS III-die.FUTINDF
+
+The donkey and the bull
+
+Once upon a time in a certain village there lived a man. That man had a donkey and a
+bull. Once, when the bull came home tired after having ploughed the field till evening,
+he complained to the donkey. “Dear donkey, I am dead tired. My master has no pity on
+me now. What should I do now?” The donkey felt sorry for the bull and gave him a
+piece of advice. He said he should pretend to be sick. Next day, the bull, as the donkey
+had said, pretending to be sick, did not eat. The master, without even saying a word,
+took the donkey instead of the bull to plough. One day the donkey went to plough, two
+days he went. The donkey grew weak. He said that advice given to a person brings evil
+to oneself. Later, the master, saying that this bull was now dying, suddenly slaughtered
+it. That is why the Tsez people say: The animal that is afraid of work will die under the
+dagger.
+
+References
+
+37
+Abdulaev, Arsen K. & Isa K. Abdullaev. 2010. Cezyas folklor [Tsez folklore]. Leipzig
+& Makhachkala: Lotos.
+Alekseev, Mixail E. 1993. Alipbi bukvar´ cezskogo jazyka. Èksperimental´nyj variant
+učebnika [Tsez primer. Test version of a textbook]. Moscow: Ministerstvo
+obrazovanija Rossijskoj Federacii. Institut nacional´nyx problem obrazovanija.
+Alekseev, Mikhail E. & Ramazan N. Radžabov. 1989. Tsez. In Michael Job (ed.),
+Indigenous languages of the Caucasus, vol. 3: The North East Caucasian
+languages, part 1, 115–163. Ann Arbor: Caravan Books.
+Alekseev, Mixail E., Ramazan N. Radžabov & Arsen K. Abdulaev. 2003. Bukvar´
+didojskogo jazyka [Dido primer]. 2nd edn. Makhachkaka & Moscow:
+Ministerstvo obrazovanija Rossijskoj Federacii. Institut nacional´nyx problem
+obrazovanija. Nacional´no-kul´turnaja avtonomija “Didojcy”.
+Bokarev, Evgenij A. 1959. Cezskie (didojskie) jazyki Dagestana [The Tsezic (Didoic)
+languages of Daghestan]. Moscow: Izd. AN SSSR.
+Comrie, Bernard & Madzhid Khalilov. 2009. Loanwords in Bezhta, a Nakh-
+Daghestanian language of the North Caucasus. In Martin Haspelmath & Uri
+Tadmor (eds.), Loanwords in the world’s languages: A comparative handbook,
+414–429. Berlin: Mouton de Gruyter.
+Comrie, Bernard & Maria Polinsky. 1998. The great Daghestanian case hoax. In Anna
+Siewierska & Jae Jung Song (eds.), Case, typology and grammar: In honor of
+Barry J. Blake, 95–114. Amsterdam: John Benjamins.
+Dirr, Adolf M. 1909. Materialy dlja izučenija jazykov i narečij ando-didojskoj gruppy
+[Materials for the study of the languages and dialects of the Andi-Dido group].
+Sbornik materialov dlja opisanija mestnostej i plemen Kavkaza. vol. 40, fasc. 3.
+1–114.
+Fukuda, Shin. 2008. Backward control. Language and Linguistics Compass 2. 168–195.
+Gagliardi, Annie, Michael Goncalves, Maria Polinsky & Nina Radkevich. 2014.
+Biabsolutives in Lak and Tsez. Lingua 150. 137–170.
+Gagliardi, Annie & Jeffrey Lidz. 2014. Statistical insensitivity in the acquisition of Tsez
+noun classes. Language 90. 58–89.
+Imnajšvili, David S. 1963. Didojskij jazyk v sravnenii s ginuxskim i xvaršijskim
+jazykami [The Dido language in comparison with the Hinuq and Khwarshi
+languages]. Tbilisi: Izd. AN Gruzinskoj SSR.
+Kibrik, Aleksandr E. 1981. Materialy k tipologii èrgativnosti. 15. Cezskij jazyk.
+Moscow: Institut russkogo jazyka AN SSSR. Problemnaja gruppa po
+èksperimental´noj i prikladnoj lingvistike.
+
+38
+Kibrik, Aleksandr E. & Sandro V. Kodzasov. 1990. Sopostavitel´noe izučenie
+dagestanskix jazykov. Imja. Fonetika [Comparative study of Daghestanian
+languages. The noun. Phonetics]. Moscow: MGU.
+Kodzasov, Sandro V. 1986. Faringo-laringal´noe suženie v dagestanskix jazykax
+[Pharyngeo-laryngeal narrowing in Daghestanian languages]. In Georgij Klimov
+(ed.), Aktual´nye problemy dagestansko-naxskogo jazykoznanija, 34–46.
+Makhachkala: Dagestanskij filial AN SSSR.
+Maddieson, Ian, Ramazan Rajabov & Aaron Sonnenschein. 1996. The main features of
+Tsez phonetics. UCLA Working Papers in Phonetics 93. 94–110.
+Nikolayev, Sergey L. & Sergey A. Starostin. 1994. A North Caucasian etymological
+dictionary. Moscow: Asterisk.
+Plaster, Keith, Maria Polinsky & Boris Harizanov. 2013. Noun classes grow on trees:
+Noun classification in the North-East Caucasus. In Balthasar Bickel, Lenore A.
+Grenoble, David A. Peterson & Alan Timberlake (eds.), Language typology and
+historical contingency: In honor of Johanna Nichols, 153–170. Amsterdam: John
+Benjamins.
+Polinsky, Maria. 2015. Embedded finite complements, indexical shift, and binding in
+Tsez. Languages of the Caucasus 1. 1–37.
+Polinsky, Maria & Bernard Comrie. in prep. A grammar of Tsez.
+Polinsky, Maria & Eric Potsdam. 2001. Long-distance agreement and topic in Tsez.
+Natural Language and Linguistic Theory 19. 583–646.
+Polinsky, Maria & Eric Potsdam. 2002. Backward control. Linguistic Inquiry 33. 245–
+282.
+Starostin, Sergej A. 1987. Kommentarii k kavkazovedčeskim rabotam N. S. Trubeckogo
+[Commentaries on the Caucasological works of N. S. Trubetzkoy]. In N. S.
+Trubeckoj, Izbrannye trudy po filologii, 437–473. Moscow: Progress.
+Tadmor, Uri. 2009. Loanwords in the world’s languages: Findings and results. In Martin
+Haspelmath & Uri Tadmor (eds.): Loanwords in the world’s languages: A
+comparative handbook, 55–75. Berlin: Mouton de Gruyter.
+VPN 2010. Vserossijskaja perepis´ naselenija 2010 g. Tom 4. Nacional´nyj sostav i
+vladenie jazykami, graždanstvo. Tablica 5. Vladenie jazykami naseleniem
+Rossijskoj Federacii [All-Russian population census 2010. Vol. 4. Ethnic
+composition and command of languages, citizenship. Table 5. Command of
+languages by the population of the Russian Federation]. Moscow: Federal´naja
+služba gosudarstvennoj statistiki
+http://www.gks.ru/free_doc/new_site/perepis2010/croc/Documents/Vol4/pub-04-
+05.pdf (accessed 01 December 2017).
+
+39
+Xalilov, Madžid Š. 1999. Cezsko-russkij slovar´ [Tsez-Russian dictionary].
+Makhachkala: DNC RAN. IJaLI.
+
+Abbreviations
+
+ABL – Ablative
+ABS – Absolutive
+ANTCVB – Anterior Converb
+AD – Localization ‘at’
+APUD – Localization ‘near’
+CAUS – Causative
+CAUSCVB – causal converb
+COND – Conditional
+CONT – Localization ‘in (a mass)’
+
+DISTR – Distributive
+EQU – Equative
+ERG – Ergative
+ESS – Essive
+FUTDEF – Future Definite
+FUTINDF – Future Indefinite
+
+GEN1 – Genitive 1
+GEN2 – Genitive 2
+
+IMP – Imperative
+IPFVCVB – Imperfective Converb
+IN – Localization ‘in a hollow space’
+INF – Infinitive
+INS – Instrumental
+
+INTNS – Intensifier
+intr – intransitive
+LAT – Lative
+LOCCVB – Locative Converb
+LNK1 – Linker 1
+
+LNK2 – Linker 2
+MSD – Masdar
+NEG – Negation
+NMLZ – Nominalizer
+OBL – Oblique
+OPT – Optative
+
+40
+PFVCVB – Perfective Converb
+PL – Plural
+POSS – Possessive
+POT – Potential
+PROH – Prohibitive
+PRS – Present
+PRSPTCP – Present Participle
+PSTPTCP – Past Participle
+PSTWIT – Past Witnessed
+PSTUNW – Past Unwitnessed
+Q – Interrogative
+
+QUOT – Quotative
+RES – Resultative
+
+RESTR – Restrictive
+SUB – Localization ‘under’
+SUPER – Localization ‘on’
+tr – transitive
+VERS – Versative
+
+The Roman numerals I–IV are used to indicate genders; nI means ‘non-I’ gender. To
+avoid confusion, the first person singular pronoun is glossed ‘me’.

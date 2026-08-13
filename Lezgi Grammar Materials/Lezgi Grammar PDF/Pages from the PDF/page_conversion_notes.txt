@@ -1,0 +1,8 @@
+Page conversion notes
+PDF file: grammamt/GRAMMAMT/Lezgi Grammar PDF/Lezgi_Grammar_PDF.pdf
+Total PDF pages: 59
+Selected pages rendered: 15
+All pages were not rendered because the instruction requested selected impactful pages only.
+Rendering: PyMuPDF at zoom=2.0, JPEG quality=82.
+Failures: none.
+Hard-to-read/OCR concerns: some extracted text has noisy transliteration due to PDF font encoding; rendered pages preserve original visual forms.

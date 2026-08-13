@@ -1,0 +1,182 @@
+LEZGI GRAMMAR SUMMARY FOR TRANSLATION
+
+Source: Haspelmath, A Grammar of Lezgian, excerpt in Lezgi_Grammar_PDF.pdf.
+Use this as supporting grammar context for Lezgi-to-English translation.
+
+High-level profile
+- Lezgi morphology is strongly suffixing and agglutinating.
+- Nouns, adjectives, and verbs are morphologically distinct.
+- Clauses are generally head-final. SOV is preferred, although other orders occur, especially in speech.
+- Noun phrases are head-final: genitive-noun, adjective-noun, numeral-noun, demonstrative-noun.
+- Postpositions follow their complements.
+- Lezgi shows ergative alignment in ordinary transitive clauses.
+- There is no person-number agreement in noun phrases or on finite verbs.
+- Full noun phrase arguments can be omitted when recoverable from context; personal pronouns are used when needed.
+
+Important gloss abbreviations
+ABS = Absolutive case
+ERG = Ergative case
+GEN = Genitive case
+DAT = Dative case
+ADESS = Adessive case
+ADEL = Adelative case
+ADDIR = Addirective case
+SBESS = Subessive case
+SBEL = Subelative case
+SBDIR = Subdirective case
+POESS = Postessive case
+POEL = Postelative case
+PODIR = Postdirective case
+SRESS = Superessive case
+SREL = Superelative case
+SRDIR = Superdirective case
+INESS = Inessive case
+INEL = Inelative case
+PL = Plural
+MSD = Masdar
+INF = Infinitive
+IMPF = Imperfective
+AOR = Aorist
+PRF = Perfect
+FUT = Future
+PST = Past
+PTP = Participle
+AOC = Aorist converb
+POSTR = Posterior converb
+TEMP = Temporal converb
+NEG = Negation
+Q = Question marker
+COP = Copula
+CAUS = Causative
+PROHIB = Prohibitive
+HORT = Hortative
+OPT = Optative
+SBST = Substantivizer
+
+Nominal morphology
+- Nouns inflect for number: singular and plural.
+- Nouns inflect for case: Absolutive, Ergative, Genitive, Dative, Essive, Elative, Directive.
+- Localizations combine with locative cases: Ad, Sub, Post, Super, In.
+- The combinations create forms such as Adessive, Adelative, Addirective, Subessive, Subelative, Subdirective, Postessive, Postelative, Postdirective, Superessive, Superelative, Superdirective, Inessive, and Inelative.
+- All cases except the Absolutive are based on a special oblique stem. The oblique stem suffix can be idiosyncratic for many nouns.
+- Plural is commonly marked before case morphology.
+
+Example noun paradigm pattern with hul "sea"
+Case | Singular | Plural | Function cue
+Absolutive | hul | hul-er | core intransitive subject or transitive patient
+Ergative | hul-i | hul-er-i | transitive agent case pattern
+Genitive | hul-i-n | hul-er-i-n | possessor or genitive modifier
+Dative | hul-i-z | hul-er-i-z | recipient, goal, experiencer, or dative argument
+Adessive | hul-i-w | hul-er-i-w | at/by/near
+Adelative | hul-i-waj | hul-er-i-waj | from by/near
+Addirective | hul-i-wdi | hul-er-i-wdi | toward by/near
+Subessive | hul-i-k | hul-er-i-k | under/in contact below
+Subelative | hul-i-kaj | hul-er-i-kaj | from under
+Subdirective | hul-i-kdi | hul-er-i-kdi | toward under
+Postessive | hul-i-qh | hul-er-i-qh | behind/after location
+Postelative | hul-i-qhaj | hul-er-i-qhaj | from behind/after
+Postdirective | hul-i-qhdi | hul-er-i-qhdi | toward behind/after
+Superessive | hul-e-l | hul-er-a-l | on/upon
+Superelative | hul-e-laj | hul-er-i-laj | from/on than; also comparison standard
+Superdirective | hul-e-ldi | hul-er-a-ldi | toward/on
+Inessive | hul-e | hul-er-a | in/inside
+Inelative | hul-aj | hul-er-aj | out of/from inside
+
+Adjectives
+- Adjectives can take a substantivizing suffix -di, as in "new one".
+- Adjectives can form adverbs with suffixes such as -(di)z or -dakaz.
+- Adjectives can appear in predicative use.
+
+Verb morphology
+- Verbs inflect for tense-aspect, negation, several moods, and non-finite forms.
+- Finite verbs do not agree with person or number.
+- The grammar gives gun "give" as the model verb.
+
+Verb-form pattern from gun "give"
+Category | Non-negated | Negated
+Imperfective | gu-zwa | gu-zwa-NEG
+Past Imperfective | gu-zwa-j | gu-zwa-NEG-ir
+Future | gu-da | gu-da-NEG
+Past Future | gu-da-j | gu-da-NEG-ir
+Aorist | ga-na | ga-na-NEG
+Past Aorist | ga-na-j | ga-na-NEG-ir
+Perfect | ga-nwa | ga-nwa-NEG
+Past Perfect | ga-nwa-j | ga-nwa-NEG-ir
+Imperative | ce / che | not used in this table
+Prohibitive | not used in this table | gu-mir
+Optative | gu-raj | ta-gu-raj
+Hortative | gu-n | ta-gu-n
+Masdar | gu-n | ta-gu-n
+Infinitive | gu-z | ta-gu-z
+Imperfective participle | gu-zwa-j | ta-gu-zwa-j
+Future participle | gu-da-j | ta-gu-da-j
+Perfect participle | ga-nwa-j | ta-ga-nwa-j
+Aorist participle | ga-j | ta-ga-j
+Aorist converb | ga-na | ta-ga-na
+Posterior converb | gu-daldi | no negated form in table
+Temporal converb | ga-ji-la | ta-ga-j-la
+
+Derivation
+- Important nominal derivation: abstract suffix -wal, as in "new-ness".
+- Causative verb derivation uses -(a)r and can turn an intransitive verb into a transitive verb.
+- Borrowed or productive derivational material includes nominal -ci, adjectival -lu and -suz, and verbal -lamisun.
+
+Clause alignment and argument marking
+- Lezgi has ergative case-marking patterns.
+- Intransitive subject: Absolutive.
+- Transitive agent: Ergative.
+- Transitive patient/theme: Absolutive.
+- Dative subjects occur with some experiential verbs, including verbs like "see".
+- Dative also marks goals and recipients in many examples.
+
+Examples of core patterns
+- "The brother came back home": brother is ABS, house is DAT, verb is AOR.
+- "The sister sent the brother home": sister is ERG, brother is ABS, house is DAT, verb is AOR.
+- "The sister saw the brother": sister is DAT, brother is ABS, verb is AOR.
+
+Subordination and clause combining
+- Subordinate clauses are usually non-finite.
+- Subordinate clauses generally precede the main clause.
+- Relative clauses use participles.
+- Participles do not have a fixed orientation, so they can relativize many different constituents.
+- Complement clauses have several major strategies:
+  - Masdar complements.
+  - Infinitival complements.
+  - Participial complements.
+- Clause chaining often uses converbs rather than coordination with "and".
+- Aorist converbs can express actions like "having turned around".
+- Specialized converbs form adverbial clauses, including posterior and temporal relations.
+
+Questions
+- Polar questions are marked by the interrogative verb suffix -ni.
+- Content questions normally keep the interrogative pronoun in situ.
+- Content questions do not use the interrogative verb suffix in the same way as polar questions.
+
+Comparison
+- Inequality comparison marks the standard of comparison in the Superelative case.
+- The adjective itself is not specially marked for comparison.
+
+Glossing and notation conventions
+- Zero categories are usually not shown in morphemic glosses.
+- A period in a noun form separates the lexical stem from a semantically empty oblique-stem suffix, as in mother.OBL-DAT style forms.
+- Ergative is formally zero on the oblique stem, but it is shown in glosses because it contrasts with Absolutive.
+- Personal pronoun Ergative and Absolutive forms are treated as unanalyzable.
+- Subordinate clause boundaries are shown in brackets in glossed examples.
+- If Lezgi text contains a hyphen, the morpheme gloss may use an equals sign to avoid confusing lexical hyphens with morpheme boundaries.
+
+Phonology and orthography cues
+- Lezgi has vowel syncope, especially pretonic high-vowel syncope after voiceless obstruents.
+- Syncope is not consistently reflected in the orthography.
+- Lost high vowels can leave palatalization or labialization on a preceding consonant.
+- Vowel harmony is described for palatal and labial features in the first two syllables.
+- Some consonant alternations affect noun forms, especially between Absolutive Singular and other forms.
+- Stress is generally on the second syllable of the root; some Arabic loans may show third-syllable stress.
+
+Translation reminders for the model
+- Use case marking more than word order when deciding grammatical roles.
+- Treat ERG as a strong cue for the transitive agent.
+- Treat ABS as the intransitive subject or transitive patient/theme.
+- Treat DAT as goal, recipient, or experiencer depending on the verb.
+- Expect omitted arguments when the context makes them recoverable.
+- Expect subordinate clauses before main clauses.
+- In final translation, produce natural English rather than a word-by-word rendering.

@@ -1,0 +1,47 @@
+# Creation Report
+
+Language: Lezgi
+PDF file processed: grammamt/GRAMMAMT/Lezgi Grammar PDF/Lezgi_Grammar_PDF.pdf
+Output location: grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF
+Total PDF pages: 59
+Selected original PDF pages rendered to JPG: 15
+Selected pages: 19, 20, 24, 25, 26, 27, 28, 29, 30, 33, 34, 35, 42, 43, 59
+
+Files created:
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Summary Text/summary_model_readable.md
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Summary Text/summary_model_readable.txt
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Cheat Sheet from PDF/compact_cheatsheet.md
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Cheat Sheet from PDF/compact_cheatsheet.txt
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Cheat Sheet from PDF/compact_cheatsheet.jpg
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Summary Image with Tables/summary_tables.md
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Summary Image with Tables/summary_tables.txt
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Summary Image with Tables/summary_tables.jpg, grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Summary Image with Tables/summary_tables_2.jpg
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Pages from the PDF/Selected impactful pages JPG/selected_pages_manifest.md
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Pages from the PDF/Selected impactful pages JPG/selected_pages_manifest.txt
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Pages from the PDF/optional_page_notes.md
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Pages from the PDF/optional_page_notes.txt
+- grammamt/GRAMMAMT/Lezgi Grammar Materials/Lezgi Grammar PDF/Pages from the PDF/page_conversion_notes.txt
+
+Major grammar areas covered:
+- abbreviations and gloss labels
+- overview of noun inflection and cases
+- overview of verb categories and negation
+- head-final word order and SOV preference
+- ergative clause pattern and Dative experiencer examples
+- subordinate/relative/complement clauses
+- converb constructions
+- polar and parametric questions
+- gloss notation conventions
+
+Missing or unclear information:
+- Full later grammar chapters are listed in the table of contents but are not present in this 59-page PDF excerpt.
+- Full detailed paradigms for pronouns, postpositions, valence, and clause combining were not available in the PDF excerpt.
+- Some transliteration symbols in extracted text may be noisy; JPG pages should be used for exact visual verification.
+
+Consistency and faithfulness:
+- Outputs are based only on the input PDF.
+- No OCR was needed.
+- No external linguistic information was added.
+- Markdown files are the authoritative sources.
+- Rendered JPG files were generated from the Markdown sources.
+- Materials are ready for Qwen/Qwen-VL experiments, with the limitation that this PDF appears to be an excerpt rather than the full grammar.

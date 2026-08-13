@@ -1,0 +1,1 @@
+python run_grammamt.py --language Natugu --model_id swiss-ai/Apertus-8B-Instruct-2509 --support_n 21 --test_n 99 --use_4bit --out_metrics metrics/metrics_natugu_Apertus.json --out_jsonl results/results_natugu_Apertus.jsonl

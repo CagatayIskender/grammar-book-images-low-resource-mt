@@ -1,0 +1,30 @@
+# Optional Page Notes
+
+PDF file: grammamt/GRAMMAMT/Lezgi Grammar PDF/Lezgi_Grammar_PDF.pdf
+Total pages: 59
+Embedded text extraction was used. OCR was not needed.
+Only selected impactful pages were rendered to JPG, per instruction.
+Some extracted transliteration/phonetic symbols may be noisy because of PDF font encoding.
+The PDF appears to be a 59-page excerpt/front section of the grammar; full later chapters named in the table of contents are not present.
+
+## Rendered selected pages
+- PDF page 19 -> page_019.jpg, size=879x1305, score=19
+- PDF page 20 -> page_020.jpg, size=879x1305, score=20
+- PDF page 24 -> page_024.jpg, size=879x1305, score=17
+- PDF page 25 -> page_025.jpg, size=879x1305, score=20
+- PDF page 26 -> page_026.jpg, size=879x1305, score=20
+- PDF page 27 -> page_027.jpg, size=879x1305, score=11
+- PDF page 28 -> page_028.jpg, size=879x1305, score=20
+- PDF page 29 -> page_029.jpg, size=879x1305, score=13
+- PDF page 30 -> page_030.jpg, size=879x1305, score=14
+- PDF page 33 -> page_033.jpg, size=879x1305, score=6
+- PDF page 34 -> page_034.jpg, size=879x1305, score=17
+- PDF page 35 -> page_035.jpg, size=879x1305, score=13
+- PDF page 42 -> page_042.jpg, size=879x1305, score=17
+- PDF page 43 -> page_043.jpg, size=879x1305, score=12
+- PDF page 59 -> page_059.jpg, size=879x1305, score=8
+
+## Markdown-to-JPG rendering
+- Cheat sheet image files: compact_cheatsheet.jpg
+- Summary table image files: summary_tables.jpg, summary_tables_2.jpg
+If multiple image files were created, the Markdown source was too long for one readable JPG page.

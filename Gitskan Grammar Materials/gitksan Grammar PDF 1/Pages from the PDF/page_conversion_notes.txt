@@ -1,0 +1,7 @@
+Page conversion notes
+PDF file: grammamt/GRAMMAMT/Gitskan Grammar PDF's/gitksan Grammar PDF 1.pdf
+Total PDF pages: 12
+Selected pages rendered: 9
+All pages were not rendered because not every page is translation-relevant.
+Rendering: PyMuPDF zoom=2.0, JPEG quality=82.
+Failures: none.

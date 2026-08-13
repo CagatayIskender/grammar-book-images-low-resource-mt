@@ -1,0 +1,20 @@
+{
+  "qwen35_context_shot": {
+    "bleu": 4.041267406531004,
+    "chrf": 22.779552836955272,
+    "xcomet": 0.34115863692116094
+  },
+  "qwen35_context_chain": {
+    "bleu": 4.041267406531004,
+    "chrf": 22.779552836955272,
+    "xcomet": 0.34115863692116094
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "scored_from_jsonl": "results/results_gitksan_Qwen35_pdf1_brown_newmaterials_cheatsheet_jpg.jsonl",
+  "runtime_seconds": 34.929205656051636,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 34
+  }
+}

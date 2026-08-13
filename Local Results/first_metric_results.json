@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "model_id": "meta-llama/Llama-3.1-8B-Instruct",
+    "src_lang": "SourceLanguage",
+    "tgt_lang": "English",
+    "support_n": 12,
+    "test_n": 42,
+    "max_new_tokens": 128,
+    "temperature": 0.0,
+    "use_4bit": true,
+    "max_memory_gb": 11
+  },
+  "gloss_shot": {
+    "metrics": {
+      "bleu": 11.33376703189082,
+      "chrf": 17.634583354946084,
+      "avg_ref_tokens": 12.333333333333334,
+      "avg_hyp_tokens": 10.357142857142858
+    },
+    "total_gen_seconds": 304.78504276275635,
+    "avg_gen_seconds": 7.25678673244658
+  },
+  "chain_gloss": {
+    "metrics": {
+      "bleu": 33.162166074823304,
+      "chrf": 41.760687620019254,
+      "avg_ref_tokens": 12.333333333333334,
+      "avg_hyp_tokens": 12.214285714285714
+    },
+    "total_gen_seconds": 109.51491475105286,
+    "avg_gen_seconds": 2.607497970263163
+  }
+}

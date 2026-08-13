@@ -1,0 +1,27 @@
+{
+  "gitksan_pdf1_brown": {
+    "language": "Gitksan",
+    "test_n": 37,
+    "materials_root": "Gitskan Grammar Materials/gitksan Grammar PDF 1"
+  },
+  "gitksan_pdf2_rigsby": {
+    "language": "Gitksan",
+    "test_n": 37,
+    "materials_root": "Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)"
+  },
+  "lezgi": {
+    "language": "Lezgi",
+    "test_n": 87,
+    "materials_root": "Lezgi Grammar Materials/Lezgi Grammar PDF"
+  },
+  "natugu": {
+    "language": "Natugu",
+    "test_n": 99,
+    "materials_root": "Natugu Grammar Materials/Boerger Natqgu grammar sketch final"
+  },
+  "tsez": {
+    "language": "Tsez",
+    "test_n": 445,
+    "materials_root": "Tsez Grammar Materials/Tsez_Grammar_PDF"
+  }
+}

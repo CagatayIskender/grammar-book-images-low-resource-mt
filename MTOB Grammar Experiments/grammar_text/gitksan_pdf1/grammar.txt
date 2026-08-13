@@ -1,0 +1,1064 @@
+ILLUSTRATIONS OF THE IPA
+Gitksan
+Jason Brown
+School of Cultures, Languages and Linguistics, University of Auckland
+jason.brown@auckland.ac.nz
+Henry Davis
+Department of Linguistics, University of British Columbia
+henry.davis@ubc.ca
+Michael Schwan
+Department of Linguistics, University of British Columbia
+michael.schwan@alumni.ubc.ca
+Barbara Sennott
+Urban Gitxsan Society
+barbaraharris@shaw.ca
+Gitksan (git) is an Interior Tsimshianic language spoken in northwestern British Columbia,
+Canada. It is closely related to Nisga’a, and more distantly related to Coast Tsimshian and
+Southern Tsimshian. The speciﬁc dialect of Gitksan presented here is what can be called
+Eastern Gitksan, spoken in the villages of Kispiox (Ansbayaxw), Glen Vowell (Sigit’ox), and
+Hazelton (Git-an’maaxs), which contrasts with the Western dialects, spoken in the villages
+of Kitwanga (Gitwingax), Gitanyow (Git-anyaaw), and Kitseguecla (Gijigyukwhla). The
+primary phonological differences between the dialects are a lexical shift in vowels and the
+presence of stop lenition in the Eastern dialects. While there exists a dialect continuum, the
+primary cultural and political distinction drawn is between Eastern and Western Gitksan. For
+reference, Gitksan is bordered on the west by Nisga’a, in the south by Coast Tsimshian and
+Witsuwit’en, in the east by Dakelh and Sekani, and in the north by Tahltan (the latter four of
+these being Athabaskan languages).
+The primary reference on the Gitksan language is Bruce Rigsby’s Gitksan Grammar
+(Rigsby 1986). Earlier work on the phonetics and phonology of the language includes Rigsby
+(1967, 1986), Wickstrom (1974), Hoard (1978), Ingram & Rigsby (1987), Rigsby & Ingram
+(1990), and more recently Brown (2008a, b, 2010). The Gitksan orthography presented below
+was ﬁrst developed by Bruce Rigsby and Lonnie Hindle in their Short Practical Dictionary of
+the Gitksan Language (Hindle & Rigsby 1973), with orthographic contributions from Powell
+& Stevens (1977) in their language learning textbooks.
+Journal of the International Phonetic Association (2016) 46/3
+C⃝International Phonetic Association
+doi:10.1017/S0025100315000432
+First published online 2 March 2016
+
+368
+This Illustration provides an outline of the more prominent features of the phonetics and
+phonology of Gitksan. Further details of the language can be found in Rigsby (1986) and
+Brown (2008a). The data presented here are based on the speech forms of two female Gitksan
+speakers: Barbara Sennott and the late Doreen Jensen, sisters who grew up speaking Gitksan
+with their parents at home, regularly spoke Gitksan growing up in the village of Kispiox, and
+the surviving sister continues to do so with other speakers of the language today. The speech
+of both sisters is representative of the Eastern dialect. The examples presented throughout the
+text are spoken by Ms. Sennott, with two tokens for each form. The narrative at the end of
+the text is told by Mrs. Jensen.
+Consonants
+Bilabial Alveolar Palatal Pre-velar
+Labialized
+velar
+Uvular
+Glottal
+Plosive
+p
+t
+kʲ
+kʷ
+q
+Ɂ
+Affricate
+t͡s
+Glottalized plosive
+p’
+t’
+kʲ’
+kʷ’
+q’
+Glottalized affricate
+t͡s’
+Glottalized lateral
+affricate
+t͡ɬ’
+Nasal
+m
+n
+Fricative
+s
+xʲ
+xʷ
+X
+h
+Lateral fricative
+ɬ
+Approximant
+j
+w
+Lateral
+approximant
+l
+Glottalized nasal
+ˀm
+ˀn
+Glottalized
+approximant
+ˀl
+ˀj
+ˀw
+Gitksan has a rich set of consonants, including a set of glottalized plosives and affricates, and a
+set of glottalized sonorants. In the notation used here, glottalization is indicated following the
+segment for plosives and affricates, and preceding the segment for sonorants. This convention
+partially reﬂects timing properties, not necessarily a fundamental difference in segment type
+with respect to ejectives versus glottalized sonorants (see Carlson, Esling & Fraser 2001 for
+the phonetics of Nuuchahnulth, and Howe & Pulleyblank 2001 generally), and is consistent
+with the representation of glottalization in the Gitksan practical orthography.
+While there do not exist many true minimal pairs, the vast majority of consonants can
+be shown to contrast in word-initial, prevocalic position. Exceptions are [x] and [xʷ], which
+are partially neutralized with [j] and [w] respectively in word-initial position: the former set
+only occur before obstruents and the latter set only before vowels. Also, the voiceless plosives
+and affricates are allophonically voiced prevocalically, thus leaving only pre-consonantal
+or word-ﬁnal forms as examples below (voiced allophones will be transcribed throughout).
+There are no instances of [ˀl] in word-initial position (see Krauss & Leer 1981), which may
+be an accidental gap.
+The plain ‘velar’ plosives and fricatives are usually phonetically prevelar in their place of
+articulation, though the labialized velar versions are produced slightly more posterior at the
+velum. Velar versions of the plain stops occur only before [s], [ɬ], which has led Rigsby (1986:
+
+369
+157–159) to suggest that the underlying forms are the prevelars, with a process of velarization
+that takes place in the environments before an [s] or [ɬ] (see Tarpent 1987 for a similar
+treatment of Nisga’a). The prevelar variants will be represented with the superscript [ʲ].
+The affricate [t͡ɬ’] is rare in the language, in contrast to other language families in the Paciﬁc
+Northwest, where the segment type is fairly common. The glottalized plosives and affricates
+are characterized by glottal closure preceding the oral closure, with ejective allophones in
+word-initial position. Also in contrast to other language families of the area, including most
+languages of the Na-Dene stock (Athabaskan and Tlingit) to the north and east, as well as
+the Wakashan and Salish languages to the south and west, is the lenis nature of these ejective
+allophones, which can cause them to be perceived as voiced stops and affricates by researchers
+(see discussion in Ingram & Rigsby 1987, Rigsby & Ingram 1990). These lenis ejectives are
+also incidentally found in the adjacent Athabaskan language Witsuwit’en (Wright, Hargus
+& Davis 2002, Hargus 2007). There is an obvious connection between the tendency towards
+decomposition of glottalized stops into glottal-stop–plosive sequences and their lenis quality.
+The sonorants are uniformly preglottalized, even in word-initial position. While the raised
+glottal stop [ˀ] has been used to indicate glottalization for sonorants, the implementation can
+range from a full glottal stop to creaky voicing during the sonorant (Um 1998: Chapter 5).
+The list below includes examples of each consonant in the environment of a low vowel.
+Some consonants, namely the voiceless plosives and affricates as mentioned above, do not
+appear in prevocalic position, and so words were selected in which they appear in postvocalic
+position. In the list, voiced allophones of stop and affricate phonemes are also presented
+and exempliﬁed (e.g. [p] followed by [b]). In the orthography, underlining indicates a uvular
+consonant.1
+IPA
+ORTHOGRAPHY
+GLOSS
+p
+dap
+dap
+‘liver, measure’
+[b]
+baːsxʲ
+baasx
+‘to fear’
+t
+Ɂaːt
+aat
+‘ashes’
+[d]
+daːxʲ
+daax
+‘circumference, outer surface’
+kʲ
+ɬakʲ
+hlak
+‘to bend (vt)’
+[ɡʲ]
+ɡʲaXxʷ
+gyaxxw
+‘last night’
+kʷ
+bakʷ
+bakw
+‘to arrive, come from (pl)’
+[ɡʷ]
+ɡʷaːsxʷ
+gwaasxw
+‘to borrow’
+q
+Ɂaːq
+aak
+‘mouth (outer opening), lips’
+[ɢ]
+ɢaːkw
+gaakw
+‘sinew’
+Ɂ
+Ɂaks
+aks
+‘water’
+t͡s
+bat͡s
+bats
+‘to lift (vt)’
+[d͡z]
+d͡zam
+jam
+‘to cook, boil’
+p’
+ˈɢojp’aX
+goyp’ax
+‘be bright (of sunlight or light)’
+t’
+t’aːp
+t’aap
+‘to hammer’
+kʲ’
+kʲ’aːɬ
+ky’aahl
+‘aside, to one side (verb proclitic)’
+1 Morpheme glosses are based on the Gitxsan Online Dictionary conventions, and are as follows: I =
+Series I person marker, II = Series II person marker, III = Series III person marker, 1 = ﬁrst person,
+2 = second person, 3 = third person, ANTIP = antipassivizer, ASSOC = associative, ATTR = attributive,
+AX = A = (transitive subject) extraction marker, CAUS = causative, CL.CNJ = clausal conjunction,
+CN = common noun connective, CNTRST = contrastive, COMP = complementizer, DEM = demonstrative,
+DETR = detransitivizer, DIST = distal, DISTR = distributive, EMPH = emphatic, FOC = focus, INCEP =
+inceptive, INDP = independent, IPFV = imperfective, NEG = negation, NMLZ = nominalizer, PASS =
+passivizer, PH.CNJ = phrasal conjunction, PL = plural, PN = proper noun connective, PREP = preposition,
+PROSP = prospective aspect, RESTR = restrictive, SG = singular, SX = S = (intransitive subject) extraction
+marker, T = ‘T’ sufﬁx, TR = transitive, VI = intransitive verb, VT = transitive verb. A hyphen (-) marks
+an afﬁx boundary and an equals sign (=) a clitic boundary.
+
+370
+kw’
+kʷ’ast
+kw’ast
+‘to be broken’
+q’
+q’aːxʲ
+k’aax
+‘wing, feather’
+t͡s’
+t͡s’al
+ts’al
+‘half-smoked salmon’
+t͡ɬ’
+t͡ɬ’oːkʲ’
+tl’ook’
+‘mud’
+m
+maːks
+maaks
+‘to wash clothes’
+n
+naX
+nax
+‘snowshoe’
+s
+saːkʲ
+saak
+‘oolichan’
+x
+Ɂaˈnaːxʲ
+anaax
+‘bread’
+xʷ
+daxʷ
+daxw
+‘to die (pl)’
+X
+Xatxʷ
+xatxw
+‘to be cold (of a person)’
+h
+haːt
+haat
+‘intestines, guts’
+ɬ
+ɬaː
+hlaa
+‘incep’
+j
+jat͡s
+yats
+‘to hit’
+w
+wa
+wa
+‘name’
+l
+laːxʷ
+laaxw
+‘trout’
+ˀm
+ˀmal
+‘mal
+‘canoe’
+ˀn
+ˀnaX
+‘nax
+‘bait’
+ˀl
+ɬiˈbaˀl
+hliba‘l
+‘to rub’
+ˀj
+ˀjaq
+‘yak
+‘to set (a snare), to be hanging’
+ˀw
+ˀwa
+‘wa
+‘to ﬁnd, to get to (someplace)’
+Vowels
+The phonological inventory of vowels for Eastern Gitksan is given above. The inventory for
+Western Gitksan is slightly different, as it can be argued that an additional long/short contrast
+for the mid vowels is historically emerging (Rigsby 1986: 202).
+There is a great deal of variation in the production of vowels; for instance, the mid front
+vowel space often overlaps with that of the high front vowels, and the high back vowels can
+be found in a more high-central position. Variation in low vowel production ranges from the
+back of the vowel space to the front. The vowels which are phonologically contrastive in
+stressed position (all except /ə/) are listed here:
+IPA
+ORTHOGRAPHY
+GLOSS
+iː
+diːkʷ
+diikw
+‘woman’s sister’
+i
+asˈɡʲi
+asgi
+‘to be ugly’
+eː
+jeː
+yee
+‘go (VI SG)’
+aː
+aːq
+aak
+‘mouth (outer opening), lips’
+a
+aks
+aks
+‘water, to drink, be wet’
+
+371
+Figure 1 F1 × F2 plots for Gitksan vowels. Ellipses deﬁne one standard deviation. The grid lines
+mark intervals of 750 Hz for F2 and 200 Hz for F1.
+oː
+ɡʲoː
+gyoo
+‘to move in water, to swim (of ﬁsh)
+uː
+ɡʲuː
+gyuu
+‘beads’
+u
+ɡʲuks
+gyuks
+‘to jump (of ﬁsh)’
+The reduced vowel /ə/ appears in afﬁxes and some function words, and is subject to a great deal
+of colouring by the neighboring consonantal environment. Adjacent to laryngeal or uvular
+consonants, /ə/ surfaces as a low vowel [a]:
+ə
+/həlajt/
+[haˈlajt]
+halayt
+‘Indian doctor, shaman’
+In most other contexts, it tends to surface as [I]:
+ə
+/dəm/
+[dIm]
+dim
+‘PROSP’
+Since schwa exhibits such variation (including further variation, to be discussed in the
+next section), it has been placed in an idealized central location in the vowel chart
+above.
+The qualities for each of the above vowel examples (including the allophones of schwa),
+as well as the examples illustrating the vowel length contrast below, are illustrated in Figure 1,
+with ellipses deﬁning one standard deviation.
+Vowel length is contrastive, and there are minimal pairs to illustrate this:
+is
+[Ɂis]
+‘soapberries’
+iis
+[Ɂiːs]
+‘necklace’
+t’a
+[t’a]
+‘louse’
+t’aa
+[t’aː]
+‘sit’
+dus
+[dus]
+‘bounce (VT SG)’
+duus
+[duːs]
+‘cat’
+There are short mid vowels that occur as allophones of the long vowels in positions preceding
+a sonorant (Rigsby 1986: 199–203). This results in allophonic short mid vowels in Eastern
+Gitksan (Rigsby notes a few exceptions with either short mid vowels NOT preceding a
+
+372
+sonorant, and long mid vowels preceding a sonorant). The following alternations illustrate
+this shortening:
+majagalee
+[mad͡zaɢaˈleː]
+‘ﬂower’
+majagalee-t
+[mad͡zaɢaˈleːt]
+‘his/her ﬂower’
+ﬂower-3.II
+majagalee-n
+[mad͡zaɢaˈlen]
+‘your ﬂower’
+ﬂower-2SG.II
+yukw=hl t’aa-t
+[jukʷɬ t’aːt]
+‘he/she is sitting’
+IPFV=CN sit-3.II
+yukw=hl t’aa-n
+[jukʷɬ t’an]
+‘you’re sitting (SG)’
+IPFV=CN sit-2SG.II
+Unlike nearby Tlingit, vowel length does not interact with vowel quality, e.g. giving rise
+to a subsidiary tense–lax distinction (e.g. as reported by Boas 1917; Maddieson, Smith &
+Bessell 2001 characterize the short vowels as being more centralized). The lack of a vowel
+quality enhancement based on this contrast makes the distinction more difﬁcult to perceive
+for researchers working on the language.
+Conventions
+There are numerous instances of consonant–vowel interactions in the language. As mentioned
+above, there is a pervasive rule of voicing, whereby plosives and affricates that precede a vowel
+become voiced. This is illustrated with the following sets of alternations:
+[ɡup]
+‘to eat (VT)’
+[ˈɡubIt]
+‘he/she ate it’
+[nIˈbIp]
+‘maternal uncle’
+[nIˈbIbIn]
+‘your (SG) maternal uncle’
+While the voicing process affects both plosives and affricates, it does not affect fricatives.
+Hence, the process provides evidence for the class of plosives and affricates in the
+language (i.e. as a phonological class of ‘stops’). While the fricatives are immune to
+the prevocalic voicing that affects plosives and affricates, there is a lenition process
+that affects the voiced uvular plosive [ɢ], optionally rendering it as a voiced uvular
+fricative [ʁ]; for example, bogabaga ‘kiss’ is optionally realized as [ˌboɢaˈbaɢa] 
+[ˌboʁaˈbaʁa]. This optional lenition only affects the uvular plosives (see Rigsby 1967, 1986:
+154).
+There is also a process that shifts the timing of lip rounding from labialized velar
+plosives to a following vowel. As Rigsby (1986: 162–164) has pointed out, sequences of
+an underlying labialized plosive followed by a high front unrounded vowel surface as a plain
+plosive followed by a high back rounded vowel. The same process applies to schwa, as
+illustrated below with the alternation found in gipaykw ‘ﬂy’ and gipaygum jixts’ik ‘airplane’.
+In this example, the epenthetic schwa that occurs between the root and the sufﬁx is rounded
+to [u].
+/kʲəphajkʷ /
+[ɡʲIˈpajkʷ]
+‘ﬂy’
+/kʲəphajkʷ-m
+t͡səxʲt͡s’ikʲ/
+[ɡʲIˈpajɡum d͡zIxˈt͡s’Ik]
+‘airplane’
+ﬂy-ATTR
+vehicle
+There is thus neutralization between high front vowels, high back vowels, and schwa following
+a labialized plosive.
+There is pervasive spirantization of velars present in the language, which is also the
+most prominent phonological feature of the Eastern dialects versus Nisga’a and the Western
+dialects. As pointed out by Rigsby (1967, 1986), this spirantization is especially evident in
+postconsonantal plosives, which become fricatives: /qal-ksə/ [ɢalxsə] ‘through a corridor or
+passageway’.
+
+373
+Finally, there is a process of vowel lowering in the language. Within roots, only
+low or mid vowels are allowed adjacent to uvular and laryngeal consonants (with some
+exceptions; see Brown 2008a). In morphological contexts, such as afﬁxes and reduplicants,
+this consonantal effect on the vowel is grammaticized, resulting in an active lowering process
+whereby a vowel of any height will become a low vowel (see Tarpent 1983 and Shaw
+1987 for similar observations on Nisga’a). This is illustrated with the preﬁx /sə-/ ‘pick,
+gather’:
+[sI-ˈmaːˀj]
+‘pick berries’
+[sI-ˈt͡s’aq’]
+‘dig, gather clams’
+[sa-ˈɁis]
+‘pick soapberries’
+[sa-ˈɢasX]
+‘dig wild rice’
+The same phenomenon can be shown with reduplication, where reduplicant vowels
+(reduplicants are preﬁxes) surface as [u] adjacent to (underlying) labials, as [a] adjacent
+to uvulars or laryngeals, and as [I] elsewhere.
+Adjacent to labials:
+[ɡup]
+[ɡup-ˈɡup]
+‘to eat (VT)’
+Adjacent to uvulars/laryngeals:
+[d͡zoq]
+[d͡zaX-ˈd͡zoq]
+‘to camp’
+[ɢos]
+[ɢas-ˈɢos]
+‘to jump’
+[het͡s]
+[has-ˈhet͡s]
+‘to send’
+[Ɂos]
+[Ɂas-ˈɁos]
+‘dog(s)’
+Elsewhere:
+[d͡zam]
+[d͡zIm-ˈd͡zam]
+‘to cook, boil (VT)’
+Stress
+Rigsby (1986: 213–217) is responsible for the primary observations on Gitksan stress. He
+notes that in lexical words (verbs, nouns, and adjectives), stress falls on the rightmost vowel
+of the root. Examples include [ɢaˈniːs] ‘dog salmon’ /qəniːs/ and [ˈlaːɢaldiˀj] ‘I examined
+it’ /laːq-əl-tə-ˀj/ (examine-?-T-1SG.II) (Rigsby 1986: 213). In compounds stress is found on
+the rightmost root-vowel of the rightmost member of the compound. In contrast, in preverbs,
+which have some lexical content, stress is on the leftmost vowel. Phrasal stress in Gitksan
+falls on the rightmost root-vowel of the head word. Sufﬁxes are invisible to stress assignment
+(Rigsby 1986: 216 notes only two exceptions).
+Syllable structure
+The word-level prosodic structure of Gitksan has been previously treated in Wickstrom
+(1974) and most completely in Rigsby (1986). The syllable template of Gitksan allows
+for clusters of consonants in onset or coda position, though it does not allow for
+adjacent heterosyllabic vowels, or major processes of diphthongization (with vowel hiatus
+resolved through glide formation). Some examples of words with initial consonant clusters
+include:
+Word-initial consonant clusters
+plosive–plosive
+[pdeːq]
+‘clan’
+plosive–fricative
+[psa]
+‘grey clay’
+fricative–plosive
+[xʷdaxʲ]
+‘hungry’
+fricative–fricative
+[xʷsit]
+‘autumn’
+fricative–sonorant
+[smaxʲ]
+‘meat, ﬂesh; black bear’
+
+374
+Three-member clusters and larger are also found. The following clusters are in word-ﬁnal
+position, which, because of consonantal sufﬁxes, is a richer context for clustering:
+Word-ﬁnal consonant clusters
+plosive–plosive
+[Xalˈdoːkʷt]
+‘his medicine’
+/Xaltoːkʷ–t/
+plosive–fricative
+[t͡s’amtxj]
+‘electricity, ﬂash’
+fricative–plosive
+[kʷ’ast]
+‘to be broken’
+fricative–fricative
+[ˀmasxʷ]
+‘to sting’
+sonorant–plosive
+[Ɂant]
+‘AX=3.I’
+/Ɂan=t/
+sonorant–fricative
+[sɢenxj]
+‘little ﬁnger’
+An example of a larger cluster, involving ﬁve consonants in word-ﬁnal position and derived
+from afﬁxation is [d͡zIlkstɬ daw] /t͡silks-t=ƚ taw/ (melt-PASS=CN ice) ‘the ice is melted’. More
+detailed discussion of consonant clusters and syllable structure constraints can be found in
+(Rigsby 1986, Brown 2008b).
+Plosive–sonorant clusters (in that sequence), whether heterosyllabic or tautosyllabic, are
+nonexistent in the lexicon of the language. The mirror image sonorant–plosive sequence is,
+however, acceptable, whether across a syllable boundary or tautosyllabically in syllable coda
+position:
+alp’a
+[ˈɁal.pʼa]
+‘RESTR’
+an=t
+[Ɂant]
+‘AX=3.I’
+This results in a curious gap in consonant cluster sequences in the language. The ban on
+stop–sonorant clusters does not follow from the sonority hierarchy in onset position (as stop–
+fricative and fricative–sonorant clusters are allowed), and thus differs from neighboring
+Salish languages (which strictly obey the hierarchy), as well as from Wakashan and
+neighbouring Athabaskan languages, which generally allow no complex onsets at all (aside
+from Witsuwit’en, which does allow limited complex onsets; Hargus 2007: Chapter 19).
+Transcription
+The narrative text that follows is an adaptation of ‘The North Wind and the Sun’, which could
+be appropriately titled ‘The Wind and the Sun’, spoken by the late Doreen Jensen. The broad
+transcription and the orthographic version (with morpheme breakdowns) of the text follow.
+Broad transcription
+jukʷt ləˈseːxʷɬ baːsxʷ ɢanɬ ɬoXs naːɬ kʲ’aː daXˈɡʲadIt as ˀniˈdiːt
+/ naːɬ kʲ’aː daXˈɡʲadIt dIs / jukwt dIˈseːxʷɬ diːtɬ naː dIm kʲ’aː
+daXˈɡʲadIt / dIs wiɬ ˈhaɡʷIn ˀwitxʷɬ lixsˈɡʲadIt iːt hoːxɬ ˀwiː
+ɡʷiˈla / iː saˈɢoːtxʷs dIˈpuːst saˈɢoːtxʷdaː naːɬ kʲ’aː daXˈɡʲadIt
+dIm ant saːˈɡuːdIːɬ (ɡʷIˈda lIx) ˀwiː ɡʷIˈlaɬ lIxsˈɡʲadit ɡi dIm
+ˈhoːxʲdiːtɬ andaXˈɡʲatdiːt dIm iːt saːˈɡuːtdiːtɬ gʷIˈlaɬ / lIxsˈɡʲadIt
+ɡi / iː sIm daXˈɡʲatxʷɬ ˈbaːsxʷ as sImˈswanIt / daXˈɡʲatxʷ ˀnit
+swan / iː ɬaː aːmɬ ɢaˈˀnaɡʷut iː iː het / neː ap ˈɬɡuxʷsInˀj / neːˈdiːt
+neːˈdiː ˈhat͡s’Im ɢaj daxˈjukʷdIɬ ɡjat lIxsˈɡjadIt ɡIɬ ɡʷIˈlat wIl
+Xatxʲ wIl t’isɬ ˈbahasxʷ / iː ɬa aːmɬ ɢaˈˀnaɡʷIt iː het / woj ˀniːn
+anˈdiːt baqt / woj ɬa diː siˈt’aːˀmaːɬ ɬoːxs ɡi iː sImˈɡʲamks wIl
+wIl xsaˈɁaːʔixst / iː ɬa aːmɬ ɢaˈˀnaɡʷit iːt saːˈɡuːdIɬ lIxsˈɡʲadIt
+
+375
+ɡIɬ ˀwiː ɡʷiˈlat wIl ɡʲamkt iː / iː heɬ ˈbahasxʷ / woj ˀniːnɬ kʲ’aː
+daXˈɡʲadIt wIl ˀniːn ant saːˈɡuːdIɬ ɡwIˈlaɬ lIxsˈɡʲadIt
+Orthographic transcription with interlinear English gloss
+The top line of each entry is an orthographic representation. The second line indicates where
+the afﬁx and clitic boundaries are within words.
+Yukwt
+laseexwhl
+bahasxw
+ganhl
+hloxs
+yukw=t
+laseexw=hl
+bax-asxw
+gan=hl
+hloxs
+IPFV=3.I
+discuss=CN
+run-ANTIP
+PH.CNJ=CN
+sun
+naahl
+ky’aa
+daxgyadit
+as
+‘nidiit,
+naa=hl
+ky’aa
+daxgyat-it
+a=s
+‘nidiit
+who=CN
+most
+strong-SX
+PREP=PN
+3PL.III
+‘The wind and the sun were discussing amongst themselves who was the strongest of them.’
+naahl
+ky’aa
+daxgyadit
+dis . . .
+naa=hl
+ky’aa
+daxgyat-it
+dis
+who=CN
+most
+strong-SX
+time
+(false start)
+Yukwt
+laseexwdiit
+naa
+dim
+ky’aa
+daxgyadit
+yukw=t
+laseexw-diit
+naa
+dim
+ky’aa
+daxgyat-it
+IPFV=3.I
+discuss-3PL
+who
+PROSP
+most
+strong-SX
+‘They were discussing who was the strongest.’
+dis
+wihl
+hagwin
+‘witxwhl
+lixsgyadit
+iit
+dis
+wil=hl
+hagwin
+‘witxw=hl
+lixs-gyat-it
+ii=t
+time
+COMP=CN
+toward
+come=CN
+different-person-SX
+CL.CNJ=3.I
+hooxhl
+‘wii
+gwila.
+hoox=hl
+‘wii
+gwila
+use=CN
+big
+blanket
+‘Just then a stranger arrived wearing a big blanket.’
+Ii
+sagootxws
+dipust,
+sagootxwda
+naahl
+ii
+sa-goot-xw=s
+dip=ust
+sa-goot-xw-da
+naa=hl
+CL.CNJ
+CAUS-heart-PASS=PN
+ASSOC=DEM.DIST
+CAUS-heart-PASS-INDP
+who=CN
+ky’aa
+daxgyadit
+dim
+ant
+saa
+guudihl
+‘wii
+gwilahl
+ky’aa
+daxgyat-it
+dim
+an=t
+saa
+gii[t]-i=hl
+‘wii
+gwila=hl
+most
+strong-SX
+PROSP
+AX=3.I
+away
+take-T=CN
+big
+blanket=CN
+lixsgyaditgi,
+dim
+hooxdiithl
+andaxgyatdiit
+dim
+lixs-gyat-it=gi
+dim
+hoox-diit=hl
+an-daxgyat-diit
+dim
+different-person-SX=DIST
+PROSP
+use-3PL=CN
+NMLZ-strong-3PL
+PROSP
+iit
+saa
+guutdiithl
+gwilahl
+lixsgyaditgi
+ii=t
+saa
+guu[t]-diit=hl
+gwila=hl
+lixs-gyat-it=gi
+CL.CNJ=3.I
+away
+take-3PL.II=CN
+blanket=CN
+different-person-SX=DIST
+‘And then they decided, they had the idea that whoever was the strongest would make
+the stranger take off his big blanket, using their power to make him take it off.’
+Ii
+sim
+daxgyatxwhl
+bahasxw,
+sim
+swanit,
+daxgyatxw
+‘nit
+swan.
+ii
+sim
+daxgyat-xw=hl
+bax-asxw sim
+swan-i-t
+daxgyat-xw ‘nit
+swan
+CL.CNJ truly strong-PASS=CN run-ANTIP truly blow-TR-3.II strong-PASS 3SG.III blow
+‘So the wind tried really hard, he really blew at him. He blew very hard.’
+
+376
+Ii
+hlaa
+amhl
+ga‘nagwit
+ii
+het:
+ii
+hlaa
+am=hl
+ga-‘nakw-it
+ii
+he-t
+CL.CNJ
+INCEP
+good=CN
+DISTR-long-SX
+CL.CNJ
+say-3.II
+‘But after a while, he said:
+‘Nee,
+ap
+hlguxwsin‘y.’
+nee
+ap
+hlgu-xw-s-in-‘y
+NEG
+EMPH
+small-PASS-PASS-CAUS-1SG.II
+“I can’t do it”.’
+needii
+hats’im
+gay
+daxyukwdihl
+lixsgyaditgihl
+nee=dii
+hats’im
+gay
+dax-yukw-t-i=hl
+lixs-gyat-it=gi=hl
+NEG=FOC
+just
+CNTRST
+ﬁrm-hold-T-TR=CN
+different-person-SX=DIST=CN
+gwilat
+wil
+xatxwt
+wil
+t’ishl
+bahasxw.
+gwila-t
+wil
+xatxw-t
+wil
+t’is=hl
+bax-asxw
+blanket-3.II
+COMP
+cold-3.II
+COMP
+big=CN
+run-ANTIP
+‘The stranger held his blanket back tightly because he was cold, since the wind
+was blowing so much.’
+Ii
+hlaa
+amhl
+ga‘nagwit
+ii
+het:
+ii
+hlaa
+am=hl
+ga-‘nakw-it
+ii
+he-t
+CL.CNJ
+INCEP
+good=CN
+DISTR-long-SX
+CL.CNJ
+say-3.II
+‘So a while later, the wind said, he said:
+‘Woy,
+‘niin
+andiit
+bakt.’
+woy
+‘niin
+an=dii=t
+bak-t
+okay
+2SG.III
+AX=FOC=3.I
+try-3.II
+“Okay, it’s your turn to take the blanket off the stranger”.’
+Woy,
+hlaadii
+sit’aa‘ma
+hloxsgi,
+ii
+sim
+gyamks
+woy
+hlaa=dii
+si-t’aa-‘ma
+hloxs=gi
+ii
+sim
+gyamk-s
+okay
+INCEP=FOC
+CAUS-sit-DETR
+sun=DIST
+CL.CNJ
+truly
+heat.up-PASS
+wil
+xsa
+aat’ixst.
+wil
+xsa
+aat’ixs-t
+COMP
+out
+come-3.II
+‘Well, so then the sun started and it got really hot when he came out.’
+Ii
+hlaa
+amhl
+ga‘nagwit
+iit
+saa
+guudihl
+ii
+hlaa
+am=hl
+ga-‘nakw-it
+ii=t
+saa
+guu[t]-i=hl
+CL.CNJ
+INCEP
+good=CN
+DISTR-long-SX
+CL.CNJ=3.I
+away
+take-T=CN
+lixsgyaditgihl
+‘wii
+gwilat
+wil
+gyamkt
+lixs-gyat-it=gi=hl
+‘wii
+gwila-t
+wil
+gyamk-t
+different-person-SX=DIST=CN
+big
+blanket-3.II
+COMP
+heat.up-3.II
+‘A little while later, the stranger took off his big blanket, because it was hot.’
+Ii
+hehl
+bahasxw:
+ii
+he=hl
+bax-asxw
+CL.CNJ
+say=CN
+run-ANTIP
+‘The wind said:
+‘Woy,
+‘niinhl
+ky’aa
+daxgyadit
+wil
+‘niin
+ant
+woy
+‘niin=hl
+ky’aa
+daxgyat-it
+wil
+‘niin
+an=t
+okay
+2SG.III=CN
+most
+strong-SX
+COMP
+2SG.III
+AX=3.I
+
+377
+saa
+guudihl
+gwilahl
+lixsgyadit.’
+saa
+guu-[t]-i=hl
+gwila=hl
+lixs-gyat-it
+away
+take-T=CN
+blanket=CN
+different-person-SX
+“Okay, you’re the strongest, because it was you who got the blanket off the stranger”.’
+Acknowledgements
+Many thanks go to our Gitksan consultants and teachers, especially the late Doreen Jensen. Thanks to
+Molly Babel, Clarissa Forbes, Karsten Koch, Zoe Lippsett, Douglas Pulleyblank, Alyssa Satterwhite,
+and especially to Bruce Rigsby for commenting on an earlier draft. Thanks also to two anonymous
+reviewers and to Adrian Simpson for extensive comments and guidance. Funding for this project
+was made possible by a Phillips Fund for Native American Research grant and a Jacobs Fund grant
+awarded to the ﬁrst author. Any errors are the responsibility of the authors.
+References
+Boas, Franz. 1917. Grammatical notes on the language of the Tlingit Indians (University of Pennsylvania
+Museum Anthropological Publications 8(1)). Philadelphia, PA: University of Pennsylvania Museum.
+Brown, Jason. 2008a. Theoretical aspects of Gitksan phonology. Ph.D. thesis, University of British
+Columbia.
+Brown,
+Jason.
+2008b.
+An
+unexpected
+gap
+in
+Gitksan
+consonant
+cluster
+phonotactics.
+In
+Christiana Christodoulou & John M. Lyon (eds.), Papers for the 43rd International Conference on
+Salish and Neighbouring Languages (University of British Columbia Working Papers in Linguistics),
+14–21. Vancouver: University of British Columbia.
+Brown, Jason. 2010. Gitksan phonotactics. Munich: Lincom Europa.
+Carlson, Barry F., John H. Esling & Katie Fraser. 2001. Nuuchahnulth. Journal of the International
+Phonetic Association 31(2), 275–280.
+Hargus, Sharon. 2007. Witsuwit’en grammar: Phonetics, phonology and morphology. Vancouver:
+University of British Columbia Press.
+Hindle, Lonnie & Bruce Rigsby. 1973. A short practical dictionary of the Gitksan language. Northwest
+Anthropological Research Notes 7, 1–60.
+Hoard, James E. 1978. Obstruent voicing in Gitksan: Some implications for distinctive feature theory. In
+Eung-Do Cook & Jonathan Kaye (eds.), Linguistic studies of Native Canada, 111–119. Vancouver:
+University of British Columbia Press.
+Howe, Darin & Douglas Pulleyblank. 2001. Patterns and timing of glottalisation. Phonology 18(1), 45–80.
+Ingram, John & Bruce Rigsby. 1987. Glottalic stops in Gitksan: An acoustic analysis. 11th International
+Congress of Phonetic Sciences (ICPhS XI), Talinn, Estonia, 134–137.
+Krauss, Michael E. & Jeff Leer. 1981. Athabaskan, Eyak, and Tlingit sonorants (Alaska Native Language
+Center Research Papers 5). Fairbanks: Alaska Native Language Center.
+Maddieson, Ian, Caroline L., Smith & Nicola Bessell. 2001. Aspects of the phonetics of Tlingit.
+Anthropological Linguistics 43(2), 135–176.
+Powell, J. V. & Russell Stevens. 1977. Gitxsanimx: Gitksan language, Books 1 & 2. Kispiox: Kispiox
+Band.
+Rigsby, Bruce. 1967. Tsimshian comparative vocabularies with notes on Nass-Gitksan systematic
+phonology. Presented at the International Conference on Salish Languages.
+Rigsby, Bruce. 1986. Gitksan grammar. Ms., University of Queensland.
+Rigsby, Bruce & John Ingram. 1990. Obstruent voicing and glottalic obstruents in Gitksan. International
+Journal of American Linguistics 56(2), 251–263.
+Shaw, Patricia. 1987. Nonconservation of melodic structure in reduplication. In Anna Bosch, Barbara Need
+& Eric Schiller (eds.), Papers from the Twenty-third Regional Meeting, Chicago Linguistic Society (CLS
+23), 291–306. Chicago, IL: Chicago Linguistic Society.
+
+378
+Tarpent, Marie-Lucie. 1983. Morphophonemics of Nisgha plural formation: A step towards Proto-
+Tsimshian reconstruction. Kansas Working Papers in Linguistics 8 (Studies in Native American
+Languages II), 123–214.
+Tarpent, Marie-Lucie. 1987. A grammar of the Nisgha language. Ph.D. dissertation, The University of
+Victoria.
+Um, Hye-Young. 1998. Laryngeals and laryngeal features. Ph.D. dissertation, The University of Texas at
+Austin.
+Wickstrom, Ronald William. 1974. A phonology of Gitksan, with emphasis on glottalization. MA thesis,
+University of Victoria.
+Wright, Richard, Sharon Hargus & Katherine Davis. 2002. On the categorization of ejectives: Data from
+Witsuwit’en. Journal of the International Phonetic Association 32(1), 43–77.

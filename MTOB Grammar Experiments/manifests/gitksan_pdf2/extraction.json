@@ -1,0 +1,15 @@
+{
+  "source_id": "gitksan_pdf2",
+  "language": "Gitksan",
+  "location_from_pdf": "the Skeena Valley in northwestern British Columbia, Canada",
+  "input_pdf": "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/Gitskan Grammar PDF's/gitksan Grammar PDF 2(1986_Rigsby).pdf",
+  "input_pdf_sha256": "3c47efe0c35153ee86147559bc5f70014f025b477d2678d131bb86a7fd55ab46",
+  "pdf_pages": 9,
+  "extracted_characters": 53198,
+  "repeated_margin_patterns_removed": [],
+  "extraction_policy": "preserve embedded PDF text; remove only repeated top/bottom marginal lines",
+  "warnings": [],
+  "audit_status": "manually_reviewed",
+  "audit_timestamp_utc": "2026-08-13T17:17:21.214205+00:00",
+  "audit_scope": "page counts, representative page text, extraction warnings, and Gl page ranges"
+}

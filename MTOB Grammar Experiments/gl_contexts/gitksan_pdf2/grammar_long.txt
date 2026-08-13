@@ -1,0 +1,877 @@
+Excerpts from the Introduction to ~
+Grammar
+Bruce Rigsby
+University of Queensland
+The following are sections from the introductory chapter of my
+Gitksan Grammar, which has now been submitted to the B.C. Provincial
+~
+I thought they might touch on matters of interest to other
+Northwest SCholars, and so I've reformatted them singlespaced for
+presentation here.
+Diane Barwick, Pier De Paola, John Dunn, Dell Hymes, Michael
+Krauss, Peter HUhlh!lusler, Jay Powell and Rosalind Whalley read a draft
+of the introductory chapter and made thoughtful comments, corrections,
+and suggestions, many of which I have incorporated and made.
+Research funding has come at various times from the National Museum
+of Canada, the University of New Mexico, Harvard University, the 'Ksan
+Association, the Center for Applied Linguistics, the University of
+Queensland, and the British Columbia Provincial Museum.
+I alone am responsible for the views I express and the materials
+present in this work.
+I would appreciate comments, suggestions,
+corrections, etc. from readers, and I'm open to discussion on any points
+by correspondence.
+~ Gitksan !!. Language 2!.!!. Dialect?
+The present monograph provides a grammatical description of the
+Gitksall language, and we now turn to the problem of defining just what
+we mean by the phrase "the Gitksan language".
+This leads us also to
+consider the relationships between the terms "language" and "dialect",
+because Gitksan has been referred to in the anthropological and
+linguistic literature as a dialect of the Nass-Gitksan language (Rigsby
+1967, 1970, 1975).
+For an even longer period of time, Gitksan has also
+been referred to as a dialect of the Tsimshian lan7uage (Boas 188~,
+1911b; Garfield 1939:173, 195-6; Duff 1964a:15; Guedon 1977).
+I reopen
+the question here.
+There are four sorts of approaches that linguists and
+anthropologists have followed in defining the concepts of language and
+dialect.
+First, there is an older practice of referring to separate
+language varieties that share a common genetic origin as dialects
+(Haugen 1966:923).
+Thus someone might refer to English, German and
+Swedish as Germanic dialects, or of French, Spanish and Italian as
+Romance dialects.
+It is in this sense of shared historical origin that
+Boas usually referred to the Tsimshian and Nisgha languages as dialects
+of Tsimshian.
+Second, American linguists have generally conceptualized the
+relationship between language and dialect in terms of mutual
+intelliGibility.
+Accordingly, dialects are varieties of a language that
+are either mutually intelligible or are connected by mutually
+intelligible varieties (llockett 1951:1:321-330;
+Gleason 1961:441-442).
+It was this sort of definition that I had in mind when I wrote (Rigsby
+269 J
+1970:212):
+•.. Nass-Gitksan and its closely related congener, Coast TSimshian,
+comprise the Tsimshian language family.
+Nass-Gitksan, as a
+language name, subsumes the dialects which are spoken today in a
+number of villages located in the Nass and Skeens River va lleys.
+These dialects appear to fall into two major sub-groupings;
+the
+Nass dialects of the Nass valley and the Gitksan dialects of the
+Skeena Valley.
+By this logic, I should present a full grammatical description of the
+Nass-Gitksan language in all its dialectal diversity, or else I should
+restrict myself and present a grammar of the Gitksan dialect(s) of the
+Nass-Citksan language. A decade ago, I would have accepted this
+phrasing of the choice.
+Today, I cannot accept it because there are
+theoretical, methodological and practical considerations that lead me to
+accept and use the people's own phrssing in English that speaks of the
+Gitksan language, not of the Gitksan dialect.
+The theoretical objection to the mutual intelligibility approach is
+that it assumes the intelligibility of two language varieties is
+primarily a function of their structural similarity. The closer two
+language varieties are in phonology, grammar and vocabulary, the more
+they are intelligible to each other.
+Some lexicostatistical studies
+make the same assumption and distinguish separate languages from
+dialects of the same language in terms of an arbitrary percentage of
+shared basic vocabulary, generally about 70%.
+Yet the literature on
+attempts to operationalize and measure intelligibility show the
+difficulties of distinguishing intelligibility due to structural
+similarity from that due to normal language learning. It is important
+to keep in mind that language varieties are intelligible to people, to
+speakers of language varieties; language varieties or codes are not
+intelligible to each other.
+And too as Wolff (1959, 1967) pointed out,
+matters of social and cultural evaluation may lead speakers to deny that
+one or another language variety is intelligible to them.
+It seems to me
+that the interesting and important matter of intelligibility should be
+kept separate from the question of whether language varieties should be
+considered to be dialects of the same language or not.
+(See kigsby and
+Sutton 19~O-l:!2:l7-18 for a critical overview of the literature of
+intelligibility).
+Third, the relationship of dialect to language may be cast in terms
+of speech functions as in everyday English-speaking and European usage
+(see lIaugen IYo6:924-<J25).
+Thus, a language has a full set of
+functions, including official use in public settings and education,
+writte .. literature, and codified norms as set down in a standard
+orthography, grammars and dictionaries.
+In this way, modern Standard
+Ellgl ish, French and Gern.1n qualify as languages. Dialects, for their
+part, are generally unwritten and are functionally restricted to
+dOlllest ic and community or regiona 1 settings.
+Cockney (in Eng !ish) and
+the various Low German varieties of north coastal Germany count only as
+dialects, not as full languages.
+Phrased another way, such functional
+definitions basically ask whether a language variety is a Standard
+language or not.
+lly this criterion, neither Gitksan nor Nisgha can be
+considered to be full languages, although both are in the early
+inc i pient stages of standard language development.
+Fina 11 y, these
+functional definitions often include an implicit negative, denigrating
+2
+270
+
+l:
+nt, in th;]l it lannUll.;t: i~ considcr~d lo be hetter thou a diu1ect.
+It is not surprl"lnc the Gitksan people insist un calUng their language
+II 'an);uage .Ind not a d iul ec t, as lin,:U I sta sometimes te 11 them they
+shoulJ.
+This brin::s us fin" I I y to the founh appCt>ach to the question of
+lanl:u .. ge and dialect. It is one that is implicit in moch modern
+:rociolln;:uistic and lingUistic Rnthropological work, where till'
+relationship(s) holding between social groups and the langua!:e varieties
+they slICak is rel:arded as an e •• pirlcal 'Iuestion, open to variabi I ity and
+requiring research (see specifically lIymes 1968; Rigsby and Sutton 19110-
+tl2: Ho"",ine 19t11).
+~'or exanll,le, speaker .. of local language vllricti"s on
+the two sides of the boundary between The Nether lands and the Gennan
+Federal I:epubllc can understand and converse wilh one another, yet the
+p<!ople on The Netherlands side say that they speak Dutch, while those on
+the Gern."n side soy that they speak Ger .... n (Houlton 1 '.It1'): 404).
+/I
+sociol1nguist, such as Trudgill (1974:15-1&), would soy that the local
+varieti"s or dia lects are heterononlOus with respect to Standard Ilutch or
+Standard German, as the case may be, but that the two national Standard
+languages lire autonomous with respect to ellch other.
+'nlUS, the citizens
+and residents of TI.e Netherlands national state consider the Dutch
+langus!:e to include local non-standard llutch (but not Frisian) dialects
+along with Standard Dutch. Their views regarding the inclusion of
+Flenlish and Afrikaans language varieties are more problematic.
+Germans
+similarly consider the G"rman language to include non-atandard and
+Standard German varieties.
+Brief} y put, this fourth approach places great value upon community
+norms relating to speech forms and their rules of use and upon conununity
+'perceptions and definitions of language varieties, their
+intelli!:ibility, and so on.
+In this reapect, it may be said to
+em"ha"lze "emic" phenomena, often non-linguistic, yet it also requires
+close attention to the hard "etic" facts of variability of speech forms
+within a conlBunity.
+Indeed, the very question of whether the socis 1
+group under study is a c .... unity or not is an emllirical one to be
+investigat"d, lind this requires methods of ethnographiC, sociolingUistic
+and sociological research that go beyond traditlo~,l dialectology and
+1 in!!uist-I nformant el iciting sessions.
+And unfortunate 1 y, lI1e"e methods
+require more time, funding and research assistance than have been
+available to lIIe over the period of .. y Gitksan (and Nisr.ha and Coast
+Tsimshian) research, yet I believe I have managed to gain some reliable
+knowledge about the Gitksan co .. nunity and their norms relatin~ to
+language and speech.
+Bloomfield (1927) offers a perceptive view of such
+norms among lhe tienomini, and V. lIymes (1975) presents the instructive
+case of Warm Springs Sahaptin, which is directly parallel to the Gitksan
+situation in many ways.
+To ant icillate, there is indeed R brooder Gitks8n cOllwunity that
+includes the local village communities listed earller. It can be
+defined ctically by such sociological criteria as marri.oge I,nlterns
+(Kasakoff 1~70, 1974, 1976) and psrticipation in a common system of
+cerenlOnial ellchan):e (AddIOS 1<)69, 1973, 1'.174).
+And e!llically it is
+defined by the people's own belief and public statements in Enllliah that
+they are Gi tksan and speak thei r own 10nguol:e:
+they are not N I sgha
+(Nl~ll.n'a or Glt.!.emsim, or simply, T.!.L'ftIsim) nor are they Tsilnshian
+(1's imsan), who each have their own distinct i ve nali ve lanGuage.
+:3
+1I0wever, the Gltksan people have no conventional indil\~.~os name
+for their own language that sets it apart from Misgha and Tsimshian.
+They generally refer to their own language as Sim'alg8x the real or true
+language, but the Nisgha and Tsimshian people do the same-t~rhere is
+a terlll, Gitx<lanimx (or similar form) that indeed means the Gitksan
+language specifically, as opposed to Nisll.8'am.!. the Nbsha lanJ\uage and
+Ts'imsonion.!. the Tsilllshian language, but these locutions are not in
+conunon use the way that Sin,'algax is, althuugh their construction-type
+is al'l,arently old.
+Another term-;- Arnst, also names the lanlluage or
+perh"IIs (mure narrowly) its more formal variety used on public
+occasions.
+AmHt is thoullht to be an old name, and fewer people know it
+than know the nanle Sim'alnax.
+I don't know whether the Nisghas alld
+'I'simshialls u"' .. Alllsl (or COIl""te forllls).
+A few older I:itksall people call
+their 1anlluage Gaanilnx, but that term also includes Nisgha. It is a
+Tsionshian word that oneans the up"treanl !!!. interior languare: it is a
+loanword from the Coast Tsimshian language and not an originally Gitksan
+word.
+Illth respect to lan;;uage change, the existence of separate GitksRn,
+Nisghll and Tsimshian communities is Significant, for these are the more
+or les" bounded social units within which there are distinctive nornls
+and standards relating to language and speech.
+Linguistic continuity
+and change, divergence and convergence, are functions primarily of
+intra-community culture and social interaction. It is In the Gitksan
+conununlty that particular speech forms have definite indexical values
+and functions.
+Phrased differently, it is within the Gitksan conununity
+thst old "I.eech fornls are maintained or lost and new ones are accepted
+or rejected.
+However, the Gitksan community is a bilingual conununlty
+now, usinl: English (one of the two official national languages of
+Canada) and Gitksan, so that it 1s not possible to understand the
+present currents and processes of change in the I:itkson language without
+reference to English and the broader I=!uropean-Canadian society.
+From n SOCiolinguistic perspective, the Gitksan community is in a
+transitional situation as people usc English more "nd more in their
+social lives to the ellclusion of Gitksan, which has come to he
+restricted "'''Inly to the hODle or domestic scene and to use IIJonaside
+~nglish at public occasions, sach as feasts, official ceremonies, and
+churCh services.
+'l1.e functional dominance of Enf:llsh has been
+established over the past century as Gitksan people have come to
+porticil>ate more fully in nlainstrcam Canadian econOinic and social life
+where the knowledg" and use of ~nglish are necessary and where native
+lanuanlles hnve been sti;:matir.ed as primitive anll not suited to modern
+life.
+As well, there was n government policy (Levine and Cooper 197<)}
+that suppressed (or at least discouraged) indir,enous languages throlll~h
+the residential school system and excluded them from the classroom and
+I.luyground unt il ju~t a few years ago.
+.'Iany Gitksan (lnrents nWlle "
+deliberate choice not to speak Gitksan to their children, but to use
+only En!;llsh with the,n, so that they would grow up competent in Eng' ish
+and uvoid the shame and embarrassment that their parenta had experienced
+from teachers and other Whites.
+The functional expansion of English in the Gitksan col ... ,unHy hilS
+4
+• 2. 72.
+
+\
+be':.~ccal"pallicJ by the devclol.lllellt at differences in Gitksun langua!:e
+coulpctence and fluency across thc gent:ratiolls to the point ~here one can
+say that l:n;:lislo Ioas bec(JIIJe the vermicular for the great IIUlJ0rity oC
+GHksan peuI.le.
+110ere are no UIOnolingual sl,eakers of Gitksan any
+IOllger, all.! 110 children are growin!: u/' with Gilksull as their oilly
+lalll:u"l:e.
+Older people (aver sixty) are generally fully cOIIpetent and
+fl",,"l ill :":itksall.
+;-lany oC them ulso IlIIve 1:0001 "nll11sh, although
+perhaps with ilIl accent, while others sl,eak English interlangulI!;c
+vuri"l i"s thal di"l.l"y mallY trllll"fcrs frou. Citks"n.
+l-iiddle-agc.1 I.eople
+an. v"riably conlpetent and fluent in Citksan, and they have excellent
+);1I!iIi:;h.
+1I0,l[ (but not all) of theu. are sun.ly I-:nglish dOl"inant, i.e.,
+they use .. uch Ulore );nglish than Citksan, and );nglish appears to be the
+... nllll,,:;e of their I.ersonal iJentlly, of their inn"r I'rivate live .. lind
+thoughts.
+Younger adults (over twenty) are definitely English-do .. inant,
+and U ... re I'roba"ly are more selol-speaker .. (in the sense of llurian 1977,
+1!.llH, 19H1) of Gltksan among the .. than there are fully competent, fluent
+speilkcr...
+'fcellallen.; alld childrl!ll are virtually all t:lIglish wOllolinllualH
+by u"ag", althouKh there are sowe fluent Citksan speakers among the'D,
+lind IlIOIIY uC th .. w woulJ have a passive (bearing, bUL 1I0t "p .. akillg;
+comprehending, but not using) knowledge of the language gained from
+gralldl'ar""ts alld older relaLives.
+'I'h" iUl .. r,;eueraLional cOlltinuity of transonission of Citk .. ,," to
+chilJren has definitely been broken.
+Children in ICispiox villa!:e
+entered pcin.ary sch/.oi.in the .. arly 1\140's as Gitksall ID()I\oHnguals
+knowing lilll .. , if any English (p.c. frOID Nru. Anne Hichuel (ne"
+tklJilllles), the first (illksan person to beco"", a 'Iuali1'1ed teacher, who
+taught there then).
+As widJl,,-aged adults these people are all Mglish-
+dOluillallL IIOW, and mallY of them have beco ..... s"~'i-lilleuk .. ru of Gitksiln alld
+even passiv .. bilinguals.
+6y l\16b, when .. y falllily and I Ilpellt the su_r
+ill Kisl,iox, r:lIulish hlld beco",e the lanGuar,e of children' s
+Jl1i1YI~roul'",
+illlIl only a few siblin,~-sets of children Ilpoke Gitksan oUlOng themselves,
+,,}UII;: with 1-:n,;lislo.
+1'"01,1,, say that ollly in the I,ast ten years hllll
+Ellglish beconoe the language of children's Illlly-groul's in ICitwancool alld
+K1tsclluecla villdge", where easy road acceus has be .. n mor .. recellt.
+A .. i;lIglish has gained lIIore native speaker .. in succeeding
+1:t:lIeratiolls, there also has develop"d 1\ non-stalldarll variety of Gitksall
+ElIl!lish that Ims conventionalized a number of constructions and usall""
+thai are trallHf..,rs froul Git-k:sall 1all;;uage structure.
+These illc lu.le the
+tru" .. itive verb.!!.!!£. in the sens" of ~, a constructio" of fu or delll
+Pl!r~(mlll I,allll.! which corrc::il'out.iu to the non-stundard EllUl i.sh asn()ciutiy~
+and l!!2 c.;n;;truction (e.g., fu I'red or .!l.!!!! Fred corresllOnds to l::!:.!cl
+aJUI th<:.II; dill is a1\ indiflellous G Jlluralizer, while deno is frum English
+.!:!.!£!!!.), and a Ilredicative possessiv" cUII .. truction with head ~
+(as in
+'l'h;'ll's Barr's .2.::!.!.-, rather than That's !·iary·s.).
+Tlu,?s~ features acc
+also found in Nisghu and Tsimshian English (}\uld .. r 1900; Tarpent 19H1b;
+the"e twu papers wel-" rel.rillted and I.ublished ill ?1).
+Th" Ilresellt situatioll of th" Gitksan language ,"ust be juJgeJ ;os
+perilous, and its chauc~s for lonu terlll survival ar" nol goo,. lu:caus(! it
+does 1I0t have a self-r"producing s!,eech community whose ,"embers liS" it
+p .. illlarily fo,- iuentity-colIstrllction anti maintenance and for Lloe 11111
+ranKe of social functions.
+People do accord Gitk>lall a high measure of
+vulue i1:; a "illi,,"l .. Ylllhol 01 their <li .. tillctive "ocial ideliLity "lid
+culLural loerita!:e, "ut their iJeolollY is 1I0t supported co .. pletdy by
+thEd r l'raclic,", - Lhey lauellL Lhe loss of tloe lallI:UIII:C, yet ';0 011
+apeakinll (1I81nly) English to their children and amollg thOlos<.--...(:
+The
+moves to teach Gitksan in school over the past decade indicate that some
+people ar" aWllre of th .. iIolpending de .. be of the 1anllll8l1" alld that th .. y
+recognize the importance of schooling for cultural trana.ission in
+IIIOd"rll life. It 1& true that bringing Gitksan into the school clln hclp
+to rai .. e its status, but it is unUkely that the school can be a lIOn.
+effective iliSlitulioli for trllnsllitt1I1K the language to lIew g,,"en.tio"s
+of children than are the home alld local coaAUnlty.
+.lichad "rau.", (II.C.), th" IIi rector of the Alaska /lotiv .. l.all"u,,:;e
+Cellter, sUlll:euts that there are thrau levels of langua!!e Jlr"""rvation
+which Indiall l.eol.1 .. , lill;;uists, alld biUIICual educators lIighL se .. k to
+achiev" in .. uch Clille .. ,UI that of Gitksan.
+The first is silll.ly Lo
+d(,culIICllt th.· lallt:ua~e as nde(luately as possible. This would illclude th"
+preparation oC a comprehenllive gr_r, dictionary, and collection uC
+text!! (illcludilll! tradiLional oral litoruture), both writtell alld
+toperecorded.
+The ~cond level of language preservation involves the
+act iv" cultivation of th" lanc:ual:e in II restrict .. d nUIDber of soci.}l
+dOlllUillS, such as at ceremonies, church, and school. 11lis requires a
+knowledl,l"ab1e clas .. of native lan,;ua~e speCialists who can carry Oil the
+teachine of the language in forllal and inforll8l setting::!, while the
+luajority of th .. cOl:llllunity lllUy have more Hili ted cooape,tence alld fluency
+in the language.
+The third level of language preservation is that found
+in Uvinl; lallguages, where cu"versational ability in the vernacular is
+transmitted ill the fun, and the local c_nity. Gltksall parents and
+leaderll lIijJht cOllsider whether the .... intenance and preservation of
+Gitksan as a living lansuase ia a realistic goal. Certainly the
+pre""I'Valioll of Gitksall at the first two levels i .. possible, and illdeed
+it is underway.
+As lCrauss points out, the successful revival of lIebrew
+.. s .. livilll: lalll:lla~:" in the """'ern stote of larael was aided "y it>l
+preservation over the centuries at the first alld aecond levels, which
+kept iL frOlU total "xtinction.
+Thvrc would Ill! UruHL
+tra:~eJy in the "~lIth of thu f.:itl;gan lan~u:.gc,
+but I t.eHeve that tloe misfortune of illdigenous language loss would 1I0L
+be ill th" disIlPl",ar.lJlce of a Jistillctive Citksan social idcntity (aL
+least 1I0t in the short term over a few generatiolls).
+'l'here i .. a
+sillll.le .. 1I1deJ •• ,ill .. tr"am view, sUPl,orted by s""'" weaklllilld"d eJucators and
+acndeulics and held even by SOJ1\8 uncritical native I,eople, that OIl<!
+CLlIII."t be a r"al Indian unl .... s one can speak an Indilln IIIn!;"'I,:e.
+Th"
+weaknells of this pO>lition is that it cOllfuse>l eXLernal traits, suclo ....
+"I."ech, dr""" and nl'l",arallce, with the illller valu"" lind I.rillci/.}"" Lhat
+t:uide people's liv"s anJ ouake up the nonl substallce of their social anJ
+per"ulla1 l(hmtiLy. It s .. ellls evid,,"L that Gitksan people hllve takell
+MUlish over Cur Lheir own language, as seen in Gitksan .:"lIlish, and
+Lhey US" it tor identity-culistruction and id"ntitY-tai.JinLenallce "lid oLher
+social l'UfJIUSCS.
+llowev"r, they don't sileak their own GitkSiln I:"t:li"h
+acouucl Whitt.":ti, (or lh~y huvc bu&.!u tot) often corrc..:tctl nnd 5h.)lOOd for not
+"peakillg Millish pruperly, i.e., for speaking t:nglish that strays frOlll
+local UlUiJlstr"""1 nurms.
+The puttenl of usinC "good" ElIl:l1>;h with 1;llih',;
+ha", the unfortunate effect of reinforcing White susJliCiolls that HI1\IIY
+Gitl,salls, eSl,ecially thuse of :lI'Jlar"nt abed descellt, or" 1I0t reully allot
+truly Illdilln.
+The tru,;l!dy of Llu.! dhiill)jiCaCiluc(: of the Citksan liSn;:uiluc,
+ju:;tc~d.
+would I.e ill the lOllS of cultural herital:e, because auch trudit iOlla1
+Gitksa1\ kllowledg" of th.dr houoelunoJ, CUstOblS and hi .. tory has 1I0t b • .!ell
+
+translated into English, and indeed it would suffer reduction and
+simplificstion by unreflective translation. The Whites like to believe
+that they occupied a wilderneas a century or so ago, which they are
+transfor-ing and developing. They also presume to give their own namea
+to the land, but the chiefs and elders who speak Gitksan know well that
+their homeland is a hu.anized landscape that has a myriad of place names
+and associated legends and historical narratives.
+As well, there is a
+rich folk knowledge of ani.al and plant species and of their origina and
+usea, not to mention the high culture of the chiefs and Indian doctora.
+Unfortunately. Gitksan children today are learning only a a.all fraction
+of their heritage because they mainly hsve access only to what they hear
+in English.
+For the descriptive linguist, the present situation of inter-
+generational differences in competence and command of the Gitksan
+language presents problems for they add to the range of variability that
+a grammar should account for in its coverage. Pacific Northwest
+linguists have generally ignored such problems, and this is
+understandable in the caae of extinguishing languages where the
+infor.ation provided by a single apeaker or small number of speakers who
+are willing and amenable to working with a linguist becomes even more
+precious. In my Gitksan fieldwork, I have worked mainly with a s.all
+number of older and middle-aged people who are regarded as good
+speakers, and I've tried to crosscheck material wherever possible. It's
+also been helpful to present my analysis and understanding of various
+features of the language to several Gitksan language workshop groups,
+for they have corrected me and deepened my knowledge.
+The example
+sentences used in this grammar have all been checked by one or more
+older speakera [Some of the checking remains to be done). Hany examplea
+come from my own observations and from texta, but most come from direct
+elicitation. Wherever possible, I try to describe and discuss
+variability - its sources are .any and varied - for it is the stuff from
+which language change is faahioned, but for the most part, my
+description is based upon the eastern Gitksan language varieties apoken
+in Iispiox and Hazelton.
+The Taimshian Language Family
+To judge from historical and oral accounta, the Gitksan, Nisgha and
+Tsimshian peoples seem always to have recognized that their respective
+languages are similar and are related in the sense of sharing common
+ancestry. although they differ in their accounts of which language has
+remained closest to ita original or "pure" form.
+The first competent
+linguist to recognize the genetic relationship of the languages was
+Franz Boas. who began hia work on them with two Coast Tsimshian apeakers
+in Victoria in 1886.
+Boas (1888:231. translated by C.N. O'Grady) wrote
+not long after that " ••• The Tsimshian is spoken in two dialects, of
+which the Nisgha is seen to be the oldest ••• The following tribal
+groupings are distinguished among the Taimshian.
+• •• the first two
+[Hisgha and Gitksan) speak Nisgha. the remainder speak Tsimshian".
+Boas
+here used the term "dialects" in the same sense that nineteenth century
+philologists might have spoken of English and German as "Germanic
+dialects".
+The well-known classification of Uajor J. W. Powell (1891: 139-141)
+7
+2.?5
+and hia associates included the Chimmesyan [Tsimshian) family~~ one of
+its 58 families of North American Indian languages. The Powell
+classification of the Tsimshian languages was based upon Boas (18H9).
+which repeated Boas' (1888) treatment.
+Boas also spent a month in 1894 at Kincolith near the mouth of the
+Nass River. where he worked on Nisgha and Tsetsaut Athabaskan (see
+Rohner 1969:155-173 for materials on his stay). His Nisgha texts from
+the trip were published aa Boas (1902).
+As a result of field research
+and desk analysis. Boas became well aware of the similarities and
+differences between the Nisgha and Coast Tsimshian languages. for his
+'l'simshian grammar (henceforth. TG) in the first volume of the Handbook
+of ~
+American Indian Languages, included parallel sketches of the
+two varieties. In the opening paragraphs of TG, he located where "the
+Tsimshian" was spoken and he referred to Taimshian, Nisgha, and Gitksan
+as its "three prinCipal dialects" (TG:287).
+Boas apparently did no work
+on the Gitksan language although he may have met some Gitksan people and
+he would certainly have heard the Nisghas and Tsimshians talking about
+the Gitksan people, their customs and their language.
+It was George Dorsey, also an anthropologist, who in 1897 first
+accurately described the relations among the three languages. Gitksan,
+IUsgha, and Tsimshian. as they may be observed today.
+Dorsey (1897:277)
+wrote:
+Boaz [sic, referring probably to Boas (1889») has divided the
+Tsimshian stock into dialects. those speaking the Nasqa and those
+speaking the Tsimshian proper... It is to be noted furthermore
+that the tribes apeaking Nasqa are not confined to the territory of
+the Nass River, but are also found on the Skeena River.
+As to the
+distinguiahing characteristics of the two dialects I had no time
+for investigation. But from various sources I learned that those
+tribes which spoke the Tsimshian dialect proper could not
+understand the Nasqa dialect, whereas the Nasqa tribes could
+understand those who spoke Tsimshian proper. It appears yet
+further that there are two closely related groups of the Nasqa
+dialect, the Naaqa and the Kitksan, the former group being confined
+to the Nasa River, the latter to the Skeena river.
+In Rigsby (1967), I quoted Dorsey with approval and I summarized
+the results of my field inquiries. Gitksan and Nisgha people alike say
+that they can understand one another readily upon first contact or
+hearing of the other language. although there may be some unfamiliar
+words.
+Gitksan and Nisgha people do not readily understand the Coast
+Tsimshian language upon hearing it for the first time. Niddle-aged
+Gitksan people in the late 1960's told me that they could only
+understand "about half" of what the Tsimahian say in their own language,
+but they also commented that it was easy for them to learn Coast
+Tslmshian.
+Ful1 comprehension eVidently requires second-language
+learning, but the task 1a not difficult because the two languages arc
+closely related and structurally similar.
+Dunn (1976a:6) says that"
+Coast Tsimshion people consider that Nass River speech is less
+unintel1igible to them than is Gitksan.
+At the same time they feel that
+Nass and Gitksan belong to the same language and that both are different
+from their own native tongue".
+From even before contact with P.uropeans. the Gitksan people had
+8
+~76
+
+opportunit'i.es/ to learn a second language and to become bilingual.
+People used to travel to the coast and to the lower Nass Rivl!r area in
+the early spring for oolachen (candlefish), where they IRet Nisgha and
+Tsiloshian people and traded, attended their ceremonies, and intermarried
+with them.
+Gitksnn people considered it to be presti;Jeful to Imow and
+to be able to speak the Coast Tsimshian language properly. Gitksan
+chiefs often used the Coast Tsimshian language in public speeches and
+ceremonies, and many ceremonial songs were in it. From about 1900, many
+Gitks~n people had the chance to hear and learn Coast Tsimshian during
+residence on the coast while working on fishing boats and in the salmon
+canneries.
+In a later unpublished paper (Iligsby 1~69), IISome Linguistic
+Insights into Recent Tsimshian Prehistory II , I treated some of the
+phonological (viz. the dorsal consonantislos) and lexical dimensions of
+the historical relationship between Gitksan and Nisgl~ and of them with
+the Coast Tsimshian language. Some features of the Gitksan/tlisgha
+relationship are repeated here in the chapter on phonology and
+elsewhere.
+To repeat the major conclusions of that paper (see also
+I(igsby and Dunn 1968f, as well as Shener and Bauman 1972: 142-143), I
+presented evidence which showed that all three languages of the
+Tsimshian family had borrowed words from other neighbouring languages
+and that the ancestral hOlue of the proto-language was situated on the
+coast and not in the interior area, as Boas (1916:872) had earlier
+sUSl;ested.
+Since then, John Dunn (1976a, 1976b) has reported that there is a
+second coastal Tsimshian language that is still spoken by several
+families in Klemtu and /Iartley Bay.
+lie calls the language IISouthern
+Tsimshianll ; its native name is (SStHIxs) at Hartley Bay and (sglHllllX) at
+Netlakatla, Alaska. Southern TsiDishian appears to be as distant from
+Coast TsiDlshian along several dimensions as it is frOID Gitksan and
+Nisgha, and it is phonologically conservative in SOlDe ways interesting
+for the reconstruction of Proto-Tsimshian. The existence of Southern
+'l'simshian supports my earlier hypothesis that Proto-'fsimshian was spoken
+on the coast south of the Skeena, because its location accords with
+Sapir's (1916) principle that the area of greatest diversity is the area
+of longest occupation.
+Host recently, Marie-Lucie Tarpent (1900, 1983b) has expanded our
+knowledge of the structural development of the Tsimshian languages by
+apply-in3 the method of internal reconstruction to Misgha plural
+formations. Plurality is a highly developed grammatical category in
+Gitksan, Nisgha, and Coast Tsimshian nOlilinal and verbal morphology, and
+synchronically, each of the three languages displays a bewildering range
+of plurul construction-types, ranging from silople initial C1Q-
+reduplicated forms through more opaque, often doubly marked (i.e.
+"I'leonastic") reduplications, to suppletive sets. Tarpent provides
+reasonable analyses of the histories of the several construction types
+in Nisgha and importantly, she discerns three stages in the development
+of plural-marking in Nisgha. The details of the historical development
+of plural constructions in Gitksan and Coast Tsimshian differ frOiD
+Nisgha, but Tarpent's results seem ·generalizable in broad outline to
+thelQ.
+Tarpent (1983a) exumines the Ilisuhn numerals and
+reconstructs some of their possible derivations.
+9
+217
+J~
+Despite the great amount of descriptive linguistic work t~s
+been done in Gitksan, Nisgha and Coast Tsiashian since 1~66, the three
+langual:es remain inadequately and incompletely reported in the
+literature. Boas TC remains the major publication, and although it -sy
+be superseded in the future, it will remain a claasic monument.
+One
+hopes that as new descriptive grallllll8rs (such as Dunn 1979 and this
+present one) of the four languages are written and published, we can
+turn more of our attention and energy towards unraveling the historical
+developmunt of tho Tsimsh1an language family and reconstructing its
+proto-language.
+To conclude this section, the presently known classification of the
+four languages of the Tsiashian fa.1ly may be repreaented thus:
+Coaat
+Tsimshian
+Tsimshian Language Family
+Southern
+Tsimshian
+Nisgha
+Gitksan
+(including
+Kitwancool)
+Ill! llli!!!:. Relationships 2!!l.!!!. Tsimshian Language Family
+Although Boas (1911a:46) spoke of the languages of the Pacific
+Northwest as forming a distinctive language area (what we would now call
+a Sprachbund) and included Tsimsh1an among them, Edward Sapir was the
+first scholar to focus and comment IIOre fully upon the areal historical
+relationships of the Tsimshian languages to neighbouring languages and
+language families. Sapir (19l6:458; see also Golla 1984:108 for Sapir's
+earlier conuoents on the same topic in an unpubliahed 1913 letter to A.
+L. Kroeber) noted that Tsiashian, Kwakiutl-Nootka, Chemakum and Salishan
+all share the features of numeral classifiers and distributive (or
+plural) reduplication. Sapir also observed that the Tsiaahian-speaking
+people were culturally more similar to the Haida and Tlingit (aee also
+Sapir 1920:269-270, 1921d) than to their southern neighbours and he
+(191b:459) said:
+'
+••• the morphological resemblances between Tsimshian and the
+languages south of it, when contrasted with the lack of
+correspondingly significant resemblancea between Tsimshian and Ha-
+dene [Athabaskan. lIaido, and Tlingit), seema to be indicative of a
+much earlier contact of the Tsimshian with the Kwakiutl and the
+Salish than with the llaida and Tlingit.
+It was also Sapir who first proposed that the Tsimahian language
+family was genetically related to the Penutian language stock, whose
+other member lal\guage~ are found far to the south, mainly in the present
+states of Oregon and California. In December, 1915, Sapir wrote to
+Kroeber with his thoughts on expanding the Penutian groupinc to include
+10
+.- .... ,,,. .......... _-,., .......•.. ., ...... -._ ................... ~ .... .
+278
+
+a number 0 .. "regon languages (Takelma; Coos, Siuslow, and Alsea; and
+Chinookan) and the Tsimshianic languages:
+And now (don't fointl), I think that Tsimshian is the most
+northern outlying member of the stock.
+Again greatly special .. zed,
+but still exhibiting mony startling featurea in common...
+Of
+Chinook and Tsimshian I am not as sure as of Lower Umpqua
+[Siuslav), Coos, and Takelma, but I think my evidence will grow as
+I work on it. How to group these languages I do not yet know, of
+course...
+I doubt if Takelma, \~. Oregon, Chinook, and Tsimshian
+form a northern unit as contrasted with your southern [Californian)
+one.
+(from Golla 1984:201-202).
+3y 1918, Sapir was sufficiently confident to write to Robert Lowie:
+Just at the moment I am carding some of my Penutian - Takelma -
+Coos - Siuslaw - Chinookan - Tsimahian correspondences. It is
+technical work, of course, but quite interesting, as many lines of
+historical research are opened up.
+Yes,!!!I...l!2.t, Tsimshian. li2!.!!.
+bit isolated. Very specialized in development, but showing clear
+threads, in my humble and heterodox opinion, binding it to
+Oregonian "stocks".
+I have recently prepared a paper on Nass River
+terms of relationship, but alll waiting to hear from Beynon -
+!;arbeau's Tsimshian interpreter, for comparative Taimshian data.
+(Boas' material docs not seem completely satisfactory).
+'Olree years later, Sapir (1921b, 1921c) published statements that
+included Tsimshian as a northern outlier of Penutian. It bears
+remarking that by this time, Sapir himself had done a fair bit of
+linguistic work on Nisgha and Coast Tsimshian with several men who had
+come to Ottawa in connection with land claim matters, he had obtained
+Coast Tsimshian kinterms from Beynon, he hod discussed some Tsimshianic
+kinterms with Theresa ~myer (later, Durlach) and of course he had read
+and worked thrcugh Boaa' published materials on the two languagea.
+In his famous 1929 classification (foreshadowed in Sapir 1921b)
+where he grouped all North American native languages and some Central
+AQerican ones into one or another of six superstocks, Sapir included
+"Tsimshian" as one of six co-ordinate branches within the Penutian
+superstock. Sapir (1929[1949):175) also characterized the Penutian
+languages structurally in this way:
+TI,e Penutian lang9ages are far less cumbersome in structure than
+[Eskimo-Aleut, Algonkin-Wakashan, and Nadene) but are more tightly
+knit, presenting many analogies to the Indo-European languages;
+make use of suffixes of formal, rather than concrete, significance;
+show many types of inner stem chant;e; and possess true nominal
+cases, for the most part. Chinook seems to have developed a
+secondary "polyaynthetic" form on the basis of a broken down form
+of Penutian; while Tsimshian aad ~midu have probably been
+considerably influenced by contact with Mosan [Waksshnn nnd
+Salishan) and with Shoshonean and Hokan respectively.
+Beyond the references cited, Sapir published no detailed evidence for
+the relationship, but the force of his genius and brilliance was such
+that many scholars uncritically accepted the Penutian connection of the
+Tsimshian languages as definite and established.
+11
+In 1956, Dell Hymes prepared a paper, "The Relationship of
+Tsimshian and Chinookan", in which he undertook to reconstruct what
+evidence mitlht have inspired Sapir's hypothesis of their relationship.
+Jle reviewed what was then known of the history of Sapir's proposal of
+the Tsimshian languages as belonging to Penutian, he listed a number of
+u)'parent Nisgha, Coast Tsimshian and Chinookan grammatical and lexical
+correspondences, and he noted some systematic sound correspondences.
+Hymes found that there was such evidence to suggest the relationship.
+In retrospect, one can soy that Hymes undertook a difficult task, given
+the poor phonetic quality of the Nisgha and Coast Tsimshian materials he
+had available to work With, not to mention the lack of good modern
+descriptive analyses of the two languages then.
+Recently, Hichael Silverstein (1979) published an overview of
+Penutian research that presents a sober and perceptive appraisal of the
+situation at hand. Silverstein notes that the Tsimshianic languages
+diverge markedly in syntactic type from the Penutian archetype as
+defined by Sapir. They display "a tightly-knit phrase-level cHsis as
+the productive morphosyntactic apparatua", and they encode case-
+relations at the surface level primarily through "strict constituent
+order" (Silverstein 1979:659, 669). This contrasts greatly with the
+structural type, say, of Yokuts, a quintessential Penutian language with
+nominal case-suffixes. Sapir considered the present Tsimshian
+structursl type - what Rigsby (1975) termed "an analytic ergative
+syntax" - to be the product of contact with the Wakashan and Salishan
+languages, especially with Kwakiutl.
+However, it is precisely this same
+structural type which gr~tical reconstruction indicates to be archaic
+within the Tsimshian fami1y.
+And the sorts of morphosyntactic
+relationships that Silverstein was able to identify in an unpublished
+(1969) paper which llIay link the Tsimshian languages to the southern
+Penutian languages involve exactly this same phrasal syntax.
+Silverstein (1969) proposed that the /1an/ transitive subject relative
+clause proclitic and /nG-1 alienable possession prefix (in Coast
+Tsimshian; it is also a fossilized kinterm prefix in all the Tsimshian
+languages) were the reflexes of an earlier single syntactive formative,
+and he compared its construction type with similar constructions which
+are reconstructable in Coos, Alsea, and Yokuts, but he did not reach a
+firm conclusion of their genetic relationship.
+The inclusion of the Tsimshian language fI!".ily within the great
+Penutian stock, then, remains unproven and problematic. The
+relationship cannot be established on the basis of a handful of
+resemblant lexical items as seen in:
+Coast Tsimshian - guu1p!!!!!!. (of abstrsct. objects: of round
+objects; gulapdaat!!!!!. (of persons aboard any conveyance); gip!'oll
+!!!!!. (of fathoms; of measures); Aalbeeltk ~
+(of canoes) - forms
+from Dunn (1978).
+Nisgha - g11,,'il IkUp-1,,11 ~
+(things; and abstract count);
+galp
+Iknlpl testicles; gilpwa /kUp-wal !!!!!. bundles of skins;
+Aalbee'etkws !q,-'-lpe·?-tk'#-s/ two ~.
+(jitksan - gilbil /kilp-6l/ !!!!!. (things; and abstract count); galp
+Ikalpl testicles.
+12
+280
+
+These forms~o . .:lude a recurrent partial in I-lp-I that has a shape
+similar to the /lvp-/ - /nVp/ root for ~
+that is found in such
+Southern Plateau languages as Nez Perce, Cayuse, Sahaptin, /·Iolala and
+Klamath (see Rigsby lY65:109-152).
+However, we cannot provide a
+detailed genetic hypothesis that includes a series of motivated
+historical transformations that can derive the synchronic grammatical
+forms in the several languages from a cOllUDon original granunatical
+construction and thus establish their genetic relationship beyond doubt
+(Tarpent 1983a:06-68 proposes etymologies for the Nisgha for~s built 011
+the root in question).
+In fact, there is good reason to believe that
+nUDlerals and numeral systems diffuse easily among languages in such
+interlingual social contexts as trade and gambling (Rigsby 1965:151).
+Nonetheless, the resemblances above call out for some kind of historical
+explanation; they are unlikely to be chance convergences of sound and
+meaning. Silverstein's unpublished (1976) "Time Persllective in Northern
+and l,estern Penutian" paper, among other matters, explores some of the
+social organizational features of Pacific North\~est language cOllUDunities
+and speech conuuunities and their relevance to the geographical
+distribution of the Penutian languages outside California.
+He concludes
+(I'. 9) with:
+The real enigma, to my mind, is constituted by Tsimshian, for
+its position must imply movement, either by the ancestors of those
+who now speak it, or by the anCestors of those who spoke everything
+else in Penutian, or, worse still, by the ancestors of everyone in
+between. This problem takes us far beyond the temporal and
+linguistic bounds of Penutian itself, however.
+I agree with Silverstein (1979:681) that if we are to make any
+progress on the front of the wider range genetic relationship of the
+'l'simsldan language family, we need to do "careful comparative study of
+lexical formations with derivational suffixes." At the same tillie,
+however, we should also give greater priority to exploring the
+dimensions of the areal historical relations of the Tsimshianic
+languages to the neighbouring Kwakiutlan languaues, particularly to
+lleiltsuk.
+In fact, a systematic comparison of Tsimshianic and
+KIJakiutlan gra;runatical constructions remains to be done; the parallels
+that Sapir thought he could discern need to be made explicit and
+appraised in the histories of the two language families.
+For a start, I
+sugr,est that they include at least a Verb - Subject - Object basic
+constitucnt ordering follolled by peripheral, oblique constituents in
+independent clauses. The grammatical relations of major constituents in
+such clauses are indicated not only by their ordering, but also by
+enclitics that precede their syntactic host, but are suffixed to the
+preceding elclJent.
+/loth Tsimshianic a 1111 I:wakiutlan focus constituents
+by moving them into sentence-initial position, but in the Tsimshiallic
+lailguages, predication and focusing are done by different formal
+patterns.
+In Kwakiutlan, I think, predication and focusing are
+conflated, so that predicates are always (usually) focused; lOy knowledge
+of Kwakiutlan structure comes mainly from Levine's work on Kwakwala (see
+Levine 1%1), 19::;1).
+In the 'l'simshianic Inngua:les, there is a Subject - Verb - Object
+ordering found in dependent (subordinate) clauses. 'fhis SVO orderin~ is
+surely older than the VSO one, and the dependent order subject
+pronominal clitics display striking resemblances to the first, second,
+and third person pronominal elements found in other {'cnulian langua:;cs.
+281
+They arc: In@1 lSG, /101::/ 2SG, /mg ••• s@m/ 2PL, and It I 3SG/PL .. ,,_,
+In the meantime, the conservative position is to speak of the
+Tsimshian 1anlluage family as an isolate. Its genetic relationship to
+other Penutian languages has not yet been de,monstrated or established,
+but for the record, I suspect that Sapir was correct and we will be able
+to do that in coming yeara.
+References
+Adams, John W.
+196Y
+The politics of feasting among the Gitksan.
+Ph.D.
+Thesis.
+Department of Social Relations, Harvard University.
+1973
+The Cilksan potlatch: population flux, resource ownership
+and reciprocity. Toronto and Montreal: 1I0lt, Rinehart and Winston of
+Canada, Ltd.
+1974
+Dialectics and contingency in '~he story
+ethnographic note.
+In The Unconscioua in culture. The
+Claude Levi-Strauss in perspective. Ed. by Ino Rossi.
+Dutton and Co., Inc.
+Pp. 170-178.
+~loomfield, Leonard
+of Asdiwal": an
+atructuralism of
+New York: E.P.
+1927
+Literate and illiterate speech.
+American Speech 2:432-
+439.
+Uoas, Franz
+lUSb
+Die Tsimshian.
+Zeitschrift fUr Ethnologie 20:231-247.
+l88Y
+First general report on the Indians of British Columbia.
+Fifth report of the Committee on the Northwestern Tribes of Canada.
+Report of the 59th meeting of the British Association for the
+;.dvancement of Science. Pp. 5-97.
+lY02
+TsilOshian texts.
+Bureau of American Ethnology.
+Bulletin
+27.
+Washington, D.C.: Government Printing Office.
+1911a
+Languages.
+PI'. 5-83.
+Introduction.
+Iwndbook of North American Indian
+Part 1.
+Bureau of American Ethnology. Bulletin 40, Part 1.
+1911b
+TsilOshian.
+Handbook of North American Indian Languages.
+Part 1.
+Bureau of American Ethnology.
+Bulletin 40, Part 1.
+PI'. 283-
+422.
+1916
+Tsimshian mythology. Thirty-First Annual I(eport of the
+Ilureau of American Ethnology.
+iJashington, D.C.: Government Printing
+Office.
+Dorian, ~ancy C.
+1<)77
+The problem of the semi-speaker in language death.
+14
+282

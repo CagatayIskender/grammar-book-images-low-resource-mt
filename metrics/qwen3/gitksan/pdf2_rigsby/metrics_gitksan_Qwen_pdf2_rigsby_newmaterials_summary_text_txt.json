@@ -1,0 +1,19 @@
+{
+  "grammar_text_shot": {
+    "bleu": 4.977931679236973,
+    "chrf": 24.12087912386561,
+    "xcomet": 0.3396077214463337
+  },
+  "grammar_text_chain": {
+    "bleu": 3.920297584922794,
+    "chrf": 23.082309164460245,
+    "xcomet": 0.31757795126051513
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "runtime_seconds": 245.0916051864624,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 4,
+    "seconds": 5
+  }
+}

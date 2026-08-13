@@ -1,0 +1,20 @@
+{
+  "qwen35_context_shot": {
+    "bleu": 1.916935068285433,
+    "chrf": 11.010595674742996,
+    "xcomet": 0.25938714766639404
+  },
+  "qwen35_context_chain": {
+    "bleu": 0.19139630173873945,
+    "chrf": 7.597974480075837,
+    "xcomet": 0.24538740314457608
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "scored_from_jsonl": "results/results_lezgi_Qwen35_grammar_pdfpages_impactful_jpg.jsonl",
+  "runtime_seconds": 38.956018686294556,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 38
+  }
+}

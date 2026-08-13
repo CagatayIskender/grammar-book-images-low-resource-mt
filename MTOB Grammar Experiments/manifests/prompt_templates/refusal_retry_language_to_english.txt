@@ -1,0 +1,11 @@
+{LANGUAGE} is a language spoken in {LOCATION}. Translate the following sentence from {LANGUAGE} to English: {SOURCE}
+
+To help with the translation, here is a passage retrieved from a {LANGUAGE}-English grammar book:
+{BOOK_TEXT_1}
+
+To help with the translation, here is a passage retrieved from a {LANGUAGE}-English grammar book:
+{BOOK_TEXT_2}
+
+Now write the translation. If you are not sure what the translation should be, then give your best guess. Do not say that you do not speak {LANGUAGE}. If your translation is wrong, that is fine, but provide a translation.
+{LANGUAGE}: {SOURCE}
+English translation:

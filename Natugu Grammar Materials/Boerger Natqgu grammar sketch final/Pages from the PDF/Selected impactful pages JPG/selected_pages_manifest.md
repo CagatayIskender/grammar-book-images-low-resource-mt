@@ -1,0 +1,73 @@
+# Selected Impactful PDF Pages
+
+## PDF page 3
+- JPG filename: page_003.jpg
+- Selection score: 22
+- Expected usefulness: high
+- Reason selected: +5 tables/paradigms/enclitics; +5 glossed examples/translations; +4 clause order/transitivity; +4 subordination/relative/adverbial; +4 valency changing
+- Grammar information: Boerger, Natqgu [ntu] Grammar Sketch 3 and Set II is a circumfix form with a prefix and a subject enclitic. Transitive clauses display two core arguments A (agent) and O (object), in the word order VAO, where A is either a nominal argument or a person and number enclitic. 4 Subordinate clauses and most peripheral arguments occur post-verbally. Peripheral
+- Readability/OCR concerns: embedded text extracted; selected JPG preserves original page layout for exact forms.
+
+## PDF page 8
+- JPG filename: page_008.jpg
+- Selection score: 17
+- Expected usefulness: high
+- Reason selected: +5 tables/paradigms/enclitics; +5 glossed examples/translations; +4 clause order/transitivity; +3 NP/pronoun/possessive
+- Grammar information: Boerger, Natqgu [ntu] Grammar Sketch 8 Column 4 of Table 4 shows that these free pronouns are made up of a base ni- ‘be’6 to which person and number enclitics are attached. Similarly, indirect object pronouns of column 5 have a dative base ba- to which the person and number enclitics are attached. Natqgu person and number enclitics
+- Readability/OCR concerns: embedded text extracted; selected JPG preserves original page layout for exact forms.
+
+## PDF page 23
+- JPG filename: page_023.jpg
+- Selection score: 21
+- Expected usefulness: high
+- Reason selected: +5 tables/paradigms/enclitics; +5 glossed examples/translations; +4 negation/questions; +4 valency changing; +3 NP/pronoun/possessive
+- Grammar information: Boerger, Natqgu [ntu] Grammar Sketch 23 of sentence (44). Proclitic aspect and mood are illustrated in sentence (45) where sc= ‘perfective’ fills the aspect slot and tq- ‘realis’ fills the mood slot. The orthographic convention is to write proclitic aspect as a single word. That practice is followed here so that orthographic first lines match up with the morphemes and glosses. It should be kept in mind though, that grammatically
+- Readability/OCR concerns: embedded text extracted; selected JPG preserves original page layout for exact forms.
+
+## PDF page 25
+- JPG filename: page_025.jpg
+- Selection score: 21
+- Expected usefulness: high
+- Reason selected: +5 tables/paradigms/enclitics; +5 glossed examples/translations; +4 subordination/relative/adverbial; +4 valency changing; +3 NP/pronoun/possessive
+- Grammar information: Boerger, Natqgu [ntu] Grammar Sketch 25 +12 adv quantifier +13 aspect
+- Readability/OCR concerns: embedded text extracted; selected JPG preserves original page layout for exact forms.
+
+## PDF page 37
+- JPG filename: page_037.jpg
+- Selection score: 12
+- Expected usefulness: medium
+- Reason selected: +5 glossed examples/translations; +4 negation/questions; +3 NP/pronoun/possessive
+- Grammar information: Boerger, Natqgu [ntu] Grammar Sketch 37 Interrogative Clauses Questions can be asked in Natqgu in multiple ways: polar questions, content questions, and an ‘or not’ tag question. 6.2.6.1
+- Readability/OCR concerns: embedded text extracted; selected JPG preserves original page layout for exact forms.
+
+## PDF page 38
+- JPG filename: page_038.jpg
+- Selection score: 21
+- Expected usefulness: high
+- Reason selected: +5 tables/paradigms/enclitics; +5 glossed examples/translations; +4 clause order/transitivity; +4 negation/questions; +3 NP/pronoun/possessive
+- Grammar information: Boerger, Natqgu [ntu] Grammar Sketch 38 negation applies to all basic and derived verb classes, as illustrated by examples (9) and (67) for stative verbs; (3), (53), and (73) for intransitive verbs; as well as (44) and (68) for transitives. The precore negator tr= also forms a circumfix with the bound aspect marker =ka ‘yet’ of slot +13. When =ka is present, the occurrence of the postverbal negator =u is ungrammatical.
+- Readability/OCR concerns: embedded text extracted; selected JPG preserves original page layout for exact forms.
+
+## PDF page 39
+- JPG filename: page_039.jpg
+- Selection score: 22
+- Expected usefulness: high
+- Reason selected: +5 tables/paradigms/enclitics; +5 glossed examples/translations; +4 clause order/transitivity; +4 negation/questions; +4 valency changing
+- Grammar information: Boerger, Natqgu [ntu] Grammar Sketch 39 7. Valency-changing morphemes As Hill found in her discussion of Longgu (2011:458-459), I find also for Natqgu, that homophonous forms have multiple functions, which need to be pulled apart, and that these functions occur and intersect on both the syntactic and semantic planes. With this in mind, in this
+- Readability/OCR concerns: embedded text extracted; selected JPG preserves original page layout for exact forms.
+
+## PDF page 50
+- JPG filename: page_050.jpg
+- Selection score: 21
+- Expected usefulness: high
+- Reason selected: +5 tables/paradigms/enclitics; +5 glossed examples/translations; +4 negation/questions; +4 valency changing; +3 NP/pronoun/possessive
+- Grammar information: Boerger, Natqgu [ntu] Grammar Sketch 50 These characteristic are illustrated in the next three sentences, all of which have agentless passives, with the original subject no longer being part of the construction. The missing agents are indicated by =Ø in these examples, but are normally left blank in glossing. Example (126) has two examples of nz- passive. In both of them, nz- does not co-occur with either a 3AUG subject or
+- Readability/OCR concerns: embedded text extracted; selected JPG preserves original page layout for exact forms.
+
+## PDF page 58
+- JPG filename: page_058.jpg
+- Selection score: 20
+- Expected usefulness: high
+- Reason selected: +5 glossed examples/translations; +4 clause order/transitivity; +4 negation/questions; +4 subordination/relative/adverbial; +3 NP/pronoun/possessive
+- Grammar information: Boerger, Natqgu [ntu] Grammar Sketch 58 bad about his thinking.’ The phrase da kx ‘thing which’ could be grammatically substituted for nike in this sentence. Nëmu dötwöde kä tümölë-moule, nëkölëtöpë nike tütökangö dötwöde. nzmu drtwr=de
+- Readability/OCR concerns: embedded text extracted; selected JPG preserves original page layout for exact forms.

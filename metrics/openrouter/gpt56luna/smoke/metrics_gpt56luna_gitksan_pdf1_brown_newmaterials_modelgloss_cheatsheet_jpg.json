@@ -1,0 +1,22 @@
+{
+  "gpt56luna_modelgloss": {
+    "bleu": 9.061270410584683,
+    "chrf": 51.813489044409046,
+    "xcomet": null
+  },
+  "model": "openai/gpt-5.6-luna",
+  "reasoning_effort": "none",
+  "temperature": null,
+  "seed": 42,
+  "support_n": 21,
+  "test_n": 2,
+  "usage": {
+    "prompt_tokens": 14117,
+    "completion_tokens": 59,
+    "total_tokens": 14176,
+    "cost": 0.001799875
+  },
+  "comet_model_used": null,
+  "result_jsonl": "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/results/openrouter/smoke/results_gpt56luna_gitksan_pdf1_brown_newmaterials_modelgloss_cheatsheet_jpg.jsonl",
+  "runtime_seconds_this_invocation": 3.2311606407165527
+}

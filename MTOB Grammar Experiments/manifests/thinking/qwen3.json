@@ -1,0 +1,13 @@
+{
+  "model_key": "qwen3",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "enable_thinking": false,
+  "template_control": {
+    "enable_thinking": false,
+    "template_argument": "enable_thinking"
+  },
+  "think_tags_present": false,
+  "think_content_empty": true,
+  "single_user_message": true,
+  "rendered_template": "<|im_start|>user\nTHINKING-CONTROL-TEST<|im_end|>\n<|im_start|>assistant\n"
+}

@@ -1,0 +1,2 @@
+#python run_grammamt_Apertus.py --language Gitksan --model_id swiss-ai/Apertus-8B-Instruct-2509 --support_n 2 --test_n 5 --use_4bit --max_new_tokens 256 --out_metrics metrics/metrics_gitksan_Apertus.json --out_jsonl results/results_gitksan_Apertus.jsonl
+python run_grammamt_Apertus.py --language Gitksan --model_id swiss-ai/Apertus-8B-Instruct-2509 --support_n 21 --test_n 37 --use_float32 --out_metrics metrics/metrics_gitksan_Apertus.json --out_jsonl results/results_gitksan_Apertus.jsonl

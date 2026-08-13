@@ -1,0 +1,52 @@
+LANGUAGE: Tsez
+PDF file processed: Tsez Grammar PDF/Tsez_Grammar_PDF.pdf
+Output location: Tsez Grammar Materials/Tsez_Grammar_PDF
+
+Files created:
+- Summary Text/summary_model_readable.md
+- Summary Text/summary_model_readable.txt
+- Cheat Sheet from PDF/compact_cheatsheet.md
+- Cheat Sheet from PDF/compact_cheatsheet.txt
+- Cheat Sheet from PDF/compact_cheatsheet.jpg, compact_cheatsheet_2.jpg
+- Summary Image with Tables/summary_tables.md
+- Summary Image with Tables/summary_tables.txt
+- Summary Image with Tables/summary_tables.jpg, summary_tables_2.jpg
+- Pages from the PDF/Selected impactful pages JPG/*.jpg
+- Pages from the PDF/Selected impactful pages JPG/selected_pages_manifest.md
+- Pages from the PDF/Selected impactful pages JPG/selected_pages_manifest.txt
+- Pages from the PDF/optional_page_notes.md
+- Pages from the PDF/optional_page_notes.txt
+
+Number of selected original PDF pages rendered to JPG: 9
+Selected impactful pages: 8, 9, 10, 12, 15, 16, 20, 21, 25
+
+Major grammar areas covered:
+- gender/noun class and agreement
+- number and case
+- local cases and spatial nouns
+- pronouns and demonstratives
+- verb classes, TAM/evidentiality, imperative, negation, non-finites
+- causative, potential, light verbs
+- head-final word order and noun phrase structure
+- ergative alignment, affective clauses, ditransitives
+- questions, relative clauses, complement clauses, adverbial/converb clauses
+- constituent and sentential negation
+- glossing abbreviations
+
+Missing or unclear information:
+- Full pronoun and demonstrative tables are partly noisy in extracted text; source JPGs preserve visual layout.
+- Some table cells are linearized by PDF extraction.
+- Articles/definiteness were not identified as an available section in this PDF.
+
+OCR, extraction, font, or JPG rendering issues:
+- OCR was not used because embedded PDF text was available.
+- Unicode symbols were preserved and rendered with DejaVu fonts.
+- Rendered Markdown JPGs were created from the authoritative Markdown sources.
+
+Consistency and faithfulness:
+- Materials are based only on the input PDF.
+- No external linguistic information was added.
+- Markdown/text and rendered JPG image versions were created successfully.
+- Selected page JPGs cover the most compact high-impact original PDF page set for GPU-safe Qwen-VL runs.
+
+Ready for Qwen/Qwen-VL translation experiments: yes.

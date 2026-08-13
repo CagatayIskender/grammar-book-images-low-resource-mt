@@ -1,0 +1,2221 @@
+Abbreviations
+Abbreviated category labels used in morpheme-by-morpheme glosses
+(see 1.3.5. for further notational conventions in glosses):
+ABS
+Absolutive case
+ABST
+Abstract noun
+ADDIR
+Addirective case
+ADEL
+Adelative case
+ADESS
+Adessive case
+ADV
+adverbializer
+AFUT
+Archaic Future
+AIMPP
+Archaic Imperfective participle
+ANTIC
+anticausative
+AOC
+Aorist converb
+AOP
+Aorist participle
+AOR
+Aorist
+APRET
+Archaic Preterit
+CAUS
+Causal converb
+CND
+Conditional
+CONT
+Continuative
+COP
+copula
+DAT
+Dative case
+EVID
+Hearsay Evidential
+FUT
+Future
+GEN
+Genitive case
+GRAD
+Graduative converb
+ERG
+Ergative case
+HORT
+Hortative
+IMC
+Imperfective converb
+IMMANT
+Immediate-Anterior converb
+IMPF
+Imperfective
+IMPV
+Imperative
+INDEF
+indefiniteness marker (on indefinite pronouns)
+INESS
+Inessive case
+INEL
+Inelative case
+INF
+Infinitive
+INTJ
+Interjection
+MAN
+Purpose/Manner converb
+MSD
+Masdar
+NEG
+negation
+OPT
+Optative
+ORD
+marker of ordinal numerals
+PER
+Periphrasis form
+PL
+plural
+PODIR
+Postdirective case
+POEL
+Postelative case
+POESS
+Postessive case
+POSTR
+Posterior converb
+PRED
+predicative suffix
+
+xx
+Abbreviations
+PRF
+Perfect
+PROHIB
+Prohibitive
+PST
+Past
+PT
+particle
+PTP
+participle
+PURP
+Purpose/Manner converb
+Q
+question marker
+REPET
+Repetitive
+SBDIR
+Subdirective case
+SBEL
+Subelative case
+SBESS
+Subessive case
+SBST
+substantivizer
+SRDIR
+Superdirective case
+SREL
+Superelative case
+SRESS
+Superessive case
+TEMP
+Temporal converb
+Other abbreviations that are used occasionally:
+A.
+Arabic
+Ch.
+chapter
+intr.
+intransitive
+IPA
+International Phonetic Alphabet
+lit.
+literally
+Ν
+noun
+NP
+noun phrase
+obi.
+oblique stem
+P.
+Persian
+T.
+Turkic
+tr.
+transitive
+V
+verb
+A and U also represent archiphonemes:
+A stands for a low vowel, U stands for a high vowel.
+Capital letters are sometimes used to represent NP arguments, sometimes with a subscript
+indicating case, e.g. A, T, EDAT, LPOESS· Like mathematical variables, these letters are
+strictly speaking meaningless. However, as a mnemonic help for the reader, non-arbitrary
+letters were often chosen that can be thought of as standing for certain semantic roles:
+A:
+"agent"
+T:
+"theme"
+E:
+"experiencer"
+S:
+"stimulus"
+L:
+"location"
+R:
+"recipient"
+See 1.3.4. for abbreviations of the sources of the example sentences.
+
+Chapter 1
+Introduction
+1.1. The Lezgian language and its genetic affiliation
+Lezgian is spoken by about 400,000 people in southern Daghestan and
+northern Azerbaijan in the eastern Caucasus. (See 2.1. for details on Lezgian
+speakers.) Lezgian has been written since 1928, first in the Latin alphabet,
+from 1938 onward in the Cyrillic alphabet. This grammar describes the stan-
+dard language, which is based on the lowland Güne dialect. (See 2.2. for
+more on Lezgian dialects, and 2.3. for more information on the status of
+Lezgian and the standard language.)
+Lezgian is a member of the Lezgic branch of the Nakho-Daghestanian
+family of languages. The family tree of Nakho-Daghestanian is shown in (1)
+(following Hewitt 1981a:197).
+(1)
+Nakho-Daghestanian languages
+Nakh languages
+Chechen, Ingush, Tsova-Tush (Bats)
+Daghestanian languages
+Avaric languages
+Avar
+Andic languages
+Andi, Botlikh, Godoberi, Karata, Akhvakh, Bagvalal,
+Tindi, Chamalal
+Tsezic languages
+Tsez, Khvarshi, Hinukh, Bezhta, Hunzib
+Lakic languages
+Lak, Dargwa
+Lezgic languages
+Lezgian, Archi, Tabasaran, Agul, Rutul, Tsakhur,
+Budukh, Kryz, Khinalug, Udi
+Comparative studies on Nakho-Daghestanian languages include Bokarev
+(1961), GiginejSvili (1977), Kibrik & Kodzasov (1988), (1990). Comparative
+studies of the Lezgic languages include Alekseev (1980) and Schulze (1983).
+The Nakho-Daghestanian family is also sometimes called "North-East
+Caucasian" or "East Caucasian". Such terms are avoided here because they
+could strengthen the still widespread misconception (see, e.g., Voegelin &
+Voegelin 1966, Ruhlen 1987) that the Nakho-Daghestanian family is part of
+a larger "Caucasian" family, comprising also the Kartvelian ("South
+Caucasian") family and the Abkhazo-Adyghean ("North-West Caucasian")
+family. However, the main feature that these families have in common, be-
+sides being spoken in the Caucasus region, is that they are not related to any
+
+2
+1. Introduction
+of the neighboring larger families (Indo-European, Turkic, Afro-Asiatic),
+although they also share a few typological features (ergativity, ejective con-
+sonants). Of course, it cannot be excluded that the Nakho-Daghestanian,
+Kartvelian, and Abkhazo-Adyghean languages will some day turn out to be
+related after all, but so far a genetic relationship has not been proved.
+1.2. An overview of Lezgian grammar
+This section is an introduction to the typologically most striking features of
+Lezgian. Detailed information on each topic can be found in later chapters.
+1.2.1. Phonology and morphophonemics
+Lezgian has six phonemic vowels which form an asymmetric system which
+is typologically rather unusual. Distinctive length of /a/ and /as/ is marginal.
+i
+y
+u
+e
+ae
+a
+With its 54 members, the Lezgian consonant inventory is quite rich.
+There are 34 occlusives, in six places of articulation (labial, dental, dental si-
+bilant, postalveolar sibilant, velar, uvular) and four series (voiced, voiceless
+unaspirated, voiceless aspirated, voiceless ejective). Dental, velar, and uvu-
+lar obstruents have a labialized and a non-labialized variant.
+b
+d
+g
+g w
+P h
+th
+(hw
+tsh
+tshw
+kh
+khw
+qh
+qhw
+Ρ
+Ρ'
+t
+tw
+ts
+tsw
+tr
+k
+k w
+q
+q'
+Β
+qw
+q'w
+Kw
+Ρ
+Ρ'
+t'
+t'w
+ts'
+ζ
+z w
+tr
+3
+k'
+k ' w
+q
+q'
+Β
+qw
+q'w
+Kw
+f
+s
+s w
+J
+X
+X
+X w
+m
+η
+w
+Until recently, Lezgian had only syllables of the structure CV, CVC, and
+CVCC. The last type occurs only at the end of a morpheme (e.g. /wertfh/ 'hen',
+/halth-zawa/ 'meets'), and morpheme-internal consonant clusters (CVC-CV...)
+are restricted to a few types in native words.
+Quite recently Lezgian has undergone a sound change of vowel syncope
+that eliminated high vowels in pretonic position between voiceless obstru-
+ents, e.g.
+/tfhu'xun/
+>
+Afhxun/
+'comb'
+/sv'pekh/
+>
+/spekh/
+'mulberry'
+/kn'tf'e/
+>
+/k^tf'e/
+'afraid'
+/sith'%a/
+>
+/st^a/
+brother'
+
+1.2. An overview of Lezgian grammar
+3
+As a result of this change, which lacks uniformity and is apparently still in
+progress, a large number of new morpheme-initial consonant clusters has
+arisen. In addition, the syncopated vowels often leave the preceding conso-
+nant labialized (in the case of syncopated Inf) or palatalized (in the case of /i/)
+or both (in the case of /y/), so that a whole new class of palatalized and labial-
+ized-palatalized voiceless obstruents has come into being. This change com-
+plicates the description of Lezgian phonology considerably.
+Another prominent feature of Lezgian is the occurrence of various con-
+sonant alternations in nouns. The Absolutive Singular form, which ends in
+zero, often differs from the other forms, e.g.
+Word-final Ejective Aspiration
+/ne't'er/
+'lice'
+/net*1/
+'louse'
+Word-final Ejective Voicing
+/t'a'p'uni/
+'block (Erg.)'
+/t'ab/
+'block (Abs.)'
+Word-final Unaspirated Voicing
+/tse'kwer/
+'ants'
+/tsegw/
+'ant'
+Pre-obstruent Unaspirated Aspiration
+/tsykh/
+'flower'
+/tshlflcwer/
+'flowers'
+Lezgian also shows palatal (/e, i, y/ vs. /a, u[) and labial (/u, y/ vs. Of) vowel
+harmony, but only in the first two syllables of a word. For instance, the
+oblique stem suffix -Uni has the alternants /-ini/, /-uni/, /-yni/:
+ric'
+ric'-ini
+'bowstring'
+leq'
+leq'-ini
+'liver'
+q'iik
+q'ük-üni
+'pitchfork'
+zarb
+zarb-uni
+'speed'
+tur
+tur-uni
+'sword'
+Word stress is generally on the second syllable of the root. Loanwords
+from Arabic may also be stressed on the third syllable.
+ak'äzarun
+'bow'
+öubäruk
+'swallow'
+hukumät
+'government' (< Arabic
+hukuumat)
+Suffixes are of two types: stress-neutral and stress-attracting. Stress-neu-
+tral suffixes do not bear stress. Since roots are commonly monosyllabic and
+quite a few stress-neutral suffixes may follow a root, polysyllabic words
+stressed on the first syllable are not uncommon, e.g.
+f!4£-zawa
+hält-nawa-j-bur-u-kaj
+'is crying'
+'about those who have met'
+
+4
+1. Introduction
+Most stress-attracting suffixes can follow only monosyllabic roots, resulting
+in words stressed on the second syllable.
+sir-er
+'secrets'
+wirt'-ädi
+'honey (Ergative case)'
+fe-ji
+'having gone'
+1.2.2. Morphology
+Lezgian morphology is overwhelmingly suffixing and agglutinating.
+Nouns, adjectives, and verbs can be easily distinguished by morphological
+criteria.
+Nouns are inflected for number (Singular, Plural), case (Absolutive,
+Ergative, Genitive, Dative, Essive, Elative, Directive), and localization (Ad,
+Sub, Post, Super, In). The locative cases Essive, Elative, and Directive occur
+in combination with the localizations (Ad-essive, Sub-elative, Super-direc-
+tive, etc.). All cases other than the Absolutive are based on a special oblique
+stem whose suffix is idiosyncratic for many nouns. An example (hül 'sea'):
+Singular
+Plural
+Absolutive
+hül
+hiil-er
+Ergative
+hül-i
+hiil-er-i
+Genitive
+hiil-i-n
+hül-er-i-n
+Dative
+hiil-i-z
+hül-er-i-z
+Adessive
+hiil-i-w
+hiil-er-i-w
+Adelative
+hül-i-waj
+hül-er-i-waj
+Addirective
+hiil-i-wdi
+hiil-er-i-wdi
+Subessive
+hiil-i-k
+hiil-er-i-k
+Subelative
+hül-i-kaj
+hiil-er-i-kaj
+Subdirective
+hill-i-kdi
+hiil-er-i-kdi
+Postessive
+hill-i-qh
+hiil-er-i-qh
+Postelative
+hül-i-qhaj
+hül-er-i-qhaj
+Postdirective
+hill-i-qhdi
+hül-er-i-q^di
+Superessive
+hül-e-l
+hiXl-er-a-l
+Superelative
+hiil-e-laj
+hiil-er-i-laj
+Superdirective
+hiil-e-ldi
+hiil-er-a-ldi
+Inessive
+hül-e
+hiil-er-a
+Inelative
+hül-äj
+hill-er-aj
+The locative cases in combination with the localizations can express vari-
+ous local relations. However, local relations are more often expressed by
+postpositions, and noun inflections tend to express more abstract relations.
+The only inflections of adjectives are the substantivizing suffix -di (e.g.
+c'iji 'new', c'iji-di 'new one') the adverbial suffixes -(di)z / -dakaz
+(e.g.jawaS
+'slow', jawa$-diz
+'slowly').
+Verbs are inflected for tense-aspect, negation, several mood forms and
+various non-finite forms. There are no person-number agreement forms.
+The most important inflected verb forms are (from gun 'give'):
+
+1.2. An overview of Lezgian grammar
+5
+non-negated
+negated
+Imperfective
+gu-zwa
+gu-zwa-6
+Past Imperfective
+gu-zwa-j
+gu-zwa-6-ir
+Future
+gu-da
+gu-da-6
+Past Future
+gu-da-j
+gu-da-ö-ir
+Aorist
+ga-na
+ga-na-ö
+Past Aorist
+ga-na-j
+ga-na-ö-ir
+Perfect
+ga-nwa
+ga-nwa-6
+Past Perfect
+ga-nwa-j
+ga-nwa-ö-ir
+Imperative
+ce /che/
+—
+Prohibitive
+—
+gu-mir
+Optative
+gu-raj
+ta-gu-raj
+Hortative
+gu-n
+ta-gu-n
+Masdar
+gu-n
+ta-gu-n
+Infinitive
+gu-z
+ta-gu-z
+Imperfective participle
+gu-zwa-j
+ta-gu-zwa-j
+Future participle
+gu-da-j
+ta-gu-da-j
+Perfect participle
+ga-nwa-j
+ta-ga-nwa-j
+Aorist participle
+ga-jt
+ta-ga-j
+Aorist converb
+ga-na
+ta-ga-na
+Posterior converb
+gu-daldi
+—
+Temporal converb
+ga-ji-la
+ta-ga-j-la
+There is little derivational morphology in Lezgian. The most important
+nominal derivational suffix is the abstract suffix -wal (c'iji-wal
+'new-ness').
+Verbs can be derived from verbs by means of the causative suffix
+-(a)r
+0aqwaz-un 'stop (intr.)', aqwaz-ar-un
+'stop (tr.)'). Some derivational affixes
+have been borrowed along with loanwords and are so common that they
+must be considered Lezgian affixes, e.g. nominal -6i (e.g. lawga-ü
+'proud
+person'), adjectival -lu,
+-suz (e.g. meSreblu
+'pleasant', me
+Srebsuz
+'unpleasant'), verbal -lamiSun (e.g. leke-lami§un
+'stain, soil').
+1.2.3. Syntax
+Word order patterns in Lezgian are overwhelmingly head-final. This order
+is obligatory in noun phrases (Genitive-noun, adjective-noun, numeral-
+noun, demonstrative-noun, etc.), adjective phrases, and postpositional
+phrases, and it is preferred for clauses. However, alongside SOV order other
+orders are also possible, especially in the spoken language.
+The case-marking patterns in clauses is uniformly ergative, as shown in
+(2) (for notational conventions used in example sentences, see 1.3.4.-5.).
+(2) a. Stxa
+k'wal.i-z
+xta-na.
+brother(ABS) house-DAT
+return-AOR
+The brother came back home.'
+
+6
+1. Introduction
+b. Wax.a
+stxa
+k'wal.i-z
+raqur-na.
+sister(ERG) brother(ABS) house-DAT send-AOR
+The sister sent the brother home.'
+Dative subjects occur with some experiential verbs, e.g.
+(3) Wax.a-z
+stxa
+aku-na.
+sister-DAT brother(ABS) see-AOR
+The sister saw the brother.'
+There is no agreement in Lezgian, neither in noun phrases nor on finite
+verbs. Personal pronouns are normally used if there are no full noun
+phrase arguments. (However, these may be omitted if they can be recovered
+from the context.)
+(4) Ada
+abur
+k'wal.i-z
+raqur-na.
+she(ERG) they(ABS) house-DAT
+send-AOR
+'She sent them home.'
+Lezgian has practically no rules that change grammatical relations. There
+is only a derivational suffix -(a)r (causative) which turns intransitive verbs
+into transitive verbs.
+Subordinate clauses are normally non-finite, i.e. marked by special subor-
+dinating verb forms, and they generally precede the superordinate clause.
+Relative clauses make use of the participles, which have no inherent ori-
+entation and can therefore be used to relativize almost any constituent.
+(5) a. gada
+k'wal.i-z
+raqur-aj
+ruS
+[boy
+house-DAT
+send-AOP]
+girl
+'the girl who sent the boy home.'
+b. ruS.a
+k'wal.i-z
+raqur-aj
+gada
+[girl(ERG)
+house-DAT send-AOP]
+boy
+'the boy whom the girl sent home'
+c. ruS.a
+gada
+raqur-aj
+k'wal
+[girl(ERG) boy
+send-AOP] house
+'the house to which the girl sent the boy'
+Complement clauses are of three major types: Masdar (verbal noun)
+complements (6), Infinitival complements (7), and participial complements
+(8).
+(6) Ca-z
+tamaSa
+student-r.i-z
+qalur-un
+teklif-na. (S88:155)
+we-DAT [play
+student-PL-DAT
+show-MSD] propose-AOR
+They proposed to us to perform the play in front of the students.'
+
+1.2. An overview of Lezgian grammar
+7
+(7) Abur.u-z
+cl.a-n
+gazet.di-z
+sa gweö'i maqala
+kiti-z
+they-DAT
+[wall-GEN
+paper-DAT
+one
+little
+article
+write-INF]
+k'an-zawa.
+(M83:55)
+want-IMPF
+They want to write a little article for the wall newspaper.'
+(8) Skola.di
+6'exi rol' qugwa-zwa-j-di
+za
+inkar
+iji-zwa-ö.
+[school(ERG) big
+role play-IMPF-PTP-SBST] I:ERG
+denial do-IMPF-NEG
+Ί don't deny that the school plays an important role.' (DD77,6:15)
+Although it is possible to conjoin clauses with the conjunction wa 'and',
+this is avoided in favor of constructions using converbs (non-finite verb
+forms used for adverbial subordination), e.g.
+(9) a. RuS elqwe-na q'uluqhdi
+kilig-na. (S88:35)
+girl
+[tum-AOC]
+back
+look-AOR
+The girl turned around and looked back.'
+(Lit. 'The girl, having turned around, looked back.')
+b. Sual-r.i-z
+sa
+fikir-ni
+ta-gu-z,
+muhman-r.i
+aniax
+[question-PL-DAT
+one thought-even NEG-give-INF] guest-PL (ERG)
+only
+zawab-ar
+tikrar-zawa-j.
+(Q81:112)
+answer-PL
+repeat-IMPF-PST
+The guests did not pay attention to the questions and only repeated
+the answer.' (Or: 'Not paying attention to the questions,...')
+Specialized converbs are used for adverbial clauses, e.g.
+(10) Sabir
+xkwe-daldi
+6aj hazur
+ze-da. (583:61)
+[Sabir
+retum-POSTR]
+tea
+ready
+be-FUT
+The tea will be ready before Sabir comes back.'
+(11) Maden
+aöux
+qhuwu-r-la,
+δα-ζ
+wiri-d.a-z
+[mine
+open(PER)
+REPET-AOP-TEMP]
+we-DAT all-SBST.SG-DAT
+xiir-e
+k'walax
+ze-da. (HQ89:8)
+village-INESS work
+be-FUT
+'When the mine is reopened, there will be work in the village for all of
+us.'
+(12) Zun
+k'wal-äj
+fe-ji-waldi,
+Ahmed
+ata-na. (G63:13)
+[I:ABS
+house-INEL
+go-AOP-IMMANT]
+Ahmed
+come-AOR
+'As soon as I left the house, Ahmed came.'
+Polar questions are marked by the interrogative verb suffix -ni, as in (13).
+(13) Farid
+ata-na-ni?
+Farid
+come-AOR-Q
+'Has Farid come?'
+
+8
+1. Introduction
+In parametric questions, the interrogative pronoun is normally in situ
+and no interrogative verb suffix is used.
+(14) Farid
+mus
+ata-na?
+Farid
+when
+come-AOR
+'When did Farid come?'
+Comparison of inequality is expressed by marking the standard of com-
+parison in the Superelative case. The adjective is not specifically marked.
+(15) Awar 6'al
+lezgi
+ö'al.a-laj
+öetin
+ja.
+Avar
+language
+Lezgian language-SREL difficult COP
+'Avar is more difficult than Lezgian.'
+1.3. A user's guide to this grammar
+This book is intended as a reference grammar of Lezgian for linguists who
+wish to learn more about Lezgian grammar as a whole or about particular
+aspects of it.
+Since it was written for linguists, the grammar presupposes familiarity
+with a large number of fundamental grammatical notions which greatly fa-
+cilitate the concise formulation of grammatical regularities. However, it
+contains no framework-specific jargon, idiosyncratic formalisms, or other
+unnecessary obstacles.
+1.3.1. User-friendly features
+An attempt has been made to make this grammar maximally user-friendly
+even for readers who need a particular piece of information (e.g. for a cross-
+linguistic investigation) and have no time to wade through the whole
+grammar. This grammar has the following features that make it easy to use
+as a reference work:
+(A) Morpheme-by-morpheme glosses with brackets marking subordinate
+clauses for better readability (cf. 1.3.5.).
+(B) A detailed subject index which, in addition to normal entries referring
+to places in the book, contains entries that do not occur elsewhere in the
+book. Such entries are names of grammatical phenomena that do not occur
+in the language. Thus, looking up the subject index suffices to find out that
+Lezgian has no passive, no dual, no tones. There are of course no negative
+statements about these categories in the grammar, and since the mere ab-
+sence of a category in the index proves nothing, the negative information in
+the index might be useful.
+(C) An index to the example sentences. Since the examples (most of
+which were taken from original Lezgian texts) usually show other interest-
+ing phenomena in addition to the point which they illustrate in the particu-
+lar place in the text, such an index makes a lot of additional information
+available. By looking up the number of an example in the index, the reader
+
+1.3. A user's guide to this grammar
+9
+can find up to twenty more examples elsewhere in the grammar that illus-
+trate the same point.
+(D) A more or less complete bibliography of scholarly works on Lezgian.
+Most of these are not mentioned in the text, but a reader who is interested
+in further information or different points of view is given the chance to
+look them up. The subject index simultaneously serves as an index to the
+bibliography. This step was taken so as not to clutter the text with references
+that few readers will find useful because most of the publications are diffi-
+cult to get outside of Daghestan.
+(E) An index to the grammatical morphemes of Lezgian.
+1.3.2. Structure of the grammar
+The structure of this grammar follows the well-established traditional order:
+phonology — morphology — syntax — texts. This ensures that the amount
+of information that is presupposed in a given section but comes later in the
+book is minimized.
+The morphological chapters deal with the form and the meaning of the
+grammatical items of the language. For inflectional categories, the inflection
+as a whole is first described, followed by a description of the meanings of the
+individual inflectional categories. For derivational categories, form and
+meaning are treated together.
+While the morphology takes the analytical perspective (from form to
+function), the syntax takes the synthetic perspective (from function to form),
+with chapter topics such as coordination, relative clauses, complement
+clauses, adverbial clauses, coreference, questions, and comparison. All these
+are taken as functional notions. For example, participial relative clauses and
+correlative relative clauses show no formal similarities, but they are treated
+together in Ch. 19 because of their similar function.
+Thus, this grammar to some extent fulfills the theoretical requirement to
+present the grammatical information both from an analytical and from a
+synthetic perspective (von der Gabelentz 1901, Lehmann 1980). For example,
+the functions of the Dative case are described twice: First from an analytical
+perspective in the chapter on nominal inflection (7.2.2.4.); and then from a
+synthetic perspective in the sections on verbal valence (15.3.2., 15.4.1.), on
+adjectival valence (14.5.1.1.), and on spatial and temporal adverbials
+(16.3.1.1., 16.3.2.1.). Similarly, the functions of the Aorist converb are de-
+scribed twice: First in the chapter on verbal inflection (9.9.4.), and then in
+the sections on adverbial clauses (21.1.) and on complement clauses (20.6.1.-
+2.). Sometimes only cross-references are made to avoid unnecessary repeti-
+tions.
+However, this grammar, too, has an analytical bias. Not everything is de-
+scribed from a synthetic point of view. For example, there is no function-to-
+form treatment of tense meanings, or of number meanings. For such phe-
+nomena, the form-to-function description must suffice.
+
+10
+1. Introduction
+1.3.3. Grammatical terminology
+Another feature that contributes to the user-friendliness of this grammar is
+the avoidence of opaque grammatical category labels such as "5th Elative
+case" or "3rd Past tense". Instead, grammatical labels with some mnemonic
+descriptive content have been chosen, such as "Superelative case" and "Past
+Perfect". This meant that traditional Lezgian terminology had to be aban-
+doned in several cases. However, the traditional terminology itself is by no
+means uniform. For example, Gajdarov's (1987a) textbook differs substan-
+tially from the earlier standard accounts of Talibov & GadZiev (1966) and
+Mejlanova (1967). Other works such as Zirkov (1941) and Moor (1985) use
+still different terms.
+The following table is a comparative list of the most important terms that
+are most widespread in Russian-language studies of Lezgian and of the ter-
+minology used in this grammar (my terminology is closest to Mel'iuk's
+1988a).
+Table 1. Comparative list of terminology
+Terminology as in
+Terminology in this grammar
+Talibov & GadZiev (1966)
+and Mejlanova (1967)
+cases
+imenitel'nyj
+ärgativnyj
+roditel'nyj
+datel'nyj
+mestnyj I
+isxoditel'nyj I
+napravitel'nyj I
+mestnyj II
+isxoditel'nyj II
+napravitel'nyj II
+mestnyj III
+isxoditel'nyj III
+napravitel'nyj III
+mestnyj IV
+isxoditel'nyj IV
+mestnyj V
+isxoditel'nyj V
+napravitel'nyj V
+Absolutive
+Ergative
+Genitive
+Dative
+Adessive
+Adelative
+Addirective
+Postessive
+Postelative
+Postdirective
+Subessive
+Subelative
+Subdirective
+Inessive
+Inelative
+Superessive
+Superelative
+Superdirective
+
+1.3. A user's guide to this grammar
+11
+verbal categories
+nastojaäiee I
+nastojaäiee II
+buduäiee
+proäedäee nesoveräennoe I
+proäedäee nesoveräennoe II
+proäedäee nesoveräennoe III
+buduäiee predpoloZitel'noe I
+buduäiee predpolo2itel'noe II
+proäedäee I
+proäedäee II
+proäedäee III
+davnoproSedäee I
+davnoproäedäee II
+celevaja forma
+povelitel'noe nakl.
+1st person
+Imperfective
+Continuative Imperfective
+Future
+Past Imperfective
+Continuative Past Imperfective
+Past Future
+Archaic Future
+Archaic Past Future
+Aorist
+Archaic Preterit
+Perfect
+Past Aorist
+Past Perfect
+Infinitive/Imperfective converb
+Hortative
+Imperative
+Optative
+Masdar
+Note that I follow Comrie's (1976) convention of capitalizing language-
+particular morphological categories such as Ergative case or Past Future
+tense, whereas universal or purely semantic categories are not capitalized.
+1.3.4. Example sentences
+This grammar provides rich exemplification of the covered material. The
+purpose of this is to make as many data as possible available to the reader.
+The reader may not agree with the proposed analyses and some of the de-
+scriptions may turn out to be incorrect, but the example sentences will not
+lose their usefulness.
+Each example that has a number of its own illustrates a point in the de-
+scription. When several examples illustrate the same point, they are distin-
+guished by the letters (a), (b), (c), etc.
+The overwhelming majority of example sentences were taken from orig-
+inal Lezgian texts and thus represent "real language". The source of each
+text example is indicated in parentheses following the example. (The num-
+ber following the colon is the page number.) Example sentences where no
+source is indicated were elicited from native speakers (see the acknowledg-
+ments).
+The following abbreviations of the sources of the examples have been
+used:
+
+12
+1. Introduction
+Books:
+A55:
+Agaev, Ahed. 1955. St'al
+Sulejman.
+Maxaikala: Dagknigoizdat.
+[Sulejman Stal'skij]
+A76:
+Iskenderov, Abdullah. 1976. Samur. 3-ktab. C'iji ümür. Maxaikala:
+Dagestanskoe kniinoe izdatel'stvo. [Samur. Vol. 3. New life]
+A90:
+Ahmedov, Ibrahim. 1990. K'ewi dustar. Maxaikala: Daguipedgiz.
+[Close friends]
+AM87: Akimov, Q.X. & Musanabieva, B.S. (ed.) 1987.
+Literaturadin
+xrestomatija.
+5-klass. 11-izdanie. Maxaikala:
+Daguipedgiz.
+[Chrestomathy of literature. 5th grade. 11th edition]
+D57:
+Gor'kij, Maksim. 1957. Dide. Maxaöqala: Dagustandin ktabrin izda-
+tel'stvo. [The mother. Translated from Russian by Magomed M.
+Gadiiev]
+E56:
+Efendiev,
+Zijaudin.
+1956. Jark'iiuwan
+ru§.
+Maxaikala:
+Dagknigoizdat. [The Jark'i girl]
+G54:
+Gad2iev (1954) (see bibliography)
+G57:
+Gadliev, Magomed M. 1957. Lezgi ö'alan grammatika.
+2 lahaj paj.
+Sintaksis. Maxaikala: Daguipedgiz. [Grammar of the Lezgian lan-
+guage. Part 2. Syntax]
+G63:
+Gadiiev (1963) (see bibliography)
+G82:
+Gjul'magomedov (1982) (see bibliography)
+H63:
+Hajdarov (1963) (see bibliography)
+Η77:
+Ha2i, Rasim. 1977. Zi irid stxa. Povest'. Maxaikala: Daguipedgiz.
+[My seven brothers. Short novel]
+H82:
+Hajdarov (1982) (see bibliography)
+HQ89:
+Qurban, Hakim. 1989. Jaru mäden. Maxaikala: Daguipedgiz. [The
+red mine]
+J84:
+Isaev, Samsudin. 1984. Rexi qwan. Maxaikala: Daguipedgiz. [The
+grey stone]
+J89:
+Jaraliev, Jaq'ub. 1989. Alamatdin
+Urui. Maxaikala: Daguipedgiz.
+[Marvelous Uru2]
+K57:
+Kononov, A. 1957. Leninakaj
+rasskazar. Maxaikala: Dagestanskoe
+kni2noe izdatel'stvo. [Stories about Lenin]
+M79:
+Minha2ev, Serker. 1979. Laxta taitaj iwi. Maxaikala: Dagestanskoe
+kni2noe izdatel'stvo. [Uncurdled blood]
+M83:
+Me2idov, Qijas. 1983. Qeni
+qunUjar.
+Maxaikala: Daguipedgiz.
+[Good neighbors]
+M90:
+Mahmudov, Abdulbari. 1990. C'iji q'ilelaj baSlamiSa.
+Maxaikala:
+Dagestanskoe kni2noe izdatel'stvo. [Begin anew]
+N88:
+Sixnabiev, Naxmudin. 1988. Meq^er.
+Maxaikala: Dagestanskoe
+kni2noe izdatel'stvo. [The wedding]
+Q81:
+Qurban, Hakim. 1989. Quj
+hamiSa
+rag
+5turaj. Maxaikala:
+Dagestanskoe kniinoe izdatel'stvo. [Let there always be sun]
+R66:
+Rizvanov, Zabit. 1966. Garöülda zeda. Baky: Azerbaj2andin gosu-
+darstvodin izdatel'stvo.
+S88:
+Salimov, Bajram. 1988. Zaman
+buba. Maxaikala: Daguipedgiz.
+[Father Zaman]
+577:
+Sixverdiev, Muradxan. 1977. Ekw jargaj
+akwada.
+Maxaikala:
+Dagestanskoe kni2noe izdatel'stvo. [The light is seen from far]
+
+1.3. A user's guide to this grammar
+13
+583:
+Sixverdiev, Muradxan. 1983. Pakaman
+jarar.
+Maxaikala: Dages-
+tanskoe kniZnoe izdatel'stvo. [Dawn]
+TG66:
+Talibov & Gadiiev (1966) (see bibliography)
+X89:
+Gaäarov, G.G. & Ganieva, M.B. (eds.) Lezgi
+xalq'din
+maxar.
+Maxaikala: Daguipedgiz. [Lezgian folktales]
+Journals:
+(first number after the abbreviation = year, second number = issue)
+Du:
+Dustwal.
+Maxaikala. [Friendship]
+DD:
+Dagustandin
+diSehli. Maxaikala. [Daghestanian woman]
+K:
+Kard.
+Maxaikala. [The Falcon]
+L:
+Literaturadin
+Dagustan.
+Maxaikala. [Literary Daghestan]
+Newspapers:
+(first number = year, second number = month, third number = day)
+Ko:
+Kommunist.
+(KPSS-din obkomdin, DASSR-din verxovnyj sovet-
+din wa ministrrin sovetdin organ) Maxaikala. [Communist]
+Q:
+Gyzyl Gusar/Qizil
+Qusar.
+(Organ kusarskogo rajonnogo komiteta
+KP Azerbajdiana
+i rajonnogo
+soveta
+narodnyx
+deputatov)
+Qusar/Kusary. [Golden Qusar (Kusary, Gusar)]
+1.3.5. Notational conventions for morpheme-by-morpheme glosses
+1.3.5.1. General rules. In example sentences, all inflectional affixes are sepa-
+rated by hyphens from their adjecent affix(es) or the stem. Derivational af-
+fixes are separated only in the relevant sections of the morphology. Each
+morpheme separated by a hyphen in the Lezgian text corresponds to an
+element in the morphemic gloss. Stems are translated by English words, af-
+fixes by abbreviated category labels.
+(i) When one Lezgian morpheme must be translated by two gloss elements
+(English words or category labels), these are separated by a period, e.g.
+eQeö'-un
+jaru-bur
+go.out-MSD
+red-SBST.PL
+(ii) When a category is expressed, but is not expressed by a separable mor-
+pheme, it is separated in the gloss by a colon.
+wuna
+(w-una? wu-na? wun-a?)
+you:ERG
+zi
+I: GEN
+(z-i? zi-0?)
+
+14
+1. Introduction
+(iii) When a category is expressed by zero, its category label is put in paren-
+theses.
+kilig!
+instead of:
+kilig-0
+look(IMPV)
+look-IMPV
+1.3.5.2. Zero. Categories that are always expressed by zero are not shown in
+the morphemic glosses for economy, e.g.
+ktab-ar
+instead of: ktab-ar
+or:
+ktab-ar-0
+book-PL
+book-PL(ABS)
+book-PL-ABS
+k'el-zawa
+instead of: k'el-zawa
+or:
+k'el-zawa-0
+read-IMPF
+read-IMPF(NONPAST)
+read -IMPF-NONPAST
+1.3.5.3. Oblique stem suffix. A period in nouns separates the stem from the
+(semantically empty) oblique stem suffix. Thus,
+dide.di-z
+instead of:
+dide-di-z
+mother-DAT
+mother-OBL-DAT
+tar-ar.i-kaj
+instead of:
+tar-ar-i-kaj
+tree-PL-SBEL
+tree-PL-OBL-SBEL
+The Ergative case is marked by zero (like the Absolutive), but since the
+Ergative case is formed from the oblique stem, it is always clearly distinct
+from the Absolutive. It is therefore also shown in the morphemic glosses, as
+an exception to 1.3.5.2. above.
+dide.di
+instead of: dide.di
+or:
+dide-di-0
+mother(ERG)
+mother
+mother-OBL-ERG
+( b y 1.3.5.2.)
+( b y 1.3.5.1.)
+(4) In personal pronouns (including reflexive pronouns), the oblique stem
+suffix is not even shown by a period, again for reasons of economy.
+za-waj
+instead of: z.a-waj
+or:
+z-a-waj
+I-ADEL
+I-ADEL
+I-OBL-ADEL
+( b y 1.3.5.3.)
+( b y 1.3.5.1.)
+öpi-n
+instead of: öp.i-n
+or:
+öp-i-n
+selves-GEN
+selves-GEN
+selves-OBL-GEN
+In third person pronouns (which are based on demonstratives), also the
+substantivizer and the plural affixes are ignored by the gloss. The same rules
+apply to the demonstrative pronoun im 'this (one)'.
+ada
+instead of:
+ad.a
+or:
+a-d.a
+s/he(ERG)
+s/he(ERG)
+that-SBST.SG(ERG)
+or:
+a-d-a
+that-SBST.SG-OBL(ERG)
+
+1.3. A user's guide to this grammar
+15
+abur.u
+they(ERG)
+instead of:
+a-bur.u
+that-SBST.PL(ERG)
+or:
+a-bur-u
+that-SBST.PL-OBL(HRG)
+The Ergative and Absolutive cases of personal pronouns are treated as un-
+analyzable.
+1.3.5.5. Subordinate clauses. The boundaries of subordinate clauses are
+shown in the gloss by brackets ([...]) to facilitate the understanding of more
+complex examples.
+1.3.5.6. Hyphen. When the Lezgian text contains a hyphen (e.g. in com-
+pounds), this is rendered by an equals sign (=) so as to avoid confusion with
+the hyphens that separate morphemes:
+3Bep-rbapaft
+ewer=haraj
+call=shout
+zun
+I:ABS
+instead of:
+z-un
+I-ABS
+a m
+s/he:ABS
+instead of:
+a-rn
+that-SBST.SG.ABS
+
+Chapter 3
+Segmental phonological units
+3.1. Orthography and transliteration
+Lezgian is written in a version of the Cyrillic alphabet. The Lezgian alphabet
+includes all the letters used in Russian, plus the additional letter I and
+twelve digraphs. The additional letter <I> is used only in digraphs to
+indicate the ejective nature of stop consonants.
+The four columns of Table 2 show the Lezgian Cyrillic alphabet, the
+transliteration in this grammar, the phonetic value, and the corresponding
+letters of the Latin alphabet which was used between 1928 and 1938.
+Table 2. Lezgian alphabets, transliteration and pronunciation
+(IPA)
+modem
+trans-
+IPA
+Latin
+modern
+trans-
+IPA
+Latin
+alphabet
+literation
+aiphabet
+alphabet
+literatio
+aiphabet
+alphabet
+1928-38
+η
+1928-38
+a
+α
+a
+a
+Ρ
+r
+Γ
+r
+6
+b
+b
+b
+c
+s
+s
+s
+Β
+w
+w
+V
+Τ
+t
+t , t h
+t
+Γ
+g
+g
+g
+τΐ
+t
+t'
+t.
+I~b
+έ
+κ
+y
+u
+u
+u
+Tb
+h
+h
+h
+yb
+ü
+y
+y
+Ά
+dt
+d
+d
+Φ
+f
+f
+f
+e
+e,je
+e, je
+e, je
+χ
+X
+qh
+ql>
+X
+e
+(R.)
+-
+-
+χι.
+X
+qh
+ql>
+κ
+X
+ζ
+3
+ζ
+Xb
+£
+X
+χ,
+3
+ζ
+ζ
+ζ
+U
+c
+ts
+fr
+Η
+i
+i
+i
+ul
+c'
+ts'
+ζ
+κ
+j
+j
+j
+Μ
+6
+tf
+c
+κ
+k
+k, kh
+k
+Ml
+6'
+r
+ς
+κτ>
+Q
+q
+q
+III
+s
+;
+§
+Kb
+q'
+q'
+q
+m
+(R.)
+-
+κΐ
+k'
+k'
+k,
+i
+?
+?
+/
+Λ
+l
+1
+1
+bl
+(R.)
+-
+Μ
+m
+m
+m
+b
+(R.)
+-
+Η
+η
+η
+η
+3
+?e, e
+?e, e
+e , ' e
+Ο
+(R.)
+-
+10
+ju
+ju
+ju
+Π
+Ρ
+P> Ph
+Ρ
+Η
+ä,ja
+ae, ja
+e', ja
+πΐ
+Ρ'
+P'
+Ρ
+
+3.1. Orthography and transliteration
+29
+3.1.1. Comments on Table 2
+3.1.1.1. <e> is transliterated as je at the beginning of a word and after a vowel
+(e.g. <ΘΤΗΜ>jetim 'orphan'; <necw> ijesi 'owner')/ and as e after a consonant
+(e.g. <cec> ses 'sound').
+3.1.1.2. o > is transliterated as e at the beginning of a word (e.g. OKB> ekw
+'light'), and as ?e after a consonant (e.g. <uieft3p> s"ej?er 'things', <Mec3Jia>
+mes?ela 'question').
+3.1.1.3. <fl> is transliterated as ja at the beginning of a word and after a
+vowel (e.g. <sax> jad 'water', <cTxa«p> stxajar 'brothers') and as ä after a
+consonant. There is only one Lezgian word where /ja/ occurs after a
+consonant: <ΛΥΙ»ΗΙ>Λ> dünja 'world' (this word is also unique in that it is the
+only non-Russian word where <b> is used, omitted in the transliteration
+here).
+3.1.1.4. Of the 45 Lezgian letters, five (<e, o, m, u, b>) are only used in
+unassimilated Russian loanwords, which are always spelled as in Russian.
+In this grammar, such loanwords are transliterated according to the
+standard linguistic transliteration of Russian, which differs from the
+Lezgian transliteration adopted here in several minor points:
+transcription of Lezgian
+w
+e, ?e
+je, e
+ja, ä
+<xyflO)KecTBeHHbiK acep>
+xudozestvennyj
+eser
+'Maxaikala's railroad station'
+'work of arf
+3.1.1.5. The present orthographic rules have been in force since 1962. In 1962
+the four digraphs <κκ>, <ππ>, <ττ>, <mi> were abolished and replaced with
+the corresponding single letter. They had been used in some cases to
+represent non-aspirated voiceless stops, especially when near-homonyms
+with aspirated stops exist, e.g.
+<ΜΜΗΛ> /tf 11/ 'earth'
+vs.
+<MHJI> /TFhil/ 'net'
+<TTap> /tar/ 'tree'
+vs.
+<rap> /thar/ 'tara (musical instrument)'
+(GadZiev & Alkadarskij (1938:13, 50) list 19 such words.) As a result of the
+1962 change of the orthography, such minimal pairs are now homographs.
+transcription of Russian
+<B>
+υ
+o>
+έ
+<e>
+e (always)
+<«>
+ja (always)
+E.g. Lezgian <MaxaMKtajia/iHH BOK3aji>
+Maxaöqaladin
+vokzal
+
+30
+3. Segmental phonological units
+3.1.2. Deviations from phonemic spelling
+The Lezgian orthography (and its transliteration used in this grammar)
+comes reasonably close to a representation of the phonemic value of the
+Lezgian words. It deviates only in the following points:
+3.1.2.1. The labialization in the phonemes /gw, KW, Zw, kw, khw, k'w, qw, qhw,
+q'W) tw_ thw) t>wj Sj
+b W ) tshw) tjW/ i s represented in the orthography by the
+additional letter <B> W, e.g.
+This is not a serious shortcoming of the spelling because contrast between
+monophonemic /Cw/ and biphonemic /Cw/ is very rare within a morpheme.
+An example of the latter is <>KH3BH> Aizwi/. But even here no ambiguity
+arises, because */3izwi/ is not possible (an /i/ must be rounded in the vicinity
+of a labialized consonant, cf. 4.5.). Since suffixes beginning with /w/ are not
+uncommon, /Cw/ does occur at morpheme boundaries, e.g.
+pis-wal
+/'phiswal/ 'badness',gata-z-uua /ga'thazwa/ 'beats'.
+3.1.2.2. The contrast aspirated vs. non-aspirated in the following phonemes
+is not reflected in the spelling:
+/t/:/th/
+/tw/: /thw/
+/ts/:/tsh/
+/tsw/: /tshw/
+Μ: /kh/
+/kw/: /khw/
+/ t f /. /tfh/
+/ p /. /ph/
+This contrast is reflected in the spelling only in two cases:
+/q/: /qh/
+<Kt> : <xi>>
+/ q w / : / q h w /
+<KT>B> : <XT>B>
+3.1.2.3. The effect of the recent sound change of vowel syncope is only very
+inconsistently reflected in the spelling. Most high vowels that were lost by
+vowel syncope are still written in the orthography. For details, see 4.1.
+Since the spelling comes close to being phonemic, it is also widely used
+throughout the phonological and morphological chapters of this grammar.
+Whenever distinctions that are not made by the spelling are relevant, the
+IPA transcription is of course added.
+< Γ Β >
+<rbB>
+< 3 B >
+< K B >
+gw
+gw
+ZW
+kw, etc.
+
+3.2. Vowels
+31
+3.2. Vowels
+3.2.1. Vowel inventory
+front
+back
+non-rounded
+rounded
+non-rounded
+rounded
+high
+/aJ
+/y/ (ü)
+/u/
+mid
+/e/
+low
+/ae/, /ae:/ (ä)
+/a/,/aV
+In addition, several dialects have the high back non-rounded vowel N.
+Only /ae/, /as;/, and /&/ require additional comments.
+3.2.1.1. The status of the phoneme /»/. In the standard language /ae/ is
+comparatively rare in stems and occurs only in one suffix (-äj, the Inelative
+of front-vowel stems). In many dialects it is more frequent and is
+pharyngealized to a greater or lesser degree (Kodzasov 1986:33-34,
+Mejlanova 1964). Most roots in which it occurs are loans of Arabic origin
+with an Arabic pharyngeal consonant (Ϊ or h)), e.g.:
+(24) sät
+'hour; clock'
+Arabic:
+saaiat
+t'äm
+'taste'
+ίαΐτη
+mahle
+'streef
+'mahalla(t)
+länet
+'curse, damnation'
+lainat
+däwe
+'war'
+daSwat
+bäzi
+'some'
+baidu
+menfät
+'profif
+manfaiat
+/ae/ does not occur at the beginning of words in the standard language. This
+may be due to the spelling system (/ae/ is represented by the Cyrillic letter
+<H>, which at the beginning of a word has the value /ja/, see 3.1.1.3.). All
+words that begin with /ae/ in the Güne dialect begin with /e/ in the standard
+language (Mejlanova 1970:22), e.g.:
+(25) elqiln
+/el'qyn/
+'turn'
+Güne dialect:
+/ael'qyn/
+exun
+/'εχιιη/
+'suffer'
+/'εεχιιη/
+However, even in the standard language /ae/ occurs in a couple of words that
+seem to be native, e.g.:
+(26) näni
+/'naeni/
+'evening'
+härq'ü
+/hasr'q'y/
+'wide'
+
+32
+3. Segmental phonological units
+/as/ also occurs in a group of verbs ending 'm.-äg'un (combinations
+different preverbs with the verb jagun 'hif, cf. 10.3.):
+of
+(27) kägun
+elägun
+gelägu η
+xkägun
+ek'ägun
+/'khaeKun/
+/e'laeKun/
+/ge'lacKun/
+/^kasKun/
+/e'k'acKun/
+'touch'
+'take off'
+'take off, hit'
+'choose; elect'
+'pour'
+3.2.1.2. The long vowels fan/ and /as/. These two phonemes have a rather
+marginal status. They occur in those forms of the verbs jagun 'hit' and the
+verbs in -ägun in (27) which lose the /κ/ before suffixes beginning with a
+consonant (see below 5.12.). The long vowels are thus the result of
+compensatory lengthening.
+(28) jagun
+/'jaKun/
+'hit'
+ja-zawa
+/'jaizawa/
+'is hitting'
+ja-nawa
+/'jainawa/
+'has hit'
+xkägun
+/'xkffiKun/
+'choose'
+xkä-zawa
+/^kasizawa/
+'is choosing'
+xkä-nawa
+/^kae:nawa/
+'has chosen'
+(< VjaKzawa/)
+(< VjaKnawa/)
+(< */'%kasKzawa/)
+(< */'%kasKnawa/)
+Furthermore, -a/ and -φ' in suffixes are often pronounced as /a'J and /aε:/
+respectively (Gajdarov 1960:249, Mejlanova 1964), e.g.
+(29) fizwaj
+/'fizwatf
+kardikaj
+/'khardikhaV
+atajla
+/a'ta:la/
+rik'äj
+/ri'k'ae:/
+'was goingf
+'about the matter'
+'when...came'
+'out of the heart'
+However, this pronunciation is not obligatory, and a pronunciation closer
+to the spelling is also possible, especially in careful speech.
+3.2.2. Allophonic variation
+3.2.2.1. /aJ has two main allophones which are perceived as rather different
+by the speakers: the mid [Λ] and the low [a]. The low [a] occurs before
+uvulars and Μ in closed syllables, and [λ] occurs elsewhere (Kodzasov
+1990:341). However, the precise phonological conditions for [a] are more
+complex and have not been completely determined yet; thus, [a] also
+appears in many cases before non-uvular voiceless stops, e.g. lap 'very'
+[laph], zak [zakh ] 'under me'. After labialized consonants /a/ is very often
+rounded, e.g. k'waC 'foof [k'wo(fh] or [k'otfh].
+3.2.2.2. /e/ is pronounced as [ε] in stressed syllables and as [e] or [i] in pre-
+stress syllables, especially when followed by Ν in the next syllable. This
+variation is the cause of some variation in the spelling: ixtibär ~ extibär
+'confidence'; ecigun
+~ icigun 'put; build'; etc. In the environment of
+labialized consonants /e/ is often pronounced as [0, ce], e.g. ekw 'light' [cekh].
+
+3.3. Consonants
+33
+3.3. Consonants
+3.3.1. Consonant inventory
+See Table 3 on the next page.
+In addition to the consonants of the standard language (as given in Table 3),
+many dialects have some of the following consonants:
+—the voiced alveolar and postalveolar affricates /dz/, /dzw/, and /φ/;
+—the postalveolar labialized obstruents /(fw/, /tfhw/, /tf'w/, //w/, /3W/, /<£w/. These
+are characteristic of the Samur dialect group. There is even one word in the
+standard language with such a consonant: maiw /macfew/, plural
+mac'war
+/ma'tfwar/ 'astragal', as well as the sound-symbolic words c'wärq' 'slap in the
+face', ö'wäq'räq' 'click' (Mejlanova 1964:387);
+—the voiced uvular stop /g/;
+—the voiced velar fricative /γ/;
+—the epiglottal fricatives Λ/ and /h/.
+The aspirated labialized alveolar affricate /tshw/ is part of the system but is
+extremely rare (Mejlanova 1970:40). It occurs at least in the Güne dialect
+form /rytshwer/ 'grass snakes' (standard rilcer /rytsher/).
+The alveolar affricates /dz/ and /<&/ occur in the Küre dialect group, but in
+the other dialects they mostly fell together with /z/ and ITJ, respectively.
+According to Mejlanova (1970:38) /z, dz/ and /3, <fe/ are not distinguished in
+the standard pronunciation. Here it is not quite clear what the orthoepic
+norm is. As in the case of /as/ above, the orthography, which only uses <>κ> /
+and <3> z, apparently has an effect on what is considered the standard
+pronunciation. In those dialects where /z/ and /dz/ are distinguished, there
+are rather few words containing /dz/ (Mejlanova 1970:37), e.g.
+(30) /ladz/
+/qadz/
+/wardz/
+/medz/
+/murdz/
+/dzaKam/
+'white clay'
+'underwood'
+'month; moon'
+'tongue'
+'flame; edge'
+'shrub'
+standard:
+laz
+qaz
+/laz/
+/qaz/
+war ζ
+/warz/
+me ζ
+/mez/
+murz
+/murz/
+zaga m
+/zaKam/
+In contrast, /φ/ is quite frequent as it occurs in numerous Arabic and Turkic
+loanwords.
+The recent phonological change of Pretonic High Vowel Syncope has led
+to the emergence of quite a few obstruents that are distinctively palatalized
+(cf. 4.1.1.). They are not included in the consonant inventory here because
+the change is quite recent and all its implications have yet to be worked
+out—this is a fruitful area for further research.
+
+34
+3. Segmental phonological units
+CO
+<s
+ο υ
+Ο
+•4-A
+e ω
+a e
+ν i
+Η
+uvular
+labialized
+•ST
+•ST Si
+/xw/
+(xw)
+uvular
+"8 Ν
+e 3
+i i
+5 s
+v ?
+,σ·
+velar
+labialized
+I i «
+velar
+non-
+labialized
+§
+£
+δ >
+sibilant
+post-
+dental
+alveolar
+s ^ £
+vSi
+sibilant
+post-
+dental
+alveolar
+labialized
+Γ ι
+As'w/
+(c'w)
+Ν
+ϊ"
+Μ
+sibilant
+post-
+dental
+alveolar
+non-
+labialized
+Ϊ
+£ Ϊ
+dental
+labialized
+dental
+•8 Ν
+c 2
+i l §
+δ
+Ξ
+>
+labial
+£
+[ft.
+voiced
+aspirated
+unaspirated
+ejective
+voiced
+voiceless
+occlusive
+fricative
+1
+£
+<Λ
+nasals
+liquids
+glides
+<β
+<u
+bo
+&
+
+3.3. Consonants
+35
+3.3.2. Allophonic variation
+3.3.2.1. The labialized consonants may lose their labialization if the
+following vowel is rounded under their influence, e.g. k'wac
+[k'otfh] (cf.
+3.2.2.1.). In many dialects the labialization has been completely lost
+(Gjul'magomedov 1974).
+3.3.2.2. The phoneme Ν is back (velarized) after a back vowel at the end of a
+syllable, and "clear" at the beginning of a syllable and at the end of a syllable
+after a front vowel.
+3.3.2.3. The phoneme /w/ is often pronounced as a bilabial [β] or a labio-
+dental [v] fricative.
+3.3.2.4. In the sequence /Vn/ (i.e. vowel plus /n/), if it is not followed by a
+vowel, the [n] is often deleted with accompanying nasalization of the vowel,
+e.g. zun Τ: [zun] ~ [zü] Uns 'kind; gender': [31ns] ~ [31s] (Gajdarov 1960:248).
+3.3.2.5. In a sequence /nC/ where C is a velar or uvular obstruent, the
+phoneme /n/ (if not deleted, cf. 3.3.2.4.) has the same point of articulation as
+C, e.g. rang [raqg] 'color'; lanqhun
+[laNqhun] 'slam'. Note that the phonemes
+/m/ and /n/ are kept apart before labials, e.g. Senp'i 'kitten' vs. hambar
+'heap'.
+3.3.2.6. The phoneme r is voiceless between two voiceless obstruents, e.g.
+kr£ar 'horns' [khrtfar].
+
+Chapter 4
+Phonotactics
+4.1. Vowel syncope
+4.1.1. Pretonic High Vowel Syncope
+Apparently quite recently a phonological change has taken place in many
+dialects (including the dialect on which the standard language is based)
+which radically altered the phonotactics of the language: Loss of pretonic
+high vowels after voiceless obstruents. This vowel syncope is largely ig-
+nored by the standard orthography (thus presumably facilitating its use by
+speakers of non-syncope dialects). I will sometimes use the term "pre-syn-
+cope" here to refer to the state of the language before the loss of the pretonic
+high vowels.
+In quite a few cases the spelling vacillates — sometimes the high vowel is
+written and sometimes it is omitted. In the following examples, the non-
+standard (but occurring) spelling is marked by an asterisk (*).
+(31) syncope reflected
+in the spelling
+kligun*
+ämud*
+xkwezwa
+kk'lam
+xzan
+tfeng
+kfir
+kitin
+äq'ünt
+spek
+kxunun*
+syncope not reflected
+in the spelling
+kiligun
+Sumud
+xükwezwa*
+kik'lam*
+/'khligun/
+/Jmud/
+/'vkwezwa/
+xizan*
+tüfeng*
+kifir*
+ki&in*
+Siiq'iint*
+süpek*
+kuxunun
+/khk'lam/
+/vzan/
+/rfeng/
+/khfir/
+/khxin/
+/Jq'yntV
+/spekh/
+/k"%unun/
+'look'
+'how many'
+'is returning'
+'tick, mite'
+'family'
+'rifle'
+'dirty, slovenly'
+'write'
+'snail'
+'mulberry'
+'tremble'
+In other cases the pre-syncope forms are only found in the early description
+of Uslar (1896), e.g.:
+(32) modern spelling
+Uslar (1896)
+xper
+/%per/
+xiper
+'sheep (pi.)'
+öka
+/tTka/
+6hika
+'place'
+stxa
+/sthxa/
+sithxa
+'brother'
+ktab
+/khtab/
+khitab
+'book'
+qhsan
+/qhsan/
+q^isen
+'good'
+As can be seen from the above examples, the resulting complicated word-
+initial consonant clusters have not prevented the syncope. Here are more
+examples of resulting CC- and CCC- clusters that do appear in the spelling:
+
+4.1. Vowel syncope
+37
+cc-
+kpul
+/khpul/
+ptul
+/phtul/
+psi
+/phsi/
+CCC-
+6xra
+/tfVa/
+kstax
+flthsvdx/
+ktkana
+/khth'kana/
+Stkana
+//thkana/
+kröargan
+/'khrtfargan/
+'rheumatism'
+'grandchild'
+'pussy7
+'spinning wheel'
+'spoiled (child)'
+'got used'
+'swepf
+'rein'
+In the pronunciation, the syncope occurs much more often than in the
+spelling. It occurs regularly when the high vowel is in a position between
+two obstruents, even in the structure CVrC, i.e. when an r intervenes be-
+tween the high vowel and the second obstruent. A number of examples are
+given in (35).
+(35) Sikil
+//kil/
+'picture'
+Sutq'ünun
+/'Jwthq'unun/
+'press ouf
+äük'ü
+//k'y/
+'thin'
+sik'er
+/sik'er/
+'foxes'
+cifer
+/tshJfer/
+'clouds'
+cic'ib
+/tshJts'ib/
+'chicken'
+cilkwer
+/tshMkwer/
+'flowers'
+öirkin
+/tfhrkin/
+'dirty7
+öiö'ek
+/tfhtf"ekh/
+'onion'
+öuk'ul
+/tfhwk'ul/
+'knife'
+öüq'wdzwa
+/tfhwq'wezwa/
+'is pressing'
+öüxwer
+/tfhwxwer/
+'pear'
+kise
+/khJse/
+'purse'
+kifer
+/khJfer/
+'plaits'
+kic'er
+Mits'er/
+'dogs'
+tiikwen
+/thMkwen/
+'store'
+tuxiizwa
+/thwxuzwa/
+'is carrying'
+tup'al
+/thwp'al/
+'ring'
+pirpil
+/phJrpil/
+'catkins'
+The fact that syncopated /i/, /y/, and /u/ are often preserved in the spelling
+may be due to the fact that in many cases the relevant contrasts do not dis-
+appear together with the vowels, being preserved as secondary articulations
+of the preceding obstruent. For instance, the word kifer 'plaits' is pro-
+nounced /khJfer/, without the /i/, but with a palatalized preceding consonant
+(indicated here by superscript j). Likewise, syncopated /u/ is still reflected in
+the labialization of the preceding consonant, e.g. tup'al 'ring': /thwp'al/; and
+syncopated /y/ is still reflected in simultaneous palatalization and labializa-
+tion of the preceding consonant (indicated here by superscript φ, e.g. küäe
+'street': /kh4tfe/ (this description is due to Kodzasov 1990:341-42). However,
+retention of residual secondary articulations is not very regular, or its condi-
+tions are obscure.
+
+38
+4. Phonotactics
+The preservation of palatalization and labialization after vowel syncope
+means that theoretically one would have to add more than a dozen palatal-
+ized and labialized-palatalized obstruent phonemes to the consonant inven-
+tory. This is not done here because the change of vowel syncope is very re-
+cent and more research is needed to determine precisely all its implications.
+However, this preservation of the high vowel contrasts is not possible in
+all environments. Distinctive labialization is possible only on consonants
+which can be phonemically labialized (see 3.3.1.), and distinctive palataliza-
+tion is impossible on postalveolar consonants.
+The hypothesis that i, u, and ü in the spelling can reflect these residual
+secondary articulations (Sandro Kodzasov, p.c.) could also explain a curious
+paradox in Uslar (1896), involving the interaction of syncope and Pre-ob-
+struent Unaspirated Aspiration (see 5.4.).
+But clearly another factor involved is analogy: Pretonic high vowels are
+preserved in the pronunciation and in the spelling much more regularly in
+words having a non-syncopated alternant (i.e. in monosyllabic nouns) than
+in non-alternating environments. Thus, kic'er 'dogs' and tup'ar
+'fingers'
+regularly have palatalization/labialization and are spelled with the vowels
+because of their singulars (kic' and t'ub) without syncope. Words with syn-
+cope in a non-alternating syllable, like ktab 'book', tilfeng/tfeng
+'rifle', sufra
+'tablecloth', tend to lose the palatalization/labialization in the pronuncia-
+tion and the vowel letters in the spelling even when the phonological envi-
+ronment would favor their retention.
+Between two fricatives, high vowels are not in general syncopated:
+(36) SüSe
+/Jy'Je/
+'glass; bottle'
+sühür
+/sy'hyr/
+'magic
+sifte
+/sifte/
+'firsf
+When the high vowel comes between an obstruent and a sonorant
+(followed by a stressed vowel), the vowel may or may not be syncopated.
+(37) öimi
+/tfhimi/ ~ / t f W
+'warm'
+öiniba
+/tfhi'neba/ ~ /'tfhneba/
+'secretly7
+killeg
+/ky'leg/ ~ /kMleg/
+Tcey7
+kümek
+/k"y'mekh/ ~ /khMmekh/
+'help'
+t'imil
+/t'i'mil/ ~ /t'Jmil/
+'(a) little'
+Thus, it appears that the change is still going on and has not yet worked its
+way through all environments and lexical items. The rather recent date of
+this change seems to justify the strategy (adopted in sections 4.2.1.-2., 6.1.-2.)
+of ignoring it for certain purposes.
+4.1.2. Post-tonic Vowel Syncope
+There is also a tendency for post-tonic vowels in non-final syllables to be
+syncopated if they are followed by only one consonant. However, the precise
+phonological conditions for this syncope are even more difficult to identify
+than for pretonic syncope. Again, the high vowels seem to be most prone to
+
+4.1. Vowel syncope
+39
+syncope, but syncope of /a/ occurs as well. Post-tonic Vowel Syncope seems
+to be restricted to inflectional suffixes (but cf. 4.1.2.4.).
+In this section I will mention mainly the cases that result in alternations
+and the cases that showed spelling vacillations before the definitive stan-
+dardization of the spelling in the 1960s.
+4.1.2.1. Post-tonic Vowel Syncope resulted in the alternation between the
+Imperfective suffixes
+-zawa
+and -zwa (9.3.2.2.), and
+the Perfect suffixes
+-nawa and -nwa
+(9.3.3.3.) (as
+well as the corresponding Continuative
+suffixes -zama/
+-zma, -nama/-nma).
+The Imperfective and the Perfect go
+back to periphrastic constructions with the auxiliary verb awa
+(locative
+copula, cf. 17.6.1.), which are still described as periphrastic constructions in
+Uslar (1896).
+The Imperfective con verb plus awa
+yielded the Imperfective, and the
+Aorist converb plus awa yielded the Perfect (the Continuative tenses are
+due to combination with ama 'is still'):
+(38)
+Imperfective
+Perfect
+raxa-z
+awa
+>
+έέόί-iz awa
+>
+raxd-na
+awa
+>
+3έ£-ηα awa
+>
+raxd-zwa
+έέΖ-zawa
+raxd-nwa
+$ä£-nawa
+'is speaking'
+'is crying'
+'has spoken'
+'has cried'
+In these cases, the conditions for syncope are clear: /a/ drops in a medial post-
+tonic syllable if preceded by no more than one consonant (raxdzwa), other-
+wise it is preserveed (Säxnawa). If there are two medial vowels in succes-
+sion {JM - /a/ in Sexiz awa), the first vowel is dropped, even if this results in a
+three-consonant cluster, as in (39).
+(39) hdlt-iz awa
+>
+hdlt-zawa
+'is meeting'
+However, in some varieties of the language, the /a/ has been syncopated in
+this environment. Forms like (40) are sometimes found in writing
+(especially in older texts).
+(40) Se£-izwa
+'is crying'
+4.1.2.2. Another alternation resulting from Post-tonic Vowel Syncope is that
+between -ar and -r in the plural (cf. 7.1.1.). In Uslar (1896), the /a/ is still pre-
+sent in these cases.
+(41) Absolutive
+Ergative
+(Uslar)
+balk'dn-ar
+balk'dn-r-i
+<
+balk'dn-ar-i
+'horses'
+dide-jar
+dide-jr-i
+<
+didi-jar-i
+'mothers'
+The /u/ of the plural substantivizer -bur is preserved in the spelling but not
+generally in the pronunciation, which leads to spelling variations, especially
+in older texts.
+(42) Absolutive
+Ergative
+qacu-bur
+qacü-bur-u
+also:
+qacübru
+'green ones'

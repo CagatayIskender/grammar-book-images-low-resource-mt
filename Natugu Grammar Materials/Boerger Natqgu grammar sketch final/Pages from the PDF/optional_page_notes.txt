@@ -1,0 +1,23 @@
+Optional Page Notes
+
+PDF file: Natugu Grammar Sketch/Boerger_Natqgu grammar sketch_final.pdf
+Total pages: 71
+Embedded PDF text extraction was available; OCR was not run.
+Only selected impactful pages were rendered to JPG, per instruction.
+Unicode small-cap gloss labels were preserved in Markdown/text and rendered with DejaVu fonts.
+Some table content is summarized into compact Markdown rather than copied exhaustively; page references point to full source tables.
+
+Rendered selected pages
+- PDF page 3 -> page_003.jpg, size=1191x1684, score=22
+- PDF page 8 -> page_008.jpg, size=1191x1684, score=17
+- PDF page 23 -> page_023.jpg, size=1191x1684, score=21
+- PDF page 25 -> page_025.jpg, size=1191x1684, score=21
+- PDF page 37 -> page_037.jpg, size=1191x1684, score=12
+- PDF page 38 -> page_038.jpg, size=1191x1684, score=21
+- PDF page 39 -> page_039.jpg, size=1191x1684, score=22
+- PDF page 50 -> page_050.jpg, size=1191x1684, score=21
+- PDF page 58 -> page_058.jpg, size=1191x1684, score=20
+
+Markdown-to-JPG rendering
+- Cheat sheet images: compact_cheatsheet.jpg, compact_cheatsheet_2.jpg
+- Summary table images: summary_tables.jpg, summary_tables_2.jpg

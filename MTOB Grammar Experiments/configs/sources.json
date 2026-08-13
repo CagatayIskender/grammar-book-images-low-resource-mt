@@ -1,0 +1,48 @@
+{
+  "gitksan_pdf1": {
+    "language": "Gitksan",
+    "location": "northwestern British Columbia, Canada",
+    "pdf": "../Gitskan Grammar PDF's/gitksan Grammar PDF 1.pdf",
+    "test_file": "../../Database/2023glossingST/data/Gitksan/git-test-track1-uncovered.txt",
+    "test_n": 37,
+    "gl_page_ranges": [[2, 10]],
+    "gl_notes": "The source is an IPA illustration, so its relevant body is primarily phonetics, phonology, orthography, and transcription."
+  },
+  "gitksan_pdf2": {
+    "language": "Gitksan",
+    "location": "the Skeena Valley in northwestern British Columbia, Canada",
+    "pdf": "../Gitskan Grammar PDF's/gitksan Grammar PDF 2(1986_Rigsby).pdf",
+    "test_file": "../../Database/2023glossingST/data/Gitksan/git-test-track1-uncovered.txt",
+    "test_n": 37,
+    "gl_page_ranges": [[1, 7]],
+    "gl_notes": "The PDF contains excerpts from an introduction rather than a complete reference grammar; bibliography pages 8-9 are excluded."
+  },
+  "natugu": {
+    "language": "Natugu",
+    "location": "Santa Cruz Island in Temotu Province, Solomon Islands",
+    "pdf": "../Natugu Grammar Sketch/Boerger_Natqgu grammar sketch_final.pdf",
+    "test_file": "../../Database/2023glossingST/data/Natugu/ntu-test-track1-uncovered",
+    "test_n": 99,
+    "gl_page_ranges": [[2, 68]],
+    "gl_notes": "The complete grammar body and abbreviations are included; title/contents and references are excluded."
+  },
+  "lezgi": {
+    "language": "Lezgi",
+    "location": "southern Daghestan and northern Azerbaijan in the eastern Caucasus",
+    "pdf": "../Lezgi Grammar PDF/Lezgi_Grammar_PDF.pdf",
+    "test_file": "../../Database/2023glossingST/data/Lezgi/lez-test-track1-uncovered",
+    "test_n": 87,
+    "gl_page_ranges": [[19, 35], [48, 59]],
+    "gl_notes": "Abbreviations, the grammar overview, notation guidance, and the available phonology chapters are included; front matter and sociolinguistic background are excluded."
+  },
+  "tsez": {
+    "language": "Tsez",
+    "location": "the Tsunta district of Daghestan in the Russian Federation",
+    "pdf": "../Tsez Grammar PDF/Tsez_Grammar_PDF.pdf",
+    "test_file": "../../Database/2023glossingST/data/Tsez/ddo-test-track1-uncovered",
+    "test_n": 445,
+    "gl_page_ranges": [[1, 36], [40, 40]],
+    "gl_notes": "The complete grammatical description and abbreviation list are included; bibliography pages 37-39 are excluded."
+  }
+}
+

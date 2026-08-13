@@ -1,0 +1,286 @@
+Natqgu to English Translation Guide
+===================================
+
+Use this guide as grammar support when translating Natqgu sentences into English.
+
+The most important translation rule:
+Do not translate word by word from the root only. Translate the whole verb complex and check all enclitics.
+
+1. Big Picture
+--------------
+
+Natqgu is an Oceanic language with:
+- Verb-initial transitive clauses: V A O.
+- Intransitive clauses usually: S V.
+- Many grammatical meanings attached to the verb as prefixes, suffixes, and enclitics.
+- A minimal vs. augmented person-number system.
+- Important distinctions in demonstratives, possession, applicatives, directionals, and negation.
+
+2. Orthography and Vowel Symbols
+--------------------------------
+
+Natqgu uses some letters as vowel symbols. Do not treat c, q, r, x, and z automatically as consonants.
+
+Vowel and spelling cues:
+- a = /a/
+- e = /e/
+- i = /i/
+- o = /o/
+- u = /u/
+- c = /ɔ/, older spelling â
+- q = high front rounded vowel /ü/, older spelling ü
+- r = central rounded vowel /ɵ/, older spelling ö
+- x = /æ/, older spelling ä
+- z = schwa /ə/, older spelling ë
+- vowel + apostrophe = nasal vowel, for example a' or e'
+
+Translation cue:
+c, q, r, x, and z may be vowels inside words. This matters when recognizing roots and affixes.
+
+3. Basic Clause Order
+---------------------
+
+Intransitive clause with noun subject:
+- Natqgu order: S V
+- English order: S V
+
+Intransitive clause with only subject enclitic:
+- Natqgu order: V S possible.
+- English order: S V.
+
+Transitive clause:
+- Natqgu order: V A O
+- English order: A V O
+
+Example:
+If Natqgu has Verb + Agent + Object, translate it as Agent + Verb + Object in English.
+
+4. Pronouns and Person-Number
+-----------------------------
+
+Natqgu does not simply use singular and plural. It uses minimal and augmented.
+
+Free pronouns:
+- ni=nge = I / me
+- ni=gi = you and I
+- ni=mq = you singular
+- ni=de = he / she / it
+- ni=gr = we
+- ni=gu = we inclusive
+- ni=mu = you plural
+- ni=dr = they
+
+Common subject enclitic cues:
+- =x = I
+- =u = you singular
+- =le or zero = he / she / it
+- =kr = we
+- =amu = you plural
+- nz-, tz-, or na- plus enclitic often indicates they.
+
+Translation cue:
+Subject and object information may be attached to the verb instead of appearing as separate words.
+
+5. Demonstratives
+-----------------
+
+Natqgu demonstratives encode distance and whether the anchor is the speaker or listener.
+
+Common forms:
+- la = near, listener-anchored
+- lc = far, listener-anchored
+- ka = near, speaker-anchored
+- kc = far, speaker-anchored
+
+Important:
+kc is very frequent and can also function like "that," "which," or sometimes "if."
+
+Plural demonstratives:
+- demonstrative + -ng or -ngq can mean "these" or "those."
+
+Translation cue:
+Plural may be marked on the demonstrative instead of on the noun.
+
+6. Numerals
+-----------
+
+Common numerals:
+- esz' = one
+- li = two
+- tq = three
+- pwx = four
+- nzlvqn = five
+- esz'mz = six
+- rlimz = seven
+- rtqmz = eight
+- rpwxmz = nine
+- nzpnu = ten
+- nzpnu-li = twenty
+- trtqki = one hundred
+- siu = one thousand
+
+Ordinals:
+- kai = first
+- kra- + cardinal number = other ordinal numbers
+
+7. Nouns and Possession
+-----------------------
+
+Natqgu has direct and indirect possession.
+
+Direct possession:
+- Common with body parts, kinship terms, and inalienable relationships.
+- Pattern: possessed noun + possessor.
+- Example structure: "head man" means "the man's head."
+- With pronouns, the pronoun marker can attach directly, as in "head=his."
+
+Indirect possession:
+- Uses a genitive marker or possessive classifier.
+- Pattern: noun + genitive/classifier + possessor.
+
+Translation cue:
+If a genitive or classifier appears between two nouns, translate it as possession, belonging,
+association, use, food/drink relation, or responsibility depending on context.
+
+8. Nominalization Cues
+----------------------
+
+Natqgu often turns verbs into noun-like expressions.
+
+Common patterns:
+- kx + verb = participant nominalization, "one who does X" or "that which does X."
+- nz- + verb + -ngr = action nominalization, "doing X."
+- z- + stative verb = property noun, such as "goodness."
+- lr- + place/people = toponymic noun, person or people from a place.
+
+Important:
+kx can mean more than "that." It may create "one who..." or "that which..." expressions.
+
+9. Verb Complex
+---------------
+
+Basic verb-complex map:
+pre-core + verb root/stem + core applicative + post-core modifiers + peripheral applicative + directionals + enclitics
+
+A verb complex may include:
+- Subject
+- Object
+- Direction
+- Aspect
+- Negation
+- Applicative meaning
+- Intensity
+- Repetition
+- Reflexive or reciprocal meaning
+
+Translation rule:
+Translate the whole verb chain, not just the root.
+
+10. Common Verb Pieces
+----------------------
+
+Common forms and meanings:
+- ti = transitive marker
+- -tx = intensifier
+- -ne = distributive
+- -lz = up
+- -tr = in
+- -px = out
+- -o = down
+- -etr = reciprocal or reflexive
+- mou = again
+- kz = also
+- =pe = change of state
+- =pnz = completive
+- =ka = not yet
+- =pwz = just, only, or exactly
+
+11. Directionals
+----------------
+
+Geometric directionals:
+- -lz = up
+- -tr = in
+- -px = out
+- -o = down
+
+Personal directionals:
+- -mq = hither, toward the discourse center
+- -bz = yon, away from the discourse center
+
+Important:
+A verb can have one geometric directional and one personal directional.
+
+Translation cue:
+Directionals can add English meanings like "up," "down," "in," "out," "come," "go,"
+"toward," or "away."
+
+12. Applicative -ngr
+--------------------
+
+-ngr is a peripheral applicative. It often adds or licenses an extra participant.
+
+Possible English cues:
+- about
+- for
+- to
+- toward
+- with respect to
+- affecting someone or something
+
+Important:
+After -ngr, a third-person minimal subject may appear as Set II =de when no personal
+directional comes between -ngr and the subject marker.
+
+Translation cue:
+When you see -ngr, look for an extra argument or relationship that English may express
+with a preposition.
+
+13. Passive
+-----------
+
+Main passive pattern:
+- nz- + verb + zero subject = "be VERBed" or "get VERBed."
+
+Important:
+The prefix nz- has multiple functions. It can mark:
+- third-person augmented
+- nominalization
+- passive
+
+Passive cue:
+If nz- appears without a third-person augmented subject, it may be passive.
+na- and tz- can indicate passive when no third-person augmented subject is present.
+
+14. Negation
+------------
+
+Natqgu negation may be discontinuous.
+
+Common patterns:
+- tr- ... -u = not
+- tr- ... =ka = not yet
+- trpnzngr = none / not any
+- trpengr = not any more
+- trgalr = never
+
+Important:
+The negative meaning may appear at both the beginning and end of the verb complex.
+
+Translation cue:
+Do not miss the final negative marker. A verb may look positive at first but become negative later.
+
+15. High-Impact Translation Rules
+---------------------------------
+
+Use these as a final checklist:
+1. If the clause is transitive, Natqgu may use V A O, but English needs A V O.
+2. Read the full verb complex. Prefixes, suffixes, and enclitics can strongly change the meaning.
+3. Do not treat c, q, r, x, and z as ordinary consonants; they may be vowel letters.
+4. Look for subject and object enclitics. Arguments may be attached to the verb.
+5. Watch for kc. It may be a demonstrative, subordinator, or relativizer.
+6. Watch for -ngr. It often requires an English preposition or extra participant.
+7. Watch for directionals. They can encode motion, orientation, or discourse viewpoint.
+8. Watch for discontinuous negation. A negative prefix may be completed by a suffix or enclitic later.
+9. Plural may be marked on demonstratives, not nouns.
+10. Possession type matters. Direct possession often involves body parts or kinship. Indirect possession uses classifiers or genitives.

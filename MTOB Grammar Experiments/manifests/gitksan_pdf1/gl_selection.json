@@ -1,0 +1,26 @@
+{
+  "source_id": "gitksan_pdf1",
+  "condition": "Gl",
+  "selection_method": "manual page ranges",
+  "target_tokens": 100000,
+  "actual_gpt2_tokens": 9181,
+  "selected_pdf_pages": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "selected_page_ranges": [
+    [
+      2,
+      10
+    ]
+  ],
+  "selection_notes": "The source is an IPA illustration, so its relevant body is primarily phonetics, phonology, orthography, and transcription.",
+  "below_target_reason": "The available translation-relevant source material is shorter than 100K tokens."
+}

@@ -1,0 +1,40 @@
+# Creation Report
+
+Language: Gitskan
+PDF file processed: grammamt/GRAMMAMT/Gitskan Grammar PDF's/gitksan Grammar PDF 1.pdf
+Output location: grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1
+Total PDF pages: 12
+Selected original PDF pages rendered to JPG: 9
+Selected pages: 1, 2, 5, 6, 7, 8, 9, 10, 11
+
+Files created:
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Summary Text/summary_model_readable.md
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Summary Text/summary_model_readable.txt
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Cheat Sheet from PDF/compact_cheatsheet.md
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Cheat Sheet from PDF/compact_cheatsheet.txt
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Cheat Sheet from PDF/compact_cheatsheet.jpg
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Summary Image with Tables/summary_tables.md
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Summary Image with Tables/summary_tables.txt
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Summary Image with Tables/summary_tables.jpg
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Pages from the PDF/Selected impactful pages JPG/selected_pages_manifest.md
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Pages from the PDF/Selected impactful pages JPG/selected_pages_manifest.txt
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Pages from the PDF/optional_page_notes.md
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Pages from the PDF/optional_page_notes.txt
+- grammamt/GRAMMAMT/Gitskan Grammar Materials/gitksan Grammar PDF 1/Pages from the PDF/page_conversion_notes.txt
+
+Major grammar areas covered:
+- orthography/phonology useful for preserving forms
+- interlinear gloss labels from narrative text
+- negation/focus/prospective/connective labels
+- selected translated narrative examples
+
+Missing or unclear information:
+- This PDF is not a complete grammar context source.
+- Missing categories are marked as not found in the generated summaries.
+- Some extracted text may be noisy, especially in scanned/OCR-like pages.
+
+Consistency and faithfulness:
+- Outputs are based only on the input PDF.
+- Markdown files are authoritative.
+- JPG files were rendered from Markdown or selected PDF pages.
+- Materials are ready for Qwen/Qwen-VL experiments with the limitations recorded above.

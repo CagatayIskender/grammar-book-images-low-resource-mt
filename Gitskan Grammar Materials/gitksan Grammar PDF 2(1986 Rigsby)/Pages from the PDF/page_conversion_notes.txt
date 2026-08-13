@@ -1,0 +1,7 @@
+Page conversion notes
+PDF file: Gitskan Grammar PDF's/gitksan Grammar PDF 2(1986_Rigsby).pdf
+Total PDF pages: 9
+Selected pages rendered: 6
+All pages were not rendered because not every page is translation-relevant.
+Rendering: PyMuPDF zoom=2.0, JPEG quality=82.
+Failures: none.

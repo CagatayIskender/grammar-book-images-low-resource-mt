@@ -1,0 +1,2 @@
+python run_grammamt_Qwen.py --language Gitksan --model_id Qwen/Qwen3-VL-8B-Instruct --support_n 21 --test_n 37 --use_float32 --max_new_tokens 256 --out_metrics metrics/metrics_gitksan_Qwen.json --out_jsonl results/results_gitksan_Qwen.jsonl
+# python run_grammamt_Qwen.py --language Gitksan --model_id Qwen/Qwen3-VL-8B-Instruct --support_n 1 --test_n 1 --max_new_tokens 32 --use_float32 --out_metrics metrics/metrics_gitksan_Qwen_test.json --out_jsonl results/results_gitksan_Qwen_test.jsonl

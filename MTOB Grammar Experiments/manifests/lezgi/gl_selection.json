@@ -1,0 +1,50 @@
+{
+  "source_id": "lezgi",
+  "condition": "Gl",
+  "selection_method": "manual page ranges",
+  "target_tokens": 100000,
+  "actual_gpt2_tokens": 18935,
+  "selected_pdf_pages": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "selected_page_ranges": [
+    [
+      19,
+      35
+    ],
+    [
+      48,
+      59
+    ]
+  ],
+  "selection_notes": "Abbreviations, the grammar overview, notation guidance, and the available phonology chapters are included; front matter and sociolinguistic background are excluded.",
+  "below_target_reason": "The available translation-relevant source material is shorter than 100K tokens."
+}

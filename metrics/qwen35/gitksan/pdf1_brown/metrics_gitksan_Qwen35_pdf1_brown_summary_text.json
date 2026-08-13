@@ -1,0 +1,20 @@
+{
+  "qwen35_context_shot": {
+    "bleu": 0.06523273962909407,
+    "chrf": 3.649836163961781,
+    "xcomet": 0.2272643269719304
+  },
+  "qwen35_context_chain": {
+    "bleu": 0.05463508304525155,
+    "chrf": 3.4812435992006465,
+    "xcomet": 0.23085757888652184
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "scored_from_jsonl": "results/results_gitksan_Qwen35_pdf1_brown_summary_text.jsonl",
+  "runtime_seconds": 39.103174686431885,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 39
+  }
+}

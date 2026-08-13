@@ -1,0 +1,45 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+*.env
+.envrc
+.direnv/
+.config/
+*credentials*.json
+*secrets*.json
+token.json
+auth.json
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Model and package caches
+cache/
+**/cache/
+**/vendor/
+.cache/
+
+# Cluster and runtime output
+*.out
+slurm_outputs/
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/

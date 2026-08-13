@@ -1,0 +1,13 @@
+{
+  "source_id": "gitksan_pdf2",
+  "model": "sentence-transformers/all-mpnet-base-v2",
+  "similarity": "cosine_on_normalized_embeddings",
+  "pooling": "attention-mask mean pooling followed by L2 normalization",
+  "embedding_max_sequence_length": 384,
+  "vectors": 61,
+  "dimensions": 768,
+  "test_vectors": 37,
+  "chunk_file": "chunks/gitksan_pdf2/chunks_512_overlap256.jsonl",
+  "chunk_sha256": "c16167efceb2faf866873eefb0d793396380bc15fa36dc60b75d252497f700b1",
+  "test_file_sha256": "0870f9babe71af12efd81822634fb0c034990506436bf45da2324ef8e2626cf6"
+}

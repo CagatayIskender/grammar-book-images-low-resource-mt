@@ -1,0 +1,41 @@
+# Creation Report
+
+Language: Gitskan
+PDF file processed: Gitskan Grammar PDF's/gitksan Grammar PDF 2(1986_Rigsby).pdf
+Output location: Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)
+Total PDF pages: 9
+Selected original PDF pages rendered to JPG: 6
+Selected pages: 1, 3, 4, 5, 6, 7
+
+Files created:
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Summary Text/summary_model_readable.md
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Summary Text/summary_model_readable.txt
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Cheat Sheet from PDF/compact_cheatsheet.md
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Cheat Sheet from PDF/compact_cheatsheet.txt
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Cheat Sheet from PDF/compact_cheatsheet.jpg
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Summary Image with Tables/summary_tables.md
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Summary Image with Tables/summary_tables.txt
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Summary Image with Tables/summary_tables.jpg
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Pages from the PDF/Selected impactful pages JPG/selected_pages_manifest.md
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Pages from the PDF/Selected impactful pages JPG/selected_pages_manifest.txt
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Pages from the PDF/optional_page_notes.md
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Pages from the PDF/optional_page_notes.txt
+- Gitskan Grammar Materials/gitksan Grammar PDF 2(1986 Rigsby)/Pages from the PDF/page_conversion_notes.txt
+
+Major grammar areas covered:
+- language/dialect and source context
+- VSO constituent order cue
+- enclitic grammatical relation cue
+- focus-fronting cue
+- plurality in nominal and verbal morphology
+
+Missing or unclear information:
+- This PDF is not a complete grammar context source.
+- Missing categories are marked as not found in the generated summaries.
+- Some extracted text may be noisy, especially in scanned/OCR-like pages.
+
+Consistency and faithfulness:
+- Outputs are based only on the input PDF.
+- Markdown files are authoritative.
+- JPG files were rendered from Markdown or selected PDF pages.
+- Materials are ready for Qwen/Qwen-VL experiments with the limitations recorded above.

@@ -1,0 +1,18 @@
+{
+  "source_id": "lezgi",
+  "language": "Lezgi",
+  "location_from_pdf": "southern Daghestan and northern Azerbaijan in the eastern Caucasus",
+  "input_pdf": "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/Lezgi Grammar PDF/Lezgi_Grammar_PDF.pdf",
+  "input_pdf_sha256": "2c52157143042696ddde7826453902fa5925fd15d85eefdb13447725506261d5",
+  "pdf_pages": 59,
+  "extracted_characters": 97861,
+  "repeated_margin_patterns_removed": [],
+  "extraction_policy": "preserve embedded PDF text; remove only repeated top/bottom marginal lines",
+  "warnings": [
+    "PDF page 6 has little or no extracted text (0 characters).",
+    "PDF page 8 has little or no extracted text (0 characters)."
+  ],
+  "audit_status": "manually_reviewed",
+  "audit_timestamp_utc": "2026-08-13T17:17:21.218338+00:00",
+  "audit_scope": "page counts, representative page text, extraction warnings, and Gl page ranges"
+}
