@@ -1,19 +1,19 @@
 {
   "grammar_image_shot": {
-    "bleu": 6.058624509899426,
-    "chrf": 21.067126709985295,
-    "xcomet": 0.3379684128295416
+    "bleu": 6.034120930107081,
+    "chrf": 20.69747672735163,
+    "xcomet": 0.3388614296570592
   },
   "grammar_image_chain": {
-    "bleu": 6.318536199097441,
-    "chrf": 19.906597424588316,
-    "xcomet": 0.3192620563438569
+    "bleu": 6.2896027478248175,
+    "chrf": 20.596961273397785,
+    "xcomet": 0.322695004186411
   },
   "comet_model_used": "Unbabel/XCOMET-XL",
-  "runtime_seconds": 1288.086591243744,
+  "runtime_seconds": 1282.9309678077698,
   "runtime_hms": {
     "hours": 0,
     "minutes": 21,
-    "seconds": 28
+    "seconds": 22
   }
 }

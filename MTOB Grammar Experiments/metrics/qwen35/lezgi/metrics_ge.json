@@ -1,0 +1,48 @@
+{
+  "num_examples": 87,
+  "chrf": {
+    "score": 22.188599574118676,
+    "char_order": 6,
+    "word_order": 0,
+    "beta": 2
+  },
+  "bleu": {
+    "bleu": 0.01238411002983807,
+    "precisions": [
+      0.11332941867293013,
+      0.022896039603960396,
+      0.006540222367560497,
+      0.001386001386001386
+    ],
+    "brevity_penalty": 1.0,
+    "length_ratio": 2.0567632850241546,
+    "translation_length": 1703,
+    "reference_length": 828
+  },
+  "rouge": {
+    "rouge1": 0.19533824735631358,
+    "rouge2": 0.05164330850006034,
+    "rougeL": 0.16608500101647422,
+    "rougeLsum": 0.16608500101647422
+  },
+  "character": {
+    "cer_score": 0.7579433977936
+  },
+  "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+  "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+  "model_key": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "source_id": "lezgi",
+  "condition": "ge",
+  "expected_examples": 87,
+  "configured_examples": 87,
+  "requested_limit": 87,
+  "valid_examples": 87,
+  "empty_or_invalid_examples": 0,
+  "status_counts": {
+    "ok": 87
+  },
+  "initial_refusals": 0,
+  "runtime_seconds_this_invocation": 11.958602905273438,
+  "result_file": "results/qwen35/lezgi/results_ge.jsonl"
+}

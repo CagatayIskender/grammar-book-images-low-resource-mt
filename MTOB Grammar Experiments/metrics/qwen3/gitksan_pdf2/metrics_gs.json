@@ -1,0 +1,46 @@
+{
+  "num_examples": 37,
+  "chrf": {
+    "score": 14.691532360975929,
+    "char_order": 6,
+    "word_order": 0,
+    "beta": 2
+  },
+  "bleu": {
+    "bleu": 0.002777702691513898,
+    "precisions": [
+      0.032947232947232945,
+      0.005197505197505198,
+      0.0013119916032537393,
+      0.00026497085320614734
+    ],
+    "brevity_penalty": 1.0,
+    "length_ratio": 8.409090909090908,
+    "translation_length": 3885,
+    "reference_length": 462
+  },
+  "rouge": {
+    "rouge1": 0.09599164634078634,
+    "rouge2": 0.02856392428563453,
+    "rougeL": 0.08508701553529706,
+    "rougeLsum": 0.08508701553529706
+  },
+  "character": {
+    "cer_score": 0.8990050826138066
+  },
+  "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+  "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+  "model_key": "qwen3",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "source_id": "gitksan_pdf2",
+  "condition": "gs",
+  "expected_examples": 37,
+  "valid_examples": 37,
+  "empty_or_invalid_examples": 0,
+  "status_counts": {
+    "ok": 37
+  },
+  "initial_refusals": 0,
+  "runtime_seconds_this_invocation": 284.42510652542114,
+  "result_file": "results/qwen3/gitksan_pdf2/results_gs.jsonl"
+}

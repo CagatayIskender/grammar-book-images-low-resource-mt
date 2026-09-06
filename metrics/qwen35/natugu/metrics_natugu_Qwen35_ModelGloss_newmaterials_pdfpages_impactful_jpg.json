@@ -2,13 +2,14 @@
   "qwen35_context_model_gloss": {
     "bleu": 13.618004345071414,
     "chrf": 36.6677927088774,
-    "xcomet": null
+    "xcomet": 0.5086740667771812
   },
-  "comet_model_used": null,
-  "runtime_seconds": 1551.7311828136444,
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "scored_from_jsonl": "results/results_natugu_Qwen35_ModelGloss_newmaterials_pdfpages_impactful_jpg.jsonl",
+  "runtime_seconds": 19.890893697738647,
   "runtime_hms": {
     "hours": 0,
-    "minutes": 25,
-    "seconds": 51
+    "minutes": 0,
+    "seconds": 19
   }
 }

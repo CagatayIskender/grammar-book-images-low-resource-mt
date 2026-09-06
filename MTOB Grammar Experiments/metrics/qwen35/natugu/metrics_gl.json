@@ -1,0 +1,48 @@
+{
+  "num_examples": 99,
+  "chrf": {
+    "score": 15.722543641416992,
+    "char_order": 6,
+    "word_order": 0,
+    "beta": 2
+  },
+  "bleu": {
+    "bleu": 0.01147979098560147,
+    "precisions": [
+      0.046582374750451565,
+      0.013147792706333972,
+      0.006588508865420018,
+      0.004304020346278001
+    ],
+    "brevity_penalty": 1.0,
+    "length_ratio": 7.556752873563219,
+    "translation_length": 10519,
+    "reference_length": 1392
+  },
+  "rouge": {
+    "rouge1": 0.13191598725967174,
+    "rouge2": 0.06455740704060446,
+    "rougeL": 0.11862157002850031,
+    "rougeLsum": 0.11862157002850031
+  },
+  "character": {
+    "cer_score": 0.8761050759032417
+  },
+  "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+  "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+  "model_key": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "source_id": "natugu",
+  "condition": "gl",
+  "expected_examples": 99,
+  "configured_examples": 99,
+  "requested_limit": 99,
+  "valid_examples": 99,
+  "empty_or_invalid_examples": 0,
+  "status_counts": {
+    "ok": 99
+  },
+  "initial_refusals": 0,
+  "runtime_seconds_this_invocation": 2370.098947763443,
+  "result_file": "results/qwen35/natugu/results_gl.jsonl"
+}

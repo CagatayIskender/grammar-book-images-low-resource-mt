@@ -1,6 +1,8 @@
 #!/bin/bash
 #SBATCH --job-name=lezgi_nm_submit
-#SBATCH --partition=lrz-hgx-h100-94x4
+#SBATCH --partition=lrz-cpu
+#SBATCH --qos=cpu
+#SBATCH --cpus-per-task=1
 #SBATCH --mem=1G
 #SBATCH --time=2-00:00:00
 #SBATCH --output=slurm_outputs/%j.out
@@ -10,26 +12,6 @@ set -uo pipefail
 cd /dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT
 
 JOBS=(
-  "Run Scripts/qwen35/lezgi/run_lezgi_qwen35_modelgloss_newmaterials_summary_tables_txt.sh"
-  "Run Scripts/qwen35/lezgi/run_lezgi_qwen35_modelgloss_newmaterials_summary_text_txt.sh"
-  "Run Scripts/qwen35/lezgi/run_lezgi_qwen35_newmaterials_cheatsheet_jpg.sh"
-  "Run Scripts/qwen35/lezgi/run_lezgi_qwen35_newmaterials_cheatsheet_txt.sh"
-  "Run Scripts/qwen35/lezgi/run_lezgi_qwen35_newmaterials_pdfpages_impactful_jpg.sh"
-  "Run Scripts/qwen35/lezgi/run_lezgi_qwen35_newmaterials_summary_tables_jpg.sh"
-  "Run Scripts/qwen35/lezgi/run_lezgi_qwen35_newmaterials_summary_tables_txt.sh"
-  "Run Scripts/qwen35/lezgi/run_lezgi_qwen35_newmaterials_summary_text_txt.sh"
-  "Run Scripts/qwen3/lezgi_cyrillic/run_lezgi_cyrillic_qwen_modelgloss_newmaterials_cheatsheet_jpg.sh"
-  "Run Scripts/qwen3/lezgi_cyrillic/run_lezgi_cyrillic_qwen_modelgloss_newmaterials_cheatsheet_txt.sh"
-  "Run Scripts/qwen3/lezgi_cyrillic/run_lezgi_cyrillic_qwen_modelgloss_newmaterials_summary_tables_jpg.sh"
-  "Run Scripts/qwen3/lezgi_cyrillic/run_lezgi_cyrillic_qwen_modelgloss_newmaterials_summary_tables_txt.sh"
-  "Run Scripts/qwen3/lezgi_cyrillic/run_lezgi_cyrillic_qwen_modelgloss_newmaterials_summary_text_txt.sh"
-  "Run Scripts/qwen3/lezgi_cyrillic/run_lezgi_cyrillic_qwen_newmaterials_cheatsheet_jpg.sh"
-  "Run Scripts/qwen3/lezgi_cyrillic/run_lezgi_cyrillic_qwen_newmaterials_cheatsheet_txt.sh"
-  "Run Scripts/qwen3/lezgi_cyrillic/run_lezgi_cyrillic_qwen_newmaterials_summary_tables_jpg.sh"
-  "Run Scripts/qwen3/lezgi_cyrillic/run_lezgi_cyrillic_qwen_newmaterials_summary_tables_txt.sh"
-  "Run Scripts/qwen3/lezgi_cyrillic/run_lezgi_cyrillic_qwen_newmaterials_summary_text_txt.sh"
-  "Run Scripts/qwen35/lezgi_cyrillic/run_lezgi_cyrillic_qwen35_modelgloss_newmaterials_cheatsheet_jpg.sh"
-  "Run Scripts/qwen35/lezgi_cyrillic/run_lezgi_cyrillic_qwen35_modelgloss_newmaterials_cheatsheet_txt.sh"
   "Run Scripts/qwen35/lezgi_cyrillic/run_lezgi_cyrillic_qwen35_modelgloss_newmaterials_summary_tables_jpg.sh"
   "Run Scripts/qwen35/lezgi_cyrillic/run_lezgi_cyrillic_qwen35_modelgloss_newmaterials_summary_tables_txt.sh"
   "Run Scripts/qwen35/lezgi_cyrillic/run_lezgi_cyrillic_qwen35_modelgloss_newmaterials_summary_text_txt.sh"

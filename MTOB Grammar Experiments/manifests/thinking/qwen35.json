@@ -8,6 +8,8 @@
   },
   "think_tags_present": true,
   "think_content_empty": true,
+  "reasoning_tags_survive_clean_decode": true,
+  "reasoning_protocol_detector_verified": true,
   "single_user_message": true,
   "rendered_template": "<|im_start|>user\nTHINKING-CONTROL-TEST<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n"
 }

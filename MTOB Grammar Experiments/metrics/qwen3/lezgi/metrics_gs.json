@@ -1,0 +1,46 @@
+{
+  "num_examples": 87,
+  "chrf": {
+    "score": 11.935303968394116,
+    "char_order": 6,
+    "word_order": 0,
+    "beta": 2
+  },
+  "bleu": {
+    "bleu": 0.0018930664454959376,
+    "precisions": [
+      0.03166797797010228,
+      0.003201921152691615,
+      0.0006109979633401223,
+      0.00020729684908789387
+    ],
+    "brevity_penalty": 1.0,
+    "length_ratio": 6.140096618357488,
+    "translation_length": 5084,
+    "reference_length": 828
+  },
+  "rouge": {
+    "rouge1": 0.1140559042716665,
+    "rouge2": 0.02477860509631141,
+    "rougeL": 0.1040868527083437,
+    "rougeLsum": 0.1040868527083437
+  },
+  "character": {
+    "cer_score": 0.8530176584666239
+  },
+  "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+  "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+  "model_key": "qwen3",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "source_id": "lezgi",
+  "condition": "gs",
+  "expected_examples": 87,
+  "valid_examples": 87,
+  "empty_or_invalid_examples": 0,
+  "status_counts": {
+    "ok": 87
+  },
+  "initial_refusals": 0,
+  "runtime_seconds_this_invocation": 352.6245348453522,
+  "result_file": "results/qwen3/lezgi/results_gs.jsonl"
+}

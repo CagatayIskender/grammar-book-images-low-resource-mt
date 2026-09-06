@@ -1,0 +1,48 @@
+{
+  "num_examples": 445,
+  "chrf": {
+    "score": 14.952743275194125,
+    "char_order": 6,
+    "word_order": 0,
+    "beta": 2
+  },
+  "bleu": {
+    "bleu": 0.001069094181453426,
+    "precisions": [
+      0.045972701364931756,
+      0.004297595874307961,
+      0.00025567600736346903,
+      2.586117720078618e-05
+    ],
+    "brevity_penalty": 1.0,
+    "length_ratio": 5.445412469371086,
+    "translation_length": 40002,
+    "reference_length": 7346
+  },
+  "rouge": {
+    "rouge1": 0.10070894220737192,
+    "rouge2": 0.010227995911147938,
+    "rougeL": 0.08152340691369099,
+    "rougeLsum": 0.08152340691369099
+  },
+  "character": {
+    "cer_score": 0.8827361814449619
+  },
+  "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+  "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+  "model_key": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "source_id": "tsez",
+  "condition": "gl",
+  "expected_examples": 445,
+  "configured_examples": 445,
+  "requested_limit": 445,
+  "valid_examples": 445,
+  "empty_or_invalid_examples": 0,
+  "status_counts": {
+    "ok": 445
+  },
+  "initial_refusals": 0,
+  "runtime_seconds_this_invocation": 2917.6882452964783,
+  "result_file": "results/qwen35/tsez/results_gl.jsonl"
+}

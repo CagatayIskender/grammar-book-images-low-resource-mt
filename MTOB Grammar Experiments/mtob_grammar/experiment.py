@@ -15,6 +15,8 @@ from .prompts import appendix_c_prompt, extract_translation, is_refusal, long_co
 
 
 CONDITIONS = ("ge", "gs", "gl")
+REASONING_RETRY_LIMIT = 3
+REFUSAL_RETRY_LIMIT = 3
 
 
 def output_paths(model_key: str, source_id: str, condition: str) -> tuple[Path, Path]:
@@ -38,13 +40,51 @@ def _load_existing(path: Path, examples) -> dict[int, dict[str, Any]]:
     return by_index
 
 
-def run(model_key: str, source_id: str, condition: str, smoke: bool = False) -> dict[str, Any]:
+def _generate_without_reasoning(backend, prompt: str, seed: int):
+    violations: list[dict[str, Any]] = []
+    last_violation: ReasoningViolation | None = None
+    for attempt in range(REASONING_RETRY_LIMIT):
+        try:
+            generation = backend.generate(prompt, seed=seed + attempt * 10_000)
+            return generation, violations
+        except ReasoningViolation as exc:
+            last_violation = exc
+            violations.append(
+                {
+                    "attempt": attempt + 1,
+                    "seed": seed + attempt * 10_000,
+                    "response": exc.text,
+                    "metadata": exc.metadata,
+                    "violation": str(exc),
+                }
+            )
+    assert last_violation is not None
+    metadata = dict(last_violation.metadata)
+    metadata["reasoning_attempts"] = violations
+    raise ReasoningViolation(
+        str(last_violation),
+        text=last_violation.text,
+        metadata=metadata,
+    )
+
+
+def run(
+    model_key: str,
+    source_id: str,
+    condition: str,
+    smoke: bool = False,
+    limit: int | None = None,
+) -> dict[str, Any]:
     condition = condition.casefold()
     if condition not in CONDITIONS:
         raise ValueError(f"Condition must be one of {', '.join(CONDITIONS)}")
     source = source_config(source_id)
     model = model_config(model_key)
-    examples = parse_igt(input_path(source["test_file"]), limit=2 if smoke else int(source["test_n"]))
+    configured_examples = int(source["test_n"])
+    if limit is not None and (limit < 1 or limit > configured_examples):
+        raise ValueError(f"limit must be between 1 and {configured_examples}")
+    example_limit = 2 if smoke else (limit if limit is not None else configured_examples)
+    examples = parse_igt(input_path(source["test_file"]), limit=example_limit)
     result_path, metrics_path = output_paths(model_key, source_id, condition)
     if smoke:
         result_path = output_path("results", "smoke", model_key, source_id, f"results_{condition}.jsonl")
@@ -68,6 +108,9 @@ def run(model_key: str, source_id: str, condition: str, smoke: bool = False) -> 
         for example in examples:
             if example.index in existing and existing[example.index].get("status") == "ok":
                 continue
+            previous = existing.get(example.index)
+            rerun_round = int(previous.get("rerun_round", 0)) + 1 if previous else 0
+            seed_offset = rerun_round * 100_000
             if condition == "ge":
                 retrieval_record = retrieval_manifest[example.index]
                 if retrieval_record["source"] != example.source:
@@ -85,7 +128,11 @@ def run(model_key: str, source_id: str, condition: str, smoke: bool = False) -> 
                 context = long_context(source["language"], gl_text)
             prompt = appendix_c_prompt(source["language"], source["location"], example.source, context)
             try:
-                initial = backend.generate(prompt, seed=2024 + example.index)
+                initial, initial_reasoning_retries = _generate_without_reasoning(
+                    backend,
+                    prompt,
+                    seed=2024 + example.index + seed_offset,
+                )
             except ReasoningViolation as exc:
                 violation = {
                     "index": example.index,
@@ -101,17 +148,75 @@ def run(model_key: str, source_id: str, condition: str, smoke: bool = False) -> 
                     "model_id": model["model_id"],
                     "prompt": prompt,
                     "violation": str(exc),
+                    "initial_response": exc.text,
+                    "initial_metadata": exc.metadata,
+                    "rerun_round": rerun_round,
                 }
                 handle.write(json.dumps(violation, ensure_ascii=False) + "\n")
                 handle.flush()
-                raise
+                continue
             final = initial
             retry_prompt = None
+            retry_reasoning_retries: list[dict[str, Any]] = []
+            refusal_attempts: list[dict[str, Any]] = []
+            retry_reasoning_failed = False
             if is_refusal(initial.text):
                 retry_prompt = appendix_c_prompt(
                     source["language"], source["location"], example.source, context, refusal=True
                 )
-                final = backend.generate(retry_prompt, seed=3024 + example.index)
+                for refusal_attempt in range(REFUSAL_RETRY_LIMIT):
+                    try:
+                        candidate, reasoning_retries = _generate_without_reasoning(
+                            backend,
+                            retry_prompt,
+                            seed=(
+                                3024
+                                + example.index
+                                + seed_offset
+                                + refusal_attempt * 100_000
+                            ),
+                        )
+                    except ReasoningViolation as exc:
+                        violation = {
+                            "index": example.index,
+                            "source": example.source,
+                            "reference": example.reference,
+                            "prediction": "",
+                            "cleaned_prediction": "",
+                            "cleaned_reference": paper_clean(example.reference),
+                            "status": "reasoning_violation",
+                            "source_id": source_id,
+                            "condition": condition,
+                            "model_key": model_key,
+                            "model_id": model["model_id"],
+                            "prompt": prompt,
+                            "violation": str(exc),
+                            "initial_response": initial.text,
+                            "initial_metadata": initial.metadata,
+                            "initial_reasoning_retries": initial_reasoning_retries,
+                            "refusal_retry_prompt": retry_prompt,
+                            "retry_response": exc.text,
+                            "retry_metadata": exc.metadata,
+                            "refusal_attempts": refusal_attempts,
+                            "rerun_round": rerun_round,
+                        }
+                        handle.write(json.dumps(violation, ensure_ascii=False) + "\n")
+                        handle.flush()
+                        retry_reasoning_failed = True
+                        break
+                    retry_reasoning_retries.extend(reasoning_retries)
+                    final = candidate
+                    refusal_attempts.append(
+                        {
+                            "attempt": refusal_attempt + 1,
+                            "response": candidate.text,
+                            "metadata": candidate.metadata,
+                        }
+                    )
+                    if not is_refusal(candidate.text):
+                        break
+                if retry_reasoning_failed:
+                    continue
             prediction = extract_translation(final.text)
             final_refusal = is_refusal(final.text)
             record = {
@@ -146,9 +251,13 @@ def run(model_key: str, source_id: str, condition: str, smoke: bool = False) -> 
                 ],
                 "initial_response": initial.text,
                 "initial_metadata": initial.metadata,
+                "initial_reasoning_retries": initial_reasoning_retries,
                 "refusal_retry_prompt": retry_prompt,
                 "retry_response": final.text if retry_prompt else None,
                 "retry_metadata": final.metadata if retry_prompt else None,
+                "retry_reasoning_retries": retry_reasoning_retries,
+                "refusal_attempts": refusal_attempts,
+                "rerun_round": rerun_round,
             }
             handle.write(json.dumps(record, ensure_ascii=False) + "\n")
             handle.flush()
@@ -166,6 +275,9 @@ def run(model_key: str, source_id: str, condition: str, smoke: bool = False) -> 
             )
 
     records = sorted(_load_existing(result_path, examples).values(), key=lambda record: record["index"])
+    with result_path.open("w", encoding="utf-8") as handle:
+        for record in records:
+            handle.write(json.dumps(record, ensure_ascii=False) + "\n")
     valid = [record for record in records if record.get("status") == "ok"]
     statuses: dict[str, int] = {}
     for record in records:
@@ -182,6 +294,8 @@ def run(model_key: str, source_id: str, condition: str, smoke: bool = False) -> 
             "source_id": source_id,
             "condition": condition,
             "expected_examples": len(examples),
+            "configured_examples": configured_examples,
+            "requested_limit": example_limit,
             "valid_examples": len(valid),
             "empty_or_invalid_examples": len(examples) - len(valid),
             "status_counts": statuses,

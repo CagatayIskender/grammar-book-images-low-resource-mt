@@ -5,10 +5,10 @@
     "xcomet": 0.5060238869025789
   },
   "comet_model_used": "Unbabel/XCOMET-XL",
-  "runtime_seconds": 1180.7880971431732,
+  "runtime_seconds": 1172.5651683807373,
   "runtime_hms": {
     "hours": 0,
     "minutes": 19,
-    "seconds": 40
+    "seconds": 32
   }
 }

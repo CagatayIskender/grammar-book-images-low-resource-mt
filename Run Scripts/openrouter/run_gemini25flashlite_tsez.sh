@@ -8,4 +8,4 @@
 
 set -eo pipefail
 source "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/Run Scripts/shared/openrouter_job_env.sh"
-python "OpenRouter Experiments/run_openrouter_suite.py" --source tsez
+python "OpenRouter Experiments/run_openrouter_suite.py" --source tsez --test_n 99

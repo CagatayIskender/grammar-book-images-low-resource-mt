@@ -12,8 +12,24 @@ def main() -> None:
     parser.add_argument("--source", required=True, choices=sources())
     parser.add_argument("--condition", required=True, choices=CONDITIONS)
     parser.add_argument("--smoke", action="store_true")
+    parser.add_argument(
+        "--limit",
+        type=int,
+        help="Run only the first N configured test examples.",
+    )
     args = parser.parse_args()
-    print(json.dumps(run(args.model, args.source, args.condition, args.smoke), indent=2))
+    print(
+        json.dumps(
+            run(
+                args.model,
+                args.source,
+                args.condition,
+                smoke=args.smoke,
+                limit=args.limit,
+            ),
+            indent=2,
+        )
+    )
 
 
 if __name__ == "__main__":

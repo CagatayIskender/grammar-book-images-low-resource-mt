@@ -1,0 +1,46 @@
+{
+  "num_examples": 37,
+  "chrf": {
+    "score": 16.732253136435112,
+    "char_order": 6,
+    "word_order": 0,
+    "beta": 2
+  },
+  "bleu": {
+    "bleu": 0.0028457011895499755,
+    "precisions": [
+      0.04277743335399876,
+      0.007525870178739417,
+      0.0006345177664974619,
+      0.00032102728731942215
+    ],
+    "brevity_penalty": 1.0,
+    "length_ratio": 6.982683982683983,
+    "translation_length": 3226,
+    "reference_length": 462
+  },
+  "rouge": {
+    "rouge1": 0.08454294279439553,
+    "rouge2": 0.02000366518206494,
+    "rougeL": 0.07186536717963823,
+    "rougeLsum": 0.07186536717963823
+  },
+  "character": {
+    "cer_score": 0.8906649687464961
+  },
+  "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+  "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+  "model_key": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "source_id": "gitksan_pdf2",
+  "condition": "gl",
+  "expected_examples": 37,
+  "valid_examples": 37,
+  "empty_or_invalid_examples": 0,
+  "status_counts": {
+    "ok": 37
+  },
+  "initial_refusals": 0,
+  "runtime_seconds_this_invocation": 366.2993469238281,
+  "result_file": "results/qwen35/gitksan_pdf2/results_gl.jsonl"
+}

@@ -1,0 +1,23 @@
+{
+  "gemini25flashlite": {
+    "bleu": 2.3236600311786715,
+    "chrf": 18.446597196689318,
+    "xcomet": 0.25177327791849774
+  },
+  "model": "google/gemini-2.5-flash-lite",
+  "reasoning_effort": "none",
+  "temperature": 0.0,
+  "seed": 42,
+  "support_n": 21,
+  "test_n": 99,
+  "usage": {
+    "prompt_tokens": 540137,
+    "completion_tokens": 1853,
+    "total_tokens": 541990,
+    "cost": 0.04280677000000001
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "result_jsonl": "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/results/openrouter/tsez/results_gemini25flashlite_tsez_newmaterials_summary_text_txt.jsonl",
+  "runtime_seconds_this_invocation": 67.48060250282288,
+  "scored_from_jsonl": "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/results/openrouter/tsez/results_gemini25flashlite_tsez_newmaterials_summary_text_txt.jsonl"
+}

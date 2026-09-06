@@ -1,0 +1,48 @@
+{
+  "num_examples": 99,
+  "chrf": {
+    "score": 15.62394219243674,
+    "char_order": 6,
+    "word_order": 0,
+    "beta": 2
+  },
+  "bleu": {
+    "bleu": 0.010661528196819932,
+    "precisions": [
+      0.0442037106213423,
+      0.01021180030257186,
+      0.0065109153581003444,
+      0.004396172743728989
+    ],
+    "brevity_penalty": 1.0,
+    "length_ratio": 5.769396551724138,
+    "translation_length": 8031,
+    "reference_length": 1392
+  },
+  "rouge": {
+    "rouge1": 0.12621888472219306,
+    "rouge2": 0.04719548165973746,
+    "rougeL": 0.11448328306405864,
+    "rougeLsum": 0.11448328306405864
+  },
+  "character": {
+    "cer_score": 0.842683784074407
+  },
+  "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+  "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+  "model_key": "qwen3",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "source_id": "natugu",
+  "condition": "gs",
+  "expected_examples": 99,
+  "configured_examples": 99,
+  "requested_limit": 99,
+  "valid_examples": 99,
+  "empty_or_invalid_examples": 0,
+  "status_counts": {
+    "ok": 99
+  },
+  "initial_refusals": 0,
+  "runtime_seconds_this_invocation": 572.6105778217316,
+  "result_file": "results/qwen3/natugu/results_gs.jsonl"
+}

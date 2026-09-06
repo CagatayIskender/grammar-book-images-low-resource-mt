@@ -7,7 +7,7 @@
 #SBATCH --time=04:00:00
 #SBATCH --output=slurm_outputs/%j.out
 
-set -euo pipefail
+set -eo pipefail
 export XDG_DATA_DIRS="${XDG_DATA_DIRS:-}"
 source /etc/profile
 if [ -f /etc/profile.d/modules.sh ]; then source /etc/profile.d/modules.sh; fi
@@ -15,6 +15,7 @@ if type module >/dev/null 2>&1; then
   module purge || true
   module load python || true
 fi
+set -u
 source "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/venv/bin/activate"
 export PYTHONPATH="/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/MTOB Grammar Experiments/vendor:/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/MTOB Grammar Experiments:${PYTHONPATH:-}"
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True

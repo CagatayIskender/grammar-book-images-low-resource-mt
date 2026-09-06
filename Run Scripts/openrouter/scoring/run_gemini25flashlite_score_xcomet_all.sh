@@ -2,7 +2,7 @@
 #SBATCH --partition=lrz-hgx-h100-94x4
 #SBATCH --gres=gpu:1
 #SBATCH --mem=80G
-#SBATCH --time=03:00:00
+#SBATCH --time=05:00:00
 #SBATCH --output=slurm_outputs/%j.out
 
 set -eo pipefail

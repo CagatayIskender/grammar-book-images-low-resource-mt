@@ -1,0 +1,19 @@
+{
+  "qwen35_context_shot": {
+    "bleu": 7.564871519259283,
+    "chrf": 27.058879875594744,
+    "xcomet": null
+  },
+  "qwen35_context_chain": {
+    "bleu": 7.564871519259283,
+    "chrf": 27.058879875594744,
+    "xcomet": null
+  },
+  "comet_model_used": null,
+  "runtime_seconds": 576.3483417034149,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 9,
+    "seconds": 36
+  }
+}

@@ -61,3 +61,7 @@ bash "Run Scripts/submit/submit_gpt56luna_full.sh"
 This submits five CPU jobs and one dependent GPU XCOMET job. The runner appends each completed
 example immediately and safely resumes partial outputs. Existing completed examples are not billed
 again.
+
+The Tsez Gemini 2.5 Flash Lite and GPT-5.6 Luna jobs use the first 99 test sentences. The source
+dataset contains 445 test sentences; the reduced API subset matches Natugu, the next-largest test
+set.

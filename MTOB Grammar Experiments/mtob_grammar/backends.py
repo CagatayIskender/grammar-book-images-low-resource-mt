@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import os
 import random
+import re
 import time
 from dataclasses import dataclass
 from typing import Any
@@ -21,7 +22,16 @@ class Generation:
 
 
 class ReasoningViolation(RuntimeError):
-    pass
+    def __init__(
+        self,
+        message: str,
+        *,
+        text: str = "",
+        metadata: dict[str, Any] | None = None,
+    ):
+        super().__init__(message)
+        self.text = text
+        self.metadata = metadata or {}
 
 
 def _reasoning_tokens(usage: dict[str, Any]) -> int:
@@ -133,7 +143,25 @@ class OpenRouterBackend:
         raise AssertionError("unreachable")
 
 
-REASONING_MARKERS = ("<think>", "</think>", "analysis:", "reasoning:", "thinking:")
+def _contains_qwen_reasoning(text: str) -> bool:
+    # An empty paired block is how Qwen 3.5 represents disabled thinking.
+    # Anything inside the block, an unmatched tag, or an explicit reasoning
+    # preamble is output that must not be scored as a translation.
+    without_empty_blocks = re.sub(
+        r"<think>\s*</think>",
+        "",
+        text,
+        flags=re.DOTALL | re.IGNORECASE,
+    )
+    if re.search(r"</?think>", without_empty_blocks, flags=re.IGNORECASE):
+        return True
+    return bool(
+        re.search(
+            r"^\s*(?:[#>*_`-]+\s*)*(?:analysis|reasoning|thinking(?:\s+process)?)\s*:",
+            without_empty_blocks,
+            flags=re.IGNORECASE | re.MULTILINE,
+        )
+    )
 
 
 class QwenBackend:
@@ -198,19 +226,26 @@ class QwenBackend:
                 temperature=self.temperature,
             )
         generated = [output[index][len(inputs.input_ids[index]) :] for index in range(len(output))]
+        protocol_text = self.processor.batch_decode(
+            generated, skip_special_tokens=False
+        )[0].strip()
         text = self.processor.batch_decode(generated, skip_special_tokens=True)[0].strip()
-        if any(marker in text.casefold() for marker in REASONING_MARKERS):
-            raise ReasoningViolation("Qwen output contains a reasoning marker; response is excluded from scoring")
-        return Generation(
-            text,
-            {
-                "backend": "qwen",
-                "model": self.model_id,
-                "thinking": thinking,
-                "temperature": self.temperature,
-                "latency_seconds": time.time() - started,
-            },
-        )
+        metadata = {
+            "backend": "qwen",
+            "model": self.model_id,
+            "thinking": thinking,
+            "temperature": self.temperature,
+            "reasoning_protocol_checked": True,
+            "latency_seconds": time.time() - started,
+        }
+        if _contains_qwen_reasoning(protocol_text):
+            metadata["decoded_text"] = text
+            raise ReasoningViolation(
+                "Qwen output contains reasoning content; response is excluded from scoring",
+                text=protocol_text,
+                metadata=metadata,
+            )
+        return Generation(text, metadata)
 
 
 def create_backend(config: dict[str, Any]):

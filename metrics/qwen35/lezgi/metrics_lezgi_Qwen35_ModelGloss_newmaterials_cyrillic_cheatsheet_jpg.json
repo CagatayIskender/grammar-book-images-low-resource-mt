@@ -1,0 +1,14 @@
+{
+  "qwen35_context_model_gloss": {
+    "bleu": 14.368468621287159,
+    "chrf": 38.963248987786805,
+    "xcomet": null
+  },
+  "comet_model_used": null,
+  "runtime_seconds": 923.1720023155212,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 15,
+    "seconds": 23
+  }
+}
