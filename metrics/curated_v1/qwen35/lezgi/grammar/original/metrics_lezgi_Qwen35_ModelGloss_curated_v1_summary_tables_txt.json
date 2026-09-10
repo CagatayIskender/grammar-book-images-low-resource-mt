@@ -1,0 +1,20 @@
+{
+  "qwen35_context_model_gloss": {
+    "bleu": 12.040400239259261,
+    "chrf": 38.1686786609969,
+    "xcomet": 0.5106910271891232
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "runtime_seconds": 177.8645215034485,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 2,
+    "seconds": 57
+  },
+  "xcomet_provenance": {
+    "model": "Unbabel/XCOMET-XL",
+    "results_sha256": "af852ba908826f2fd1f81fd78ce0c9cc559248250b8f6af10a0e8e8ed0b9310a",
+    "records": 87,
+    "runtime_seconds": 19.544882774353027
+  }
+}

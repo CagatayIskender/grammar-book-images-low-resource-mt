@@ -1,0 +1,26 @@
+{
+  "id": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_txt",
+  "family": "chain_gloss_v2",
+  "model": "qwen3",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "language": "Tsez",
+  "source": "grammar",
+  "variant": "original",
+  "condition": "chain_gloss",
+  "material": "summary_tables_txt",
+  "context_kind": "text",
+  "context_files": [
+    "materials/curated_v1/tsez/grammar/original/summary_tables/summary_tables.txt"
+  ],
+  "expected_records": 445,
+  "prediction_key": "qwen3_context_chain_gloss",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "chain_gloss_v2",
+  "results": "results/chain_gloss_v2/qwen3/tsez/grammar/original/chain_gloss_summary_tables_txt.jsonl",
+  "metrics": "metrics/chain_gloss_v2/qwen3/tsez/grammar/original/chain_gloss_summary_tables_txt.json",
+  "config": "configs/experiments/qwen3_tsez_grammar_original_chain_gloss_summary_tables_txt.json",
+  "job": "scripts/jobs/qwen3/tsez/grammar/original/chain_gloss_v2/run_chain_gloss_summary_tables_txt.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen3/preflight/run_qwen3_tsez_grammar_original_chain_gloss_summary_tables_txt.sh"
+}

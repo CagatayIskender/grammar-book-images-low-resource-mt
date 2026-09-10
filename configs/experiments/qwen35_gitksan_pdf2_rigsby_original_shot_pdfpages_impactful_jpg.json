@@ -1,0 +1,31 @@
+{
+  "id": "qwen35_gitksan_pdf2_rigsby_original_shot_pdfpages_impactful_jpg",
+  "family": "curated_v1",
+  "model": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "language": "Gitksan",
+  "source": "pdf2_rigsby",
+  "variant": "original",
+  "condition": "shot",
+  "material": "pdfpages_impactful_jpg",
+  "context_kind": "image",
+  "context_files": [
+    "materials/curated_v1/gitksan/pdf2_rigsby/original/selected_pages/page_001.jpg",
+    "materials/curated_v1/gitksan/pdf2_rigsby/original/selected_pages/page_003.jpg",
+    "materials/curated_v1/gitksan/pdf2_rigsby/original/selected_pages/page_004.jpg",
+    "materials/curated_v1/gitksan/pdf2_rigsby/original/selected_pages/page_005.jpg",
+    "materials/curated_v1/gitksan/pdf2_rigsby/original/selected_pages/page_006.jpg",
+    "materials/curated_v1/gitksan/pdf2_rigsby/original/selected_pages/page_007.jpg"
+  ],
+  "expected_records": 37,
+  "prediction_key": "qwen35_context_shot",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "curated_v1",
+  "results": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/shot_pdfpages_impactful_jpg.jsonl",
+  "metrics": "metrics/curated_v1/qwen35/gitksan/pdf2_rigsby/original/shot_pdfpages_impactful_jpg.json",
+  "config": "configs/experiments/qwen35_gitksan_pdf2_rigsby_original_shot_pdfpages_impactful_jpg.json",
+  "job": "scripts/jobs/qwen35/gitksan/pdf2_rigsby/original/curated_v1/run_shot_pdfpages_impactful_jpg.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen35/preflight/run_qwen35_gitksan_pdf2_rigsby_original_shot_pdfpages_impactful_jpg.sh"
+}

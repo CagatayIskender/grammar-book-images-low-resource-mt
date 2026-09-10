@@ -1,0 +1,27 @@
+{
+  "id": "qwen35_natugu_grammar_original_shot_cheatsheet_jpg",
+  "family": "curated_v1",
+  "model": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "language": "Natugu",
+  "source": "grammar",
+  "variant": "original",
+  "condition": "shot",
+  "material": "cheatsheet_jpg",
+  "context_kind": "image",
+  "context_files": [
+    "materials/curated_v1/natugu/grammar/original/cheatsheet/compact_cheatsheet.jpg",
+    "materials/curated_v1/natugu/grammar/original/cheatsheet/compact_cheatsheet_2.jpg"
+  ],
+  "expected_records": 99,
+  "prediction_key": "qwen35_context_shot",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "curated_v1",
+  "results": "results/curated_v1/qwen35/natugu/grammar/original/shot_cheatsheet_jpg.jsonl",
+  "metrics": "metrics/curated_v1/qwen35/natugu/grammar/original/shot_cheatsheet_jpg.json",
+  "config": "configs/experiments/qwen35_natugu_grammar_original_shot_cheatsheet_jpg.json",
+  "job": "scripts/jobs/qwen35/natugu/grammar/original/curated_v1/run_shot_cheatsheet_jpg.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen35/preflight/run_qwen35_natugu_grammar_original_shot_cheatsheet_jpg.sh"
+}

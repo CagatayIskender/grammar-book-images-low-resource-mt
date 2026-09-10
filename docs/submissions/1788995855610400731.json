@@ -1,0 +1,12 @@
+[
+  {
+    "id": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5779084",
+    "script": "scripts/jobs/qwen3/preflight/run_qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5779085",
+    "script": "scripts/jobs/qwen35/preflight/run_qwen35_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  }
+]

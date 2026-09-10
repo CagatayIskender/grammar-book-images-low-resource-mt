@@ -1,0 +1,12 @@
+[
+  {
+    "id": "qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5779086",
+    "script": "scripts/jobs/qwen3/preflight/run_qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5779087",
+    "script": "scripts/jobs/qwen35/preflight/run_qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  }
+]

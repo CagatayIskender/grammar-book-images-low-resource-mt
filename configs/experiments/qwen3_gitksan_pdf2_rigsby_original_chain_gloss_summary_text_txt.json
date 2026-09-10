@@ -1,0 +1,26 @@
+{
+  "id": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+  "family": "chain_gloss_v2",
+  "model": "qwen3",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "language": "Gitksan",
+  "source": "pdf2_rigsby",
+  "variant": "original",
+  "condition": "chain_gloss",
+  "material": "summary_text_txt",
+  "context_kind": "text",
+  "context_files": [
+    "materials/curated_v1/gitksan/pdf2_rigsby/original/summary_text/summary_model_readable.txt"
+  ],
+  "expected_records": 37,
+  "prediction_key": "qwen3_context_chain_gloss",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "chain_gloss_v2",
+  "results": "results/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt.jsonl",
+  "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt.json",
+  "config": "configs/experiments/qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt.json",
+  "job": "scripts/jobs/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_v2/run_chain_gloss_summary_text_txt.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen3/preflight/run_qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt.sh"
+}

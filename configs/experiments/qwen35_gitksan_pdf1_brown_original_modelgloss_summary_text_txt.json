@@ -1,0 +1,26 @@
+{
+  "id": "qwen35_gitksan_pdf1_brown_original_modelgloss_summary_text_txt",
+  "family": "curated_v1",
+  "model": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "language": "Gitksan",
+  "source": "pdf1_brown",
+  "variant": "original",
+  "condition": "modelgloss",
+  "material": "summary_text_txt",
+  "context_kind": "text",
+  "context_files": [
+    "materials/curated_v1/gitksan/pdf1_brown/original/summary_text/summary_model_readable.txt"
+  ],
+  "expected_records": 37,
+  "prediction_key": "qwen35_context_modelgloss",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "curated_v1",
+  "results": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/modelgloss_summary_text_txt.jsonl",
+  "metrics": "metrics/curated_v1/qwen35/gitksan/pdf1_brown/original/modelgloss_summary_text_txt.json",
+  "config": "configs/experiments/qwen35_gitksan_pdf1_brown_original_modelgloss_summary_text_txt.json",
+  "job": "scripts/jobs/qwen35/gitksan/pdf1_brown/original/curated_v1/run_modelgloss_summary_text_txt.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen35/preflight/run_qwen35_gitksan_pdf1_brown_original_modelgloss_summary_text_txt.sh"
+}

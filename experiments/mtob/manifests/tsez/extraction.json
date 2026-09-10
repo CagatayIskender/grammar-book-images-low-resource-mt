@@ -1,0 +1,15 @@
+{
+  "source_id": "tsez",
+  "language": "Tsez",
+  "location_from_pdf": "the Tsunta district of Daghestan in the Russian Federation",
+  "input_pdf": "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/inputs/grammar_pdfs/tsez/grammar/Tsez_Grammar_PDF.pdf",
+  "input_pdf_sha256": "2ec3eddec7242c3607da0f597d9ea963b880ad8c23fec11a4be97dc036be5f7a",
+  "pdf_pages": 40,
+  "extracted_characters": 75124,
+  "repeated_margin_patterns_removed": [],
+  "extraction_policy": "preserve embedded PDF text; remove only repeated top/bottom marginal lines",
+  "warnings": [],
+  "audit_status": "manually_reviewed",
+  "audit_timestamp_utc": "2026-08-13T17:17:21.219651+00:00",
+  "audit_scope": "page counts, representative page text, extraction warnings, and Gl page ranges"
+}

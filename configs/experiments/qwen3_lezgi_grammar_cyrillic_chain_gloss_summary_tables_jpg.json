@@ -1,0 +1,27 @@
+{
+  "id": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+  "family": "chain_gloss_v2",
+  "model": "qwen3",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "language": "Lezgi",
+  "source": "grammar",
+  "variant": "cyrillic",
+  "condition": "chain_gloss",
+  "material": "summary_tables_jpg",
+  "context_kind": "image",
+  "context_files": [
+    "materials/curated_v1/lezgi/grammar/cyrillic/summary_tables/summary_tables.jpg",
+    "materials/curated_v1/lezgi/grammar/cyrillic/summary_tables/summary_tables_2.jpg"
+  ],
+  "expected_records": 87,
+  "prediction_key": "qwen3_context_chain_gloss",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "chain_gloss_v2",
+  "results": "results/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg.jsonl",
+  "metrics": "metrics/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg.json",
+  "config": "configs/experiments/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.json",
+  "job": "scripts/jobs/qwen3/lezgi/grammar/cyrillic/chain_gloss_v2/run_chain_gloss_summary_tables_jpg.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen3/preflight/run_qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.sh"
+}

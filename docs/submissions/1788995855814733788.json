@@ -1,0 +1,27 @@
+[
+  {
+    "id": "qwen3_natugu_grammar_original_shot_pdfpages_impactful_jpg",
+    "job_id": "5779090",
+    "script": "scripts/jobs/qwen3/preflight/run_qwen3_natugu_grammar_original_shot_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen3_natugu_grammar_original_modelgloss_pdfpages_impactful_jpg",
+    "job_id": "5779091",
+    "script": "scripts/jobs/qwen3/preflight/run_qwen3_natugu_grammar_original_modelgloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_shot_pdfpages_impactful_jpg",
+    "job_id": "5779092",
+    "script": "scripts/jobs/qwen3/preflight/run_qwen3_tsez_grammar_original_shot_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg",
+    "job_id": "5779093",
+    "script": "scripts/jobs/qwen3/preflight/run_qwen3_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg",
+    "job_id": "5779094",
+    "script": "scripts/jobs/qwen35/preflight/run_qwen35_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg.sh"
+  }
+]

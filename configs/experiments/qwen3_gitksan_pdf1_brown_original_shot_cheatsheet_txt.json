@@ -1,0 +1,26 @@
+{
+  "id": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt",
+  "family": "curated_v1",
+  "model": "qwen3",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "language": "Gitksan",
+  "source": "pdf1_brown",
+  "variant": "original",
+  "condition": "shot",
+  "material": "cheatsheet_txt",
+  "context_kind": "text",
+  "context_files": [
+    "materials/curated_v1/gitksan/pdf1_brown/original/cheatsheet/compact_cheatsheet.txt"
+  ],
+  "expected_records": 37,
+  "prediction_key": "qwen3_context_shot",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "curated_v1",
+  "results": "results/curated_v1/qwen3/gitksan/pdf1_brown/original/shot_cheatsheet_txt.jsonl",
+  "metrics": "metrics/curated_v1/qwen3/gitksan/pdf1_brown/original/shot_cheatsheet_txt.json",
+  "config": "configs/experiments/qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt.json",
+  "job": "scripts/jobs/qwen3/gitksan/pdf1_brown/original/curated_v1/run_shot_cheatsheet_txt.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen3/preflight/run_qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt.sh"
+}

@@ -1,0 +1,25 @@
+{
+  "qwen35_context_shot": {
+    "bleu": 9.36755399715837,
+    "chrf": 26.88069595244027,
+    "xcomet": 0.37593920665910874
+  },
+  "qwen35_context_chain": {
+    "bleu": 9.36755399715837,
+    "chrf": 26.88069595244027,
+    "xcomet": 0.37593920665910874
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL",
+  "runtime_seconds": 976.5005373954773,
+  "runtime_hms": {
+    "hours": 0,
+    "minutes": 16,
+    "seconds": 16
+  },
+  "xcomet_provenance": {
+    "model": "Unbabel/XCOMET-XL",
+    "results_sha256": "c07b277ca4c2362ce52390bccb1a32c39c36c5f8cc2859a2adb617618c976e0c",
+    "records": 87,
+    "runtime_seconds": 38.99281358718872
+  }
+}

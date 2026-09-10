@@ -1,0 +1,112 @@
+[
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/metrics_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_cheatsheet_jpg.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_cheatsheet_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/metrics_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_cheatsheet_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_summary_tables_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/metrics_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_summary_tables_jpg.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_summary_tables_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/metrics_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_summary_tables_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_summary_text_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/metrics_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_summary_text_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_curated_v1_cyrillic_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/metrics_lezgi_Qwen35_curated_v1_cyrillic_cheatsheet_jpg.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_curated_v1_cyrillic_cheatsheet_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/metrics_lezgi_Qwen35_curated_v1_cyrillic_cheatsheet_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_curated_v1_cyrillic_summary_tables_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/metrics_lezgi_Qwen35_curated_v1_cyrillic_summary_tables_jpg.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_curated_v1_cyrillic_summary_tables_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/metrics_lezgi_Qwen35_curated_v1_cyrillic_summary_tables_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_curated_v1_cyrillic_summary_text_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/metrics_lezgi_Qwen35_curated_v1_cyrillic_summary_text_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_ModelGloss_curated_v1_cheatsheet_jpg.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_cheatsheet_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_ModelGloss_curated_v1_cheatsheet_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_ModelGloss_curated_v1_pdfpages_impactful_jpg.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_summary_tables_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_ModelGloss_curated_v1_summary_tables_jpg.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_summary_tables_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_ModelGloss_curated_v1_summary_tables_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_summary_text_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_ModelGloss_curated_v1_summary_text_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_curated_v1_cheatsheet_jpg.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_cheatsheet_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_curated_v1_cheatsheet_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_curated_v1_pdfpages_impactful_jpg.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_summary_tables_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_curated_v1_summary_tables_jpg.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_summary_tables_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_curated_v1_summary_tables_txt.json"
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_summary_text_txt.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/original/metrics_lezgi_Qwen35_curated_v1_summary_text_txt.json"
+  }
+]

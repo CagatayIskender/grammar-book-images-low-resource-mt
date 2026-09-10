@@ -1,0 +1,41 @@
+{
+  "captured_at_utc": "2026-08-13T17:04:33.541197+00:00",
+  "files": {
+    "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/data/Gitksan/git-test-track1-uncovered.txt": {
+      "sha256": "0870f9babe71af12efd81822634fb0c034990506436bf45da2324ef8e2626cf6",
+      "bytes": 9823
+    },
+    "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/data/Lezgi/lez-test-track1-uncovered": {
+      "sha256": "087de5f341f5264e003cf67f2ebf4891582aed5a2c6df6403a92ebab231001c6",
+      "bytes": 20624
+    },
+    "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/data/Natugu/ntu-test-track1-uncovered": {
+      "sha256": "517745fbb984b64792044ffa9e49971d9e67c98f2b990f514730acff4fb63ab8",
+      "bytes": 25714
+    },
+    "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/data/Tsez/ddo-test-track1-uncovered": {
+      "sha256": "95858a128728846cccecef64efef060f3df33c86fcf889e5e3610ac1d52dec7b",
+      "bytes": 138896
+    },
+    "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/inputs/grammar_pdfs/gitksan/pdf1_brown/gitksan Grammar PDF 1.pdf": {
+      "sha256": "ae1218388411ceb6f2d3b4306ac08ca0e298647040d3d9d70959fe6726fe493e",
+      "bytes": 278518
+    },
+    "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/inputs/grammar_pdfs/gitksan/pdf2_rigsby/gitksan Grammar PDF 2(1986_Rigsby).pdf": {
+      "sha256": "3c47efe0c35153ee86147559bc5f70014f025b477d2678d131bb86a7fd55ab46",
+      "bytes": 1447148
+    },
+    "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/inputs/grammar_pdfs/lezgi/grammar/Lezgi_Grammar_PDF.pdf": {
+      "sha256": "2c52157143042696ddde7826453902fa5925fd15d85eefdb13447725506261d5",
+      "bytes": 1309737
+    },
+    "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/inputs/grammar_pdfs/natugu/grammar/Boerger_Natqgu grammar sketch_final.pdf": {
+      "sha256": "fbfa8a17201cccb8a7e272d2eb93dda80b3039edab83fe147b4ff47fe83ae968",
+      "bytes": 1814867
+    },
+    "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/inputs/grammar_pdfs/tsez/grammar/Tsez_Grammar_PDF.pdf": {
+      "sha256": "2ec3eddec7242c3607da0f597d9ea963b880ad8c23fec11a4be97dc036be5f7a",
+      "bytes": 418946
+    }
+  }
+}

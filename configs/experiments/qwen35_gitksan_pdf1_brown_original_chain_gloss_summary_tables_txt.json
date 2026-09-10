@@ -1,0 +1,26 @@
+{
+  "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+  "family": "chain_gloss_v2",
+  "model": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "language": "Gitksan",
+  "source": "pdf1_brown",
+  "variant": "original",
+  "condition": "chain_gloss",
+  "material": "summary_tables_txt",
+  "context_kind": "text",
+  "context_files": [
+    "materials/curated_v1/gitksan/pdf1_brown/original/summary_tables/summary_tables.txt"
+  ],
+  "expected_records": 37,
+  "prediction_key": "qwen35_context_chain_gloss",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "chain_gloss_v2",
+  "results": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt.jsonl",
+  "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt.json",
+  "config": "configs/experiments/qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt.json",
+  "job": "scripts/jobs/qwen35/gitksan/pdf1_brown/original/chain_gloss_v2/run_chain_gloss_summary_tables_txt.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen35/preflight/run_qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt.sh"
+}

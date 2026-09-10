@@ -1,0 +1,19 @@
+{
+  "source_id": "gitksan_pdf1",
+  "language": "Gitksan",
+  "location_from_pdf": "northwestern British Columbia, Canada",
+  "input_pdf": "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/inputs/grammar_pdfs/gitksan/pdf1_brown/gitksan Grammar PDF 1.pdf",
+  "input_pdf_sha256": "ae1218388411ceb6f2d3b4306ac08ca0e298647040d3d9d70959fe6726fe493e",
+  "pdf_pages": 12,
+  "extracted_characters": 28099,
+  "repeated_margin_patterns_removed": [
+    "https://doi.org/#.#/s# published online by cambridge university press",
+    "jason brown, henry davis, michael schwan & barbara sennott: gitksan",
+    "journal of the international phonetic association: illustrations of the ipa"
+  ],
+  "extraction_policy": "preserve embedded PDF text; remove only repeated top/bottom marginal lines",
+  "warnings": [],
+  "audit_status": "manually_reviewed",
+  "audit_timestamp_utc": "2026-08-13T17:17:21.213035+00:00",
+  "audit_scope": "page counts, representative page text, extraction warnings, and Gl page ranges"
+}

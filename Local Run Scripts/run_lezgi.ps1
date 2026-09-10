@@ -1,1 +1,0 @@
-python run_grammamt.py --language Lezgi --model_id swiss-ai/Apertus-8B-Instruct-2509 --support_n 21 --test_n 87 --use_4bit --out_metrics metrics/metrics_lezgi_Apertus.json --out_jsonl results/results_lezgi_Apertus.jsonl

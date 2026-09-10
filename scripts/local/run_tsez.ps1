@@ -1,0 +1,1 @@
+python runners/baseline/run_grammamt.py --language Tsez --model_id swiss-ai/Apertus-8B-Instruct-2509 --support_n 21 --test_n 1000 --use_4bit --out_metrics metrics/metrics_tsez_Apertus.json --out_jsonl results/baseline/apertus/tsez/grammar/original/results_tsez_Apertus.jsonl

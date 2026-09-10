@@ -1,0 +1,27 @@
+{
+  "id": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+  "family": "chain_gloss_v2",
+  "model": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "language": "Lezgi",
+  "source": "grammar",
+  "variant": "original",
+  "condition": "chain_gloss",
+  "material": "summary_tables_jpg",
+  "context_kind": "image",
+  "context_files": [
+    "materials/curated_v1/lezgi/grammar/original/summary_tables/summary_tables.jpg",
+    "materials/curated_v1/lezgi/grammar/original/summary_tables/summary_tables_2.jpg"
+  ],
+  "expected_records": 87,
+  "prediction_key": "qwen35_context_chain_gloss",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "chain_gloss_v2",
+  "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_tables_jpg.jsonl",
+  "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_tables_jpg.json",
+  "config": "configs/experiments/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg.json",
+  "job": "scripts/jobs/qwen35/lezgi/grammar/original/chain_gloss_v2/run_chain_gloss_summary_tables_jpg.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen35/preflight/run_qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg.sh"
+}

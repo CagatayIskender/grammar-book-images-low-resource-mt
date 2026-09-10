@@ -1,0 +1,26 @@
+{
+  "id": "qwen3_gitksan_pdf1_brown_original_modelgloss_cheatsheet_jpg",
+  "family": "curated_v1",
+  "model": "qwen3",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "language": "Gitksan",
+  "source": "pdf1_brown",
+  "variant": "original",
+  "condition": "modelgloss",
+  "material": "cheatsheet_jpg",
+  "context_kind": "image",
+  "context_files": [
+    "materials/curated_v1/gitksan/pdf1_brown/original/cheatsheet/compact_cheatsheet.jpg"
+  ],
+  "expected_records": 37,
+  "prediction_key": "qwen3_context_modelgloss",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "curated_v1",
+  "results": "results/curated_v1/qwen3/gitksan/pdf1_brown/original/modelgloss_cheatsheet_jpg.jsonl",
+  "metrics": "metrics/curated_v1/qwen3/gitksan/pdf1_brown/original/modelgloss_cheatsheet_jpg.json",
+  "config": "configs/experiments/qwen3_gitksan_pdf1_brown_original_modelgloss_cheatsheet_jpg.json",
+  "job": "scripts/jobs/qwen3/gitksan/pdf1_brown/original/curated_v1/run_modelgloss_cheatsheet_jpg.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen3/preflight/run_qwen3_gitksan_pdf1_brown_original_modelgloss_cheatsheet_jpg.sh"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "qwen35_tsez_grammar_original_modelgloss_summary_tables_txt",
+  "family": "curated_v1",
+  "model": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "language": "Tsez",
+  "source": "grammar",
+  "variant": "original",
+  "condition": "modelgloss",
+  "material": "summary_tables_txt",
+  "context_kind": "text",
+  "context_files": [
+    "materials/curated_v1/tsez/grammar/original/summary_tables/summary_tables.txt"
+  ],
+  "expected_records": 445,
+  "prediction_key": "qwen35_context_modelgloss",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "curated_v1",
+  "results": "results/curated_v1/qwen35/tsez/grammar/original/modelgloss_summary_tables_txt.jsonl",
+  "metrics": "metrics/curated_v1/qwen35/tsez/grammar/original/modelgloss_summary_tables_txt.json",
+  "config": "configs/experiments/qwen35_tsez_grammar_original_modelgloss_summary_tables_txt.json",
+  "job": "scripts/jobs/qwen35/tsez/grammar/original/curated_v1/run_modelgloss_summary_tables_txt.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen35/preflight/run_qwen35_tsez_grammar_original_modelgloss_summary_tables_txt.sh"
+}

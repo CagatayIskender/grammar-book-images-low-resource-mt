@@ -38,6 +38,8 @@ cache/
 # Cluster and runtime output
 *.out
 slurm_outputs/
+*.lock
+*.tmp
 
 # Editor and operating-system files
 .DS_Store

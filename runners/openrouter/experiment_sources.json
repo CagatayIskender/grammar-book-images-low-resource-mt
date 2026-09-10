@@ -1,0 +1,27 @@
+{
+  "gitksan_pdf1_brown": {
+    "language": "Gitksan",
+    "test_n": 37,
+    "materials_root": "materials/curated_v1/gitksan/pdf1_brown/original"
+  },
+  "gitksan_pdf2_rigsby": {
+    "language": "Gitksan",
+    "test_n": 37,
+    "materials_root": "materials/curated_v1/gitksan/pdf2_rigsby/original"
+  },
+  "lezgi": {
+    "language": "Lezgi",
+    "test_n": 87,
+    "materials_root": "materials/curated_v1/lezgi/grammar/original"
+  },
+  "natugu": {
+    "language": "Natugu",
+    "test_n": 99,
+    "materials_root": "materials/curated_v1/natugu/grammar/original"
+  },
+  "tsez": {
+    "language": "Tsez",
+    "test_n": 445,
+    "materials_root": "materials/curated_v1/tsez/grammar/original"
+  }
+}

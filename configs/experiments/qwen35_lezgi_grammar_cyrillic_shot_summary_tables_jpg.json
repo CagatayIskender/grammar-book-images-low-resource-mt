@@ -1,0 +1,27 @@
+{
+  "id": "qwen35_lezgi_grammar_cyrillic_shot_summary_tables_jpg",
+  "family": "curated_v1",
+  "model": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "language": "Lezgi",
+  "source": "grammar",
+  "variant": "cyrillic",
+  "condition": "shot",
+  "material": "summary_tables_jpg",
+  "context_kind": "image",
+  "context_files": [
+    "materials/curated_v1/lezgi/grammar/cyrillic/summary_tables/summary_tables.jpg",
+    "materials/curated_v1/lezgi/grammar/cyrillic/summary_tables/summary_tables_2.jpg"
+  ],
+  "expected_records": 87,
+  "prediction_key": "qwen35_context_shot",
+  "dtype": "float32",
+  "gpu_count": 1,
+  "prompt_version": "curated_v1",
+  "results": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/shot_summary_tables_jpg.jsonl",
+  "metrics": "metrics/curated_v1/qwen35/lezgi/grammar/cyrillic/shot_summary_tables_jpg.json",
+  "config": "configs/experiments/qwen35_lezgi_grammar_cyrillic_shot_summary_tables_jpg.json",
+  "job": "scripts/jobs/qwen35/lezgi/grammar/cyrillic/curated_v1/run_shot_summary_tables_jpg.sh",
+  "repair": false,
+  "preflight_job": "scripts/jobs/qwen35/preflight/run_qwen35_lezgi_grammar_cyrillic_shot_summary_tables_jpg.sh"
+}

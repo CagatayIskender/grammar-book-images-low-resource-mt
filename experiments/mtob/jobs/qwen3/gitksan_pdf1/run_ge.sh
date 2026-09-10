@@ -1,0 +1,24 @@
+#!/bin/bash
+#SBATCH --job-name=mtob_q3_git1_ge
+#SBATCH --partition=lrz-hgx-h100-94x4
+#SBATCH --gres=gpu:1
+#SBATCH --mem=80G
+#SBATCH --time=04:00:00
+#SBATCH --output=/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/experiments/mtob/slurm_outputs/%j.out
+
+set -eo pipefail
+export XDG_DATA_DIRS="${XDG_DATA_DIRS:-}"
+source /etc/profile
+if [ -f /etc/profile.d/modules.sh ]; then source /etc/profile.d/modules.sh; fi
+if type module >/dev/null 2>&1; then
+  module purge || true
+  module load python || true
+fi
+set -u
+source "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/venv/bin/activate"
+source "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/scripts/shared/cache_env.sh"
+export PYTHONPATH="/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/experiments/mtob/vendor:/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/experiments/mtob:${PYTHONPATH:-}"
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+cd "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/experiments/mtob"
+
+python run_experiment.py --model qwen3 --source gitksan_pdf1 --condition ge

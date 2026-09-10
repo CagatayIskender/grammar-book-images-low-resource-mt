@@ -1,0 +1,12 @@
+[
+  {
+    "id": "qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5779082",
+    "script": "scripts/jobs/qwen3/preflight/run_qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5779083",
+    "script": "scripts/jobs/qwen35/preflight/run_qwen35_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  }
+]
