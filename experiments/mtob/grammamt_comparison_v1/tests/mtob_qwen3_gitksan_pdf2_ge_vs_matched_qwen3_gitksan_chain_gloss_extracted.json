@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "64f73b3fc0a9e661881f15abf01bbb95161541b01bcf768a531ed287751fea5e",
+      "4520dd4545ced46821bb25d9f437a7dceae0f81f034e79a3c14d25f952fbe3f3"
+    ],
+    "scores": [
+      "b901b0c4a466a4163dac1a819713a453bac1aa91a2be8e2766252d523e2afb6a",
+      "ca1f7b247487e74b3d033467631494e0b0cd27e1447bfbf0422e79bbad1812bb"
+    ],
+    "view": "extracted"
+  },
+  "tests": [
+    {
+      "model": "qwen3",
+      "source": "gitksan_pdf2",
+      "language": "gitksan",
+      "condition": "ge",
+      "method": "chain_gloss",
+      "left": "matched_qwen3_gitksan_chain_gloss",
+      "right": "mtob_qwen3_gitksan_pdf2_ge",
+      "view": "extracted",
+      "num_examples": 37,
+      "metric": "BLEU",
+      "left_score": 2.392884993035677,
+      "right_score": 0.0,
+      "delta_right_minus_left": -2.392884993035677,
+      "p_raw": 0.034639653603463966,
+      "p_sacrebleu": 0.034639653603463966,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.0,
+      "right_ci95_halfwidth": 0.0,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen3",
+      "source": "gitksan_pdf2",
+      "language": "gitksan",
+      "condition": "ge",
+      "method": "chain_gloss",
+      "left": "matched_qwen3_gitksan_chain_gloss",
+      "right": "mtob_qwen3_gitksan_pdf2_ge",
+      "view": "extracted",
+      "num_examples": 37,
+      "metric": "chrF",
+      "left_score": 26.99811293958759,
+      "right_score": 17.624044761683976,
+      "delta_right_minus_left": -9.374068177903613,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 17.66901397705078,
+      "right_ci95_halfwidth": 2.6380977630615234,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

@@ -1,0 +1,2876 @@
+{
+  "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+  "records": [
+    {
+      "index": 0,
+      "source": "И гададини гъил вегьена са жуьт къачуда .",
+      "reference": "And the guy picked up one necklace pair.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "This boy took one pair of gloves.",
+      "raw": "This boy took one pair of gloves.",
+      "extracted": "This boy took one pair of gloves.",
+      "raw_span": [
+        0,
+        33
+      ],
+      "extracted_span": [
+        0,
+        33
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "This boy took one pair of gloves.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 1,
+      "source": "Вични хьанвай къвалахар я .",
+      "reference": "and all this were real stories",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "All the stories were real.",
+      "raw": "All the stories were real.",
+      "extracted": "All the stories were real.",
+      "raw_span": [
+        0,
+        26
+      ],
+      "extracted_span": [
+        0,
+        26
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "All the stories were real.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 2,
+      "source": "Яргъал акъатна чун ...",
+      "reference": "We ran far from there...",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We ran far...",
+      "raw": "We ran far...",
+      "extracted": "We ran far...",
+      "raw_span": [
+        0,
+        13
+      ],
+      "extracted_span": [
+        0,
+        13
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We ran far...",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 3,
+      "source": "Ша фин гьуьлуьн къерехдиз » лугьуда .",
+      "reference": "\"Let’s go to the seaside.\" said the horse.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Come, go to the sea and return, he said.",
+      "raw": "Come, go to the sea and return, he said.",
+      "extracted": "Come, go to the sea and return, he said.",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Come, go to the sea and return, he said.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 4,
+      "source": "Ахпа отпуска гана заз .",
+      "reference": "I was sent on vacation.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "After vacation, give it to me.",
+      "raw": "After vacation, give it to me.",
+      "extracted": "After vacation, give it to me.",
+      "raw_span": [
+        0,
+        30
+      ],
+      "extracted_span": [
+        0,
+        30
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "After vacation, give it to me.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 5,
+      "source": "« Фена », лагьана , « куьне », лагьана , « зи балкӀандин кӀвач галукь тавунвай са чкадлай » лагьана , « заз са тике », лагьана « накьв гъваш » лагьана .",
+      "reference": "\"Go\" he said, \"and bring me some soil from a place where my horse has never walked.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Go, said he, “You, said he, ‘I will not make you hit my horse’s leg at one place,’ said he, ‘Give me one piece,’ said he, ‘Bring something.’",
+      "raw": "Go, said he, “You, said he, ‘I will not make you hit my horse’s leg at one place,’ said he, ‘Give me one piece,’ said he, ‘Bring something.’",
+      "extracted": "Go, said he, “You, said he, ‘I will not make you hit my horse’s leg at one place,’ said he, ‘Give me one piece,’ said he, ‘Bring something.’",
+      "raw_span": [
+        0,
+        140
+      ],
+      "extracted_span": [
+        0,
+        140
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Go, said he, “You, said he, ‘I will not make you hit my horse’s leg at one place,’ said he, ‘Give me one piece,’ said he, ‘Bring something.’",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 6,
+      "source": "Лагьана чна , рекъел эвицӀ~хъувуна , рехъ чира ман .",
+      "reference": "we asked to show us the road.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We said, “You know the road.”",
+      "raw": "We said, “You know the road.”",
+      "extracted": "We said, “You know the road.”",
+      "raw_span": [
+        0,
+        29
+      ],
+      "extracted_span": [
+        0,
+        29
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We said, “You know the road.”",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 7,
+      "source": "Берлиндай Франциядиз ,",
+      "reference": "from Berlin to France,",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "In Berlin, from France",
+      "raw": "In Berlin, from France",
+      "extracted": "In Berlin, from France",
+      "raw_span": [
+        0,
+        22
+      ],
+      "extracted_span": [
+        0,
+        22
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "In Berlin, from France",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 8,
+      "source": "чун рехъ къуна хкверла",
+      "reference": "when we were returning along the road",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We went back along the road.",
+      "raw": "We went back along the road.",
+      "extracted": "We went back along the road.",
+      "raw_span": [
+        0,
+        28
+      ],
+      "extracted_span": [
+        0,
+        28
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We went back along the road.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 9,
+      "source": "Гьабурни кӀвалариз-къариз ахъатна .",
+      "reference": "They have their homes.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I had them in the house.",
+      "raw": "I had them in the house.",
+      "extracted": "I had them in the house.",
+      "raw_span": [
+        0,
+        24
+      ],
+      "extracted_span": [
+        0,
+        24
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I had them in the house.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 10,
+      "source": "Хъсан жи къайгъудик амукьна заз еке тир хъсанвилер къалурна жамаатдин патай .",
+      "reference": "They took care of me and were very kind to me.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Hassan took care of me, and I stayed at the side of the great assembly.",
+      "raw": "Hassan took care of me, and I stayed at the side of the great assembly.",
+      "extracted": "Hassan took care of me, and I stayed at the side of the great assembly.",
+      "raw_span": [
+        0,
+        71
+      ],
+      "extracted_span": [
+        0,
+        71
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Hassan took care of me, and I stayed at the side of the great assembly.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 11,
+      "source": "« Самур » газет атай береда . 00 . 20",
+      "reference": "When \"Samur\" newspaper came",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The \"Samur\" newspaper arrived at 00:20.",
+      "raw": "The \"Samur\" newspaper arrived at 00:20.",
+      "extracted": "The \"Samur\" newspaper arrived at 00:20.",
+      "raw_span": [
+        0,
+        39
+      ],
+      "extracted_span": [
+        0,
+        39
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The \"Samur\" newspaper arrived at 00:20.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 12,
+      "source": "Писвал ийиз кӀанзава хьир гададиз .",
+      "reference": "He wants to do evil to the guy.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "He wanted to do evil even then.",
+      "raw": "He wanted to do evil even then.",
+      "extracted": "He wanted to do evil even then.",
+      "raw_span": [
+        0,
+        31
+      ],
+      "extracted_span": [
+        0,
+        31
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "He wanted to do evil even then.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 13,
+      "source": "« За вучин », лугьуда , бес , « аквазвачни », лугьуда , « пачагьдиз завай гила гевгьеррин иеси кӀанзава ».",
+      "reference": "“What to do? he said.  \"Did I not see this? Now the king wants from me the owner of the pearls.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "When I said, “But I didn’t see it,” the king said, “Now I want pearls from you.”",
+      "raw": "When I said, “But I didn’t see it,” the king said, “Now I want pearls from you.”",
+      "extracted": "When I said, “But I didn’t see it,” the king said, “Now I want pearls from you.”",
+      "raw_span": [
+        0,
+        80
+      ],
+      "extracted_span": [
+        0,
+        80
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "When I said, “But I didn’t see it,” the king said, “Now I want pearls from you.”",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 14,
+      "source": "Седакъет ханума вичин кӀалуб туькӀуьрна ва гьа кӀалубдив кутуна и ктаб кхьанва .",
+      "reference": "She created a form and wrote a book according this form.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Suddenly, he himself created a language and put this book to write.",
+      "raw": "Suddenly, he himself created a language and put this book to write.",
+      "extracted": "Suddenly, he himself created a language and put this book to write.",
+      "raw_span": [
+        0,
+        67
+      ],
+      "extracted_span": [
+        0,
+        67
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Suddenly, he himself created a language and put this book to write.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 15,
+      "source": "« Гьа и луьтквечидини », лагьана , « идани », лагьана « зун », лагьана , « гададивай къакъудна », лагьана , « алцурарна вичин кӀвализ тухузвай тир .",
+      "reference": "\"Yes this boatman,\" she said, \"he also took me from the guy, deceiving me and taking me to his home.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Yes, this boatman, he also said, “I am,” I said, “I will,” he said, “deceive you,” he said, “deceive yourself and take the house.”",
+      "raw": "Yes, this boatman, he also said, “I am,” I said, “I will,” he said, “deceive you,” he said, “deceive yourself and take the house.”",
+      "extracted": "Yes, this boatman, he also said, “I am,” I said, “I will,” he said, “deceive you,” he said, “deceive yourself and take the house.”",
+      "raw_span": [
+        0,
+        130
+      ],
+      "extracted_span": [
+        0,
+        130
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Yes, this boatman, he also said, “I am,” I said, “I will,” he said, “deceive you,” he said, “deceive yourself and take the house.”",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 16,
+      "source": "« Ваъ », лугьуда , « зи пӀузаррал хер хьанва » лугьуда , « а ковшда аваз са яд це кван заз ».",
+      "reference": "\"No,\" he said, \"There is a wound on my lips. Please, give me some water in that ladel.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "“No,” she said, “the wound has already happened,” she said, “give me water, please.”",
+      "raw": "“No,” she said, “the wound has already happened,” she said, “give me water, please.”",
+      "extracted": "“No,” she said, “the wound has already happened,” she said, “give me water, please.”",
+      "raw_span": [
+        0,
+        84
+      ],
+      "extracted_span": [
+        0,
+        84
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "“No,” she said, “the wound has already happened,” she said, “give me water, please.”",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 17,
+      "source": "« АкӀ жеш хьи », лугьуда .",
+      "reference": "\"It cannot work this way.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "\"Be able to work,\" he said.",
+      "raw": "\"Be able to work,\" he said.",
+      "extracted": "\"Be able to work,\" he said.",
+      "raw_span": [
+        0,
+        27
+      ],
+      "extracted_span": [
+        0,
+        27
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "\"Be able to work,\" he said.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 18,
+      "source": "Чубанди кицӀиз ихьтин гьерекатар ийидай туш .",
+      "reference": "Shepherds don’t treat dogs this way.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The shepherd did not give medicine to the dog.",
+      "raw": "The shepherd did not give medicine to the dog.",
+      "extracted": "The shepherd did not give medicine to the dog.",
+      "raw_span": [
+        0,
+        46
+      ],
+      "extracted_span": [
+        0,
+        46
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The shepherd did not give medicine to the dog.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 19,
+      "source": "Жи хуьре атана лагьайла , за атана концертни гайди я и хуьре атана .",
+      "reference": "he said in our village, and I also gave a concert in this village",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "When we came to the village, I gave you a concert or this village coming.",
+      "raw": "When we came to the village, I gave you a concert or this village coming.",
+      "extracted": "When we came to the village, I gave you a concert or this village coming.",
+      "raw_span": [
+        0,
+        73
+      ],
+      "extracted_span": [
+        0,
+        73
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "When we came to the village, I gave you a concert or this village coming.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 20,
+      "source": "Рехъ акваз амукъназ сад~лагьана",
+      "reference": "We couldn't even see the road.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I did not see the road far away.",
+      "raw": "I did not see the road far away.",
+      "extracted": "I did not see the road far away.",
+      "raw_span": [
+        0,
+        32
+      ],
+      "extracted_span": [
+        0,
+        32
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I did not see the road far away.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 21,
+      "source": "И кар акур жибури лагьана ки , яда къе вуча ма чав .",
+      "reference": "Hearing this, our guys asked him to give the cassete that day.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "This day, hear our say: that, coming day, give you the cassette.",
+      "raw": "This day, hear our say: that, coming day, give you the cassette.",
+      "extracted": "This day, hear our say: that, coming day, give you the cassette.",
+      "raw_span": [
+        0,
+        64
+      ],
+      "extracted_span": [
+        0,
+        64
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "This day, hear our say: that, coming day, give you the cassette.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 22,
+      "source": "Ва гьада , гьикъван гьа терезидин стрелка пара хкаж хьанватӀа , гьам вилик кутунва .",
+      "reference": "And she put first that person which is more valuable according to the position of scale arrow.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "And that was when, at the same position as before, the arrow was already very high, and then we put it there.",
+      "raw": "And that was when, at the same position as before, the arrow was already very high, and then we put it there.",
+      "extracted": "And that was when, at the same position as before, the arrow was already very high, and then we put it there.",
+      "raw_span": [
+        0,
+        109
+      ],
+      "extracted_span": [
+        0,
+        109
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "And that was when, at the same position as before, the arrow was already very high, and then we put it there.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 23,
+      "source": "хуьруьн абурун кӀвалар чила ава , асканда пенжер",
+      "reference": "houses in that village were small",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The houses near the village are small.",
+      "raw": "The houses near the village are small.",
+      "extracted": "The houses near the village are small.",
+      "raw_span": [
+        0,
+        38
+      ],
+      "extracted_span": [
+        0,
+        38
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The houses near the village are small.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 24,
+      "source": "Идан акъадарна ахпа къагъана чун са шегьердиз .",
+      "reference": "he took us in a city.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "He also moved out, then we brought it to that city.",
+      "raw": "He also moved out, then we brought it to that city.",
+      "extracted": "He also moved out, then we brought it to that city.",
+      "raw_span": [
+        0,
+        51
+      ],
+      "extracted_span": [
+        0,
+        51
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "He also moved out, then we brought it to that city.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 25,
+      "source": "« Хьуй », лугьуда .",
+      "reference": "\"Yes.\" they said.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Yes",
+      "raw": "Yes",
+      "extracted": "Yes",
+      "raw_span": [
+        0,
+        3
+      ],
+      "extracted_span": [
+        0,
+        3
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Yes",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 26,
+      "source": "СтӀурани , квез чидайвал , чи дереда авай виридлайни кьакьан дагъларив мукьвал са хуьр я .",
+      "reference": "As you know, Sudur is the village close to the highest mountains.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The village where we lived was on a high mountain.",
+      "raw": "The village where we lived was on a high mountain.",
+      "extracted": "The village where we lived was on a high mountain.",
+      "raw_span": [
+        0,
+        50
+      ],
+      "extracted_span": [
+        0,
+        50
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The village where we lived was on a high mountain.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 27,
+      "source": "АтӀуз гана ибурун кьилерни .",
+      "reference": "And she gave the order to cut off thier heads.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Cut off these heads.",
+      "raw": "Cut off these heads.",
+      "extracted": "Cut off these heads.",
+      "raw_span": [
+        0,
+        20
+      ],
+      "extracted_span": [
+        0,
+        20
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Cut off these heads.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 28,
+      "source": "Зу кьилелни пара атайди я .",
+      "reference": "I went through many things.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "That thing came to me.",
+      "raw": "That thing came to me.",
+      "extracted": "That thing came to me.",
+      "raw_span": [
+        0,
+        22
+      ],
+      "extracted_span": [
+        0,
+        22
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "That thing came to me.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 29,
+      "source": "Кани ярдиз ви рикӀе лугьудай гафар амани ?",
+      "reference": "Do you still have words to say to your sweetheart in your heart",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Who is still in love with you, sweetheart?",
+      "raw": "Who is still in love with you, sweetheart?",
+      "extracted": "Who is still in love with you, sweetheart?",
+      "raw_span": [
+        0,
+        42
+      ],
+      "extracted_span": [
+        0,
+        42
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Who is still in love with you, sweetheart?",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 30,
+      "source": "Акур шеъер кхьана , сегьне , не , къевиз за атана гьикӀ авунатӀа , и са шеъ ида яратмишна , вичи яратмишна кхьизайди я дастан .",
+      "reference": "he wrote about thing he saw, stage, how i came tonight here, and this thing was done by him, he creates and writes dastan",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I saw that thing, yes, tonight I came and thought how to make it, and this thing here was finished, he himself created and wrote it.",
+      "raw": "I saw that thing, yes, tonight I came and thought how to make it, and this thing here was finished, he himself created and wrote it.",
+      "extracted": "I saw that thing, yes, tonight I came and thought how to make it, and this thing here was finished, he himself created and wrote it.",
+      "raw_span": [
+        0,
+        132
+      ],
+      "extracted_span": [
+        0,
+        132
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I saw that thing, yes, tonight I came and thought how to make it, and this thing here was finished, he himself created and wrote it.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 31,
+      "source": "Заз дуьз кичӀе хьана .",
+      "reference": "I was so scared.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I had great fear.",
+      "raw": "I had great fear.",
+      "extracted": "I had great fear.",
+      "raw_span": [
+        0,
+        17
+      ],
+      "extracted_span": [
+        0,
+        17
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I had great fear.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 32,
+      "source": "Концертар гуз фейла акуртӀа ки , бес гьакъикъетдай , ида вичиз кхьанва дастан .",
+      "reference": "And she saw that he really wrote a legend in her honor",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Apparently, she went to see it, but the legend says that she herself wrote the legend.",
+      "raw": "Apparently, she went to see it, but the legend says that she herself wrote the legend.",
+      "extracted": "Apparently, she went to see it, but the legend says that she herself wrote the legend.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Apparently, she went to see it, but the legend says that she herself wrote the legend.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 33,
+      "source": "заз гила кӀвале са свасни ава .",
+      "reference": "I have a daughter-in-law at home.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "My mother-in-law is now at home.",
+      "raw": "My mother-in-law is now at home.",
+      "extracted": "My mother-in-law is now at home.",
+      "raw_span": [
+        0,
+        32
+      ],
+      "extracted_span": [
+        0,
+        32
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "My mother-in-law is now at home.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 34,
+      "source": "Гьадакай регъуьла завай гьейетдални физ жезвач .",
+      "reference": "Because of that I couldn’t enter even his courtyard.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I did not enter the courtyard.",
+      "raw": "I did not enter the courtyard.",
+      "extracted": "I did not enter the courtyard.",
+      "raw_span": [
+        0,
+        30
+      ],
+      "extracted_span": [
+        0,
+        30
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I did not enter the courtyard.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 35,
+      "source": "« За вучин », лугьуда , бес , « аквазвачни », лугьуда , « пачагьдиз завай гила гевгьеррин иеси кӀанзава ».",
+      "reference": "“What to do? he said.  \"Did I not see this? Now the king wants from me the owner of the pearls.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "When I said, “But I didn’t see it,” the king said, “Now you want pearls.”",
+      "raw": "When I said, “But I didn’t see it,” the king said, “Now you want pearls.”",
+      "extracted": "When I said, “But I didn’t see it,” the king said, “Now you want pearls.”",
+      "raw_span": [
+        0,
+        73
+      ],
+      "extracted_span": [
+        0,
+        73
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "When I said, “But I didn’t see it,” the king said, “Now you want pearls.”",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 36,
+      "source": "къажгъанар , къапар , дуьгуьяр , абур гваз фена гьана жаван рушари , и еке рушари ...",
+      "reference": "young girls used to take pans, dishes, rice and there young girls...",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "They went there with the young girls, these girls...",
+      "raw": "They went there with the young girls, these girls...",
+      "extracted": "They went there with the young girls, these girls...",
+      "raw_span": [
+        0,
+        52
+      ],
+      "extracted_span": [
+        0,
+        52
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "They went there with the young girls, these girls...",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 37,
+      "source": "Вичи мад вучда кьван , лагьана .",
+      "reference": "nan",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "He said more than that.",
+      "raw": "He said more than that.",
+      "extracted": "He said more than that.",
+      "raw_span": [
+        0,
+        23
+      ],
+      "extracted_span": [
+        0,
+        23
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "He said more than that.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 38,
+      "source": "Идаз атана лагьанва ки , инал и кӀарасар ви заз маса ча , лагьанва . 06 : 29",
+      "reference": "He came and asked him to sell him the wood, which was there.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "He also came and said that here is this wood, give it to the other one. 06:29",
+      "raw": "He also came and said that here is this wood, give it to the other one. 06:29",
+      "extracted": "He also came and said that here is this wood, give it to the other one. 06:29",
+      "raw_span": [
+        0,
+        77
+      ],
+      "extracted_span": [
+        0,
+        77
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "He also came and said that here is this wood, give it to the other one. 06:29",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 39,
+      "source": "Кьвед~лагьай гадади лагьана « Зун фида буба », лагьана , « исятда за гъида », лагьана .",
+      "reference": "The second son said: “Now I will go and bring it to you, father.”",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I said to the boy, \"Go and bring your father,\" then I said, \"Bring him now.\"",
+      "raw": "I said to the boy, \"Go and bring your father,\" then I said, \"Bring him now.\"",
+      "extracted": "I said to the boy, \"Go and bring your father,\" then I said, \"Bring him now.\"",
+      "raw_span": [
+        0,
+        76
+      ],
+      "extracted_span": [
+        0,
+        76
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I said to the boy, \"Go and bring your father,\" then I said, \"Bring him now.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 40,
+      "source": "Мад са шейни хьанач лагьана за , ун .",
+      "reference": "I said that I'm ok.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "One more thing happened, yes.",
+      "raw": "One more thing happened, yes.",
+      "extracted": "One more thing happened, yes.",
+      "raw_span": [
+        0,
+        29
+      ],
+      "extracted_span": [
+        0,
+        29
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "One more thing happened, yes.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 41,
+      "source": "« Гьуьлуьн кӀануз фин патакайни зун гьуьлуьн шивдихъ галаз ккӀана кӀанзава » лугьуда .",
+      "reference": "\"And to go to the bottom of the sea, I must fight with the Sea Steed.”",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "He said, \"I want to go to the bottom of the sea with my steed.\"",
+      "raw": "He said, \"I want to go to the bottom of the sea with my steed.\"",
+      "extracted": "He said, \"I want to go to the bottom of the sea with my steed.\"",
+      "raw_span": [
+        0,
+        63
+      ],
+      "extracted_span": [
+        0,
+        63
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "He said, \"I want to go to the bottom of the sea with my steed.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 42,
+      "source": "И рушни пачагь хьана гила башламишда вичин пачагьвализ .",
+      "reference": "And the girl became the king and started her own reign.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "This girl's reign began now.",
+      "raw": "This girl's reign began now.",
+      "extracted": "This girl's reign began now.",
+      "raw_span": [
+        0,
+        28
+      ],
+      "extracted_span": [
+        0,
+        28
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "This girl's reign began now.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 43,
+      "source": "Юлдашари меслят акуна ки , гьава къенин хьиз чими яз ...",
+      "reference": "The weather was hot and my friends decided to...",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "My friends stayed there and said to me...",
+      "raw": "My friends stayed there and said to me...",
+      "extracted": "My friends stayed there and said to me...",
+      "raw_span": [
+        0,
+        41
+      ],
+      "extracted_span": [
+        0,
+        41
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "My friends stayed there and said to me...",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 44,
+      "source": "« Твах и зи шикил », лугьуда , « а ,» лугьуда « анавай вилаятдин кьилел алай булахдин кьилел эциг » лугьуда .",
+      "reference": "\"Carry this portrait of me,\" she said, “and place it at the top of the spring at the head of the province.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "\"Carry this portrait of me,\" she said, “and place it at the top of the spring at the head of the province.\"",
+      "raw": "\"Carry this portrait of me,\" she said, “and place it at the top of the spring at the head of the province.\"",
+      "extracted": "\"Carry this portrait of me,\" she said, “and place it at the top of the spring at the head of the province.\"",
+      "raw_span": [
+        0,
+        107
+      ],
+      "extracted_span": [
+        0,
+        107
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "\"Carry this portrait of me,\" she said, “and place it at the top of the spring at the head of the province.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 45,
+      "source": "Чна и объектдилай хкверла",
+      "reference": "and we were returning from the facility",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We returned to this facility.",
+      "raw": "We returned to this facility.",
+      "extracted": "We returned to this facility.",
+      "raw_span": [
+        0,
+        29
+      ],
+      "extracted_span": [
+        0,
+        29
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We returned to this facility.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 46,
+      "source": "КӀвалин къвалахар вири зал хьана , пуд стхани са вах хьана зун .",
+      "reference": "I was doing all housework, we were three brothers and one sister.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I worked with all my brothers and sisters.",
+      "raw": "I worked with all my brothers and sisters.",
+      "extracted": "I worked with all my brothers and sisters.",
+      "raw_span": [
+        0,
+        42
+      ],
+      "extracted_span": [
+        0,
+        42
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I worked with all my brothers and sisters.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 47,
+      "source": "Ада вучзава .",
+      "reference": "What does he do?",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "He was doing something.",
+      "raw": "He was doing something.",
+      "extracted": "He was doing something.",
+      "raw_span": [
+        0,
+        23
+      ],
+      "extracted_span": [
+        0,
+        23
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "He was doing something.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 48,
+      "source": "И гъел эцикзавайди Бебир халу хьана .",
+      "reference": "A person who was putting the plough was uncle Bebir.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "This plough Bebir uncle put.",
+      "raw": "This plough Bebir uncle put.",
+      "extracted": "This plough Bebir uncle put.",
+      "raw_span": [
+        0,
+        28
+      ],
+      "extracted_span": [
+        0,
+        28
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "This plough Bebir uncle put.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 49,
+      "source": "Хтана балкӀан , « Гьаа », лагьана « гила чавай физ жеда » лагьана , « пачагьдин руш гъиз ».",
+      "reference": "The horse came back and said, “Now we can go and get the king’s daughter.”",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The horse returned, saying, “Now we will go and catch the girl,” the king said.",
+      "raw": "The horse returned, saying, “Now we will go and catch the girl,” the king said.",
+      "extracted": "The horse returned, saying, “Now we will go and catch the girl,” the king said.",
+      "raw_span": [
+        0,
+        79
+      ],
+      "extracted_span": [
+        0,
+        79
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The horse returned, saying, “Now we will go and catch the girl,” the king said.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 50,
+      "source": "куьтях хьана ... гьанал чун минометчикар тир , минаяр вегьидай пуд нефер",
+      "reference": ". then it finished... We were mortar men, there were three of us.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The story ended like this... then the mortar men were there, three of them, three persons.",
+      "raw": "The story ended like this... then the mortar men were there, three of them, three persons.",
+      "extracted": "The story ended like this... then the mortar men were there, three of them, three persons.",
+      "raw_span": [
+        0,
+        90
+      ],
+      "extracted_span": [
+        0,
+        90
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The story ended like this... then the mortar men were there, three of them, three persons.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 51,
+      "source": "Высоковольтный линиядинни и жи крандин стреладин арада са икьван са вад санти чка амукьна .",
+      "reference": "there was only five centimeters between the crane's tip and the high-voltage line.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The high-voltage line and our tip were located between one five one five centimeters.",
+      "raw": "The high-voltage line and our tip were located between one five one five centimeters.",
+      "extracted": "The high-voltage line and our tip were located between one five one five centimeters.",
+      "raw_span": [
+        0,
+        85
+      ],
+      "extracted_span": [
+        0,
+        85
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The high-voltage line and our tip were located between one five one five centimeters.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 52,
+      "source": "Ты куда ?»",
+      "reference": "\" Where are you going?\" (Russian)",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Where are you going?",
+      "raw": "Where are you going?",
+      "extracted": "Where are you going?",
+      "raw_span": [
+        0,
+        20
+      ],
+      "extracted_span": [
+        0,
+        20
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Where are you going?",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 53,
+      "source": "Аналай инихъ , зегьметдалди къазанмишиз жуваз са кап фу , хъсандик яшамиш хьана .",
+      "reference": "And after that, we  live good live by earning our lives by hard work.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "From here, from there, we also earned our living by selling bread, and lived well.",
+      "raw": "From here, from there, we also earned our living by selling bread, and lived well.",
+      "extracted": "From here, from there, we also earned our living by selling bread, and lived well.",
+      "raw_span": [
+        0,
+        82
+      ],
+      "extracted_span": [
+        0,
+        82
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "From here, from there, we also earned our living by selling bread, and lived well.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 54,
+      "source": "Элчиярни ракъузва за , лагьана .»",
+      "reference": "And I'll send matchmakers",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The matchmaker sent me, and said.",
+      "raw": "The matchmaker sent me, and said.",
+      "extracted": "The matchmaker sent me, and said.",
+      "raw_span": [
+        0,
+        33
+      ],
+      "extracted_span": [
+        0,
+        33
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The matchmaker sent me, and said.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 55,
+      "source": "Мектебдин кьарас затӀ игъидай сад тир .",
+      "reference": "He was the one who was carring wood and things like this for school",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The school brought one piece of wood that it liked.",
+      "raw": "The school brought one piece of wood that it liked.",
+      "extracted": "The school brought one piece of wood that it liked.",
+      "raw_span": [
+        0,
+        51
+      ],
+      "extracted_span": [
+        0,
+        51
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The school brought one piece of wood that it liked.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 56,
+      "source": "Польшадай аниз , Берлиндиз",
+      "reference": "Then they took us to Berlin from Poland,",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Poland and Berlin",
+      "raw": "Poland and Berlin",
+      "extracted": "Poland and Berlin",
+      "raw_span": [
+        0,
+        17
+      ],
+      "extracted_span": [
+        0,
+        17
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Poland and Berlin",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 57,
+      "source": "Гьуьлуьн шив гьуьлуьн балкӀан .",
+      "reference": "The Sea Steed is the Sea Horse.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The sea horse.",
+      "raw": "The sea horse.",
+      "extracted": "The sea horse.",
+      "raw_span": [
+        0,
+        14
+      ],
+      "extracted_span": [
+        0,
+        14
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The sea horse.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 58,
+      "source": "Рак гатана фад ахъайна тамашайтӀа , са кьуьзуь къари баде ава .",
+      "reference": "She knocked and quickly opened the door - there is an old woman.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "When the door knocked, she quickly opened it, and an old woman came in.",
+      "raw": "When the door knocked, she quickly opened it, and an old woman came in.",
+      "extracted": "When the door knocked, she quickly opened it, and an old woman came in.",
+      "raw_span": [
+        0,
+        71
+      ],
+      "extracted_span": [
+        0,
+        71
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "When the door knocked, she quickly opened it, and an old woman came in.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 59,
+      "source": "Жи диде , бубани амаш , кӀарасар агъана канзава ма чуьлдай .",
+      "reference": "Our father was died, and our mother needed to go to the forest to bring wood",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "My mother and father died, and the forest brought wood, which you know.",
+      "raw": "My mother and father died, and the forest brought wood, which you know.",
+      "extracted": "My mother and father died, and the forest brought wood, which you know.",
+      "raw_span": [
+        0,
+        71
+      ],
+      "extracted_span": [
+        0,
+        71
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "My mother and father died, and the forest brought wood, which you know.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 60,
+      "source": "Аналай сонра за цӀуд йис къвалахна и сагьеда за домкультурада .",
+      "reference": "and after that I worked at the culture house for ten years",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "After that, I entered this house of culture where I had worked for ten years.",
+      "raw": "After that, I entered this house of culture where I had worked for ten years.",
+      "extracted": "After that, I entered this house of culture where I had worked for ten years.",
+      "raw_span": [
+        0,
+        77
+      ],
+      "extracted_span": [
+        0,
+        77
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "After that, I entered this house of culture where I had worked for ten years.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 61,
+      "source": "Абуру ви кьил тӀарарда », лугьуда .",
+      "reference": "\"They will give you a headache.”",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "You took the head, they said.",
+      "raw": "You took the head, they said.",
+      "extracted": "You took the head, they said.",
+      "raw_span": [
+        0,
+        29
+      ],
+      "extracted_span": [
+        0,
+        29
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "You took the head, they said.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 62,
+      "source": "05 : Ӏ6",
+      "reference": "nan",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "05:16",
+      "raw": "05:16",
+      "extracted": "05:16",
+      "raw_span": [
+        0,
+        5
+      ],
+      "extracted_span": [
+        0,
+        5
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "05:16",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 63,
+      "source": "тек къари тир ама .",
+      "reference": "she was lonely.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Only loneliness remained.",
+      "raw": "Only loneliness remained.",
+      "extracted": "Only loneliness remained.",
+      "raw_span": [
+        0,
+        25
+      ],
+      "extracted_span": [
+        0,
+        25
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Only loneliness remained.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 64,
+      "source": "И~арада кьада имни тухуда и кӀвализ .",
+      "reference": "At this moment they caught and took him to this house.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "At this moment, he took this house.",
+      "raw": "At this moment, he took this house.",
+      "extracted": "At this moment, he took this house.",
+      "raw_span": [
+        0,
+        35
+      ],
+      "extracted_span": [
+        0,
+        35
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "At this moment, he took this house.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 65,
+      "source": "Аялни ава .",
+      "reference": "I have a child.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "My child.",
+      "raw": "My child.",
+      "extracted": "My child.",
+      "raw_span": [
+        0,
+        9
+      ],
+      "extracted_span": [
+        0,
+        9
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "My child.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 66,
+      "source": "Чун къерар сад я .",
+      "reference": "We came into one decision",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We decided on that one.",
+      "raw": "We decided on that one.",
+      "extracted": "We decided on that one.",
+      "raw_span": [
+        0,
+        23
+      ],
+      "extracted_span": [
+        0,
+        23
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We decided on that one.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 67,
+      "source": "Гьинай кӀантӀани заз жагъурна гъваш ».",
+      "reference": "\"From wherever is needed, find her and bring her to me.”",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Bring it here, where I need to find it.",
+      "raw": "Bring it here, where I need to find it.",
+      "extracted": "Bring it here, where I need to find it.",
+      "raw_span": [
+        0,
+        39
+      ],
+      "extracted_span": [
+        0,
+        39
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Bring it here, where I need to find it.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 68,
+      "source": "Чунни инал хтана .",
+      "reference": "​We returned there.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We were there.",
+      "raw": "We were there.",
+      "extracted": "We were there.",
+      "raw_span": [
+        0,
+        14
+      ],
+      "extracted_span": [
+        0,
+        14
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We were there.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 69,
+      "source": "Гададини лугьуда « я пачагь , за гьинай гъин », лугьуда , « заз чизвач хьир , за ваз вучин , гьикӀ ийин ?»",
+      "reference": "The guy said, “Oh king, where can I find her? I have no idea. How shall I do this?”",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The guy said, \"Oh king, where should I bring this?\" he said, \"Even I don't know where to go, what is it, how do you say?\"",
+      "raw": "The guy said, \"Oh king, where should I bring this?\" he said, \"Even I don't know where to go, what is it, how do you say?\"",
+      "extracted": "The guy said, \"Oh king, where should I bring this?\" he said, \"Even I don't know where to go, what is it, how do you say?\"",
+      "raw_span": [
+        0,
+        121
+      ],
+      "extracted_span": [
+        0,
+        121
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The guy said, \"Oh king, where should I bring this?\" he said, \"Even I don't know where to go, what is it, how do you say?\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 70,
+      "source": "Севастопольда мугьарибе хьана ,",
+      "reference": "There was a battle in the Sevastopol,",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "In Sevastopol, the battle took place,",
+      "raw": "In Sevastopol, the battle took place,",
+      "extracted": "In Sevastopol, the battle took place,",
+      "raw_span": [
+        0,
+        37
+      ],
+      "extracted_span": [
+        0,
+        37
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "In Sevastopol, the battle took place,",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 71,
+      "source": "Акъадарда и пачагь ибуру ламрал , балкӀандал акъадарда , ламрал акъадарда яда , цӀайни ахъайда , им гьи хуьрей агъуз .",
+      "reference": "They mounted this king on a donkey - horse or donkey - lit him on fire, and sent him out of the village.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "When the king came on his donkey, the horse was also there, and when the donkey came, fire was sent out from this village.",
+      "raw": "When the king came on his donkey, the horse was also there, and when the donkey came, fire was sent out from this village.",
+      "extracted": "When the king came on his donkey, the horse was also there, and when the donkey came, fire was sent out from this village.",
+      "raw_span": [
+        0,
+        122
+      ],
+      "extracted_span": [
+        0,
+        122
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "When the king came on his donkey, the horse was also there, and when the donkey came, fire was sent out from this village.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 72,
+      "source": "Ибурни амна , хкведа и гадани руш … гадани руш хкведа ибур чпин вилаятдиз .",
+      "reference": "That happening, the guy and girl returned to their own province.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "They and that happened, the boy and girl returned to their own province.",
+      "raw": "They and that happened, the boy and girl returned to their own province.",
+      "extracted": "They and that happened, the boy and girl returned to their own province.",
+      "raw_span": [
+        0,
+        72
+      ],
+      "extracted_span": [
+        0,
+        72
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "They and that happened, the boy and girl returned to their own province.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 73,
+      "source": "Чун гьада виликди гьеле христиан дин амай вахт тир чаз .",
+      "reference": "The time before that was when we had Christian religion.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "At that time, before the Christian era, we still remained.",
+      "raw": "At that time, before the Christian era, we still remained.",
+      "extracted": "At that time, before the Christian era, we still remained.",
+      "raw_span": [
+        0,
+        58
+      ],
+      "extracted_span": [
+        0,
+        58
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "At that time, before the Christian era, we still remained.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 74,
+      "source": "Чунни чуьнуьх~хьана къвазна .",
+      "reference": "we hid.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We stopped there.",
+      "raw": "We stopped there.",
+      "extracted": "We stopped there.",
+      "raw_span": [
+        0,
+        17
+      ],
+      "extracted_span": [
+        0,
+        17
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We stopped there.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 75,
+      "source": "инани ахпа вахт куьтях хьана ,",
+      "reference": "then the vacation finished,",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Then the time came to an end,",
+      "raw": "Then the time came to an end,",
+      "extracted": "Then the time came to an end,",
+      "raw_span": [
+        0,
+        29
+      ],
+      "extracted_span": [
+        0,
+        29
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Then the time came to an end,",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 76,
+      "source": "Но , Рафикан сырой материални , куьне чугай материал гьа сегьнеда , гьамани чаз канда ки , чна комбинироватна са шеъ винел акъудин .",
+      "reference": "But we also need a raw material recorded by Rafik on that scene, to combine and create a work.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "And Rafik, the raw material was there, and we put it in that scene, and we will create something together.",
+      "raw": "And Rafik, the raw material was there, and we put it in that scene, and we will create something together.",
+      "extracted": "And Rafik, the raw material was there, and we put it in that scene, and we will create something together.",
+      "raw_span": [
+        0,
+        106
+      ],
+      "extracted_span": [
+        0,
+        106
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "And Rafik, the raw material was there, and we put it in that scene, and we will create something together.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 77,
+      "source": "Жаваб я ашукь гада ваз ви кани яр авани ?",
+      "reference": "Answer ashuq, if you have a sweetheart",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "What was the answer, ashuq, to your heart, sweet one?",
+      "raw": "What was the answer, ashuq, to your heart, sweet one?",
+      "extracted": "What was the answer, ashuq, to your heart, sweet one?",
+      "raw_span": [
+        0,
+        53
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "What was the answer, ashuq, to your heart, sweet one?",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 78,
+      "source": "Заз садрахъни гъвечи чӀавалай зун икьван , физ хтанани заз садрахъни ахьтин пепе акунвачир .",
+      "reference": "I had been going there since my childhood, but had never seen such a big bug.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "When I was once there, I saw a big bug, but it didn’t see me.",
+      "raw": "When I was once there, I saw a big bug, but it didn’t see me.",
+      "extracted": "When I was once there, I saw a big bug, but it didn’t see me.",
+      "raw_span": [
+        0,
+        61
+      ],
+      "extracted_span": [
+        0,
+        61
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "When I was once there, I saw a big bug, but it didn’t see me.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 79,
+      "source": "Чун гафариз~аламукьнава .",
+      "reference": "we stayed there talking.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We had already talked about it.",
+      "raw": "We had already talked about it.",
+      "extracted": "We had already talked about it.",
+      "raw_span": [
+        0,
+        31
+      ],
+      "extracted_span": [
+        0,
+        31
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We had already talked about it.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 80,
+      "source": "Анай ахпа гваз хтанава чун Советдин уьлкведиз .",
+      "reference": "And they took us back to soviet country.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Then we returned there from the Soviet country.",
+      "raw": "Then we returned there from the Soviet country.",
+      "extracted": "Then we returned there from the Soviet country.",
+      "raw_span": [
+        0,
+        47
+      ],
+      "extracted_span": [
+        0,
+        47
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Then we returned there from the Soviet country.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 81,
+      "source": "06 : Ӏ8",
+      "reference": "nan",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "06:18",
+      "raw": "06:18",
+      "extracted": "06:18",
+      "raw_span": [
+        0,
+        5
+      ],
+      "extracted_span": [
+        0,
+        5
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "06:18",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 82,
+      "source": "Хкведа вич гададин патав мадни .",
+      "reference": "He returned to the young man  again.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "He returned to the boy again.",
+      "raw": "He returned to the boy again.",
+      "extracted": "He returned to the boy again.",
+      "raw_span": [
+        0,
+        29
+      ],
+      "extracted_span": [
+        0,
+        29
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "He returned to the boy again.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 83,
+      "source": "Заз дуьз кичӀе хьана .",
+      "reference": "I was so afraid.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I had great fear.",
+      "raw": "I had great fear.",
+      "extracted": "I had great fear.",
+      "raw_span": [
+        0,
+        17
+      ],
+      "extracted_span": [
+        0,
+        17
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I had great fear.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 84,
+      "source": "Чун , лугьузва , ахиратдин къал санал жедай~вал .",
+      "reference": "We must be together till the end",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We will say together at the end.",
+      "raw": "We will say together at the end.",
+      "extracted": "We will say together at the end.",
+      "raw_span": [
+        0,
+        32
+      ],
+      "extracted_span": [
+        0,
+        32
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We will say together at the end.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 85,
+      "source": "Бакуда Хырдаланда ава .",
+      "reference": "he is in Khirdalan, Baku.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to Baku.",
+      "raw": "I went to Baku.",
+      "extracted": "I went to Baku.",
+      "raw_span": [
+        0,
+        15
+      ],
+      "extracted_span": [
+        0,
+        15
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to Baku.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    },
+    {
+      "index": 86,
+      "source": "бес ама чна чидаш гудани , гудашни .",
+      "reference": "and we don't know whether to agree or not",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "But we won't give it to them, nor will we give it.",
+      "raw": "But we won't give it to them, nor will we give it.",
+      "extracted": "But we won't give it to them, nor will we give it.",
+      "raw_span": [
+        0,
+        50
+      ],
+      "extracted_span": [
+        0,
+        50
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "But we won't give it to them, nor will we give it.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_lezgi_grammar_original_modelgloss_baseline.json"
+      }
+    }
+  ]
+}

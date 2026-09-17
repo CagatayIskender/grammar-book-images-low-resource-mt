@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "7dcb622adfd8128469bb642a21e0b13932ea58bcb3709cb6f6292174bc39b1cd",
+      "142165e7d97d0e49bfd83d4455a5ce2cdd283d848ecdfc4c1ac5bd9f4316196e"
+    ],
+    "scores": [
+      "42020d338c452ec6b9565d91995dac76c4ca9b058c66762add92ddcd1ff501e4",
+      "f854fbdda1ee17cabe134dbe4fe8a33c21d1eb622a0a3deb6a0e191ef6feea1a"
+    ],
+    "view": "raw"
+  },
+  "tests": [
+    {
+      "model": "qwen3",
+      "source": "gitksan_pdf2",
+      "language": "gitksan",
+      "condition": "gs",
+      "method": "modelgloss",
+      "left": "matched_qwen3_gitksan_modelgloss",
+      "right": "mtob_qwen3_gitksan_pdf2_gs",
+      "view": "raw",
+      "num_examples": 37,
+      "metric": "BLEU",
+      "left_score": 14.169956994566911,
+      "right_score": 0.2777702691513898,
+      "delta_right_minus_left": -13.892186725415522,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.21076669262091596,
+      "right_ci95_halfwidth": 0.25927006871546554,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen3",
+      "source": "gitksan_pdf2",
+      "language": "gitksan",
+      "condition": "gs",
+      "method": "modelgloss",
+      "left": "matched_qwen3_gitksan_modelgloss",
+      "right": "mtob_qwen3_gitksan_pdf2_gs",
+      "view": "raw",
+      "num_examples": 37,
+      "metric": "chrF",
+      "left_score": 48.74009425848996,
+      "right_score": 14.691532360975929,
+      "delta_right_minus_left": -34.048561897514034,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 14.699861526489258,
+      "right_ci95_halfwidth": 1.9669404029846191,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

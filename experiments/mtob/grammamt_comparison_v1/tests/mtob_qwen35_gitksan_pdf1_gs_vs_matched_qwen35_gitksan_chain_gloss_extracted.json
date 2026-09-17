@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "f2222072e1b2203b3bbbe34047c943bcc7df6d0cdb573c26a5d8a5e29aa7c064",
+      "693f674f4a9e6204b6a7b2d3230fcef05113bb470024d8ca98589e21d026708c"
+    ],
+    "scores": [
+      "f9387e1af55ec25bed9558ae8fd9bf95ff839cd7b6c144e4c11452c87ec7734b",
+      "9ae3dbad6561c4597d46c2fba41a8c4bdeff25a4691a9467bed24b1cc067a0ef"
+    ],
+    "view": "extracted"
+  },
+  "tests": [
+    {
+      "model": "qwen35",
+      "source": "gitksan_pdf1",
+      "language": "gitksan",
+      "condition": "gs",
+      "method": "chain_gloss",
+      "left": "matched_qwen35_gitksan_chain_gloss",
+      "right": "mtob_qwen35_gitksan_pdf1_gs",
+      "view": "extracted",
+      "num_examples": 37,
+      "metric": "BLEU",
+      "left_score": 2.939150098501362,
+      "right_score": 0.8290855181161088,
+      "delta_right_minus_left": -2.110064580385253,
+      "p_raw": 0.053499465005349946,
+      "p_sacrebleu": 0.053499465005349946,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.6438734075543322,
+      "right_ci95_halfwidth": 0.8234436454723896,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen35",
+      "source": "gitksan_pdf1",
+      "language": "gitksan",
+      "condition": "gs",
+      "method": "chain_gloss",
+      "left": "matched_qwen35_gitksan_chain_gloss",
+      "right": "mtob_qwen35_gitksan_pdf1_gs",
+      "view": "extracted",
+      "num_examples": 37,
+      "metric": "chrF",
+      "left_score": 27.356503491543567,
+      "right_score": 22.592399815149918,
+      "delta_right_minus_left": -4.764103676393649,
+      "p_raw": 0.003099969000309997,
+      "p_sacrebleu": 0.003099969000309997,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 22.670846939086914,
+      "right_ci95_halfwidth": 3.385867118835449,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

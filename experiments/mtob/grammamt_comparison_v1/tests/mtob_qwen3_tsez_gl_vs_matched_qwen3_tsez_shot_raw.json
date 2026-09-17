@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "f511655c92a82647c1619f37759dbb2f4df9baab2b08ad2ce7f9b5ac38912e0f",
+      "f1b96151dac52fae9e819be3a8ffce643d412034a1b842aeca309bfd2448179c"
+    ],
+    "scores": [
+      "5a1d0b9145deaf115e8dd411ad0e5d911c9be818e1fca42396df53ada6d236e7",
+      "4065899ec87986410c4199197dbe7bf7c9181e14718218a1071b5b741219f465"
+    ],
+    "view": "raw"
+  },
+  "tests": [
+    {
+      "model": "qwen3",
+      "source": "tsez",
+      "language": "tsez",
+      "condition": "gl",
+      "method": "shot",
+      "left": "matched_qwen3_tsez_shot",
+      "right": "mtob_qwen3_tsez_gl",
+      "view": "raw",
+      "num_examples": 445,
+      "metric": "BLEU",
+      "left_score": 0.9938841010494961,
+      "right_score": 0.0,
+      "delta_right_minus_left": -0.9938841010494961,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.0,
+      "right_ci95_halfwidth": 0.0,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen3",
+      "source": "tsez",
+      "language": "tsez",
+      "condition": "gl",
+      "method": "shot",
+      "left": "matched_qwen3_tsez_shot",
+      "right": "mtob_qwen3_tsez_gl",
+      "view": "raw",
+      "num_examples": 445,
+      "metric": "chrF",
+      "left_score": 20.02700893803916,
+      "right_score": 17.886850065026447,
+      "delta_right_minus_left": -2.1401588730127123,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 17.89031410217285,
+      "right_ci95_halfwidth": 0.6635990142822266,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

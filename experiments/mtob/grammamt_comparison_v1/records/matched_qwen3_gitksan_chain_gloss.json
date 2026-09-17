@@ -1,0 +1,1152 @@
+{
+  "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+  "records": [
+    {
+      "index": 0,
+      "source": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.",
+      "reference": "I will tell about when the white men first came to Kitwancool long ago.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.\nFINAL_TRANSLATION: I didn't know what to do because the house was locked and I couldn't get in.",
+      "raw": "I didn't know what to do because the house was locked and I couldn't get in.",
+      "extracted": "I didn't know what to do because the house was locked and I couldn't get in.",
+      "raw_span": [
+        131,
+        207
+      ],
+      "extracted_span": [
+        131,
+        207
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "I didn't know what to do because the house was locked and I couldn't get in.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 1,
+      "source": "Ha'ondii 'nakw hlidaa bakwhl gyet dipun, ii sag̲aytg̲oodindiithl hli gyedihl Gitwinhlguu'l.",
+      "reference": "Not long after these people arrived, they gathered together the people of Kitwancool.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ha'ondii 'nakw hlidaa bakwhl gyet dipun, ii sag̲aytg̲oodindiithl hli gyedihl Gitwinhlguu'l.\nFINAL_TRANSLATION: And long ago, before the big fire, they had already moved to Gitwinhlguu'l.",
+      "raw": "And long ago, before the big fire, they had already moved to Gitwinhlguu'l.",
+      "extracted": "And long ago, before the big fire, they had already moved to Gitwinhlguu'l.",
+      "raw_span": [
+        118,
+        193
+      ],
+      "extracted_span": [
+        118,
+        193
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And long ago, before the big fire, they had already moved to Gitwinhlguu'l.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 2,
+      "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+      "reference": "They wanted to tell about the new place where the village of Kitwancool is to be.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l\nFINAL_TRANSLATION: I had to go there, and I went there, because I had to go to the place where the Gitwinhlguu'l live.",
+      "raw": "I had to go there, and I went there, because I had to go to the place where the Gitwinhlguu'l live.",
+      "extracted": "I had to go there, and I went there, because I had to go to the place where the Gitwinhlguu'l live.",
+      "raw_span": [
+        124,
+        223
+      ],
+      "extracted_span": [
+        124,
+        223
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "I had to go there, and I went there, because I had to go to the place where the Gitwinhlguu'l live.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 3,
+      "source": "'Nit sag̲ootxwhl government siwetdiit, ii dim 'nii wenhl dim jok̲hl aluugigyet g̲o'ohl lax̲ reserve siwetdiit.",
+      "reference": "The plan of the so-called government was that they will have Indian people live on a so-called reserve.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: 'Nit sag̲ootxwhl government siwetdiit, ii dim 'nii wenhl dim jok̲hl aluugigyet g̲o'ohl lax̲ reserve siwetdiit.\nFINAL_TRANSLATION: The government didn't say anything, but I didn't know what to do about the reserve.",
+      "raw": "The government didn't say anything, but I didn't know what to do about the reserve.",
+      "extracted": "The government didn't say anything, but I didn't know what to do about the reserve.",
+      "raw_span": [
+        137,
+        220
+      ],
+      "extracted_span": [
+        137,
+        220
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "The government didn't say anything, but I didn't know what to do about the reserve.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 4,
+      "source": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"",
+      "reference": "\"Why?\" the people of Kitwancool asked. \"We live on our land, here.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Gu g̲anwilt, diyehl hli gyedihl Gitwinhlguu'l, eh l 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\nFINAL_TRANSLATION: \"I didn't want to,\" said Gitwinhlguu's brother, \"because I was going to go home to my mother.\"",
+      "raw": "\"I didn't want to,\" said Gitwinhlguu's brother, \"because I was going to go home to my mother.\"",
+      "extracted": "\"I didn't want to,\" said Gitwinhlguu's brother, \"because I was going to go home to my mother.\"",
+      "raw_span": [
+        120,
+        214
+      ],
+      "extracted_span": [
+        120,
+        214
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "\"I didn't want to,\" said Gitwinhlguu's brother, \"because I was going to go home to my mother.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 5,
+      "source": "Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.",
+      "reference": "They heard that what they call surveyors were coming.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.\nFINAL_TRANSLATION: And I didn't want to go out because the surveyors were there.",
+      "raw": "And I didn't want to go out because the surveyors were there.",
+      "extracted": "And I didn't want to go out because the surveyors were there.",
+      "raw_span": [
+        81,
+        142
+      ],
+      "extracted_span": [
+        81,
+        142
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I didn't want to go out because the surveyors were there.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 6,
+      "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+      "reference": "They will measure out the length of the perimeter of what is called the reserve.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist  \nFINAL_TRANSLATION: And I was just thinking about how the reserve people are doing.",
+      "raw": "And I was just thinking about how the reserve people are doing.",
+      "extracted": "And I was just thinking about how the reserve people are doing.",
+      "raw_span": [
+        107,
+        170
+      ],
+      "extracted_span": [
+        107,
+        170
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I was just thinking about how the reserve people are doing.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 7,
+      "source": "Ii aam win ky'ax̲ hehl Gitwinhlguu'l dim 'wiit'is, dim wag̲ayt jog̲o daa'whl g̲o'ohl k'i'yhl sg̲a'nist, dim ii lok̲'on daa'whl g̲o'ohl k'i'yhl aks, g̲o'ohl Ksen, 'nii g̲a'wayit k̲'ali daa'whl g̲o'ohl Meji'aadin. 'Nithl hasak̲diithl reserve.",
+      "reference": "The people agreed that they wanted a big reserve which would encompass mountains starting from the Skeena all the way up to Meji'aadin. They wanted that for a reserve.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ii aam win ky'ax̲ hehl Gitwinhlguu'l dim 'wiit'is, dim wag̲ayt jog̲o daa'whl g̲o'ohl k'i'yhl sg̲a'nist, dim ii lok̲'on daa'whl g̲o'ohl k'i'yhl aks, g̲o'ohl Ksen, 'nii g̲a'wayit k̲'ali daa'whl g̲o'ohl Meji'aadin. 'Nithl hasak̲diithl reserve.\nFINAL_TRANSLATION: And I went to Gitwinhlguu'l and I stayed there for a while, then I went overseas to work for the government, then I came back and I worked for the company, then I went to Ksen, and I spent some time with Meji'aadin. It's the reserve.",
+      "raw": "And I went to Gitwinhlguu'l and I stayed there for a while, then I went overseas to work for the government, then I came back and I worked for the company, then I went to Ksen, and I spent some time with Meji'aadin. It's the reserve.",
+      "extracted": "And I went to Gitwinhlguu'l and I stayed there for a while, then I went overseas to work for the government, then I came back and I worked for the company, then I went to Ksen, and I spent some time with Meji'aadin. It's the reserve.",
+      "raw_span": [
+        267,
+        500
+      ],
+      "extracted_span": [
+        267,
+        500
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I went to Gitwinhlguu'l and I stayed there for a while, then I went overseas to work for the government, then I came back and I worked for the company, then I went to Ksen, and I spent some time with Meji'aadin. It's the reserve.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 8,
+      "source": "Way ii needii hehl Indian Agendima'a, siwetxwit ehl Indian Agent, ent sag̲aytg̲oodinhl gyet, sag̲aytwendiit.",
+      "reference": "The Indian Agent disagreed, the so-called Indian Agent who gathered the people together for the meeting.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Way ii needii hehl Indian Agendima'a, siwetxwit ehl Indian Agent, ent sag̲aytg̲oodinhl gyet, sag̲aytwendiit.\nFINAL_TRANSLATION: And I didn't know what the Indian Agent meant, what they called it, and I asked them.",
+      "raw": "And I didn't know what the Indian Agent meant, what they called it, and I asked them.",
+      "extracted": "And I didn't know what the Indian Agent meant, what they called it, and I asked them.",
+      "raw_span": [
+        135,
+        220
+      ],
+      "extracted_span": [
+        135,
+        220
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I didn't know what the Indian Agent meant, what they called it, and I asked them.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 9,
+      "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+      "reference": "And the people of the village Kitwancool said, \"If you don't do that, then we don't want you to carve out a very small reserve.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"\nFINAL_TRANSLATION: And I said to Gitwinhlguu, \"I don't know what you're doing, but I won't let you do it again.\"",
+      "raw": "And I said to Gitwinhlguu, \"I don't know what you're doing, but I won't let you do it again.\"",
+      "extracted": "And I said to Gitwinhlguu, \"I don't know what you're doing, but I won't let you do it again.\"",
+      "raw_span": [
+        173,
+        266
+      ],
+      "extracted_span": [
+        173,
+        266
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I said to Gitwinhlguu, \"I don't know what you're doing, but I won't let you do it again.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 10,
+      "source": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+      "reference": "And now even though the people of Kitwancool said they did not want the little reserve; \"We don't want to give away our land,\" they said.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.\nFINAL_TRANSLATION: They were all gone from the Gitwinhlguu'l reserve. \"No one was there, not even a single person,\" they said.",
+      "raw": "They were all gone from the Gitwinhlguu'l reserve. \"No one was there, not even a single person,\" they said.",
+      "extracted": "They were all gone from the Gitwinhlguu'l reserve. \"No one was there, not even a single person,\" they said.",
+      "raw_span": [
+        162,
+        269
+      ],
+      "extracted_span": [
+        162,
+        269
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "They were all gone from the Gitwinhlguu'l reserve. \"No one was there, not even a single person,\" they said.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 11,
+      "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+      "reference": "And they told the Indian Agent to stop the surveyors; they will chase away the surveyors.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ii hed-it-gat ehl Indian Agent dimt ha'wi-dinhl surveyors, dim suwii huud-in-diithl surveyors.\nFINAL_TRANSLATION: And I got the job from the Indian Agent, but the surveyors were already there.",
+      "raw": "And I got the job from the Indian Agent, but the surveyors were already there.",
+      "extracted": "And I got the job from the Indian Agent, but the surveyors were already there.",
+      "raw_span": [
+        121,
+        199
+      ],
+      "extracted_span": [
+        121,
+        199
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I got the job from the Indian Agent, but the surveyors were already there.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 12,
+      "source": "Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.",
+      "reference": "Even though Kitwancool said they did not want the reserve, the surveyors (apparently) came back.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.\nFINAL_TRANSLATION: Well, the wild people in the Gitwinhlguu’l area, no one was there, but the surveyors had come.",
+      "raw": "Well, the wild people in the Gitwinhlguu’l area, no one was there, but the surveyors had come.",
+      "extracted": "Well, the wild people in the Gitwinhlguu’l area, no one was there, but the surveyors had come.",
+      "raw_span": [
+        134,
+        228
+      ],
+      "extracted_span": [
+        134,
+        228
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "Well, the wild people in the Gitwinhlguu’l area, no one was there, but the surveyors had come.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 13,
+      "source": "Ii sit'aa'mam depdiithl hlidaaxhl hlgu lax̲ ha'niijok̲.",
+      "reference": "They started measuring out the little settlement.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ii sit'aa'mam depdiithl hlidaaxhl hlgu lax̲ ha'niijok̲.  \nFINAL_TRANSLATION: And I sat down quietly for a while on the floor.",
+      "raw": "And I sat down quietly for a while on the floor.",
+      "extracted": "And I sat down quietly for a while on the floor.",
+      "raw_span": [
+        84,
+        132
+      ],
+      "extracted_span": [
+        84,
+        132
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I sat down quietly for a while on the floor.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 14,
+      "source": "Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.\"",
+      "reference": "So they stood by and watched after they told the surveyors, \"It will not be right that you start.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.\"  \nFINAL_TRANSLATION: And I asked the surveyors, \"Why didn't you come here before?\"",
+      "raw": "And I asked the surveyors, \"Why didn't you come here before?\"",
+      "extracted": "And I asked the surveyors, \"Why didn't you come here before?\"",
+      "raw_span": [
+        131,
+        192
+      ],
+      "extracted_span": [
+        131,
+        192
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I asked the surveyors, \"Why didn't you come here before?\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 15,
+      "source": "Ii k̲'ap g̲aniwila yukwhl surveyors.",
+      "reference": "But the surveyors continued.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ii k̲'ap g̲aniwila yukwhl surveyors.\nFINAL_TRANSLATION: And I got a job as a surveyor.",
+      "raw": "And I got a job as a surveyor.",
+      "extracted": "And I got a job as a surveyor.",
+      "raw_span": [
+        63,
+        93
+      ],
+      "extracted_span": [
+        63,
+        93
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I got a job as a surveyor.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 16,
+      "source": "Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"",
+      "reference": "One chief gathered together some people of the village, and they said \"We will oppose (them) and we will chase them away.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"\nFINAL_TRANSLATION: And I said to my friend Gitwinhlguu'l, \"I didn't want to go, I didn't want to stay here.\"",
+      "raw": "And I said to my friend Gitwinhlguu'l, \"I didn't want to go, I didn't want to stay here.\"",
+      "extracted": "And I said to my friend Gitwinhlguu'l, \"I didn't want to go, I didn't want to stay here.\"",
+      "raw_span": [
+        155,
+        244
+      ],
+      "extracted_span": [
+        155,
+        244
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I said to my friend Gitwinhlguu'l, \"I didn't want to go, I didn't want to stay here.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 17,
+      "source": "\"Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.\"",
+      "reference": "\"We will want the support of young men to help us.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.  \nFINAL_TRANSLATION: And I was still in the house, and I didn't know what to do.",
+      "raw": "And I was still in the house, and I didn't know what to do.",
+      "extracted": "And I was still in the house, and I didn't know what to do.",
+      "raw_span": [
+        98,
+        157
+      ],
+      "extracted_span": [
+        98,
+        157
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I was still in the house, and I didn't know what to do.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 18,
+      "source": "Way 'nithl wildiit.",
+      "reference": "And that's what they did.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Way ? 'nithl wildiit\nFINAL_TRANSLATION: I didn't know what to do.",
+      "raw": "I didn't know what to do.",
+      "extracted": "I didn't know what to do.",
+      "raw_span": [
+        47,
+        72
+      ],
+      "extracted_span": [
+        47,
+        72
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "I didn't know what to do.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 19,
+      "source": "Iit hapdiithl surveyors.",
+      "reference": "They mobbed the surveyors.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Iit hapdiithl surveyors\nFINAL_TRANSLATION: They were surveyors.",
+      "raw": "They were surveyors.",
+      "extracted": "They were surveyors.",
+      "raw_span": [
+        50,
+        70
+      ],
+      "extracted_span": [
+        50,
+        70
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "They were surveyors.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 20,
+      "source": "Iit dok̲diithl andeba'a, tape dip siwedit.",
+      "reference": "They took the measuring tape (what we call tape in English).",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Iit dok̲diithl andeba'a, tape dip siwedit.\nFINAL_TRANSLATION: And they had already left, tape dip siwedit.",
+      "raw": "And they had already left, tape dip siwedit.",
+      "extracted": "And they had already left, tape dip siwedit.",
+      "raw_span": [
+        69,
+        113
+      ],
+      "extracted_span": [
+        69,
+        113
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And they had already left, tape dip siwedit.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 21,
+      "source": "Dok̲diithl anooya'a, surveyors equipment siwedihl anooya'ahl surveyors.",
+      "reference": "They took the tools, surveyors' equipment, what the surveyors' tools were called.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Dok̲diithl anooya'a ? surveyors equipment siwedihl anooya'ahl surveyors.\nFINAL_TRANSLATION: The surveyors' equipment was the surveyors' equipment.",
+      "raw": "The surveyors' equipment was the surveyors' equipment.",
+      "extracted": "The surveyors' equipment was the surveyors' equipment.",
+      "raw_span": [
+        99,
+        153
+      ],
+      "extracted_span": [
+        99,
+        153
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "The surveyors' equipment was the surveyors' equipment.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 22,
+      "source": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.",
+      "reference": "And they completely chopped it up with axes.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.  \nFINAL_TRANSLATION: And I saw them coming toward me from the hill.",
+      "raw": "And I saw them coming toward me from the hill.",
+      "extracted": "And I saw them coming toward me from the hill.",
+      "raw_span": [
+        74,
+        120
+      ],
+      "extracted_span": [
+        74,
+        120
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I saw them coming toward me from the hill.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 23,
+      "source": "Iit huudindiithl surveyors.",
+      "reference": "And they chased away the surveyors.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Iit huudindiithl surveyors\nFINAL_TRANSLATION: They were surveyors.",
+      "raw": "They were surveyors.",
+      "extracted": "They were surveyors.",
+      "raw_span": [
+        53,
+        73
+      ],
+      "extracted_span": [
+        53,
+        73
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "They were surveyors.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 24,
+      "source": "Needii 'nakwt ii bakwhl police.",
+      "reference": "Not long after, the police came.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Needii ? 'nakwt ii bakwhl police.\nFINAL_TRANSLATION: But no one came from the police.",
+      "raw": "But no one came from the police.",
+      "extracted": "But no one came from the police.",
+      "raw_span": [
+        60,
+        92
+      ],
+      "extracted_span": [
+        60,
+        92
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "But no one came from the police.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 25,
+      "source": "Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.",
+      "reference": "They arrested people who they thought were around there when they destroyed the surveyors' tools.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.\nFINAL_TRANSLATION: The surveyors who came to measure the land were the ones who had been there before.",
+      "raw": "The surveyors who came to measure the land were the ones who had been there before.",
+      "extracted": "The surveyors who came to measure the land were the ones who had been there before.",
+      "raw_span": [
+        137,
+        220
+      ],
+      "extracted_span": [
+        137,
+        220
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "The surveyors who came to measure the land were the ones who had been there before.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 26,
+      "source": "Iit luuwendindiit.",
+      "reference": "And they jailed them.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Iit luuwendindiit.\nFINAL_TRANSLATION: I was tired.",
+      "raw": "I was tired.",
+      "extracted": "I was tired.",
+      "raw_span": [
+        45,
+        57
+      ],
+      "extracted_span": [
+        45,
+        57
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "I was tired.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 27,
+      "source": "Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.",
+      "reference": "After the police took away the men who destroyed the surveyors' tools, the Kitwancool people still objected.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.\nFINAL_TRANSLATION: The police had come to the house and they were talking with the surveyors, and I was sitting there watching Gitwinhlguu'l.",
+      "raw": "The police had come to the house and they were talking with the surveyors, and I was sitting there watching Gitwinhlguu'l.",
+      "extracted": "The police had come to the house and they were talking with the surveyors, and I was sitting there watching Gitwinhlguu'l.",
+      "raw_span": [
+        149,
+        271
+      ],
+      "extracted_span": [
+        149,
+        271
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "The police had come to the house and they were talking with the surveyors, and I was sitting there watching Gitwinhlguu'l.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 28,
+      "source": "\"K̲'ap dim sg̲asgitxu'm.\"",
+      "reference": "\"We will absolutely oppose it.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: K̲'ap ? dim sg̲asgitxu'm.\nFINAL_TRANSLATION: I didn't know what to do.",
+      "raw": "I didn't know what to do.",
+      "extracted": "I didn't know what to do.",
+      "raw_span": [
+        52,
+        77
+      ],
+      "extracted_span": [
+        52,
+        77
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "I didn't know what to do.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 29,
+      "source": "Ii luuwenhl ligi gwilunima'ahl simgigyet g̲o'ohl Oakalla Prison siwetxwsit.",
+      "reference": "And there were maybe three chiefs who were jailed at what was known as Oakalla Prison.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ii luuwenhl ligi gwilunima'ahl simgigyet g̲o'ohl Oakalla Prison siwetxwsit.\nFINAL_TRANSLATION: And I didn't know why they were at Oakalla Prison that night.",
+      "raw": "And I didn't know why they were at Oakalla Prison that night.",
+      "extracted": "And I didn't know why they were at Oakalla Prison that night.",
+      "raw_span": [
+        102,
+        163
+      ],
+      "extracted_span": [
+        102,
+        163
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I didn't know why they were at Oakalla Prison that night.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 30,
+      "source": "Ligi t'imisima'ahl k'uuhl luuwendiit.",
+      "reference": "It wasn't recorded how many years they were incarcerated.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Ligi ? t'imisima'ahl k'uuhl luuwendiit.\nFINAL_TRANSLATION: I didn't know why they were leaving.",
+      "raw": "I didn't know why they were leaving.",
+      "extracted": "I didn't know why they were leaving.",
+      "raw_span": [
+        66,
+        102
+      ],
+      "extracted_span": [
+        66,
+        102
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "I didn't know why they were leaving.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 31,
+      "source": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.",
+      "reference": "While these chiefs were in prison, the surveyors returned.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.\nFINAL_TRANSLATION: And I was going to go out and see the map, but they were surveyors.",
+      "raw": "And I was going to go out and see the map, but they were surveyors.",
+      "extracted": "And I was going to go out and see the map, but they were surveyors.",
+      "raw_span": [
+        97,
+        164
+      ],
+      "extracted_span": [
+        97,
+        164
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I was going to go out and see the map, but they were surveyors.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 32,
+      "source": "Way ii sim dit'e'lt iit depdiithl hlguts'uusxhl lax̲ ha'niiyip gi'namihl Indian Agent tun ehl hli gyedihl Gitwinhlguu'l.",
+      "reference": "They hurriedly measured out the tiny reserve that the Indian Agent gave Kitwancool.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Way ii sim dit'e'lt iit depdiithl hlguts'uusxhl lax̲ ha'niiyip gi'namihl Indian Agent tun ehl hli gyedihl Gitwinhlguu'l.\nFINAL_TRANSLATION: And I saw the Indian Agent's office was closed, so I went to Gitwinhlguu'l.",
+      "raw": "And I saw the Indian Agent's office was closed, so I went to Gitwinhlguu'l.",
+      "extracted": "And I saw the Indian Agent's office was closed, so I went to Gitwinhlguu'l.",
+      "raw_span": [
+        147,
+        222
+      ],
+      "extracted_span": [
+        147,
+        222
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "And I saw the Indian Agent's office was closed, so I went to Gitwinhlguu'l.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 33,
+      "source": "\"One mile by one mile,\" diphiida 'nuu'm.",
+      "reference": "\"It's one mile by one mile,\" we said.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: One mile by one mile, 'nuu'm ?  \nFINAL_TRANSLATION: One mile by one mile, that's what they say.",
+      "raw": "One mile by one mile, that's what they say.",
+      "extracted": "One mile by one mile, that's what they say.",
+      "raw_span": [
+        59,
+        102
+      ],
+      "extracted_span": [
+        59,
+        102
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "One mile by one mile, that's what they say.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 34,
+      "source": "G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.",
+      "reference": "Because the surveyors were so afraid, the villagers say today that they should not have made a surveyor's reserve.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.\nFINAL_TRANSLATION: The surveyors were there, and I didn't know what to do because of the Gitwinhlguu's reserve.",
+      "raw": "The surveyors were there, and I didn't know what to do because of the Gitwinhlguu's reserve.",
+      "extracted": "The surveyors were there, and I didn't know what to do because of the Gitwinhlguu's reserve.",
+      "raw_span": [
+        167,
+        259
+      ],
+      "extracted_span": [
+        167,
+        259
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "The surveyors were there, and I didn't know what to do because of the Gitwinhlguu's reserve.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 35,
+      "source": "Needii gu ji t'amdiit, diyehl het.",
+      "reference": "They never signed anything, they said.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: Needii gu ji t'amdiit, diyehl het.\nFINAL_TRANSLATION: But no one came, that's what they said.",
+      "raw": "But no one came, that's what they said.",
+      "extracted": "But no one came, that's what they said.",
+      "raw_span": [
+        61,
+        100
+      ],
+      "extracted_span": [
+        61,
+        100
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "But no one came, that's what they said.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    },
+    {
+      "index": 36,
+      "source": "'Nihl g̲abit.",
+      "reference": "That's it.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Gloss: 'nihl g̲abit\nFINAL_TRANSLATION: I'm tired.",
+      "raw": "I'm tired.",
+      "extracted": "I'm tired.",
+      "raw_span": [
+        39,
+        49
+      ],
+      "extracted_span": [
+        39,
+        49
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "I'm tired.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_gitksan_grammar_original_chain_gloss_baseline.json"
+      }
+    }
+  ]
+}

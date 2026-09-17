@@ -1,0 +1,3270 @@
+{
+  "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+  "records": [
+    {
+      "index": 0,
+      "source": "A' Mama Lesile badr doa kcng pwx trnzmncpeu .",
+      "reference": "But Fr. Leslie with his four students were not there anymore.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "But Mama Lesile told them to go and fetch some food.",
+      "raw": "But Mama Lesile told them to go and fetch some food.",
+      "extracted": "But Mama Lesile told them to go and fetch some food.",
+      "raw_span": [
+        0,
+        52
+      ],
+      "extracted_span": [
+        0,
+        52
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "But Mama Lesile told them to go and fetch some food.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 1,
+      "source": "43 . Dzbede Ne Mr Lore",
+      "reference": "EP 43. Mr. Lore's Group",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "43. Dzbede Ne Mr Lore",
+      "raw": "43. Dzbede Ne Mr Lore",
+      "extracted": "43. Dzbede Ne Mr Lore",
+      "raw_span": [
+        0,
+        21
+      ],
+      "extracted_span": [
+        0,
+        21
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "43. Dzbede Ne Mr Lore",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 2,
+      "source": "Kx xlrbz trtenge nzycmnekrbz Tzsiu Jon , sc tqrpipebzle kx , “ Awitxpe Jon , mz nzycmne-krm la .",
+      "reference": "When my father heard the speech of Brother John, he said to him, \"Thank you very much John, for that speech of yours.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to see Tzsiu Jon, and I said to him, \"Jon, I am the one who came from you.\"",
+      "raw": "I went to see Tzsiu Jon, and I said to him, \"Jon, I am the one who came from you.\"",
+      "extracted": "I went to see Tzsiu Jon, and I said to him, \"Jon, I am the one who came from you.\"",
+      "raw_span": [
+        0,
+        82
+      ],
+      "extracted_span": [
+        0,
+        82
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to see Tzsiu Jon, and I said to him, \"Jon, I am the one who came from you.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 3,
+      "source": "X nzmnclzbzng mrkc tqtuo-ngrm nanycde kzdung leplz .",
+      "reference": "And there were also some people down where his feet were standing.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went down to the village of Tqtuo and asked them about the road.",
+      "raw": "I went down to the village of Tqtuo and asked them about the road.",
+      "extracted": "I went down to the village of Tqtuo and asked them about the road.",
+      "raw_span": [
+        0,
+        66
+      ],
+      "extracted_span": [
+        0,
+        66
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went down to the village of Tqtuo and asked them about the road.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 4,
+      "source": "Kx oblvztile rum kc x mcte da kx aletikrng , drtwrde vztx murde trnzpi-krpleu bagr nzrpwa'-krde nzdwatr-krgr mz rum nyz mqngr Ncbr .",
+      "reference": "When he looked over the room and saw what we had done, he was very sad because of his not telling about his forbidding our entering the room belonging to the image of the cross.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to the river and saw that the boat had been pulled out, because the man from Ncbr was there.",
+      "raw": "I went to the river and saw that the boat had been pulled out, because the man from Ncbr was there.",
+      "extracted": "I went to the river and saw that the boat had been pulled out, because the man from Ncbr was there.",
+      "raw_span": [
+        0,
+        99
+      ],
+      "extracted_span": [
+        0,
+        99
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to the river and saw that the boat had been pulled out, because the man from Ncbr was there.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 5,
+      "source": "Nzmulr nangrlrkitrlr peto a' nrlc boipxm .",
+      "reference": "They wanted to run into the bush but the distance was too far.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "They were all gathered together at the meeting place in the morning.",
+      "raw": "They were all gathered together at the meeting place in the morning.",
+      "extracted": "They were all gathered together at the meeting place in the morning.",
+      "raw_span": [
+        0,
+        68
+      ],
+      "extracted_span": [
+        0,
+        68
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "They were all gathered together at the meeting place in the morning.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 6,
+      "source": "Rkalzmqgr badr mrkc x mwitxkr badr mz lclr banyapu nyz skul .",
+      "reference": "We left from there with them and we slept with them in the school's pineapple field.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "They sent him to the school where I was studying.",
+      "raw": "They sent him to the school where I was studying.",
+      "extracted": "They sent him to the school where I was studying.",
+      "raw_span": [
+        0,
+        49
+      ],
+      "extracted_span": [
+        0,
+        49
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "They sent him to the school where I was studying.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 7,
+      "source": "Mcpxle kcng ncblo kx nangi nidr kcmiti nede .",
+      "reference": "He chose some men who would be his committee.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "There were many of them who had come to see me.",
+      "raw": "There were many of them who had come to see me.",
+      "extracted": "There were many of them who had come to see me.",
+      "raw_span": [
+        0,
+        47
+      ],
+      "extracted_span": [
+        0,
+        47
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "There were many of them who had come to see me.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 8,
+      "source": "Da kx ngi narlue scde mz nzmabz-krde nzalvc-krde lika .",
+      "reference": "His occupation for earning a living was flying fishing kites.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I told him that the canoe's rope broke off yesterday.",
+      "raw": "I told him that the canoe's rope broke off yesterday.",
+      "extracted": "I told him that the canoe's rope broke off yesterday.",
+      "raw_span": [
+        0,
+        53
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I told him that the canoe's rope broke off yesterday.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 9,
+      "source": "Zbz nigr kc tqyapekr rlilrgr .",
+      "reference": "So it was the two of us who paddled off.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "So then I became the chief.",
+      "raw": "So then I became the chief.",
+      "extracted": "So then I became the chief.",
+      "raw_span": [
+        0,
+        27
+      ],
+      "extracted_span": [
+        0,
+        27
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "So then I became the chief.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 10,
+      "source": "Kx mcpz Kzpten ncte nzli-krde sc tqyrnipe .",
+      "reference": "When the Captain saw its two pieces he cried.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I told Kzpten that I had come to see you.",
+      "raw": "I told Kzpten that I had come to see you.",
+      "extracted": "I told Kzpten that I had come to see you.",
+      "raw_span": [
+        0,
+        41
+      ],
+      "extracted_span": [
+        0,
+        41
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I told Kzpten that I had come to see you.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 11,
+      "source": "Aijz rkalzm Nzlvz sc tqvokipemle bagr Nea .",
+      "reference": "The Aijz left the Reefs and traveled along to us in Nea.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "They were going to the village of Nea.",
+      "raw": "They were going to the village of Nea.",
+      "extracted": "They were going to the village of Nea.",
+      "raw_span": [
+        0,
+        38
+      ],
+      "extracted_span": [
+        0,
+        38
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "They were going to the village of Nea.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 12,
+      "source": "Yrbqtikr mrkc minuti nzlvqn .",
+      "reference": "We lay down there for five minutes.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "They went to the village of Minuti.",
+      "raw": "They went to the village of Minuti.",
+      "extracted": "They went to the village of Minuti.",
+      "raw_span": [
+        0,
+        35
+      ],
+      "extracted_span": [
+        0,
+        35
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "They went to the village of Minuti.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 13,
+      "source": "Trtenge yrlzo mz Trmctu Nemya' mrkc Nea .",
+      "reference": "My father married into Nemya' Island near Nea village.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I married into the Trmctu Nemya' village from Nea.",
+      "raw": "I married into the Trmctu Nemya' village from Nea.",
+      "extracted": "I married into the Trmctu Nemya' village from Nea.",
+      "raw_span": [
+        0,
+        50
+      ],
+      "extracted_span": [
+        0,
+        50
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I married into the Trmctu Nemya' village from Nea.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 14,
+      "source": "Rlrq nzata-krngele ?”",
+      "reference": "Would you let me collect them?",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Why did you come here?",
+      "raw": "Why did you come here?",
+      "extracted": "Why did you come here?",
+      "raw_span": [
+        0,
+        22
+      ],
+      "extracted_span": [
+        0,
+        22
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Why did you come here?",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 15,
+      "source": "Nzrpilr nalikr mz kzdonge Sadas Balo .",
+      "reference": "They said I should be paired with my in-law [ED. wife's brother] Sanders Balo.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to Sadas Balo.",
+      "raw": "I went to Sadas Balo.",
+      "extracted": "I went to Sadas Balo.",
+      "raw_span": [
+        0,
+        21
+      ],
+      "extracted_span": [
+        0,
+        21
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to Sadas Balo.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 16,
+      "source": "Kx yagoxtx-zlwzpele kc , sc tqrpipe Kzpten nayrbqtxpe mz manyzkxnzyagoxng mrkc Pauabu .",
+      "reference": "When he got really sick, the Captain said he should be resting in the hospital at Pauabu.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I said to them, \"That's how I became the chief of the people from Pauabu.\"",
+      "raw": "I said to them, \"That's how I became the chief of the people from Pauabu.\"",
+      "extracted": "I said to them, \"That's how I became the chief of the people from Pauabu.\"",
+      "raw_span": [
+        0,
+        74
+      ],
+      "extracted_span": [
+        0,
+        74
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I said to them, \"That's how I became the chief of the people from Pauabu.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 17,
+      "source": "Prtrx elr mz Jenwzri 1937 .",
+      "reference": "I entered there in January 1937.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "They arrived in Jenwzri in 1937.",
+      "raw": "They arrived in Jenwzri in 1937.",
+      "extracted": "They arrived in Jenwzri in 1937.",
+      "raw_span": [
+        0,
+        32
+      ],
+      "extracted_span": [
+        0,
+        32
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "They arrived in Jenwzri in 1937.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 18,
+      "source": "Vaol lcng amrlx brngztxtr angidr mz nzycmnengr mz Natqgu .",
+      "reference": "All of those vowels were really very good for speaking in Natqgu. [ED. They also made texting straightforward once mobile phones reached the island.]",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "There were many of them who came from the village of Natugu.",
+      "raw": "There were many of them who came from the village of Natugu.",
+      "extracted": "There were many of them who came from the village of Natugu.",
+      "raw_span": [
+        0,
+        60
+      ],
+      "extracted_span": [
+        0,
+        60
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "There were many of them who came from the village of Natugu.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 19,
+      "source": "Mz nzrtrngr-ngrbz nzmungr nadr dzu lipwz , nan Dckta kc mz Kzpten x nan kru nedrng kc .",
+      "reference": "In making their food double portions were given to the doctor and the captain and to their crew.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We gathered together the people of the village, and Dckta came from Kzpten and brought some food.",
+      "raw": "We gathered together the people of the village, and Dckta came from Kzpten and brought some food.",
+      "extracted": "We gathered together the people of the village, and Dckta came from Kzpten and brought some food.",
+      "raw_span": [
+        0,
+        97
+      ],
+      "extracted_span": [
+        0,
+        97
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We gathered together the people of the village, and Dckta came from Kzpten and brought some food.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 20,
+      "source": "A' rvzmim doa kx bletipx-lxblrng mz Sade kcng tqvz-ngrmle .",
+      "reference": "But he brings a different student (person/child) on those Sundays he comes.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "But I went to Sade and asked them to come.",
+      "raw": "But I went to Sade and asked them to come.",
+      "extracted": "But I went to Sade and asked them to come.",
+      "raw_span": [
+        0,
+        42
+      ],
+      "extracted_span": [
+        0,
+        42
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "But I went to Sade and asked them to come.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 21,
+      "source": "Wztitxpo mz Kcoporetiv Sosaeti temz rpwxmz .",
+      "reference": "I only worked for the Cooperative Society for nine months.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Wztitxpo mz Kcoporetiv Sosaeti temz rpwxmz.",
+      "raw": "Wztitxpo mz Kcoporetiv Sosaeti temz rpwxmz.",
+      "extracted": "Wztitxpo mz Kcoporetiv Sosaeti temz rpwxmz.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Wztitxpo mz Kcoporetiv Sosaeti temz rpwxmz.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 22,
+      "source": "Sutx , twzbo brma x awitx-ngrbzkr mz Gct x Ellen kc tqmupe .",
+      "reference": "It cooked, I took it home and we thanked God for it and Ellen ate it.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Then, we went to the house of Gct and Ellen to meet them.",
+      "raw": "Then, we went to the house of Gct and Ellen to meet them.",
+      "extracted": "Then, we went to the house of Gct and Ellen to meet them.",
+      "raw_span": [
+        0,
+        57
+      ],
+      "extracted_span": [
+        0,
+        57
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Then, we went to the house of Gct and Ellen to meet them.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 23,
+      "source": "Nzvzbzng x nrlc kc tqbqpe x sc tzmwipeng .",
+      "reference": "They kept going and it got dark and they slept.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We went at daylight to ask for permission.",
+      "raw": "We went at daylight to ask for permission.",
+      "extracted": "We went at daylight to ask for permission.",
+      "raw_span": [
+        0,
+        42
+      ],
+      "extracted_span": [
+        0,
+        42
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We went at daylight to ask for permission.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 24,
+      "source": "Murde trpnzngr nyzgr ma , drvrtinepe-ngrgr nqni mnrgrng .",
+      "reference": "Because we had no house, we covered from the rain with our mats.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Because we were in the village, we had to stay there.",
+      "raw": "Because we were in the village, we had to stay there.",
+      "extracted": "Because we were in the village, we had to stay there.",
+      "raw_span": [
+        0,
+        53
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Because we were in the village, we had to stay there.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 25,
+      "source": "01 . Melrmqngeng",
+      "reference": "EP 01. My Ancestors",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "01. Melrmqngeng",
+      "raw": "01. Melrmqngeng",
+      "extracted": "01. Melrmqngeng",
+      "raw_span": [
+        0,
+        15
+      ],
+      "extracted_span": [
+        0,
+        15
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "01. Melrmqngeng",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 26,
+      "source": "Abzokr nzaglqngr mz nabznepi kc tqrtqmz mz nourla vz vz krlzbzle nabznepi kc tqrpwxmz mz nrlckxbq x dztudr ami kc tqyrkrtr-atem .",
+      "reference": "We started carring at eight o'clock in the morning, on and on until nine o'clock at night and only then was the army cargo finished loading.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "They were preparing the canoe for the journey, and they had already put in the oars and the paddles for the trip.",
+      "raw": "They were preparing the canoe for the journey, and they had already put in the oars and the paddles for the trip.",
+      "extracted": "They were preparing the canoe for the journey, and they had already put in the oars and the paddles for the trip.",
+      "raw_span": [
+        0,
+        113
+      ],
+      "extracted_span": [
+        0,
+        113
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "They were preparing the canoe for the journey, and they had already put in the oars and the paddles for the trip.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 27,
+      "source": "Mz nzkrlz-krbzkr Paumalepc , sc tqataplxsrpex nidr 40 sents .",
+      "reference": "When we reached Paumalepc, I evenly distributed 40 cents between them.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to Paumalepc, and I taught them for forty days.",
+      "raw": "I went to Paumalepc, and I taught them for forty days.",
+      "extracted": "I went to Paumalepc, and I taught them for forty days.",
+      "raw_span": [
+        0,
+        54
+      ],
+      "extracted_span": [
+        0,
+        54
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to Paumalepc, and I taught them for forty days.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 28,
+      "source": "A' da esz' kx trkatr elr , rmakx-zlwzngr mc x yagox-zvz-ngrgr badr doa kxnzsiklu .",
+      "reference": "But there's one thing that was bad there, being bitten by insects [ED. flies, mosquitoes] and we were constantly sick along with the students.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "But there were seven of them, and they were all from the same village, and they came to meet us.",
+      "raw": "But there were seven of them, and they were all from the same village, and they came to meet us.",
+      "extracted": "But there were seven of them, and they were all from the same village, and they came to meet us.",
+      "raw_span": [
+        0,
+        96
+      ],
+      "extracted_span": [
+        0,
+        96
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "But there were seven of them, and they were all from the same village, and they came to meet us.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 29,
+      "source": "Ngrlrtitxlzx spiz scnge , twzomc , x sc tqlupex , yrlqtxne x ninge kc tqngelu-moux .",
+      "reference": "I rushed up (to the house) for my spear, I took it back down (to the shore), and I speared it and put it (in the pot), then I went on lighting my way.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The people of the village gathered, we went down, and I returned back to them.",
+      "raw": "The people of the village gathered, we went down, and I returned back to them.",
+      "extracted": "The people of the village gathered, we went down, and I returned back to them.",
+      "raw_span": [
+        0,
+        78
+      ],
+      "extracted_span": [
+        0,
+        78
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The people of the village gathered, we went down, and I returned back to them.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 30,
+      "source": "Dckrlzde Kc Nzpnu-esz'-nrade-tq",
+      "reference": "Chapter Thirteen",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "FINAL_TRANSLATION: The End of the Story of the Seven",
+      "raw": "The End of the Story of the Seven",
+      "extracted": "The End of the Story of the Seven",
+      "raw_span": [
+        19,
+        52
+      ],
+      "extracted_span": [
+        19,
+        52
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "explicit_final_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [],
+      "recorded_prediction": "The End of the Story of the Seven",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 31,
+      "source": "Nzpwrkilvcngr doa kcng nztupebz badr .",
+      "reference": "Those students were surprised about him standing there with them.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We gathered together and then we went.",
+      "raw": "We gathered together and then we went.",
+      "extracted": "We gathered together and then we went.",
+      "raw_span": [
+        0,
+        38
+      ],
+      "extracted_span": [
+        0,
+        38
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We gathered together and then we went.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 32,
+      "source": "Nrla nc bia kc tqmalex malemixle kc dzbr legou kxlu esz' .",
+      "reference": "That breadfruit branch that I was holding, I held it by the root of a single living creeper vine.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "There were many of those men and they were all from the village.",
+      "raw": "There were many of those men and they were all from the village.",
+      "extracted": "There were many of those men and they were all from the village.",
+      "raw_span": [
+        0,
+        64
+      ],
+      "extracted_span": [
+        0,
+        64
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "There were many of those men and they were all from the village.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 33,
+      "source": "Olvz rnge lcde bz-ngrde doa kxtopwz .",
+      "reference": "That wife of mine died in childbirth.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The village chief came from Kxtopwz.",
+      "raw": "The village chief came from Kxtopwz.",
+      "extracted": "The village chief came from Kxtopwz.",
+      "raw_span": [
+        0,
+        36
+      ],
+      "extracted_span": [
+        0,
+        36
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The village chief came from Kxtopwz.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 34,
+      "source": "Mrlz , sc tzpipelr rlilrdr kxnamu na-amrlztr-ngrbzlr drtwr Ncbr .",
+      "reference": "OK, then the two of them thought how they might make things right with the cross.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went, and I saw the man who was hanging from the tree at Ncbr.",
+      "raw": "I went, and I saw the man who was hanging from the tree at Ncbr.",
+      "extracted": "I went, and I saw the man who was hanging from the tree at Ncbr.",
+      "raw_span": [
+        0,
+        64
+      ],
+      "extracted_span": [
+        0,
+        64
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went, and I saw the man who was hanging from the tree at Ncbr.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 35,
+      "source": "Tewa kx kqomle kc nigr kc tqvzpekr .",
+      "reference": "When the rain \"covered\" we left.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I said to them, \"Let us go and ask Father.\"",
+      "raw": "I said to them, \"Let us go and ask Father.\"",
+      "extracted": "I said to them, \"Let us go and ask Father.\"",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I said to them, \"Let us go and ask Father.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 36,
+      "source": "Zbz nigr kc tqkawiopekr lue x tqvztrpekr mz lclr nc nzlu nyz skul .",
+      "reference": "Then we crossed over the river and went into a coconut field belonging to the school.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "So then we went to the place where the school was located.",
+      "raw": "So then we went to the place where the school was located.",
+      "extracted": "So then we went to the place where the school was located.",
+      "raw_span": [
+        0,
+        58
+      ],
+      "extracted_span": [
+        0,
+        58
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "So then we went to the place where the school was located.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 37,
+      "source": "Twzomgr mz bot x nigr kc tqyapemgr bzq .",
+      "reference": "We took them down to the boat and then we started paddling home.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "They were going to bring him back.",
+      "raw": "They were going to bring him back.",
+      "extracted": "They were going to bring him back.",
+      "raw_span": [
+        0,
+        34
+      ],
+      "extracted_span": [
+        0,
+        34
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "They were going to bring him back.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 38,
+      "source": "Sc tqrpipemle bange kx , “ Trngiu ncblo lcng , krlcng nounc !",
+      "reference": "then said to me, \"These aren't men! They're wooden.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "When they tested me, I said, \"There are seven of us, and we are not alone!\"",
+      "raw": "When they tested me, I said, \"There are seven of us, and we are not alone!\"",
+      "extracted": "When they tested me, I said, \"There are seven of us, and we are not alone!\"",
+      "raw_span": [
+        0,
+        75
+      ],
+      "extracted_span": [
+        0,
+        75
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "When they tested me, I said, \"There are seven of us, and we are not alone!\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 39,
+      "source": "Ninge dq kx prtrpz badr leplz lcdeng tzrlxngiti-ayrnrngrng .",
+      "reference": "I was one who joined those people who first believed.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I told them that I was going to work on the road.",
+      "raw": "I told them that I was going to work on the road.",
+      "extracted": "I told them that I was going to work on the road.",
+      "raw_span": [
+        0,
+        49
+      ],
+      "extracted_span": [
+        0,
+        49
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I told them that I was going to work on the road.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 40,
+      "source": "Mzli boitx nzrtangrti-krgrle x sc tqmc-atekr .",
+      "reference": "Only after we had searched for a long time did we find it.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to the place where they were gathering.",
+      "raw": "I went to the place where they were gathering.",
+      "extracted": "I went to the place where they were gathering.",
+      "raw_span": [
+        0,
+        46
+      ],
+      "extracted_span": [
+        0,
+        46
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to the place where they were gathering.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 41,
+      "source": "Nzrmusrti-krbo lc trau scdr leplz takitr temz kx tq .",
+      "reference": "My treating people's money like that went on for three months.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "There were seven of those men and one from Guadalcanal.",
+      "raw": "There were seven of those men and one from Guadalcanal.",
+      "extracted": "There were seven of those men and one from Guadalcanal.",
+      "raw_span": [
+        0,
+        55
+      ],
+      "extracted_span": [
+        0,
+        55
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "There were seven of those men and one from Guadalcanal.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 42,
+      "source": "Kx trpnzngr kc da kx nzmcpxbzlr mz skul , sc tzvzpxpebzng mz skul .",
+      "reference": "When they didn't see anything at the school, they went to the school.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to the school, and I asked the school.",
+      "raw": "I went to the school, and I asked the school.",
+      "extracted": "I went to the school, and I asked the school.",
+      "raw_span": [
+        0,
+        45
+      ],
+      "extracted_span": [
+        0,
+        45
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to the school, and I asked the school.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 43,
+      "source": "Krlcdeng nzalvztrngr mz skul x nzrtekqtrngr Nzryrngrkxtr .",
+      "reference": "These were teaching at school and translating Scriptures.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The village school was under the supervision of Nzryrngrkxtr.",
+      "raw": "The village school was under the supervision of Nzryrngrkxtr.",
+      "extracted": "The village school was under the supervision of Nzryrngrkxtr.",
+      "raw_span": [
+        0,
+        61
+      ],
+      "extracted_span": [
+        0,
+        61
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The village school was under the supervision of Nzryrngrkxtr.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 44,
+      "source": "Kxetu kc drtwrde sc tqtrkapem bagr , tqrpipemle bagr kx , \" Memule trlxngiti-ngrmamuu natqnge ?",
+      "reference": "The leader was upset with us, he said to us, \"Why don't you obey my words?",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I said to them, \"What are you doing here, people?\"",
+      "raw": "I said to them, \"What are you doing here, people?\"",
+      "extracted": "I said to them, \"What are you doing here, people?\"",
+      "raw_span": [
+        0,
+        50
+      ],
+      "extracted_span": [
+        0,
+        50
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I said to them, \"What are you doing here, people?\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 45,
+      "source": "Kzdq ma kxetu nyz Gzpman tu mz plou .",
+      "reference": "A big building of the Government stood on posts with a raised floor.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I married a woman from Gzpman village.",
+      "raw": "I married a woman from Gzpman village.",
+      "extracted": "I married a woman from Gzpman village.",
+      "raw_span": [
+        0,
+        38
+      ],
+      "extracted_span": [
+        0,
+        38
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I married a woman from Gzpman village.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 46,
+      "source": "Rpim Rik bange kx naope a' sa naom dq ncblo kzble kx natekqtrle nide .",
+      "reference": "Rick told me that he had to go but another man would come to replace him.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Rpim Rik said to me, \"I am not going to go there because I have already seen it.\"",
+      "raw": "Rpim Rik said to me, \"I am not going to go there because I have already seen it.\"",
+      "extracted": "Rpim Rik said to me, \"I am not going to go there because I have already seen it.\"",
+      "raw_span": [
+        0,
+        81
+      ],
+      "extracted_span": [
+        0,
+        81
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Rpim Rik said to me, \"I am not going to go there because I have already seen it.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 47,
+      "source": "Votrpzkr x pookr mz wop Auki .",
+      "reference": "We traveled in it and we disembarked at the wharf in Auki.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We went to Auki.",
+      "raw": "We went to Auki.",
+      "extracted": "We went to Auki.",
+      "raw_span": [
+        0,
+        16
+      ],
+      "extracted_span": [
+        0,
+        16
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We went to Auki.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 48,
+      "source": "Kx mwi-lxlr-ngrgr kc mz nrlckxbq , tewa kxetu kc tqdcpe , vzmimq nenq , brlrpc x brlrmei .",
+      "reference": "When we were sleeping in the open at night, a heavy rain fell, along with wind, lightning and thunder.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to the place where the meeting was held, and I saw that they were eating, drinking, and talking.",
+      "raw": "I went to the place where the meeting was held, and I saw that they were eating, drinking, and talking.",
+      "extracted": "I went to the place where the meeting was held, and I saw that they were eating, drinking, and talking.",
+      "raw_span": [
+        0,
+        103
+      ],
+      "extracted_span": [
+        0,
+        103
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to the place where the meeting was held, and I saw that they were eating, drinking, and talking.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 49,
+      "source": "Rpibz trtenge bade kx , “ Mrlxnge la topwz tr-rlr-ngrpou ; a' krlzx nzrlr-ngrbz kzdq mzlede kcng tqetu .”",
+      "reference": "My father said to him, \"That son of mine is small and I do not allow him; but I can allow one of his bigger brothers.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I told them, \"We went to the top of the hill to look around; but we saw no one there.\"",
+      "raw": "I told them, \"We went to the top of the hill to look around; but we saw no one there.\"",
+      "extracted": "I told them, \"We went to the top of the hill to look around; but we saw no one there.\"",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I told them, \"We went to the top of the hill to look around; but we saw no one there.\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 50,
+      "source": "Dzbede lcng li nztekqtr-lzbqng .",
+      "reference": "The two groups traded places (with two more groups).",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "There were many of them there.",
+      "raw": "There were many of them there.",
+      "extracted": "There were many of them there.",
+      "raw_span": [
+        0,
+        30
+      ],
+      "extracted_span": [
+        0,
+        30
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "There were many of them there.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 51,
+      "source": "Merikol krali lc nide kc tqmcpe pripekt lc , x tqpipemle bange nayapwxtipxbo bamu kxmu nzmc-krngele .",
+      "reference": "This second miracle was one the prefect saw and he told me I should tell you how I saw it.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The prefect came to see us, and he asked me to go with him to the village.",
+      "raw": "The prefect came to see us, and he asked me to go with him to the village.",
+      "extracted": "The prefect came to see us, and he asked me to go with him to the village.",
+      "raw_span": [
+        0,
+        74
+      ],
+      "extracted_span": [
+        0,
+        74
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The prefect came to see us, and he asked me to go with him to the village.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 52,
+      "source": "X dabukr bona kcng li ngi blzkr Ncbr , nztelvzlr nyr ngrde x sc tzangcpelr .",
+      "reference": "And the hearts of the two bona birds was a sacrifice for the Cross, they ignited its fire and burned them.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to the market and bought some things from Ncbr, then returned home with them.",
+      "raw": "I went to the market and bought some things from Ncbr, then returned home with them.",
+      "extracted": "I went to the market and bought some things from Ncbr, then returned home with them.",
+      "raw_span": [
+        0,
+        84
+      ],
+      "extracted_span": [
+        0,
+        84
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to the market and bought some things from Ncbr, then returned home with them.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 53,
+      "source": "Sc tqvzpebz ; pnz'txde ncblo kc x taglctxde waelas kc .",
+      "reference": "So he went; he just shot the man and smashed the wireless.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We asked for permission; there were seven of us who went to the wharf.",
+      "raw": "We asked for permission; there were seven of us who went to the wharf.",
+      "extracted": "We asked for permission; there were seven of us who went to the wharf.",
+      "raw_span": [
+        0,
+        70
+      ],
+      "extracted_span": [
+        0,
+        70
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We asked for permission; there were seven of us who went to the wharf.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 54,
+      "source": "Nzvz-kzng badr doa lr Gwalekana nztqng kx namailzlr nidr .",
+      "reference": "Three students from Guadalcanal also went to lead them.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "They came from Guadalcanal and brought with them the materials.",
+      "raw": "They came from Guadalcanal and brought with them the materials.",
+      "extracted": "They came from Guadalcanal and brought with them the materials.",
+      "raw_span": [
+        0,
+        63
+      ],
+      "extracted_span": [
+        0,
+        63
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "They came from Guadalcanal and brought with them the materials.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 55,
+      "source": "30 . Nzryapwx-krbo Mz Doa Kxnzsiklu Pawa Merikol Li",
+      "reference": "EP 30. My Telling Two Miracles to the Students at Pawa School",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "30. The People of the Household of Kxnzsiklu Pawa Merikol",
+      "raw": "30. The People of the Household of Kxnzsiklu Pawa Merikol",
+      "extracted": "30. The People of the Household of Kxnzsiklu Pawa Merikol",
+      "raw_span": [
+        0,
+        57
+      ],
+      "extracted_span": [
+        0,
+        57
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "30. The People of the Household of Kxnzsiklu Pawa Merikol",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 56,
+      "source": "Nzsiklu-krgr yzutrpe a' trvz-zpwxka , murde nzwzngr la tqrlvitxpxbe a' nzsiklungr mrbc-takine .",
+      "reference": "Our schooling began, but it didn't go well, because that work was still demanding, but schooling was broken off short.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The people of that village were very angry, because it was a day that everyone worked on the road.",
+      "raw": "The people of that village were very angry, because it was a day that everyone worked on the road.",
+      "extracted": "The people of that village were very angry, because it was a day that everyone worked on the road.",
+      "raw_span": [
+        0,
+        98
+      ],
+      "extracted_span": [
+        0,
+        98
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The people of that village were very angry, because it was a day that everyone worked on the road.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 57,
+      "source": "Nzrklengr Jiszs x arlapxle leplz mzli lcdepwz .",
+      "reference": "Calling Jesus and he saves people right at the same time.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "The people of Jiszs went to the road that day.",
+      "raw": "The people of Jiszs went to the road that day.",
+      "extracted": "The people of Jiszs went to the road that day.",
+      "raw_span": [
+        0,
+        46
+      ],
+      "extracted_span": [
+        0,
+        46
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "The people of Jiszs went to the road that day.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 58,
+      "source": "Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu .",
+      "reference": "He gave to Srpi for him to translate the Gospel which Matthew wrote.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu.",
+      "raw": "Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu.",
+      "extracted": "Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu.",
+      "raw_span": [
+        0,
+        51
+      ],
+      "extracted_span": [
+        0,
+        51
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 59,
+      "source": "Ma nyzgr badr trtenge ngi ma nzanei , x rum ngrde li .",
+      "reference": "The house where I lived with my father had a roof with four panels, and it had two rooms.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I told them that I had not seen it, and they said to me.",
+      "raw": "I told them that I had not seen it, and they said to me.",
+      "extracted": "I told them that I had not seen it, and they said to me.",
+      "raw_span": [
+        0,
+        56
+      ],
+      "extracted_span": [
+        0,
+        56
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I told them that I had not seen it, and they said to me.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 60,
+      "source": "Mista Manfoot sc tqrpipemle bange kx mzli kc tqaenzli-ngrne lcsu naokatr-kaix nidr mz nzalvztrngr , murde klas li trpnzngr kxnzakrlztrng elr .",
+      "reference": "Mr. Manfort told me that while I was waiting for the ship I should first help them in teaching, because there were two classes without any teachers there.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Mista Manfoot was appointed as the third officer on the ship, because he had been trained in the rules of the village, the government, and the church, and also because he was from that church (denomination).",
+      "raw": "Mista Manfoot was appointed as the third officer on the ship, because he had been trained in the rules of the village, the government, and the church, and also because he was from that church (denomination).",
+      "extracted": "Mista Manfoot was appointed as the third officer on the ship, because he had been trained in the rules of the village, the government, and the church, and also because he was from that church (denomination).",
+      "raw_span": [
+        0,
+        207
+      ],
+      "extracted_span": [
+        0,
+        207
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Mista Manfoot was appointed as the third officer on the ship, because he had been trained in the rules of the village, the government, and the church, and also because he was from that church (denomination).",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 61,
+      "source": "Zbz mzli kcpe milzpq , dakxnzng kcng sc tqtwzope trtenge mz Menabz mz rum kc tqtupx-ngrm mqngr Ncbr .",
+      "reference": "Then when it was evening, my father and Menabz took that food into the room where the Cross statue stood.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "So then I went to the village of Menabz, where they were preparing for the arrival of Mr. Ncbr.",
+      "raw": "So then I went to the village of Menabz, where they were preparing for the arrival of Mr. Ncbr.",
+      "extracted": "So then I went to the village of Menabz, where they were preparing for the arrival of Mr. Ncbr.",
+      "raw_span": [
+        0,
+        95
+      ],
+      "extracted_span": [
+        0,
+        95
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "So then I went to the village of Menabz, where they were preparing for the arrival of Mr. Ncbr.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 62,
+      "source": "Rpibz tzsiu Jon bade kx , \" Inyxm vzpem peto delc tqasule dakxnzng lcng ?\"",
+      "reference": "Brother John said to her, “Did your daughter come from the bush and that’s who cooked that food?”",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I said to him, \"What about the people who are still alive?\"",
+      "raw": "I said to him, \"What about the people who are still alive?\"",
+      "extracted": "I said to him, \"What about the people who are still alive?\"",
+      "raw_span": [
+        0,
+        59
+      ],
+      "extracted_span": [
+        0,
+        59
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I said to him, \"What about the people who are still alive?\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 63,
+      "source": "A' trngq-pnzleu ; malelvitxde , tatxo prla .",
+      "reference": "But he didn't eat it; it was held insecurely and fell into the sea.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "But it was not so; they were wrong, that's all.",
+      "raw": "But it was not so; they were wrong, that's all.",
+      "extracted": "But it was not so; they were wrong, that's all.",
+      "raw_span": [
+        0,
+        47
+      ],
+      "extracted_span": [
+        0,
+        47
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "But it was not so; they were wrong, that's all.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 64,
+      "source": "X rpibo bade kx trtingr .",
+      "reference": "And I told him no.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I told them that I was tired.",
+      "raw": "I told them that I was tired.",
+      "extracted": "I told them that I was tired.",
+      "raw_span": [
+        0,
+        29
+      ],
+      "extracted_span": [
+        0,
+        29
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I told them that I was tired.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 65,
+      "source": "Kx krlzbzkr Point Krus , sc tqmcpebzkr lcsu ngr vea kxkqlu nzdwatr-krde Luga , x kzdung sc tzvopxng x kzdu nzvotrpqng , lcsukxlvc sc tzlvcneng .",
+      "reference": "When we reached Point Cruz we saw many warships anchored at Lungga, and some went out and some came in, airplanes flew around.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to Point Krus, and I asked the ship’s captain about the village of Luga, and I told him that I had heard that they were building a new church.",
+      "raw": "I went to Point Krus, and I asked the ship’s captain about the village of Luga, and I told him that I had heard that they were building a new church.",
+      "extracted": "I went to Point Krus, and I asked the ship’s captain about the village of Luga, and I told him that I had heard that they were building a new church.",
+      "raw_span": [
+        0,
+        149
+      ],
+      "extracted_span": [
+        0,
+        149
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to Point Krus, and I asked the ship’s captain about the village of Luga, and I told him that I had heard that they were building a new church.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 66,
+      "source": "Kx krlzmgr kc Nctekzmuli tryapewxu a' nge'txpepo , murde nenq matqtx-zlwzpe .",
+      "reference": "When we reached Bead Point I wasn't paddling anymore because I was only bailing since the wind had become very much more powerful.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to Nctekzmuli to get some medicine, because I was very sick.",
+      "raw": "I went to Nctekzmuli to get some medicine, because I was very sick.",
+      "extracted": "I went to Nctekzmuli to get some medicine, because I was very sick.",
+      "raw_span": [
+        0,
+        67
+      ],
+      "extracted_span": [
+        0,
+        67
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to Nctekzmuli to get some medicine, because I was very sick.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 67,
+      "source": "Drtq doa lcde , Josip Tealo .",
+      "reference": "His name was Joseph Tealo.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "From the village, Josip Tealo.",
+      "raw": "From the village, Josip Tealo.",
+      "extracted": "From the village, Josip Tealo.",
+      "raw_span": [
+        0,
+        30
+      ],
+      "extracted_span": [
+        0,
+        30
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "From the village, Josip Tealo.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 68,
+      "source": "A' nigr da kx etu myatxngr katris .",
+      "reference": "But we who are big things the cartridges completely missed us.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "But I told them that I had already been to Katris.",
+      "raw": "But I told them that I had already been to Katris.",
+      "extracted": "But I told them that I had already been to Katris.",
+      "raw_span": [
+        0,
+        50
+      ],
+      "extracted_span": [
+        0,
+        50
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "But I told them that I had already been to Katris.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 69,
+      "source": "Mzli lcde , pibo mz Rik kx natwz-mouki du letz kcng tzrtctxngr mz alfabet ngr Natqgu .",
+      "reference": "At that time, I told Rick that the two of us should take some more letters to be deleted from the Natqgu alphabet. [ED. The idea was to eliminate the vowels with diacritics and to substitute letters from the typewriter not already used by Natqgu.]",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went there, I told Mr. Rik that I had learned the alphabet of the Natugu language.",
+      "raw": "I went there, I told Mr. Rik that I had learned the alphabet of the Natugu language.",
+      "extracted": "I went there, I told Mr. Rik that I had learned the alphabet of the Natugu language.",
+      "raw_span": [
+        0,
+        84
+      ],
+      "extracted_span": [
+        0,
+        84
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went there, I told Mr. Rik that I had learned the alphabet of the Natugu language.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 70,
+      "source": "Elakr nrlc ngrlxtxo .",
+      "reference": "We danced until daylight.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "At dawn, we went to the village.",
+      "raw": "At dawn, we went to the village.",
+      "extracted": "At dawn, we went to the village.",
+      "raw_span": [
+        0,
+        32
+      ],
+      "extracted_span": [
+        0,
+        32
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "At dawn, we went to the village.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 71,
+      "source": "A' rpimle kx nayatipxx krkcng tqpetikr Dxi , murde ma tqmibitxtr .",
+      "reference": "But she told me I should paddle out to the ones we had planted at Dxi, lest they spoil on the vine.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "But he said to me, it is good that we should go to Dxi, because we are going there.",
+      "raw": "But he said to me, it is good that we should go to Dxi, because we are going there.",
+      "extracted": "But he said to me, it is good that we should go to Dxi, because we are going there.",
+      "raw_span": [
+        0,
+        83
+      ],
+      "extracted_span": [
+        0,
+        83
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "But he said to me, it is good that we should go to Dxi, because we are going there.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 72,
+      "source": "Zbz wisol kc tqyrnipe mou kx lr Japan nzlvcpeng .",
+      "reference": "Then the siren sounded again that the Japanese had flown away.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "So then I went to Japan and learned.",
+      "raw": "So then I went to Japan and learned.",
+      "extracted": "So then I went to Japan and learned.",
+      "raw_span": [
+        0,
+        36
+      ],
+      "extracted_span": [
+        0,
+        36
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "So then I went to Japan and learned.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 73,
+      "source": "Kzdq zbq trtenge x Menabz nzabzlr bona kx ncblongr li .",
+      "reference": "One day my father and Menabz killed two male doves.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I married a woman from Menabz who was born there and I became her husband.",
+      "raw": "I married a woman from Menabz who was born there and I became her husband.",
+      "extracted": "I married a woman from Menabz who was born there and I became her husband.",
+      "raw_span": [
+        0,
+        74
+      ],
+      "extracted_span": [
+        0,
+        74
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I married a woman from Menabz who was born there and I became her husband.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 74,
+      "source": "63 . Skul Kc Naim Nzglqtrpq Nabzn",
+      "reference": "EP 63. The School at Naim is Moved to Naban on Graciosa Bay",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "63. School at Naim New Village",
+      "raw": "63. School at Naim New Village",
+      "extracted": "63. School at Naim New Village",
+      "raw_span": [
+        0,
+        30
+      ],
+      "extracted_span": [
+        0,
+        30
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "63. School at Naim New Village",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 75,
+      "source": "Kzdq kc ncblo drtqde Metalo .",
+      "reference": "There was a man named Metalo.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I married a young woman named Metalo.",
+      "raw": "I married a young woman named Metalo.",
+      "extracted": "I married a young woman named Metalo.",
+      "raw_span": [
+        0,
+        37
+      ],
+      "extracted_span": [
+        0,
+        37
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I married a young woman named Metalo.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 76,
+      "source": "Trtenge kx xlrbzle nzpipxkr Mzdealwx nzlxngiti-krde Gct rdr tzsiu kcng sc tqlxngitipe-kzle .",
+      "reference": "When my father heard Mzdealwx's saying he believed in the God of those brothers he also believed.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I said to them that I saw the man named Mzdealwx who was in charge of the Gct, and he was going to give a speech.",
+      "raw": "I said to them that I saw the man named Mzdealwx who was in charge of the Gct, and he was going to give a speech.",
+      "extracted": "I said to them that I saw the man named Mzdealwx who was in charge of the Gct, and he was going to give a speech.",
+      "raw_span": [
+        0,
+        113
+      ],
+      "extracted_span": [
+        0,
+        113
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I said to them that I saw the man named Mzdealwx who was in charge of the Gct, and he was going to give a speech.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 77,
+      "source": "11 . Be Ngr Lika Kx Nqvi lrde Yzpr",
+      "reference": "EP 11. The Story of the Kite Whose String Broke",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "11. The Book of My Story: Its string broke off from his canoe yesterday.",
+      "raw": "11. The Book of My Story: Its string broke off from his canoe yesterday.",
+      "extracted": "11. The Book of My Story: Its string broke off from his canoe yesterday.",
+      "raw_span": [
+        0,
+        72
+      ],
+      "extracted_span": [
+        0,
+        72
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "11. The Book of My Story: Its string broke off from his canoe yesterday.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 78,
+      "source": "Rpi-mopwz kxetu r ami kx , \" Nim ncblo kznike ?\"",
+      "reference": "The head of the army further said, \"What kind of man are you?\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I said to him, \"How many of them are there?\"",
+      "raw": "I said to him, \"How many of them are there?\"",
+      "extracted": "I said to him, \"How many of them are there?\"",
+      "raw_span": [
+        0,
+        44
+      ],
+      "extracted_span": [
+        0,
+        44
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I said to him, \"How many of them are there?\"",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 79,
+      "source": "A' nenq kx mnctxde kc mz ulu sc tzmnctx-alopeng Nzlvz .",
+      "reference": "But there was that strong wind from the southwest so had they stayed a long time at Nzlvz.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "But I said to them that it was good that it should come from the village of Nzlvz.",
+      "raw": "But I said to them that it was good that it should come from the village of Nzlvz.",
+      "extracted": "But I said to them that it was good that it should come from the village of Nzlvz.",
+      "raw_span": [
+        0,
+        82
+      ],
+      "extracted_span": [
+        0,
+        82
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "But I said to them that it was good that it should come from the village of Nzlvz.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 80,
+      "source": "Zbz sc tqtwzpe kz Rik Frank Yrpusz nzngini-krde kz kxrtekqtr natq .",
+      "reference": "Then Rick also took Frank Yrpusz to be a translator too.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "So then that's how I became Rik Frank Yrpusz, the one who was chosen to be the leader.",
+      "raw": "So then that's how I became Rik Frank Yrpusz, the one who was chosen to be the leader.",
+      "extracted": "So then that's how I became Rik Frank Yrpusz, the one who was chosen to be the leader.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "So then that's how I became Rik Frank Yrpusz, the one who was chosen to be the leader.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 81,
+      "source": "X yzuo-moukr Uta yrkrpx Pa'lz , x trmctu ka sc tqtulvzpe mz nzwzkr Gari Saemons .",
+      "reference": "And we started again at Uta finishing at Pa'lz, and this island was thoroughly covered by the work of Gary Simons.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to Uta and asked Pa'lz, and he told me that I should go to Gari Saemons.",
+      "raw": "I went to Uta and asked Pa'lz, and he told me that I should go to Gari Saemons.",
+      "extracted": "I went to Uta and asked Pa'lz, and he told me that I should go to Gari Saemons.",
+      "raw_span": [
+        0,
+        79
+      ],
+      "extracted_span": [
+        0,
+        79
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to Uta and asked Pa'lz, and he told me that I should go to Gari Saemons.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 82,
+      "source": "Mz nzvz-krgr kc , tqvzdzkr , tqvzokr x tqrkawitikr lue kxetuting .",
+      "reference": "In our going, we went up, we went down, and we crossed large rivers.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I was told, they said, they were going to take me.",
+      "raw": "I was told, they said, they were going to take me.",
+      "extracted": "I was told, they said, they were going to take me.",
+      "raw_span": [
+        0,
+        50
+      ],
+      "extracted_span": [
+        0,
+        50
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I was told, they said, they were going to take me.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 83,
+      "source": "Aelwapx Gct da kxmule lcng murde nalxngitiku x na-abrtrpzku drtwrgu mz Jiszs x Trtede Gct mz da amrlx mzli ka tqlu-ngrgu mz nrlc .",
+      "reference": "God revealed such things so that we might believe and we might trust in Jesus and his Father, God, in everything now while we're living in the world.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Aelwapx Gct da kxmule lcng murde nalxngitiku x na-abrtrpzku drtwrgu mz Jiszs x Trtede Gct mz da amrlx mzli ka tqlu-ngrgu mz nrlc.",
+      "raw": "Aelwapx Gct da kxmule lcng murde nalxngitiku x na-abrtrpzku drtwrgu mz Jiszs x Trtede Gct mz da amrlx mzli ka tqlu-ngrgu mz nrlc.",
+      "extracted": "Aelwapx Gct da kxmule lcng murde nalxngitiku x na-abrtrpzku drtwrgu mz Jiszs x Trtede Gct mz da amrlx mzli ka tqlu-ngrgu mz nrlc.",
+      "raw_span": [
+        0,
+        129
+      ],
+      "extracted_span": [
+        0,
+        129
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Aelwapx Gct da kxmule lcng murde nalxngitiku x na-abrtrpzku drtwrgu mz Jiszs x Trtede Gct mz da amrlx mzli ka tqlu-ngrgu mz nrlc.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 84,
+      "source": "Zbz kzdq doa lr Sikaiana sc tqolzpebz .",
+      "reference": "Then a student from Sikaiana island did climb up.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "So then I married into the Sikaiana people.",
+      "raw": "So then I married into the Sikaiana people.",
+      "extracted": "So then I married into the Sikaiana people.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "So then I married into the Sikaiana people.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 85,
+      "source": "Krlc kzdq rkx kxmatq , kzdq merikol .",
+      "reference": "This was a powerful sign, a miracle.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I married a woman, and I married her.",
+      "raw": "I married a woman, and I married her.",
+      "extracted": "I married a woman, and I married her.",
+      "raw_span": [
+        0,
+        37
+      ],
+      "extracted_span": [
+        0,
+        37
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I married a woman, and I married her.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 86,
+      "source": "Kzdq kc zbq naoszx kzdq nc bia .",
+      "reference": "One day I was walking away from a breadfruit tree.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I married a woman who was already married.",
+      "raw": "I married a woman who was already married.",
+      "extracted": "I married a woman who was already married.",
+      "raw_span": [
+        0,
+        42
+      ],
+      "extracted_span": [
+        0,
+        42
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I married a woman who was already married.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 87,
+      "source": "Ana Teao kx yrkrpxle kc mz skul , vom sc tqlipekr ncdr mz nzalvztrngr .",
+      "reference": "When Anna Teao finished her schooling, she came and we partnered in teaching.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Ana Teao told me that at school, we were taught the rules of the village.",
+      "raw": "Ana Teao told me that at school, we were taught the rules of the village.",
+      "extracted": "Ana Teao told me that at school, we were taught the rules of the village.",
+      "raw_span": [
+        0,
+        73
+      ],
+      "extracted_span": [
+        0,
+        73
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Ana Teao told me that at school, we were taught the rules of the village.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 88,
+      "source": "79 . Nzrblx-krbz Natqgu Badr Leplz Kcng Tzrtekqtrng Natq",
+      "reference": "EP 79. The Difficulty of Natqgu for the People who Translate the Language",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "79. The People of Natugu Went to the Place of Meeting in Natq",
+      "raw": "79. The People of Natugu Went to the Place of Meeting in Natq",
+      "extracted": "79. The People of Natugu Went to the Place of Meeting in Natq",
+      "raw_span": [
+        0,
+        61
+      ],
+      "extracted_span": [
+        0,
+        61
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "79. The People of Natugu Went to the Place of Meeting in Natq",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 89,
+      "source": "Nzyolxomlr , kx nzkaobzlrle mz leu kx nzprlxlr mrkc , kio kcng wxlikitxpxpnz .",
+      "reference": "They took it off the fire; when they removed it onto leaves which were laid out there, the chicken fell into small pieces.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Finally, I went to the place where I had been before, and I saw that the people were already there.",
+      "raw": "Finally, I went to the place where I had been before, and I saw that the people were already there.",
+      "extracted": "Finally, I went to the place where I had been before, and I saw that the people were already there.",
+      "raw_span": [
+        0,
+        99
+      ],
+      "extracted_span": [
+        0,
+        99
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Finally, I went to the place where I had been before, and I saw that the people were already there.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 90,
+      "source": "42 . Dzbedr Lipe Merikol Krapwx Mz Mzli R Vea",
+      "reference": "EP 42. Their Group Splits into Two and the Fourth Wartime Miracle",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "42. Dzbedr Lipe Merikol Krapwx Mz Mzli R Vea",
+      "raw": "42. Dzbedr Lipe Merikol Krapwx Mz Mzli R Vea",
+      "extracted": "42. Dzbedr Lipe Merikol Krapwx Mz Mzli R Vea",
+      "raw_span": [
+        0,
+        44
+      ],
+      "extracted_span": [
+        0,
+        44
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "42. Dzbedr Lipe Merikol Krapwx Mz Mzli R Vea",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 91,
+      "source": "Kx nzglxlr nzngini-krdr lr Japan , sc tzdwapeng .",
+      "reference": "When they realized their being Japanese, they fled.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I went to Japan, and I was tested.",
+      "raw": "I went to Japan, and I was tested.",
+      "extracted": "I went to Japan, and I was tested.",
+      "raw_span": [
+        0,
+        34
+      ],
+      "extracted_span": [
+        0,
+        34
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I went to Japan, and I was tested.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 92,
+      "source": "A' mz nibrde sc tzaolvz-atebz kzdung leplz nzlxngiti-krdr Nrpakxmrlz .",
+      "reference": "But afterward some people later accepted their believing the Goodnews.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "But I had to go to the meeting of the village elders at Nrpakxmrlz.",
+      "raw": "But I had to go to the meeting of the village elders at Nrpakxmrlz.",
+      "extracted": "But I had to go to the meeting of the village elders at Nrpakxmrlz.",
+      "raw_span": [
+        0,
+        67
+      ],
+      "extracted_span": [
+        0,
+        67
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "But I had to go to the meeting of the village elders at Nrpakxmrlz.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 93,
+      "source": "Krali Yamzli mzte nzmc Narnztilolx mz yiz 1918 .",
+      "reference": "The second, Yamzli, was born in Narnztilolx in the year 1918.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Krali Yamzli was born in Narnztilolx in 1918.",
+      "raw": "Krali Yamzli was born in Narnztilolx in 1918.",
+      "extracted": "Krali Yamzli was born in Narnztilolx in 1918.",
+      "raw_span": [
+        0,
+        45
+      ],
+      "extracted_span": [
+        0,
+        45
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Krali Yamzli was born in Narnztilolx in 1918.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 94,
+      "source": "Murde rwz-ngrgr ma kxetuting .",
+      "reference": "Because we built large buildings.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "Because of that, we went to the church.",
+      "raw": "Because of that, we went to the church.",
+      "extracted": "Because of that, we went to the church.",
+      "raw_span": [
+        0,
+        39
+      ],
+      "extracted_span": [
+        0,
+        39
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "Because of that, we went to the church.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 95,
+      "source": "Yzuo-moukr Ncipx x mwikr Nebz .",
+      "reference": "Starting again at Noipx and we slept at Nebz.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "That man, Mr. Nebz.",
+      "raw": "That man, Mr. Nebz.",
+      "extracted": "That man, Mr. Nebz.",
+      "raw_span": [
+        0,
+        19
+      ],
+      "extracted_span": [
+        0,
+        19
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "That man, Mr. Nebz.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 96,
+      "source": "X Mista Sadrak Sade kx ngi Kxetu r skul lc .",
+      "reference": "And it was Mr. Shadrach Sunday who was Headmaster of that school.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "I, Mista Sadrak Sade, went to Kxetu school.",
+      "raw": "I, Mista Sadrak Sade, went to Kxetu school.",
+      "extracted": "I, Mista Sadrak Sade, went to Kxetu school.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "I, Mista Sadrak Sade, went to Kxetu school.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 97,
+      "source": "A' trkrlzwxu kx nzyzlu-mcpqng , nidr lcng tztavelr naonrx lc e doa kzbleng .”",
+      "reference": "But I do not know whether they returned again, those were the ones who broke the door or it was someone else.\"",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "But I said to him, “I have not yet been tested, and I will not go until the test is done.”",
+      "raw": "But I said to him, “I have not yet been tested, and I will not go until the test is done.”",
+      "extracted": "But I said to him, “I have not yet been tested, and I will not go until the test is done.”",
+      "raw_span": [
+        0,
+        90
+      ],
+      "extracted_span": [
+        0,
+        90
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "But I said to him, “I have not yet been tested, and I will not go until the test is done.”",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    },
+    {
+      "index": 98,
+      "source": "Volzx mrkc tqxlva-ngrde , ninge kc tqtupex .",
+      "reference": "I went up to where it forked and I stood there.",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "translation.raw",
+      "original_response": "We went to the village of Tqxlva, and I returned.",
+      "raw": "We went to the village of Tqxlva, and I returned.",
+      "extracted": "We went to the village of Tqxlva, and I returned.",
+      "raw_span": [
+        0,
+        49
+      ],
+      "extracted_span": [
+        0,
+        49
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": false,
+      "explanation_heading_count": 0,
+      "structural_rule": "unmarked_translation",
+      "status": "ok",
+      "recorded_error": null,
+      "recorded_flags": [
+        "unmarked_single_line"
+      ],
+      "recorded_prediction": "We went to the village of Tqxlva, and I returned.",
+      "origin": {
+        "type": "generated_first_attempt",
+        "config": "configs/matched_v1/qwen3_natugu_grammar_original_shot_baseline.json"
+      }
+    }
+  ]
+}

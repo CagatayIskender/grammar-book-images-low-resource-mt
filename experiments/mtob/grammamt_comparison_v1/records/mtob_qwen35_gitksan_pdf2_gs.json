@@ -1,0 +1,856 @@
+{
+  "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+  "records": [
+    {
+      "index": 0,
+      "source": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.",
+      "reference": "I will tell about when the white men first came to Kitwancool long ago.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.\n\n**English translation:**  \nWe are the Gitksan people who have lived here since time immemorial, and our ancestors came from the sea and settled in this land long ago.",
+      "raw": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.\n\n**English translation:**  \nWe are the Gitksan people who have lived here since time immemorial, and our ancestors came from the sea and settled in this land long ago.",
+      "extracted": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.\n\n**English translation:**  \nWe are the Gitksan people who have lived here since time immemorial, and our ancestors came from the sea and settled in this land long ago.",
+      "raw_span": [
+        0,
+        272
+      ],
+      "extracted_span": [
+        0,
+        272
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 1,
+      "source": "Ha'ondii 'nakw hlidaa bakwhl gyet dipun, ii sag̲aytg̲oodindiithl hli gyedihl Gitwinhlguu'l.",
+      "reference": "Not long after these people arrived, they gathered together the people of Kitwancool.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "These people are all English-speaking, and many of them have become bilingual in Gitxsan and English.",
+      "raw": "These people are all English-speaking, and many of them have become bilingual in Gitxsan and English.",
+      "extracted": "These people are all English-speaking, and many of them have become bilingual in Gitxsan and English.",
+      "raw_span": [
+        0,
+        101
+      ],
+      "extracted_span": [
+        0,
+        101
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 2,
+      "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+      "reference": "They wanted to tell about the new place where the village of Kitwancool is to be.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.\n\n**English translation:**  \n\"Did you see the people who came to Gitwinksihlkw?\"\n\n---\n\n### Explanation of the translation:\n\nThis sentence is a question in Gitksan, a Tsimshianic language spoken by the Gitxsan (Gitksan) people of northwestern British Columbia. Let's break it down:\n\n- **Hasak̲diit** – \"Did you see?\" (past tense of \"to see\", with second person singular subject)\n- **dim** – \"the\" (definite article)\n- **mehldiit** – \"people\" (plural of *mehldi*, person)\n- **win** – relative clause marker (\"who/that\")\n- **hlaa** – \"came\" (past tense of \"to come\")\n- **dim** – \"the\"\n- **sii** – \"to\" (preposition indicating direction or destination)\n- **ha'niij",
+      "raw": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.\n\n**English translation:**  \n\"Did you see the people who came to Gitwinksihlkw?\"\n\n---\n\n### Explanation of the translation:\n\nThis sentence is a question in Gitksan, a Tsimshianic language spoken by the Gitxsan (Gitksan) people of northwestern British Columbia. Let's break it down:\n\n- **Hasak̲diit** – \"Did you see?\" (past tense of \"to see\", with second person singular subject)\n- **dim** – \"the\" (definite article)\n- **mehldiit** – \"people\" (plural of *mehldi*, person)\n- **win** – relative clause marker (\"who/that\")\n- **hlaa** – \"came\" (past tense of \"to come\")\n- **dim** – \"the\"\n- **sii** – \"to\" (preposition indicating direction or destination)\n- **ha'niij",
+      "extracted": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.\n\n**English translation:**  \n\"Did you see the people who came to Gitwinksihlkw?\"\n\n---\n\n### Explanation of the translation:\n\nThis sentence is a question in Gitksan, a Tsimshianic language spoken by the Gitxsan (Gitksan) people of northwestern British Columbia. Let's break it down:\n\n- **Hasak̲diit** – \"Did you see?\" (past tense of \"to see\", with second person singular subject)\n- **dim** – \"the\" (definite article)\n- **mehldiit** – \"people\" (plural of *mehldi*, person)\n- **win** – relative clause marker (\"who/that\")\n- **hlaa** – \"came\" (past tense of \"to come\")\n- **dim** – \"the\"\n- **sii** – \"to\" (preposition indicating direction or destination)\n- **ha'niij",
+      "raw_span": [
+        0,
+        758
+      ],
+      "extracted_span": [
+        0,
+        758
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 3,
+      "source": "'Nit sag̲ootxwhl government siwetdiit, ii dim 'nii wenhl dim jok̲hl aluugigyet g̲o'ohl lax̲ reserve siwetdiit.",
+      "reference": "The plan of the so-called government was that they will have Indian people live on a so-called reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan government is not the same as the reserve government; they are two separate entities.",
+      "raw": "The Gitksan government is not the same as the reserve government; they are two separate entities.",
+      "extracted": "The Gitksan government is not the same as the reserve government; they are two separate entities.",
+      "raw_span": [
+        0,
+        97
+      ],
+      "extracted_span": [
+        0,
+        97
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 4,
+      "source": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"",
+      "reference": "\"Why?\" the people of Kitwancool asked. \"We live on our land, here.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"\n\nEnglish translation:  \n\"We are Gitksan people,\" they said, \"and we speak Gitksan to our children.\"\n\nNote: This translation is based on standard Gitksan grammar and known lexical items. The phrase \"Gu g̲anwilt\" is a first-person plural inclusive statement (\"We are...\"), \"diyehl hli gyedihl\" means \"they said,\" and \"Gitwinhlguu'l\" refers to the Gitksan people. The second quoted speech, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun,\" translates to \"we speak Gitksan to our children,\" where \"jog̲o'm\" relates to speaking, \"lax̲yibi'm\" means \"to our children,\" and \"g̲o'osun\" reinforces the action of speaking or teaching. The provided context about language endangerment and intergener",
+      "raw": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"\n\nEnglish translation:  \n\"We are Gitksan people,\" they said, \"and we speak Gitksan to our children.\"\n\nNote: This translation is based on standard Gitksan grammar and known lexical items. The phrase \"Gu g̲anwilt\" is a first-person plural inclusive statement (\"We are...\"), \"diyehl hli gyedihl\" means \"they said,\" and \"Gitwinhlguu'l\" refers to the Gitksan people. The second quoted speech, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun,\" translates to \"we speak Gitksan to our children,\" where \"jog̲o'm\" relates to speaking, \"lax̲yibi'm\" means \"to our children,\" and \"g̲o'osun\" reinforces the action of speaking or teaching. The provided context about language endangerment and intergener",
+      "extracted": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"\n\nEnglish translation:  \n\"We are Gitksan people,\" they said, \"and we speak Gitksan to our children.\"\n\nNote: This translation is based on standard Gitksan grammar and known lexical items. The phrase \"Gu g̲anwilt\" is a first-person plural inclusive statement (\"We are...\"), \"diyehl hli gyedihl\" means \"they said,\" and \"Gitwinhlguu'l\" refers to the Gitksan people. The second quoted speech, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun,\" translates to \"we speak Gitksan to our children,\" where \"jog̲o'm\" relates to speaking, \"lax̲yibi'm\" means \"to our children,\" and \"g̲o'osun\" reinforces the action of speaking or teaching. The provided context about language endangerment and intergener",
+      "raw_span": [
+        0,
+        782
+      ],
+      "extracted_span": [
+        0,
+        782
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 5,
+      "source": "Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.",
+      "reference": "They heard that what they call surveyors were coming.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The sentence \"Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors\" translates to:\n\n**\"They are surveyors who are working on the land.\"**\n\n### Breakdown of the translation:\n*   **Ii**: They (plural subject).\n*   **nax̲'nidiit**: Working / laboring (from the root *nax̲'nid* \"to work\").\n*   **win**: On / upon (preposition indicating location or contact).\n*   **dim**: The land / territory.\n*   **bakwhl**: Who / relative clause marker.\n*   **siwetdiit**: Surveyors (a loanword from English \"surveyor,\" adapted into Gitksan phonology).\n*   **ehl**: This is likely a transcription artifact or a specific dialectal particle in the source text provided; however, in standard Gitksan syntax for this context, the structure usually links the relative clause directly. Given the context of the provided text discussing \"surveyors\" and \"land,\" the core meaning remains the identification of the people as surveyors working on the land.\n\n*Note: The provided text snippets discuss",
+      "raw": "The sentence \"Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors\" translates to:\n\n**\"They are surveyors who are working on the land.\"**\n\n### Breakdown of the translation:\n*   **Ii**: They (plural subject).\n*   **nax̲'nidiit**: Working / laboring (from the root *nax̲'nid* \"to work\").\n*   **win**: On / upon (preposition indicating location or contact).\n*   **dim**: The land / territory.\n*   **bakwhl**: Who / relative clause marker.\n*   **siwetdiit**: Surveyors (a loanword from English \"surveyor,\" adapted into Gitksan phonology).\n*   **ehl**: This is likely a transcription artifact or a specific dialectal particle in the source text provided; however, in standard Gitksan syntax for this context, the structure usually links the relative clause directly. Given the context of the provided text discussing \"surveyors\" and \"land,\" the core meaning remains the identification of the people as surveyors working on the land.\n\n*Note: The provided text snippets discuss",
+      "extracted": "The sentence \"Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors\" translates to:\n\n**\"They are surveyors who are working on the land.\"**",
+      "raw_span": [
+        0,
+        971
+      ],
+      "extracted_span": [
+        0,
+        138
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 6,
+      "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+      "reference": "They will measure out the length of the perimeter of what is called the reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.\n\nEnglish translation:  \nWe are the Gitksan people who have lived on this land since time immemorial, and we are the rightful owners of this reserve.",
+      "raw": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.\n\nEnglish translation:  \nWe are the Gitksan people who have lived on this land since time immemorial, and we are the rightful owners of this reserve.",
+      "extracted": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.\n\nEnglish translation:  \nWe are the Gitksan people who have lived on this land since time immemorial, and we are the rightful owners of this reserve.",
+      "raw_span": [
+        0,
+        228
+      ],
+      "extracted_span": [
+        0,
+        228
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 7,
+      "source": "Ii aam win ky'ax̲ hehl Gitwinhlguu'l dim 'wiit'is, dim wag̲ayt jog̲o daa'whl g̲o'ohl k'i'yhl sg̲a'nist, dim ii lok̲'on daa'whl g̲o'ohl k'i'yhl aks, g̲o'ohl Ksen, 'nii g̲a'wayit k̲'ali daa'whl g̲o'ohl Meji'aadin. 'Nithl hasak̲diithl reserve.",
+      "reference": "The people agreed that they wanted a big reserve which would encompass mountains starting from the Skeena all the way up to Meji'aadin. They wanted that for a reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is the place where we, the Gitxsan people, have lived since time immemorial. We have always cared for this land, from the mountains to the rivers and the sea, and from the mountains to the sea. We have always cared for this land, from the mountains to the rivers and the sea, and from the mountains to the sea. This is our traditional territory, the Nisga'a reserve.\n\n(Note: The provided Gitksan text appears to contain some inconsistencies or errors in the original source material, particularly in the repetition of phrases and the mention of \"Nisga'a reserve\" at the end, which is not part of the Gitxsan traditional territory. The translation above attempts to convey the intended meaning based on the context of the Gitxsan language and the historical and cultural background of the Gitxsan people.)",
+      "raw": "This is the place where we, the Gitxsan people, have lived since time immemorial. We have always cared for this land, from the mountains to the rivers and the sea, and from the mountains to the sea. We have always cared for this land, from the mountains to the rivers and the sea, and from the mountains to the sea. This is our traditional territory, the Nisga'a reserve.\n\n(Note: The provided Gitksan text appears to contain some inconsistencies or errors in the original source material, particularly in the repetition of phrases and the mention of \"Nisga'a reserve\" at the end, which is not part of the Gitxsan traditional territory. The translation above attempts to convey the intended meaning based on the context of the Gitxsan language and the historical and cultural background of the Gitxsan people.)",
+      "extracted": "This is the place where we, the Gitxsan people, have lived since time immemorial. We have always cared for this land, from the mountains to the rivers and the sea, and from the mountains to the sea. We have always cared for this land, from the mountains to the rivers and the sea, and from the mountains to the sea. This is our traditional territory, the Nisga'a reserve.\n\n(Note: The provided Gitksan text appears to contain some inconsistencies or errors in the original source material, particularly in the repetition of phrases and the mention of \"Nisga'a reserve\" at the end, which is not part of the Gitxsan traditional territory. The translation above attempts to convey the intended meaning based on the context of the Gitxsan language and the historical and cultural background of the Gitxsan people.)",
+      "raw_span": [
+        0,
+        809
+      ],
+      "extracted_span": [
+        0,
+        809
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 8,
+      "source": "Way ii needii hehl Indian Agendima'a, siwetxwit ehl Indian Agent, ent sag̲aytg̲oodinhl gyet, sag̲aytwendiit.",
+      "reference": "The Indian Agent disagreed, the so-called Indian Agent who gathered the people together for the meeting.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Way ii needii hehl Indian Agendima'a, siwetxwit ehl Indian Agent, ent sag̲aytg̲oodinhl gyet, sag̲aytwendiit.\n\nEnglish translation:  \nWe are not like the Indian Agent; we are not the Indian Agent, and we do not belong to him, nor are we his.",
+      "raw": "Way ii needii hehl Indian Agendima'a, siwetxwit ehl Indian Agent, ent sag̲aytg̲oodinhl gyet, sag̲aytwendiit.\n\nEnglish translation:  \nWe are not like the Indian Agent; we are not the Indian Agent, and we do not belong to him, nor are we his.",
+      "extracted": "Way ii needii hehl Indian Agendima'a, siwetxwit ehl Indian Agent, ent sag̲aytg̲oodinhl gyet, sag̲aytwendiit.\n\nEnglish translation:  \nWe are not like the Indian Agent; we are not the Indian Agent, and we do not belong to him, nor are we his.",
+      "raw_span": [
+        0,
+        240
+      ],
+      "extracted_span": [
+        0,
+        240
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 9,
+      "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+      "reference": "And the people of the village Kitwancool said, \"If you don't do that, then we don't want you to carve out a very small reserve.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Ii 'nii win hehl hli gyedihl Gitwinhlguu'l\" translates to:  \n**\"We are the Gitksan people, the ones who speak Gitksan.\"**  \n\nThe quoted passage within the sentence, *\"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm,\"* is a traditional Gitksan declaration often associated with their oral histories and legal traditions. Based on linguistic analysis and cultural context, it translates to:  \n**\"Our ancestors came from the sea, and they brought with them the words of the law, the songs of the people, and the stories of our ancestors.\"**  \n\n### Full Translation:  \n**\"We are the Gitksan people, the ones who speak Gitksan: 'Our ancestors came from the sea, and they brought with them the words of the law, the songs of the people, and the stories of our ancestors.'\"**  \n\n### Notes:  \n- The Gitksan language is part of the Tsimshianic family and is closely tied to the Haisla and Nis",
+      "raw": "\"Ii 'nii win hehl hli gyedihl Gitwinhlguu'l\" translates to:  \n**\"We are the Gitksan people, the ones who speak Gitksan.\"**  \n\nThe quoted passage within the sentence, *\"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm,\"* is a traditional Gitksan declaration often associated with their oral histories and legal traditions. Based on linguistic analysis and cultural context, it translates to:  \n**\"Our ancestors came from the sea, and they brought with them the words of the law, the songs of the people, and the stories of our ancestors.\"**  \n\n### Full Translation:  \n**\"We are the Gitksan people, the ones who speak Gitksan: 'Our ancestors came from the sea, and they brought with them the words of the law, the songs of the people, and the stories of our ancestors.'\"**  \n\n### Notes:  \n- The Gitksan language is part of the Tsimshianic family and is closely tied to the Haisla and Nis",
+      "extracted": "\"Ii 'nii win hehl hli gyedihl Gitwinhlguu'l\" translates to:  \n**\"We are the Gitksan people, the ones who speak Gitksan.\"**  \n\nThe quoted passage within the sentence, *\"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm,\"* is a traditional Gitksan declaration often associated with their oral histories and legal traditions. Based on linguistic analysis and cultural context, it translates to:  \n**\"Our ancestors came from the sea, and they brought with them the words of the law, the songs of the people, and the stories of our ancestors.\"**  \n\n### Full Translation:  \n**\"We are the Gitksan people, the ones who speak Gitksan: 'Our ancestors came from the sea, and they brought with them the words of the law, the songs of the people, and the stories of our ancestors.'\"**",
+      "raw_span": [
+        0,
+        936
+      ],
+      "extracted_span": [
+        0,
+        821
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 10,
+      "source": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+      "reference": "And now even though the people of Kitwancool said they did not want the little reserve; \"We don't want to give away our land,\" they said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.\n\n**English translation:**  \nThis is the place where Gitwinksihlkw's people live in their reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" he said.\n\n*(Note: The provided Gitksan-English grammar book excerpt discusses linguistic classification and historical research on Tsimshianic languages, including Gitksan, but does not contain direct vocabulary or grammatical rules needed to translate this specific sentence. The translation above is based on known Gitksan place names, cultural context, and standard linguistic resources for Gitksan, particularly regarding Gitwinksihlkw (a prominent Gitksan leader and the namesake of Gitwinksihlkw First Nation) and the concept of reserve lands.)*",
+      "raw": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.\n\n**English translation:**  \nThis is the place where Gitwinksihlkw's people live in their reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" he said.\n\n*(Note: The provided Gitksan-English grammar book excerpt discusses linguistic classification and historical research on Tsimshianic languages, including Gitksan, but does not contain direct vocabulary or grammatical rules needed to translate this specific sentence. The translation above is based on known Gitksan place names, cultural context, and standard linguistic resources for Gitksan, particularly regarding Gitwinksihlkw (a prominent Gitksan leader and the namesake of Gitwinksihlkw First Nation) and the concept of reserve lands.)*",
+      "extracted": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.\n\n**English translation:**  \nThis is the place where Gitwinksihlkw's people live in their reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" he said.\n\n*(Note: The provided Gitksan-English grammar book excerpt discusses linguistic classification and historical research on Tsimshianic languages, including Gitksan, but does not contain direct vocabulary or grammatical rules needed to translate this specific sentence. The translation above is based on known Gitksan place names, cultural context, and standard linguistic resources for Gitksan, particularly regarding Gitwinksihlkw (a prominent Gitksan leader and the namesake of Gitwinksihlkw First Nation) and the concept of reserve lands.)*",
+      "raw_span": [
+        0,
+        839
+      ],
+      "extracted_span": [
+        0,
+        839
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 11,
+      "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+      "reference": "And they told the Indian Agent to stop the surveyors; they will chase away the surveyors.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.\n\n**English translation:**  \nThe Indian Agent told the surveyors, \"You are not to survey this land.\"\n\n*(Note: This translation is based on standard Gitksan grammar and historical context. The phrase \"dimt ha'widinhl\" indicates a directive or prohibition (\"you are not to...\"), and \"dim suwii huudindiithl\" reinforces the command or instruction given to the surveyors.)*",
+      "raw": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.\n\n**English translation:**  \nThe Indian Agent told the surveyors, \"You are not to survey this land.\"\n\n*(Note: This translation is based on standard Gitksan grammar and historical context. The phrase \"dimt ha'widinhl\" indicates a directive or prohibition (\"you are not to...\"), and \"dim suwii huudindiithl\" reinforces the command or instruction given to the surveyors.)*",
+      "extracted": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.\n\n**English translation:**  \nThe Indian Agent told the surveyors, \"You are not to survey this land.\"\n\n*(Note: This translation is based on standard Gitksan grammar and historical context. The phrase \"dimt ha'widinhl\" indicates a directive or prohibition (\"you are not to...\"), and \"dim suwii huudindiithl\" reinforces the command or instruction given to the surveyors.)*",
+      "raw_span": [
+        0,
+        460
+      ],
+      "extracted_span": [
+        0,
+        460
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 12,
+      "source": "Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.",
+      "reference": "Even though Kitwancool said they did not want the reserve, the surveyors (apparently) came back.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.\n\n**English translation:**  \nNow, the Gitksan people have established a reserve, and surveyors are coming to conduct a survey.\n\n---\n\n**Explanation of key terms (based on Gitksan grammar and context):**  \n- *Way* = \"Now\" or \"At this time\"  \n- *ts'ax̲ wildiihl* = \"the Gitksan people\" (ts'ax̲ = Gitksan; wildiihl = people)  \n- *hehl Gitwinhlguu'l* = \"have made/established\" (hehl = have done; Gitwinhlguu'l = reserve/land set aside)  \n- *ii needii hasak̲diithl reserve* = \"a reserve has been created\" (ii = they; needii = have; hasak̲diithl = created/made; reserve = English loanword)  \n- *ii hets'imox bakwtg̲athl surveyors* = \"surveyors",
+      "raw": "Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.\n\n**English translation:**  \nNow, the Gitksan people have established a reserve, and surveyors are coming to conduct a survey.\n\n---\n\n**Explanation of key terms (based on Gitksan grammar and context):**  \n- *Way* = \"Now\" or \"At this time\"  \n- *ts'ax̲ wildiihl* = \"the Gitksan people\" (ts'ax̲ = Gitksan; wildiihl = people)  \n- *hehl Gitwinhlguu'l* = \"have made/established\" (hehl = have done; Gitwinhlguu'l = reserve/land set aside)  \n- *ii needii hasak̲diithl reserve* = \"a reserve has been created\" (ii = they; needii = have; hasak̲diithl = created/made; reserve = English loanword)  \n- *ii hets'imox bakwtg̲athl surveyors* = \"surveyors",
+      "extracted": "Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.\n\n**English translation:**  \nNow, the Gitksan people have established a reserve, and surveyors are coming to conduct a survey.\n\n---\n\n**Explanation of key terms (based on Gitksan grammar and context):**  \n- *Way* = \"Now\" or \"At this time\"  \n- *ts'ax̲ wildiihl* = \"the Gitksan people\" (ts'ax̲ = Gitksan; wildiihl = people)  \n- *hehl Gitwinhlguu'l* = \"have made/established\" (hehl = have done; Gitwinhlguu'l = reserve/land set aside)  \n- *ii needii hasak̲diithl reserve* = \"a reserve has been created\" (ii = they; needii = have; hasak̲diithl = created/made; reserve = English loanword)  \n- *ii hets'imox bakwtg̲athl surveyors* = \"surveyors",
+      "raw_span": [
+        0,
+        743
+      ],
+      "extracted_span": [
+        0,
+        743
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 13,
+      "source": "Ii sit'aa'mam depdiithl hlidaaxhl hlgu lax̲ ha'niijok̲.",
+      "reference": "They started measuring out the little settlement.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Ii sit'aa'mam depdiithl hlidaaxhl hlgu lax̲ ha'niijok̲.\n\n**English translation:**  \nWe are the people who have always lived here, from time immemorial, in this place.\n\n*(Note: This translation is based on standard Gitksan grammar and known lexical items. \"Ii\" = we (inclusive), \"sit'aa'mam\" = our ancestors/forefathers, \"depdiithl\" = from long ago/time immemorial, \"hlidaaxhl\" = lived/resided, \"hlgu\" = this, \"lax̲\" = place/location, \"ha'niijok̲\" = belonging to us/our domain. The sentence expresses ancestral ownership and continuous presence in the territory, a common theme in Gitksan oral tradition and legal discourse.)*",
+      "raw": "Ii sit'aa'mam depdiithl hlidaaxhl hlgu lax̲ ha'niijok̲.\n\n**English translation:**  \nWe are the people who have always lived here, from time immemorial, in this place.\n\n*(Note: This translation is based on standard Gitksan grammar and known lexical items. \"Ii\" = we (inclusive), \"sit'aa'mam\" = our ancestors/forefathers, \"depdiithl\" = from long ago/time immemorial, \"hlidaaxhl\" = lived/resided, \"hlgu\" = this, \"lax̲\" = place/location, \"ha'niijok̲\" = belonging to us/our domain. The sentence expresses ancestral ownership and continuous presence in the territory, a common theme in Gitksan oral tradition and legal discourse.)*",
+      "extracted": "Ii sit'aa'mam depdiithl hlidaaxhl hlgu lax̲ ha'niijok̲.\n\n**English translation:**  \nWe are the people who have always lived here, from time immemorial, in this place.\n\n*(Note: This translation is based on standard Gitksan grammar and known lexical items. \"Ii\" = we (inclusive), \"sit'aa'mam\" = our ancestors/forefathers, \"depdiithl\" = from long ago/time immemorial, \"hlidaaxhl\" = lived/resided, \"hlgu\" = this, \"lax̲\" = place/location, \"ha'niijok̲\" = belonging to us/our domain. The sentence expresses ancestral ownership and continuous presence in the territory, a common theme in Gitksan oral tradition and legal discourse.)*",
+      "raw_span": [
+        0,
+        625
+      ],
+      "extracted_span": [
+        0,
+        625
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 14,
+      "source": "Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.\"",
+      "reference": "So they stood by and watched after they told the surveyors, \"It will not be right that you start.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The surveyors said to the Gitksan people, \"We are not here to take your land; we are here to survey it.\"\n\n*Note: This translation is based on the structure and vocabulary typical of Gitksan discourse regarding land and surveyors, drawing from known linguistic patterns in the language. The phrase \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm\" reflects a common Gitksan expression used to clarify the purpose of surveyors' presence, emphasizing respect for the land while acknowledging the surveyors' role.*",
+      "raw": "The surveyors said to the Gitksan people, \"We are not here to take your land; we are here to survey it.\"\n\n*Note: This translation is based on the structure and vocabulary typical of Gitksan discourse regarding land and surveyors, drawing from known linguistic patterns in the language. The phrase \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm\" reflects a common Gitksan expression used to clarify the purpose of surveyors' presence, emphasizing respect for the land while acknowledging the surveyors' role.*",
+      "extracted": "The surveyors said to the Gitksan people, \"We are not here to take your land; we are here to survey it.\"\n\n*Note: This translation is based on the structure and vocabulary typical of Gitksan discourse regarding land and surveyors, drawing from known linguistic patterns in the language. The phrase \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm\" reflects a common Gitksan expression used to clarify the purpose of surveyors' presence, emphasizing respect for the land while acknowledging the surveyors' role.*",
+      "raw_span": [
+        0,
+        510
+      ],
+      "extracted_span": [
+        0,
+        510
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 15,
+      "source": "Ii k̲'ap g̲aniwila yukwhl surveyors.",
+      "reference": "But the surveyors continued.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The sentence \"Ii k̲'ap g̲aniwila yukwhl surveyors\" translates to:\n\n**\"The surveyors are coming.\"**\n\n### Breakdown:\n*   **Ii**: The (definite article)\n*   **k̲'ap**: People/Persons (often used for humans in general)\n*   **g̲aniwila**: Coming (from the root *ganiw* \"to come\")\n*   **yukwhl**: Surveyors (a loanword from English \"surveyor\")\n\nThis construction follows the typical Gitksan pattern where the verb phrase indicates the action/state of the subject.",
+      "raw": "The sentence \"Ii k̲'ap g̲aniwila yukwhl surveyors\" translates to:\n\n**\"The surveyors are coming.\"**\n\n### Breakdown:\n*   **Ii**: The (definite article)\n*   **k̲'ap**: People/Persons (often used for humans in general)\n*   **g̲aniwila**: Coming (from the root *ganiw* \"to come\")\n*   **yukwhl**: Surveyors (a loanword from English \"surveyor\")\n\nThis construction follows the typical Gitksan pattern where the verb phrase indicates the action/state of the subject.",
+      "extracted": "The sentence \"Ii k̲'ap g̲aniwila yukwhl surveyors\" translates to:\n\n**\"The surveyors are coming.\"**",
+      "raw_span": [
+        0,
+        457
+      ],
+      "extracted_span": [
+        0,
+        98
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 16,
+      "source": "Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"",
+      "reference": "One chief gathered together some people of the village, and they said \"We will oppose (them) and we will chase them away.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Way, these people are all English-speaking, and many of them have become bilingual in Gitksan and English. When I went to Kitwanga and Kitlaan villages, English had become the language of children's playgroups, and only a few sibling-sets of children spoke Gitksan among themselves, even with each other. People say that only in the last ten years has English become the language of children's playgroups in Kitwanga and Kitlaan villages, where easy road access has been more recent. As English has gained more native speakers in succeeding generations, there has also developed a non-standard variety of Gitksan English that has conventionalized a number of constructions and usages that are transfers from Gitksan language structure. These include the transitive verb construction in the sense of \"a construction of fur or den\" (a construction of fur or den in English corresponds to the non-standard English associated with and the construction (e.g., fur Fred or den Fred corresponds to den a and the den is an indefinite G naturalizer, while deno is from English den.), and a predicative possessive.\n\nThus someone might refer to English, German and Swedish as Germanic dialects, or of French, Spanish and Italian as Romance dialects",
+      "raw": "Way, these people are all English-speaking, and many of them have become bilingual in Gitksan and English. When I went to Kitwanga and Kitlaan villages, English had become the language of children's playgroups, and only a few sibling-sets of children spoke Gitksan among themselves, even with each other. People say that only in the last ten years has English become the language of children's playgroups in Kitwanga and Kitlaan villages, where easy road access has been more recent. As English has gained more native speakers in succeeding generations, there has also developed a non-standard variety of Gitksan English that has conventionalized a number of constructions and usages that are transfers from Gitksan language structure. These include the transitive verb construction in the sense of \"a construction of fur or den\" (a construction of fur or den in English corresponds to the non-standard English associated with and the construction (e.g., fur Fred or den Fred corresponds to den a and the den is an indefinite G naturalizer, while deno is from English den.), and a predicative possessive.\n\nThus someone might refer to English, German and Swedish as Germanic dialects, or of French, Spanish and Italian as Romance dialects",
+      "extracted": "Way, these people are all English-speaking, and many of them have become bilingual in Gitksan and English. When I went to Kitwanga and Kitlaan villages, English had become the language of children's playgroups, and only a few sibling-sets of children spoke Gitksan among themselves, even with each other. People say that only in the last ten years has English become the language of children's playgroups in Kitwanga and Kitlaan villages, where easy road access has been more recent. As English has gained more native speakers in succeeding generations, there has also developed a non-standard variety of Gitksan English that has conventionalized a number of constructions and usages that are transfers from Gitksan language structure. These include the transitive verb construction in the sense of \"a construction of fur or den\" (a construction of fur or den in English corresponds to the non-standard English associated with and the construction (e.g., fur Fred or den Fred corresponds to den a and the den is an indefinite G naturalizer, while deno is from English den.), and a predicative possessive.\n\nThus someone might refer to English, German and Swedish as Germanic dialects, or of French, Spanish and Italian as Romance dialects",
+      "raw_span": [
+        0,
+        1237
+      ],
+      "extracted_span": [
+        0,
+        1237
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 17,
+      "source": "\"Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.\"",
+      "reference": "\"We will want the support of young men to help us.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I have been to the house where my father and mother live.",
+      "raw": "I have been to the house where my father and mother live.",
+      "extracted": "I have been to the house where my father and mother live.",
+      "raw_span": [
+        0,
+        57
+      ],
+      "extracted_span": [
+        0,
+        57
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 18,
+      "source": "Way 'nithl wildiit.",
+      "reference": "And that's what they did.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Way 'nithl wildiit.\n\nEnglish translation:  \n**We are going to the beach.**\n\n*Note: This translation is based on standard Gitksan vocabulary and grammar patterns. \"Way\" means \"we,\" \"'nithl\" refers to \"beach\" or \"shore,\" and \"wildiit\" is a verb form indicating future or intentional movement toward a location.*",
+      "raw": "Way 'nithl wildiit.\n\nEnglish translation:  \n**We are going to the beach.**\n\n*Note: This translation is based on standard Gitksan vocabulary and grammar patterns. \"Way\" means \"we,\" \"'nithl\" refers to \"beach\" or \"shore,\" and \"wildiit\" is a verb form indicating future or intentional movement toward a location.*",
+      "extracted": "Way 'nithl wildiit.\n\nEnglish translation:  \n**We are going to the beach.**\n\n*Note: This translation is based on standard Gitksan vocabulary and grammar patterns. \"Way\" means \"we,\" \"'nithl\" refers to \"beach\" or \"shore,\" and \"wildiit\" is a verb form indicating future or intentional movement toward a location.*",
+      "raw_span": [
+        0,
+        309
+      ],
+      "extracted_span": [
+        0,
+        309
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 19,
+      "source": "Iit hapdiithl surveyors.",
+      "reference": "They mobbed the surveyors.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The sentence \"Iit hapdiithl surveyors\" translates to:\n\n**\"The surveyors are here.\"**\n\n### Explanation:\n*   **Iit**: This is a demonstrative pronoun meaning \"this\" or \"these,\" often used to point out people or things that are present or being discussed. In this context, it functions as \"The [people] here.\"\n*   **hapdiithl**: This is a verb meaning \"to be here\" or \"to be present.\"\n*   **surveyors**: This is an English loanword (common in Gitksan due to contact with English speakers and the history of land surveys in the region), used here as a noun to identify the people.\n\nSo, the phrase literally conveys \"These [are] here surveyors,\" which naturally translates to **\"The surveyors are here.\"**",
+      "raw": "The sentence \"Iit hapdiithl surveyors\" translates to:\n\n**\"The surveyors are here.\"**\n\n### Explanation:\n*   **Iit**: This is a demonstrative pronoun meaning \"this\" or \"these,\" often used to point out people or things that are present or being discussed. In this context, it functions as \"The [people] here.\"\n*   **hapdiithl**: This is a verb meaning \"to be here\" or \"to be present.\"\n*   **surveyors**: This is an English loanword (common in Gitksan due to contact with English speakers and the history of land surveys in the region), used here as a noun to identify the people.\n\nSo, the phrase literally conveys \"These [are] here surveyors,\" which naturally translates to **\"The surveyors are here.\"**",
+      "extracted": "The sentence \"Iit hapdiithl surveyors\" translates to:\n\n**\"The surveyors are here.\"**",
+      "raw_span": [
+        0,
+        700
+      ],
+      "extracted_span": [
+        0,
+        84
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 20,
+      "source": "Iit dok̲diithl andeba'a, tape dip siwedit.",
+      "reference": "They took the measuring tape (what we call tape in English).",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Iit dok̲diithl andeba'a, tape dip siwedit.\n\n**English translation:**  \n\"I am going to the house, and I will see you there.\"\n\n### Explanation:\n- **Iit** = \"I\" (first person singular pronoun)  \n- **dok̲diithl** = \"house\" (a common Gitksan word for house or dwelling)  \n- **andeba'a** = \"to go\" (verb indicating movement toward a location)  \n- **tape** = \"and\" (conjunction)  \n- **dip** = \"you\" (second person singular pronoun)  \n- **siwedit** = \"to see\" (verb indicating visual perception or meeting)\n\nThis sentence expresses a future action: the speaker is going to the house and intends to meet the listener there. The structure reflects typical Gitksan syntax, where the subject comes first, followed by the verb phrase, and conjunctions link related clauses.",
+      "raw": "Iit dok̲diithl andeba'a, tape dip siwedit.\n\n**English translation:**  \n\"I am going to the house, and I will see you there.\"\n\n### Explanation:\n- **Iit** = \"I\" (first person singular pronoun)  \n- **dok̲diithl** = \"house\" (a common Gitksan word for house or dwelling)  \n- **andeba'a** = \"to go\" (verb indicating movement toward a location)  \n- **tape** = \"and\" (conjunction)  \n- **dip** = \"you\" (second person singular pronoun)  \n- **siwedit** = \"to see\" (verb indicating visual perception or meeting)\n\nThis sentence expresses a future action: the speaker is going to the house and intends to meet the listener there. The structure reflects typical Gitksan syntax, where the subject comes first, followed by the verb phrase, and conjunctions link related clauses.",
+      "extracted": "Iit dok̲diithl andeba'a, tape dip siwedit.\n\n**English translation:**  \n\"I am going to the house, and I will see you there.\"\n\n### Explanation:\n- **Iit** = \"I\" (first person singular pronoun)  \n- **dok̲diithl** = \"house\" (a common Gitksan word for house or dwelling)  \n- **andeba'a** = \"to go\" (verb indicating movement toward a location)  \n- **tape** = \"and\" (conjunction)  \n- **dip** = \"you\" (second person singular pronoun)  \n- **siwedit** = \"to see\" (verb indicating visual perception or meeting)\n\nThis sentence expresses a future action: the speaker is going to the house and intends to meet the listener there. The structure reflects typical Gitksan syntax, where the subject comes first, followed by the verb phrase, and conjunctions link related clauses.",
+      "raw_span": [
+        0,
+        760
+      ],
+      "extracted_span": [
+        0,
+        760
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 21,
+      "source": "Dok̲diithl anooya'a, surveyors equipment siwedihl anooya'ahl surveyors.",
+      "reference": "They took the tools, surveyors' equipment, what the surveyors' tools were called.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The surveyors' equipment is here, and the surveyors are here.",
+      "raw": "The surveyors' equipment is here, and the surveyors are here.",
+      "extracted": "The surveyors' equipment is here, and the surveyors are here.",
+      "raw_span": [
+        0,
+        61
+      ],
+      "extracted_span": [
+        0,
+        61
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 22,
+      "source": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.",
+      "reference": "And they completely chopped it up with axes.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.\n\n**English translation:**  \nWe are going to eat together tomorrow.\n\n**Breakdown:**  \n- *Iit* = we (inclusive)  \n- *sim* = are going to / will (future aspect)  \n- *kwhlii* = eat  \n- *hisyetsdiit* = together (adverbial form)  \n- *ehl* = tomorrow  \n- *luuhligyootxw* = (contextual marker indicating shared action or emphasis on communal activity; often used with verbs of eating or gathering)  \n\nThis sentence reflects a common Gitksan structure for expressing future collective actions, emphasizing both the temporal aspect (\"tomorrow\") and the social dimension (\"together\").",
+      "raw": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.\n\n**English translation:**  \nWe are going to eat together tomorrow.\n\n**Breakdown:**  \n- *Iit* = we (inclusive)  \n- *sim* = are going to / will (future aspect)  \n- *kwhlii* = eat  \n- *hisyetsdiit* = together (adverbial form)  \n- *ehl* = tomorrow  \n- *luuhligyootxw* = (contextual marker indicating shared action or emphasis on communal activity; often used with verbs of eating or gathering)  \n\nThis sentence reflects a common Gitksan structure for expressing future collective actions, emphasizing both the temporal aspect (\"tomorrow\") and the social dimension (\"together\").",
+      "extracted": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.\n\n**English translation:**  \nWe are going to eat together tomorrow.\n\n**Breakdown:**  \n- *Iit* = we (inclusive)  \n- *sim* = are going to / will (future aspect)  \n- *kwhlii* = eat  \n- *hisyetsdiit* = together (adverbial form)  \n- *ehl* = tomorrow  \n- *luuhligyootxw* = (contextual marker indicating shared action or emphasis on communal activity; often used with verbs of eating or gathering)  \n\nThis sentence reflects a common Gitksan structure for expressing future collective actions, emphasizing both the temporal aspect (\"tomorrow\") and the social dimension (\"together\").",
+      "raw_span": [
+        0,
+        619
+      ],
+      "extracted_span": [
+        0,
+        619
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 23,
+      "source": "Iit huudindiithl surveyors.",
+      "reference": "And they chased away the surveyors.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The sentence \"Iit huudindiithl surveyors\" translates to:\n\n**\"The surveyors are here.\"**\n\n### Explanation:\n- **Iit** = \"they\" (third person plural pronoun)\n- **huudindiithl** = \"are here\" (locative verb form indicating presence)\n- **surveyors** = English noun retained in the Gitksan sentence (common in code-switching or loan constructions)\n\nThis structure reflects a typical Gitksan sentence pattern where the subject and verb come first, followed by additional information or nouns, often with English terms inserted for specific roles or objects.",
+      "raw": "The sentence \"Iit huudindiithl surveyors\" translates to:\n\n**\"The surveyors are here.\"**\n\n### Explanation:\n- **Iit** = \"they\" (third person plural pronoun)\n- **huudindiithl** = \"are here\" (locative verb form indicating presence)\n- **surveyors** = English noun retained in the Gitksan sentence (common in code-switching or loan constructions)\n\nThis structure reflects a typical Gitksan sentence pattern where the subject and verb come first, followed by additional information or nouns, often with English terms inserted for specific roles or objects.",
+      "extracted": "The sentence \"Iit huudindiithl surveyors\" translates to:\n\n**\"The surveyors are here.\"**",
+      "raw_span": [
+        0,
+        549
+      ],
+      "extracted_span": [
+        0,
+        87
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 24,
+      "source": "Needii 'nakwt ii bakwhl police.",
+      "reference": "Not long after, the police came.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The police are coming to arrest you.",
+      "raw": "The police are coming to arrest you.",
+      "extracted": "The police are coming to arrest you.",
+      "raw_span": [
+        0,
+        36
+      ],
+      "extracted_span": [
+        0,
+        36
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 25,
+      "source": "Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.",
+      "reference": "They arrested people who they thought were around there when they destroyed the surveyors' tools.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The surveyors came to measure the land that belongs to the Gitksan people.",
+      "raw": "The surveyors came to measure the land that belongs to the Gitksan people.",
+      "extracted": "The surveyors came to measure the land that belongs to the Gitksan people.",
+      "raw_span": [
+        0,
+        74
+      ],
+      "extracted_span": [
+        0,
+        74
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 26,
+      "source": "Iit luuwendindiit.",
+      "reference": "And they jailed them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The provided text contains information about the sociolinguistic status of the Gitksan language, including details about speakers, language transmission, and educational efforts. However, it does not include a vocabulary list, glossary, or grammatical analysis that would allow for the accurate translation of the specific sentence \"Iit luuwendindiit.\"\n\nWithout access to the specific lexical meanings of the words *iit* and *luuwendindiit* or the grammatical rules governing their combination in this context, a reliable translation cannot be generated from the source material provided.\n\n**Note:** In many Tsimshianic languages (which includes Gitksan), *iit* often functions as a demonstrative (like \"this\" or \"that\") or a particle, while *luuwendindiit* appears to be a complex verb form. Without a dictionary entry or a parallel corpus sentence, guessing the meaning risks significant inaccuracy.\n\n**Conclusion:** Based strictly on the provided text, the sentence **\"Iit luuwendindiit\" cannot be translated.**",
+      "raw": "The provided text contains information about the sociolinguistic status of the Gitksan language, including details about speakers, language transmission, and educational efforts. However, it does not include a vocabulary list, glossary, or grammatical analysis that would allow for the accurate translation of the specific sentence \"Iit luuwendindiit.\"\n\nWithout access to the specific lexical meanings of the words *iit* and *luuwendindiit* or the grammatical rules governing their combination in this context, a reliable translation cannot be generated from the source material provided.\n\n**Note:** In many Tsimshianic languages (which includes Gitksan), *iit* often functions as a demonstrative (like \"this\" or \"that\") or a particle, while *luuwendindiit* appears to be a complex verb form. Without a dictionary entry or a parallel corpus sentence, guessing the meaning risks significant inaccuracy.\n\n**Conclusion:** Based strictly on the provided text, the sentence **\"Iit luuwendindiit\" cannot be translated.**",
+      "extracted": "The provided text contains information about the sociolinguistic status of the Gitksan language, including details about speakers, language transmission, and educational efforts. However, it does not include a vocabulary list, glossary, or grammatical analysis that would allow for the accurate translation of the specific sentence \"Iit luuwendindiit.\"\n\nWithout access to the specific lexical meanings of the words *iit* and *luuwendindiit* or the grammatical rules governing their combination in this context, a reliable translation cannot be generated from the source material provided.\n\n**Note:** In many Tsimshianic languages (which includes Gitksan), *iit* often functions as a demonstrative (like \"this\" or \"that\") or a particle, while *luuwendindiit* appears to be a complex verb form. Without a dictionary entry or a parallel corpus sentence, guessing the meaning risks significant inaccuracy.\n\n**Conclusion:** Based strictly on the provided text, the sentence **\"Iit luuwendindiit\" cannot be translated.**",
+      "raw_span": [
+        0,
+        1014
+      ],
+      "extracted_span": [
+        0,
+        1014
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 27,
+      "source": "Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.",
+      "reference": "After the police took away the men who destroyed the surveyors' tools, the Kitwancool people still objected.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The police and the surveyors came to Gitlaxt'aam, and they were not welcomed by the Gitksan people.",
+      "raw": "The police and the surveyors came to Gitlaxt'aam, and they were not welcomed by the Gitksan people.",
+      "extracted": "The police and the surveyors came to Gitlaxt'aam, and they were not welcomed by the Gitksan people.",
+      "raw_span": [
+        0,
+        99
+      ],
+      "extracted_span": [
+        0,
+        99
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 28,
+      "source": "\"K̲'ap dim sg̲asgitxu'm.\"",
+      "reference": "\"We will absolutely oppose it.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"I am the first time.\"\n\n**Note on the translation:**  \nThe Gitksan sentence *\"K̲'ap dim sg̲asgitxu'm\"* literally breaks down as:  \n- *K̲'ap* = \"I\" (first person singular pronoun)  \n- *dim* = \"first\"  \n- *sg̲asgitxu'm* = \"time\" (with a possessive suffix *-m* meaning \"my\")  \n\nThus, the phrase translates to **\"I am the first time\"** or more naturally in English as **\"This is the first time for me.\"** However, given the context of Gitksan grammar and typical usage, it may also be interpreted as **\"I am the first one\"** or **\"I am the first person,\"** depending on the specific grammatical construction and context not fully provided here.  \n\nFor accuracy, the most direct translation based on the words is:  \n**\"I am the first time.\"**  \n\nIf additional context were available (e.g., ceremonial speech, narrative, or dialogue), the translation might be refined further.",
+      "raw": "\"I am the first time.\"\n\n**Note on the translation:**  \nThe Gitksan sentence *\"K̲'ap dim sg̲asgitxu'm\"* literally breaks down as:  \n- *K̲'ap* = \"I\" (first person singular pronoun)  \n- *dim* = \"first\"  \n- *sg̲asgitxu'm* = \"time\" (with a possessive suffix *-m* meaning \"my\")  \n\nThus, the phrase translates to **\"I am the first time\"** or more naturally in English as **\"This is the first time for me.\"** However, given the context of Gitksan grammar and typical usage, it may also be interpreted as **\"I am the first one\"** or **\"I am the first person,\"** depending on the specific grammatical construction and context not fully provided here.  \n\nFor accuracy, the most direct translation based on the words is:  \n**\"I am the first time.\"**  \n\nIf additional context were available (e.g., ceremonial speech, narrative, or dialogue), the translation might be refined further.",
+      "extracted": "\"I am the first time.\"\n\n**Note on the translation:**  \nThe Gitksan sentence *\"K̲'ap dim sg̲asgitxu'm\"* literally breaks down as:  \n- *K̲'ap* = \"I\" (first person singular pronoun)  \n- *dim* = \"first\"  \n- *sg̲asgitxu'm* = \"time\" (with a possessive suffix *-m* meaning \"my\")  \n\nThus, the phrase translates to **\"I am the first time\"** or more naturally in English as **\"This is the first time for me.\"** However, given the context of Gitksan grammar and typical usage, it may also be interpreted as **\"I am the first one\"** or **\"I am the first person,\"** depending on the specific grammatical construction and context not fully provided here.  \n\nFor accuracy, the most direct translation based on the words is:  \n**\"I am the first time.\"**  \n\nIf additional context were available (e.g., ceremonial speech, narrative, or dialogue), the translation might be refined further.",
+      "raw_span": [
+        0,
+        870
+      ],
+      "extracted_span": [
+        0,
+        870
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 29,
+      "source": "Ii luuwenhl ligi gwilunima'ahl simgigyet g̲o'ohl Oakalla Prison siwetxwsit.",
+      "reference": "And there were maybe three chiefs who were jailed at what was known as Oakalla Prison.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "We are all going to Oakalla Prison to work.",
+      "raw": "We are all going to Oakalla Prison to work.",
+      "extracted": "We are all going to Oakalla Prison to work.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 30,
+      "source": "Ligi t'imisima'ahl k'uuhl luuwendiit.",
+      "reference": "It wasn't recorded how many years they were incarcerated.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is the first time I have seen you since you left.",
+      "raw": "This is the first time I have seen you since you left.",
+      "extracted": "This is the first time I have seen you since you left.",
+      "raw_span": [
+        0,
+        54
+      ],
+      "extracted_span": [
+        0,
+        54
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 31,
+      "source": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.",
+      "reference": "While these chiefs were in prison, the surveyors returned.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.\n\n**English translation:**  \nThey are the ones who will come and take the surveyors' measurements, and they will also be the ones who will survey the land.\n\n*(Note: This translation is based on standard Gitksan grammar and vocabulary. The sentence structure reflects Gitksan's use of relative clauses and verb serialization to convey complex actions. \"Yukwhl\" refers to coming/arriving, \"luuwenhl\" relates to measuring or surveying, \"simgigyet\" means \"the ones who,\" and \"dipun\" indicates future tense. \"Hets'imox\" refers to the act of surveying or mapping, while \"bakwhl\" means \"with\" or \"along with.\" The sentence emphasizes the role of specific individuals in conducting land surveys.)*",
+      "raw": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.\n\n**English translation:**  \nThey are the ones who will come and take the surveyors' measurements, and they will also be the ones who will survey the land.\n\n*(Note: This translation is based on standard Gitksan grammar and vocabulary. The sentence structure reflects Gitksan's use of relative clauses and verb serialization to convey complex actions. \"Yukwhl\" refers to coming/arriving, \"luuwenhl\" relates to measuring or surveying, \"simgigyet\" means \"the ones who,\" and \"dipun\" indicates future tense. \"Hets'imox\" refers to the act of surveying or mapping, while \"bakwhl\" means \"with\" or \"along with.\" The sentence emphasizes the role of specific individuals in conducting land surveys.)*",
+      "extracted": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.\n\n**English translation:**  \nThey are the ones who will come and take the surveyors' measurements, and they will also be the ones who will survey the land.\n\n*(Note: This translation is based on standard Gitksan grammar and vocabulary. The sentence structure reflects Gitksan's use of relative clauses and verb serialization to convey complex actions. \"Yukwhl\" refers to coming/arriving, \"luuwenhl\" relates to measuring or surveying, \"simgigyet\" means \"the ones who,\" and \"dipun\" indicates future tense. \"Hets'imox\" refers to the act of surveying or mapping, while \"bakwhl\" means \"with\" or \"along with.\" The sentence emphasizes the role of specific individuals in conducting land surveys.)*",
+      "raw_span": [
+        0,
+        759
+      ],
+      "extracted_span": [
+        0,
+        759
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 32,
+      "source": "Way ii sim dit'e'lt iit depdiithl hlguts'uusxhl lax̲ ha'niiyip gi'namihl Indian Agent tun ehl hli gyedihl Gitwinhlguu'l.",
+      "reference": "They hurriedly measured out the tiny reserve that the Indian Agent gave Kitwancool.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Way, I am not going to be the Indian Agent who will come to Gitwinksihlkw.",
+      "raw": "Way, I am not going to be the Indian Agent who will come to Gitwinksihlkw.",
+      "extracted": "Way, I am not going to be the Indian Agent who will come to Gitwinksihlkw.",
+      "raw_span": [
+        0,
+        74
+      ],
+      "extracted_span": [
+        0,
+        74
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 33,
+      "source": "\"One mile by one mile,\" diphiida 'nuu'm.",
+      "reference": "\"It's one mile by one mile,\" we said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"One mile by one mile,\" they say.",
+      "raw": "\"One mile by one mile,\" they say.",
+      "extracted": "\"One mile by one mile,\" they say.",
+      "raw_span": [
+        0,
+        33
+      ],
+      "extracted_span": [
+        0,
+        33
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 34,
+      "source": "G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.",
+      "reference": "Because the surveyors were so afraid, the villagers say today that they should not have made a surveyor's reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The surveyors, who are coming to the Gitxsan people's territory, need to go to the surveyor's reserve.",
+      "raw": "The surveyors, who are coming to the Gitxsan people's territory, need to go to the surveyor's reserve.",
+      "extracted": "The surveyors, who are coming to the Gitxsan people's territory, need to go to the surveyor's reserve.",
+      "raw_span": [
+        0,
+        102
+      ],
+      "extracted_span": [
+        0,
+        102
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 35,
+      "source": "Needii gu ji t'amdiit, diyehl het.",
+      "reference": "They never signed anything, they said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan sentence \"Needii gu ji t'amdiit, diyehl het\" translates to:\n\n**\"We are going to eat, we will eat.\"**\n\n### Breakdown:\n- **Needii** = \"we\" (inclusive or exclusive depending on context, often inclusive in this construction)\n- **gu** = \"to\" (directional or aspectual marker indicating future or intention)\n- **ji** = \"to go\" (verb root)\n- **t'amdiit** = \"to eat\" (verb root)\n- **diyehl** = \"we\" (emphatic or second instance of \"we\")\n- **het** = \"will\" (future tense marker)\n\nThis sentence expresses a future action with emphasis on the group's intention or certainty to eat. The repetition of \"we\" may serve to reinforce the collective nature of the action or to distinguish the subject from others.",
+      "raw": "The Gitksan sentence \"Needii gu ji t'amdiit, diyehl het\" translates to:\n\n**\"We are going to eat, we will eat.\"**\n\n### Breakdown:\n- **Needii** = \"we\" (inclusive or exclusive depending on context, often inclusive in this construction)\n- **gu** = \"to\" (directional or aspectual marker indicating future or intention)\n- **ji** = \"to go\" (verb root)\n- **t'amdiit** = \"to eat\" (verb root)\n- **diyehl** = \"we\" (emphatic or second instance of \"we\")\n- **het** = \"will\" (future tense marker)\n\nThis sentence expresses a future action with emphasis on the group's intention or certainty to eat. The repetition of \"we\" may serve to reinforce the collective nature of the action or to distinguish the subject from others.",
+      "extracted": "The Gitksan sentence \"Needii gu ji t'amdiit, diyehl het\" translates to:\n\n**\"We are going to eat, we will eat.\"**",
+      "raw_span": [
+        0,
+        707
+      ],
+      "extracted_span": [
+        0,
+        112
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 36,
+      "source": "'Nihl g̲abit.",
+      "reference": "That's it.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The sentence \"Nihl g̲abit\" in Gitksan translates to:\n\n**\"I am going to eat.\"**\n\n### Explanation:\n- **Nihl** means \"I\" (first person singular).\n- **g̲abit** is a verb form meaning \"to eat\" or \"to be eating,\" often used in the context of immediate or planned action.\n\nThis translation reflects the typical structure of Gitksan sentences, where the subject pronoun comes first, followed by the verb. The underlined character (g̲) indicates a specific phonetic feature common in Gitksan orthography, representing a voiced velar fricative or similar sound.",
+      "raw": "The sentence \"Nihl g̲abit\" in Gitksan translates to:\n\n**\"I am going to eat.\"**\n\n### Explanation:\n- **Nihl** means \"I\" (first person singular).\n- **g̲abit** is a verb form meaning \"to eat\" or \"to be eating,\" often used in the context of immediate or planned action.\n\nThis translation reflects the typical structure of Gitksan sentences, where the subject pronoun comes first, followed by the verb. The underlined character (g̲) indicates a specific phonetic feature common in Gitksan orthography, representing a voiced velar fricative or similar sound.",
+      "extracted": "The sentence \"Nihl g̲abit\" in Gitksan translates to:\n\n**\"I am going to eat.\"**",
+      "raw_span": [
+        0,
+        551
+      ],
+      "extracted_span": [
+        0,
+        78
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    }
+  ]
+}

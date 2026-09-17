@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "57a8ab3cba93000b9a835aec2afe45af462474f946eaae9a423f91662a436fcc",
+      "83e260a1fb778891f0a76a206ef46a021bdb2e6de5b0f7f91d86a36571d29052"
+    ],
+    "scores": [
+      "504de746d5a8cb042eb1b1917fe5b9a6c4e7f7648a4680b06505a6d4d79cc185",
+      "714289df4fffff95d3873e8dac78f766d56a07896d40dbcc529171c7f646786c"
+    ],
+    "view": "extracted"
+  },
+  "tests": [
+    {
+      "model": "qwen3",
+      "source": "lezgi",
+      "language": "lezgi",
+      "condition": "ge",
+      "method": "shot",
+      "left": "matched_qwen3_lezgi_shot",
+      "right": "mtob_qwen3_lezgi_ge",
+      "view": "extracted",
+      "num_examples": 87,
+      "metric": "BLEU",
+      "left_score": 6.257831418686951,
+      "right_score": 0.2544623355571416,
+      "delta_right_minus_left": -6.00336908312981,
+      "p_raw": 0.059539404605953944,
+      "p_sacrebleu": 0.059539404605953944,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.19882415798056255,
+      "right_ci95_halfwidth": 0.2600229498957593,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen3",
+      "source": "lezgi",
+      "language": "lezgi",
+      "condition": "ge",
+      "method": "shot",
+      "left": "matched_qwen3_lezgi_shot",
+      "right": "mtob_qwen3_lezgi_ge",
+      "view": "extracted",
+      "num_examples": 87,
+      "metric": "chrF",
+      "left_score": 22.93010859341349,
+      "right_score": 13.758890386388517,
+      "delta_right_minus_left": -9.171218207024973,
+      "p_raw": 0.0008699913000869992,
+      "p_sacrebleu": 0.0008699913000869992,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 13.786826133728027,
+      "right_ci95_halfwidth": 1.814213752746582,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

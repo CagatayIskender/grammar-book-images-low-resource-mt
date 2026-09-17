@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "554d97c0dffa09bc8601ad6d32cc9d4e7106184e1b37695f218c563d1c5bd7a4",
+      "454c139d4f33d7941157bf72b4720a98496afd42dda42cc57bad718dd9967a16"
+    ],
+    "scores": [
+      "6d89918a546153c781f24f3baa4376afc0d8423f2a48a0e75f85df055e726a71",
+      "d7a90e16e9882faa778eb79256fba566be52f944b36a1b160cc91946d59b9150"
+    ],
+    "view": "raw"
+  },
+  "tests": [
+    {
+      "model": "qwen35",
+      "source": "natugu",
+      "language": "natugu",
+      "condition": "gs",
+      "method": "shot",
+      "left": "matched_qwen35_natugu_shot",
+      "right": "mtob_qwen35_natugu_gs",
+      "view": "raw",
+      "num_examples": 99,
+      "metric": "BLEU",
+      "left_score": 2.5578722298001177,
+      "right_score": 1.8645783347949378,
+      "delta_right_minus_left": -0.6932938950051799,
+      "p_raw": 0.16858831411685885,
+      "p_sacrebleu": 0.16858831411685885,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 1.875855110217136,
+      "right_ci95_halfwidth": 1.2268516392230118,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen35",
+      "source": "natugu",
+      "language": "natugu",
+      "condition": "gs",
+      "method": "shot",
+      "left": "matched_qwen35_natugu_shot",
+      "right": "mtob_qwen35_natugu_gs",
+      "view": "raw",
+      "num_examples": 99,
+      "metric": "chrF",
+      "left_score": 21.45767764428266,
+      "right_score": 18.569581684390503,
+      "delta_right_minus_left": -2.8880959598921585,
+      "p_raw": 0.022989770102298978,
+      "p_sacrebleu": 0.022989770102298978,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 18.602108001708984,
+      "right_ci95_halfwidth": 2.6638641357421875,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

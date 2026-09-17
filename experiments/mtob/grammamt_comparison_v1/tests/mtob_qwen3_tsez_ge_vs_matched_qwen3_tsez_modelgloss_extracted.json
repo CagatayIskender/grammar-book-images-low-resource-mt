@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "6234d63b75d5360eab79f21faef36f1ab57498f65673cc7f6fa88dbf6af7045d",
+      "04aaedf9aae52c76c09207de5a1e19bb896ced5988e6d53cedce416664c89d84"
+    ],
+    "scores": [
+      "1222c52df65006c22975548e9436f5f3e0b0600a71c6e1b3657386d41999dd0b",
+      "1f582537953183a4f93d3bd02b0e2e4f7b3ce0a9e8e61e18733eeeef72ebe83e"
+    ],
+    "view": "extracted"
+  },
+  "tests": [
+    {
+      "model": "qwen3",
+      "source": "tsez",
+      "language": "tsez",
+      "condition": "ge",
+      "method": "modelgloss",
+      "left": "matched_qwen3_tsez_modelgloss",
+      "right": "mtob_qwen3_tsez_ge",
+      "view": "extracted",
+      "num_examples": 445,
+      "metric": "BLEU",
+      "left_score": 8.670345637042328,
+      "right_score": 0.10361834541112122,
+      "delta_right_minus_left": -8.566727291631206,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.07537315444919752,
+      "right_ci95_halfwidth": 0.08354478034741998,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen3",
+      "source": "tsez",
+      "language": "tsez",
+      "condition": "ge",
+      "method": "modelgloss",
+      "left": "matched_qwen3_tsez_modelgloss",
+      "right": "mtob_qwen3_tsez_ge",
+      "view": "extracted",
+      "num_examples": 445,
+      "metric": "chrF",
+      "left_score": 40.61669981576417,
+      "right_score": 15.460308602103012,
+      "delta_right_minus_left": -25.15639121366116,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 15.46158218383789,
+      "right_ci95_halfwidth": 0.5726132392883301,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

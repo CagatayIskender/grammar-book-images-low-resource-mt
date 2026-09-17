@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "f511655c92a82647c1619f37759dbb2f4df9baab2b08ad2ce7f9b5ac38912e0f",
+      "6f9a55dce45d0ce7bb3f732e8efa06ae858ba7b632926f0e16d7adbdffe40485"
+    ],
+    "scores": [
+      "5a1d0b9145deaf115e8dd411ad0e5d911c9be818e1fca42396df53ada6d236e7",
+      "3c715c08693d223d226a19afb7a32fd0a833152b8a1b4078cdc3f011d1ab8062"
+    ],
+    "view": "extracted"
+  },
+  "tests": [
+    {
+      "model": "qwen3",
+      "source": "tsez",
+      "language": "tsez",
+      "condition": "gs",
+      "method": "shot",
+      "left": "matched_qwen3_tsez_shot",
+      "right": "mtob_qwen3_tsez_gs",
+      "view": "extracted",
+      "num_examples": 445,
+      "metric": "BLEU",
+      "left_score": 0.9938841010494961,
+      "right_score": 0.0,
+      "delta_right_minus_left": -0.9938841010494961,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.0,
+      "right_ci95_halfwidth": 0.0,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen3",
+      "source": "tsez",
+      "language": "tsez",
+      "condition": "gs",
+      "method": "shot",
+      "left": "matched_qwen3_tsez_shot",
+      "right": "mtob_qwen3_tsez_gs",
+      "view": "extracted",
+      "num_examples": 445,
+      "metric": "chrF",
+      "left_score": 20.02700893803916,
+      "right_score": 16.66670835549217,
+      "delta_right_minus_left": -3.3603005825469907,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 16.668033599853516,
+      "right_ci95_halfwidth": 0.58160400390625,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

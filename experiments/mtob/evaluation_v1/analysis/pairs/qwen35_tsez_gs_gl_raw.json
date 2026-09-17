@@ -1,0 +1,54 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "c9574955d317b02798027e56b15ee8109dacb4c63e6a7f7fd857c7262a5ac825",
+    "records": [
+      "134c3475c7905991ab88d63633b09c1650bc332636351fedacd5d7e07f00e736",
+      "c4672a669b33d4a6e4029eb0dd2620bdd3efff829c121cc09737fa585fcaf418"
+    ],
+    "metrics": [
+      "f65784f5f4d603b3d56975c079eda495b0eb8dccc222595598c79de9a9d56a55",
+      "41d51a910666e25327115d4997327cb55631f21eda9ec00009fbb1ad8b3b9691"
+    ]
+  },
+  "tests": [
+    {
+      "model": "qwen35",
+      "source": "tsez",
+      "left": "gs",
+      "right": "gl",
+      "view": "raw",
+      "num_examples": 445,
+      "metric": "BLEU",
+      "left_score": 0.0,
+      "right_score": 0.10690941814534251,
+      "delta_right_minus_left": 0.10690941814534251,
+      "p_raw": 0.004979950200497995,
+      "p_sacrebleu": 0.004979950200497995,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.0762014262380922,
+      "right_ci95_halfwidth": 0.08177030911129153,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen35",
+      "source": "tsez",
+      "left": "gs",
+      "right": "gl",
+      "view": "raw",
+      "num_examples": 445,
+      "metric": "chrF",
+      "left_score": 17.93424570629986,
+      "right_score": 14.952743275194125,
+      "delta_right_minus_left": -2.981502431105733,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 14.953689575195312,
+      "right_ci95_halfwidth": 0.5606532096862793,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "075feb429e9ada92e7114f5d2f851b82db4440c3ddfc0aa02125a23fa2d1108f",
+      "5a3c272dec2327c081de4e04984108fe94d1b4a9514c0725cebb79554a30acb6"
+    ],
+    "scores": [
+      "b96635201ed7fbbe80efaadd0d4d611443321667795ca8852b9e1444612ea4f4",
+      "f2125b4b806e84740a44e84a147105c697b33775a3ae1f3080ba519dcea74fba"
+    ],
+    "view": "extracted"
+  },
+  "tests": [
+    {
+      "model": "qwen35",
+      "source": "tsez",
+      "language": "tsez",
+      "condition": "ge",
+      "method": "shot",
+      "left": "matched_qwen35_tsez_shot",
+      "right": "mtob_qwen35_tsez_ge",
+      "view": "extracted",
+      "num_examples": 445,
+      "metric": "BLEU",
+      "left_score": 1.2863421974527696,
+      "right_score": 0.0,
+      "delta_right_minus_left": -1.2863421974527696,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.0,
+      "right_ci95_halfwidth": 0.0,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen35",
+      "source": "tsez",
+      "language": "tsez",
+      "condition": "ge",
+      "method": "shot",
+      "left": "matched_qwen35_tsez_shot",
+      "right": "mtob_qwen35_tsez_ge",
+      "view": "extracted",
+      "num_examples": 445,
+      "metric": "chrF",
+      "left_score": 20.575521405397765,
+      "right_score": 18.43055597334838,
+      "delta_right_minus_left": -2.1449654320493856,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 18.43108558654785,
+      "right_ci95_halfwidth": 0.6252241134643555,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "f2222072e1b2203b3bbbe34047c943bcc7df6d0cdb573c26a5d8a5e29aa7c064",
+      "dec445adf50d1dfadf986969673a2f59a2678aeda8da7f0854be0c2e7d58c072"
+    ],
+    "scores": [
+      "f9387e1af55ec25bed9558ae8fd9bf95ff839cd7b6c144e4c11452c87ec7734b",
+      "98aac9dd82a0945c90d7f210058acc0ecfdc1f9f428abc303b1f3287446fc96f"
+    ],
+    "view": "extracted"
+  },
+  "tests": [
+    {
+      "model": "qwen35",
+      "source": "gitksan_pdf2",
+      "language": "gitksan",
+      "condition": "gs",
+      "method": "chain_gloss",
+      "left": "matched_qwen35_gitksan_chain_gloss",
+      "right": "mtob_qwen35_gitksan_pdf2_gs",
+      "view": "extracted",
+      "num_examples": 37,
+      "metric": "BLEU",
+      "left_score": 2.939150098501362,
+      "right_score": 0.48038871199810484,
+      "delta_right_minus_left": -2.458761386503257,
+      "p_raw": 0.04576954230457696,
+      "p_sacrebleu": 0.04576954230457696,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.38232174253201107,
+      "right_ci95_halfwidth": 0.507311310019172,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen35",
+      "source": "gitksan_pdf2",
+      "language": "gitksan",
+      "condition": "gs",
+      "method": "chain_gloss",
+      "left": "matched_qwen35_gitksan_chain_gloss",
+      "right": "mtob_qwen35_gitksan_pdf2_gs",
+      "view": "extracted",
+      "num_examples": 37,
+      "metric": "chrF",
+      "left_score": 27.356503491543567,
+      "right_score": 19.594229254451076,
+      "delta_right_minus_left": -7.762274237092491,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 19.674152374267578,
+      "right_ci95_halfwidth": 3.321950912475586,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

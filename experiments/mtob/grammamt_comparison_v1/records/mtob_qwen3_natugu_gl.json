@@ -1,0 +1,2282 @@
+{
+  "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+  "records": [
+    {
+      "index": 0,
+      "source": "A' Mama Lesile badr doa kcng pwx trnzmncpeu .",
+      "reference": "But Fr. Leslie with his four students were not there anymore.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "But Mother Lesile said to them, “Hold that wire down and jump across it quickly.”",
+      "raw": "But Mother Lesile said to them, “Hold that wire down and jump across it quickly.”",
+      "extracted": "But Mother Lesile said to them, “Hold that wire down and jump across it quickly.”",
+      "raw_span": [
+        0,
+        81
+      ],
+      "extracted_span": [
+        0,
+        81
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 1,
+      "source": "43 . Dzbede Ne Mr Lore",
+      "reference": "EP 43. Mr. Lore's Group",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The group of Mr. Lore were out in the bush for three weeks.",
+      "raw": "The group of Mr. Lore were out in the bush for three weeks.",
+      "extracted": "The group of Mr. Lore were out in the bush for three weeks.",
+      "raw_span": [
+        0,
+        59
+      ],
+      "extracted_span": [
+        0,
+        59
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 2,
+      "source": "Kx xlrbz trtenge nzycmnekrbz Tzsiu Jon , sc tqrpipebzle kx , “ Awitxpe Jon , mz nzycmne-krm la .",
+      "reference": "When my father heard the speech of Brother John, he said to him, \"Thank you very much John, for that speech of yours.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “Jon, I am the one who is the head of the school.”",
+      "raw": "He said to them, “Jon, I am the one who is the head of the school.”",
+      "extracted": "He said to them, “Jon, I am the one who is the head of the school.”",
+      "raw_span": [
+        0,
+        67
+      ],
+      "extracted_span": [
+        0,
+        67
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 3,
+      "source": "X nzmnclzbzng mrkc tqtuo-ngrm nanycde kzdung leplz .",
+      "reference": "And there were also some people down where his feet were standing.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “What are you cooking?”",
+      "raw": "He said to them, “What are you cooking?”",
+      "extracted": "He said to them, “What are you cooking?”",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 4,
+      "source": "Kx oblvztile rum kc x mcte da kx aletikrng , drtwrde vztx murde trnzpi-krpleu bagr nzrpwa'-krde nzdwatr-krgr mz rum nyz mqngr Ncbr .",
+      "reference": "When he looked over the room and saw what we had done, he was very sad because of his not telling about his forbidding our entering the room belonging to the image of the cross.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are not allowed to go there, because the devil is going to catch you from the top of the ngalinut tree [Canarium]...”",
+      "raw": "He said to them, “You are not allowed to go there, because the devil is going to catch you from the top of the ngalinut tree [Canarium]...”",
+      "extracted": "He said to them, “You are not allowed to go there, because the devil is going to catch you from the top of the ngalinut tree [Canarium]...”",
+      "raw_span": [
+        0,
+        139
+      ],
+      "extracted_span": [
+        0,
+        139
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 5,
+      "source": "Nzmulr nangrlrkitrlr peto a' nrlc boipxm .",
+      "reference": "They wanted to run into the bush but the distance was too far.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Natugu sentence **“Nzmulr nangrlrkitrlr peto a' nrlc boipxm.”** is:\n\n**“The man’s head is not the same as the man’s name.”**\n\n---\n\n### Explanation:\n\nThis sentence is a **comparative** or **contrastive** statement, using the structure of **direct possession** (head = *nzmulr*, name = *nangrlrkitrlr*) and the **negation** *peto* (not) + *a’* (contrastive particle) + *nrlc* (the man’s name) + *boipxm* (same, identical).\n\n- **Nzmulr** = “the man’s head” (direct possession, *nz* = “man”, *mulr* = “head”)\n- **Nangrlrkitrlr** = “the man’s name” (direct possession, *nang* = “name”, *rlrkitrlr* = “man’s”)\n- **Peto** = “not” (negation)\n- **A’** = contrastive particle (used to introduce contrast or difference)\n- **Nrlc**",
+      "raw": "The translation of the Natugu sentence **“Nzmulr nangrlrkitrlr peto a' nrlc boipxm.”** is:\n\n**“The man’s head is not the same as the man’s name.”**\n\n---\n\n### Explanation:\n\nThis sentence is a **comparative** or **contrastive** statement, using the structure of **direct possession** (head = *nzmulr*, name = *nangrlrkitrlr*) and the **negation** *peto* (not) + *a’* (contrastive particle) + *nrlc* (the man’s name) + *boipxm* (same, identical).\n\n- **Nzmulr** = “the man’s head” (direct possession, *nz* = “man”, *mulr* = “head”)\n- **Nangrlrkitrlr** = “the man’s name” (direct possession, *nang* = “name”, *rlrkitrlr* = “man’s”)\n- **Peto** = “not” (negation)\n- **A’** = contrastive particle (used to introduce contrast or difference)\n- **Nrlc**",
+      "extracted": "The translation of the Natugu sentence **“Nzmulr nangrlrkitrlr peto a' nrlc boipxm.”** is:\n\n**“The man’s head is not the same as the man’s name.”**\n\n---",
+      "raw_span": [
+        0,
+        742
+      ],
+      "extracted_span": [
+        0,
+        152
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 6,
+      "source": "Rkalzmqgr badr mrkc x mwitxkr badr mz lclr banyapu nyz skul .",
+      "reference": "We left from there with them and we slept with them in the school's pineapple field.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The teacher said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be",
+      "raw": "The teacher said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be",
+      "extracted": "The teacher said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be",
+      "raw_span": [
+        0,
+        1071
+      ],
+      "extracted_span": [
+        0,
+        1071
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 7,
+      "source": "Mcpxle kcng ncblo kx nangi nidr kcmiti nede .",
+      "reference": "He chose some men who would be his committee.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The man named Mcpxle said, “I am the one who will be the one to do it.”",
+      "raw": "The man named Mcpxle said, “I am the one who will be the one to do it.”",
+      "extracted": "The man named Mcpxle said, “I am the one who will be the one to do it.”",
+      "raw_span": [
+        0,
+        71
+      ],
+      "extracted_span": [
+        0,
+        71
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 8,
+      "source": "Da kx ngi narlue scde mz nzmabz-krde nzalvc-krde lika .",
+      "reference": "His occupation for earning a living was flying fishing kites.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “That is the way of the man who is head of the school and I am also a priest.”",
+      "raw": "He said to them, “That is the way of the man who is head of the school and I am also a priest.”",
+      "extracted": "He said to them, “That is the way of the man who is head of the school and I am also a priest.”",
+      "raw_span": [
+        0,
+        95
+      ],
+      "extracted_span": [
+        0,
+        95
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 9,
+      "source": "Zbz nigr kc tqyapekr rlilrgr .",
+      "reference": "So it was the two of us who paddled off.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “What are you cooking?”",
+      "raw": "He said to them, “What are you cooking?”",
+      "extracted": "He said to them, “What are you cooking?”",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 10,
+      "source": "Kx mcpz Kzpten ncte nzli-krde sc tqyrnipe .",
+      "reference": "When the Captain saw its two pieces he cried.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “That is the captain who is going to take us to the island.”",
+      "raw": "He said to them, “That is the captain who is going to take us to the island.”",
+      "extracted": "He said to them, “That is the captain who is going to take us to the island.”",
+      "raw_span": [
+        0,
+        77
+      ],
+      "extracted_span": [
+        0,
+        77
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 11,
+      "source": "Aijz rkalzm Nzlvz sc tqvokipemle bagr Nea .",
+      "reference": "The Aijz left the Reefs and traveled along to us in Nea.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “The coconut tree which banged your head is dead.”",
+      "raw": "He said to them, “The coconut tree which banged your head is dead.”",
+      "extracted": "He said to them, “The coconut tree which banged your head is dead.”",
+      "raw_span": [
+        0,
+        67
+      ],
+      "extracted_span": [
+        0,
+        67
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 12,
+      "source": "Yrbqtikr mrkc minuti nzlvqn .",
+      "reference": "We lay down there for five minutes.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “What are you cooking?”",
+      "raw": "He said to them, “What are you cooking?”",
+      "extracted": "He said to them, “What are you cooking?”",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 13,
+      "source": "Trtenge yrlzo mz Trmctu Nemya' mrkc Nea .",
+      "reference": "My father married into Nemya' Island near Nea village.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Natugu sentence **“Trtenge yrlzo mz Trmctu Nemya' mrkc Nea.”** is:\n\n**“They said to them, ‘You are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones",
+      "raw": "The translation of the Natugu sentence **“Trtenge yrlzo mz Trmctu Nemya' mrkc Nea.”** is:\n\n**“They said to them, ‘You are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones",
+      "extracted": "The translation of the Natugu sentence **“Trtenge yrlzo mz Trmctu Nemya' mrkc Nea.”** is:\n\n**“They said to them, ‘You are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones",
+      "raw_span": [
+        0,
+        1031
+      ],
+      "extracted_span": [
+        0,
+        1031
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 14,
+      "source": "Rlrq nzata-krngele ?”",
+      "reference": "Would you let me collect them?",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "What are you cooking?",
+      "raw": "What are you cooking?",
+      "extracted": "What are you cooking?",
+      "raw_span": [
+        0,
+        21
+      ],
+      "extracted_span": [
+        0,
+        21
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 15,
+      "source": "Nzrpilr nalikr mz kzdonge Sadas Balo .",
+      "reference": "They said I should be paired with my in-law [ED. wife's brother] Sanders Balo.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Natugu sentence **“Nzrpilr nalikr mz kzdonge Sadas Balo.”** is:\n\n**“The people of Sadas Balo are not yet ready.”**\n\n---\n\n### Explanation:\n\n- **Nzrpilr** = “The people of” (possessive construction with the toponymic classifier *lr* + *Sadas Balo* — “Sadas Balo” is a place name, and *lr* marks it as a toponymic possessive, indicating “people of Sadas Balo”).\n- **nalikr** = “are not yet” — this is a negation + aspect construction. The negation *tr-...-u* is used, but here it’s combined with the aspect marker *=pe* (change-of-state) and *=pnz* (completive) in a complex negative existential form. However, in this context, *nalikr* is a compound of *na-* (irrealis) + *-likr* (a form meaning “not yet” or “not ready”), indicating a state that has not yet been achieved.\n- **mz** = “they” (third",
+      "raw": "The translation of the Natugu sentence **“Nzrpilr nalikr mz kzdonge Sadas Balo.”** is:\n\n**“The people of Sadas Balo are not yet ready.”**\n\n---\n\n### Explanation:\n\n- **Nzrpilr** = “The people of” (possessive construction with the toponymic classifier *lr* + *Sadas Balo* — “Sadas Balo” is a place name, and *lr* marks it as a toponymic possessive, indicating “people of Sadas Balo”).\n- **nalikr** = “are not yet” — this is a negation + aspect construction. The negation *tr-...-u* is used, but here it’s combined with the aspect marker *=pe* (change-of-state) and *=pnz* (completive) in a complex negative existential form. However, in this context, *nalikr* is a compound of *na-* (irrealis) + *-likr* (a form meaning “not yet” or “not ready”), indicating a state that has not yet been achieved.\n- **mz** = “they” (third",
+      "extracted": "The translation of the Natugu sentence **“Nzrpilr nalikr mz kzdonge Sadas Balo.”** is:\n\n**“The people of Sadas Balo are not yet ready.”**\n\n---",
+      "raw_span": [
+        0,
+        819
+      ],
+      "extracted_span": [
+        0,
+        142
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 16,
+      "source": "Kx yagoxtx-zlwzpele kc , sc tqrpipe Kzpten nayrbqtxpe mz manyzkxnzyagoxng mrkc Pauabu .",
+      "reference": "When he got really sick, the Captain said he should be resting in the hospital at Pauabu.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You will be very much afraid, and they will be afraid of the captain of the ship Pauabu.”",
+      "raw": "He said to them, “You will be very much afraid, and they will be afraid of the captain of the ship Pauabu.”",
+      "extracted": "He said to them, “You will be very much afraid, and they will be afraid of the captain of the ship Pauabu.”",
+      "raw_span": [
+        0,
+        107
+      ],
+      "extracted_span": [
+        0,
+        107
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 17,
+      "source": "Prtrx elr mz Jenwzri 1937 .",
+      "reference": "I entered there in January 1937.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "In 1937, January.",
+      "raw": "In 1937, January.",
+      "extracted": "In 1937, January.",
+      "raw_span": [
+        0,
+        17
+      ],
+      "extracted_span": [
+        0,
+        17
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 18,
+      "source": "Vaol lcng amrlx brngztxtr angidr mz nzycmnengr mz Natqgu .",
+      "reference": "All of those vowels were really very good for speaking in Natqgu. [ED. They also made texting straightforward once mobile phones reached the island.]",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "All the people are true, and they are all the people of Natqgu.",
+      "raw": "All the people are true, and they are all the people of Natqgu.",
+      "extracted": "All the people are true, and they are all the people of Natqgu.",
+      "raw_span": [
+        0,
+        63
+      ],
+      "extracted_span": [
+        0,
+        63
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 19,
+      "source": "Mz nzrtrngr-ngrbz nzmungr nadr dzu lipwz , nan Dckta kc mz Kzpten x nan kru nedrng kc .",
+      "reference": "In making their food double portions were given to the doctor and the captain and to their crew.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The doctor and the crew reboarded the ship, they got the Captain, and threw him down into a boat.",
+      "raw": "The doctor and the crew reboarded the ship, they got the Captain, and threw him down into a boat.",
+      "extracted": "The doctor and the crew reboarded the ship, they got the Captain, and threw him down into a boat.",
+      "raw_span": [
+        0,
+        97
+      ],
+      "extracted_span": [
+        0,
+        97
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 20,
+      "source": "A' rvzmim doa kx bletipx-lxblrng mz Sade kcng tqvz-ngrmle .",
+      "reference": "But he brings a different student (person/child) on those Sundays he comes.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "But he brings a different student [person/child] on those Sundays he comes, and he goes to the school.",
+      "raw": "But he brings a different student [person/child] on those Sundays he comes, and he goes to the school.",
+      "extracted": "But he brings a different student [person/child] on those Sundays he comes, and he goes to the school.",
+      "raw_span": [
+        0,
+        102
+      ],
+      "extracted_span": [
+        0,
+        102
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 21,
+      "source": "Wztitxpo mz Kcoporetiv Sosaeti temz rpwxmz .",
+      "reference": "I only worked for the Cooperative Society for nine months.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “The kite whose string broke.”",
+      "raw": "He said to them, “The kite whose string broke.”",
+      "extracted": "He said to them, “The kite whose string broke.”",
+      "raw_span": [
+        0,
+        47
+      ],
+      "extracted_span": [
+        0,
+        47
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 22,
+      "source": "Sutx , twzbo brma x awitx-ngrbzkr mz Gct x Ellen kc tqmupe .",
+      "reference": "It cooked, I took it home and we thanked God for it and Ellen ate it.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Natugu sentence **“Sutx , twzbo brma x awitx-ngrbzkr mz Gct x Ellen kc tqmupe.”** is:\n\n> **“He said, ‘You are the one who will be the one to give power to God, Ellen, for you.’”**\n\n---\n\n### Breakdown and Justification:\n\nThis sentence is a reported speech (indirect speech) embedded within a narrative. The structure is:\n\n- **Sutx** — “He said” (reported speech marker, often used for direct or indirect speech in Natugu)\n- **twzbo** — “you are the one who will be the one to…” (a complex construction with emphasis on identity or role)\n- **brma** — “to give” (verb root, here used as a purpose or action)\n- **x** — “to” (personal directional, indicating the target or recipient of the action)\n- **awitx-ngrbzkr** — “the one to give power” (nominalized verb phrase, with “awitx” = “give” and “ngrbzkr” = “power”)\n- **mz Gct** — “to God” (d",
+      "raw": "The translation of the Natugu sentence **“Sutx , twzbo brma x awitx-ngrbzkr mz Gct x Ellen kc tqmupe.”** is:\n\n> **“He said, ‘You are the one who will be the one to give power to God, Ellen, for you.’”**\n\n---\n\n### Breakdown and Justification:\n\nThis sentence is a reported speech (indirect speech) embedded within a narrative. The structure is:\n\n- **Sutx** — “He said” (reported speech marker, often used for direct or indirect speech in Natugu)\n- **twzbo** — “you are the one who will be the one to…” (a complex construction with emphasis on identity or role)\n- **brma** — “to give” (verb root, here used as a purpose or action)\n- **x** — “to” (personal directional, indicating the target or recipient of the action)\n- **awitx-ngrbzkr** — “the one to give power” (nominalized verb phrase, with “awitx” = “give” and “ngrbzkr” = “power”)\n- **mz Gct** — “to God” (d",
+      "extracted": "The translation of the Natugu sentence **“Sutx , twzbo brma x awitx-ngrbzkr mz Gct x Ellen kc tqmupe.”** is:\n\n> **“He said, ‘You are the one who will be the one to give power to God, Ellen, for you.’”**\n\n---",
+      "raw_span": [
+        0,
+        861
+      ],
+      "extracted_span": [
+        0,
+        207
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 23,
+      "source": "Nzvzbzng x nrlc kc tqbqpe x sc tzmwipeng .",
+      "reference": "They kept going and it got dark and they slept.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Natugu sentence **“Nzvzbzng x nrlc kc tqbqpe x sc tzmwipeng.”** is:\n\n**“He said to them, ‘What are you cooking?’”**\n\n---\n\n### Breakdown:\n- **Nzvzbzng** = “He said” (verb + 3rd person minimal subject enclitic =le, but in this context, it’s a full clause with “he” as subject, and “said” as the verb)\n- **x** = “to them” (personal directional =ng, indicating the addressee)\n- **nrlc** = “what” (interrogative pronoun, functioning as the object of the question)\n- **kc** = “are” (present tense marker, part of the verb “to be” in the interrogative)\n- **tqbqpe** = “you” (2nd person minimal subject enclitic =le, but here it’s the object of the question — “what are you cooking?”)\n- **x** = “to” (personal directional =ng, indicating the addressee)\n- **sc** = “cooking” (verb root “cook”",
+      "raw": "The translation of the Natugu sentence **“Nzvzbzng x nrlc kc tqbqpe x sc tzmwipeng.”** is:\n\n**“He said to them, ‘What are you cooking?’”**\n\n---\n\n### Breakdown:\n- **Nzvzbzng** = “He said” (verb + 3rd person minimal subject enclitic =le, but in this context, it’s a full clause with “he” as subject, and “said” as the verb)\n- **x** = “to them” (personal directional =ng, indicating the addressee)\n- **nrlc** = “what” (interrogative pronoun, functioning as the object of the question)\n- **kc** = “are” (present tense marker, part of the verb “to be” in the interrogative)\n- **tqbqpe** = “you” (2nd person minimal subject enclitic =le, but here it’s the object of the question — “what are you cooking?”)\n- **x** = “to” (personal directional =ng, indicating the addressee)\n- **sc** = “cooking” (verb root “cook”",
+      "extracted": "The translation of the Natugu sentence **“Nzvzbzng x nrlc kc tqbqpe x sc tzmwipeng.”** is:\n\n**“He said to them, ‘What are you cooking?’”**\n\n---",
+      "raw_span": [
+        0,
+        806
+      ],
+      "extracted_span": [
+        0,
+        143
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 24,
+      "source": "Murde trpnzngr nyzgr ma , drvrtinepe-ngrgr nqni mnrgrng .",
+      "reference": "Because we had no house, we covered from the rain with our mats.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Because there was no one, we had no food, and we had no medicine.",
+      "raw": "Because there was no one, we had no food, and we had no medicine.",
+      "extracted": "Because there was no one, we had no food, and we had no medicine.",
+      "raw_span": [
+        0,
+        65
+      ],
+      "extracted_span": [
+        0,
+        65
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 25,
+      "source": "01 . Melrmqngeng",
+      "reference": "EP 01. My Ancestors",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "**English translation: I am.**",
+      "raw": "**English translation: I am.**",
+      "extracted": "I am.**",
+      "raw_span": [
+        0,
+        30
+      ],
+      "extracted_span": [
+        23,
+        30
+      ],
+      "rule": "leading_translation_label",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 26,
+      "source": "Abzokr nzaglqngr mz nabznepi kc tqrtqmz mz nourla vz vz krlzbzle nabznepi kc tqrpwxmz mz nrlckxbq x dztudr ami kc tqyrkrtr-atem .",
+      "reference": "We started carring at eight o'clock in the morning, on and on until nine o'clock at night and only then was the army cargo finished loading.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The man named Abzokr, who was the one who had been given the responsibility to care for the people, said to them, “You must not go to the place where the fire is burning, because the fire will destroy everything.”",
+      "raw": "The man named Abzokr, who was the one who had been given the responsibility to care for the people, said to them, “You must not go to the place where the fire is burning, because the fire will destroy everything.”",
+      "extracted": "The man named Abzokr, who was the one who had been given the responsibility to care for the people, said to them, “You must not go to the place where the fire is burning, because the fire will destroy everything.”",
+      "raw_span": [
+        0,
+        213
+      ],
+      "extracted_span": [
+        0,
+        213
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 27,
+      "source": "Mz nzkrlz-krbzkr Paumalepc , sc tqataplxsrpex nidr 40 sents .",
+      "reference": "When we reached Paumalepc, I evenly distributed 40 cents between them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “The Lord has spoken, and they will be given forty years.”",
+      "raw": "He said to them, “The Lord has spoken, and they will be given forty years.”",
+      "extracted": "He said to them, “The Lord has spoken, and they will be given forty years.”",
+      "raw_span": [
+        0,
+        75
+      ],
+      "extracted_span": [
+        0,
+        75
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 28,
+      "source": "A' da esz' kx trkatr elr , rmakx-zlwzngr mc x yagox-zvz-ngrgr badr doa kxnzsiklu .",
+      "reference": "But there's one thing that was bad there, being bitten by insects [ED. flies, mosquitoes] and we were constantly sick along with the students.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "But the only thing I would say is, don’t [take] only one, but look for someone else that there might be two of them together when he goes.",
+      "raw": "But the only thing I would say is, don’t [take] only one, but look for someone else that there might be two of them together when he goes.",
+      "extracted": "But the only thing I would say is, don’t [take] only one, but look for someone else that there might be two of them together when he goes.",
+      "raw_span": [
+        0,
+        138
+      ],
+      "extracted_span": [
+        0,
+        138
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 29,
+      "source": "Ngrlrtitxlzx spiz scnge , twzomc , x sc tqlupex , yrlqtxne x ninge kc tqngelu-moux .",
+      "reference": "I rushed up (to the house) for my spear, I took it back down (to the shore), and I speared it and put it (in the pot), then I went on lighting my way.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "raw": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "extracted": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "raw_span": [
+        0,
+        1066
+      ],
+      "extracted_span": [
+        0,
+        1066
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 30,
+      "source": "Dckrlzde Kc Nzpnu-esz'-nrade-tq",
+      "reference": "Chapter Thirteen",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Natugu sentence **Dckrlzde Kc Nzpnu-esz'-nrade-tq** is:\n\n> **“He said to them, ‘What are you cooking?’”**\n\n---\n\n### Breakdown:\n\n- **Dckrlzde** = “He said” (verb + 3rd person minimal enclitic =le, with the circumfix negative tr>...<u, but here it’s used in a non-negative context — the “said” is a past realis event, and the negative circumfix is not present, so it’s a simple past tense “said”)\n- **Kc** = “to them” (personal directional -q, meaning “hither” — toward the listener/interlocutor)\n- **Nzpnu-esz'-nrade-tq** = “What are you cooking?”\n  - **Nzpnu** = “ten” (cardinal number)\n  - **-esz'** = “-es” (a morpheme that can be part of a compound or used as a nominalizer or quantifier — here it’s part of the compound “ten-”)\n  - **-nrade** = “fruit” (a morpheme",
+      "raw": "The translation of the Natugu sentence **Dckrlzde Kc Nzpnu-esz'-nrade-tq** is:\n\n> **“He said to them, ‘What are you cooking?’”**\n\n---\n\n### Breakdown:\n\n- **Dckrlzde** = “He said” (verb + 3rd person minimal enclitic =le, with the circumfix negative tr>...<u, but here it’s used in a non-negative context — the “said” is a past realis event, and the negative circumfix is not present, so it’s a simple past tense “said”)\n- **Kc** = “to them” (personal directional -q, meaning “hither” — toward the listener/interlocutor)\n- **Nzpnu-esz'-nrade-tq** = “What are you cooking?”\n  - **Nzpnu** = “ten” (cardinal number)\n  - **-esz'** = “-es” (a morpheme that can be part of a compound or used as a nominalizer or quantifier — here it’s part of the compound “ten-”)\n  - **-nrade** = “fruit” (a morpheme",
+      "extracted": "The translation of the Natugu sentence **Dckrlzde Kc Nzpnu-esz'-nrade-tq** is:\n\n> **“He said to them, ‘What are you cooking?’”**\n\n---",
+      "raw_span": [
+        0,
+        791
+      ],
+      "extracted_span": [
+        0,
+        133
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 31,
+      "source": "Nzpwrkilvcngr doa kcng nztupebz badr .",
+      "reference": "Those students were surprised about him standing there with them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The fly (or flying) is not (yet) here.",
+      "raw": "The fly (or flying) is not (yet) here.",
+      "extracted": "The fly (or flying) is not (yet) here.",
+      "raw_span": [
+        0,
+        38
+      ],
+      "extracted_span": [
+        0,
+        38
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 32,
+      "source": "Nrla nc bia kc tqmalex malemixle kc dzbr legou kxlu esz' .",
+      "reference": "That breadfruit branch that I was holding, I held it by the root of a single living creeper vine.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "That breadfruit branch I was holding, I held it with the root of a single living creeper vine.",
+      "raw": "That breadfruit branch I was holding, I held it with the root of a single living creeper vine.",
+      "extracted": "That breadfruit branch I was holding, I held it with the root of a single living creeper vine.",
+      "raw_span": [
+        0,
+        94
+      ],
+      "extracted_span": [
+        0,
+        94
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 33,
+      "source": "Olvz rnge lcde bz-ngrde doa kxtopwz .",
+      "reference": "That wife of mine died in childbirth.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The coconut tree banged your head, and it was dead.",
+      "raw": "The coconut tree banged your head, and it was dead.",
+      "extracted": "The coconut tree banged your head, and it was dead.",
+      "raw_span": [
+        0,
+        51
+      ],
+      "extracted_span": [
+        0,
+        51
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 34,
+      "source": "Mrlz , sc tzpipelr rlilrdr kxnamu na-amrlztr-ngrbzlr drtwr Ncbr .",
+      "reference": "OK, then the two of them thought how they might make things right with the cross.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The man’s son, he said, “I am the one who will be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be",
+      "raw": "The man’s son, he said, “I am the one who will be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be",
+      "extracted": "The man’s son, he said, “I am the one who will be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be the one to be",
+      "raw_span": [
+        0,
+        889
+      ],
+      "extracted_span": [
+        0,
+        889
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 35,
+      "source": "Tewa kx kqomle kc nigr kc tqvzpekr .",
+      "reference": "When the rain \"covered\" we left.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The rain is falling, and it is very heavy.",
+      "raw": "The rain is falling, and it is very heavy.",
+      "extracted": "The rain is falling, and it is very heavy.",
+      "raw_span": [
+        0,
+        42
+      ],
+      "extracted_span": [
+        0,
+        42
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 36,
+      "source": "Zbz nigr kc tqkawiopekr lue x tqvztrpekr mz lclr nc nzlu nyz skul .",
+      "reference": "Then we crossed over the river and went into a coconut field belonging to the school.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "raw": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "extracted": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "raw_span": [
+        0,
+        1066
+      ],
+      "extracted_span": [
+        0,
+        1066
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 37,
+      "source": "Twzomgr mz bot x nigr kc tqyapemgr bzq .",
+      "reference": "We took them down to the boat and then we started paddling home.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The man said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be",
+      "raw": "The man said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be",
+      "extracted": "The man said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be",
+      "raw_span": [
+        0,
+        1067
+      ],
+      "extracted_span": [
+        0,
+        1067
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 38,
+      "source": "Sc tqrpipemle bange kx , “ Trngiu ncblo lcng , krlcng nounc !",
+      "reference": "then said to me, \"These aren't men! They're wooden.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “The man’s head, the priest!”",
+      "raw": "He said to them, “The man’s head, the priest!”",
+      "extracted": "He said to them, “The man’s head, the priest!”",
+      "raw_span": [
+        0,
+        46
+      ],
+      "extracted_span": [
+        0,
+        46
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 39,
+      "source": "Ninge dq kx prtrpz badr leplz lcdeng tzrlxngiti-ayrnrngrng .",
+      "reference": "I was one who joined those people who first believed.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I am the one who said to them, “You are the ones who will be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to",
+      "raw": "I am the one who said to them, “You are the ones who will be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to",
+      "extracted": "I am the one who said to them, “You are the ones who will be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to be the ones to",
+      "raw_span": [
+        0,
+        957
+      ],
+      "extracted_span": [
+        0,
+        957
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 40,
+      "source": "Mzli boitx nzrtangrti-krgrle x sc tqmc-atekr .",
+      "reference": "Only after we had searched for a long time did we find it.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The time has come for us to leave, and we must go.",
+      "raw": "The time has come for us to leave, and we must go.",
+      "extracted": "The time has come for us to leave, and we must go.",
+      "raw_span": [
+        0,
+        50
+      ],
+      "extracted_span": [
+        0,
+        50
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 41,
+      "source": "Nzrmusrti-krbo lc trau scdr leplz takitr temz kx tq .",
+      "reference": "My treating people's money like that went on for three months.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The people of the village of Graciosa Bay, who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who",
+      "raw": "The people of the village of Graciosa Bay, who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who",
+      "extracted": "The people of the village of Graciosa Bay, who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who",
+      "raw_span": [
+        0,
+        1083
+      ],
+      "extracted_span": [
+        0,
+        1083
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 42,
+      "source": "Kx trpnzngr kc da kx nzmcpxbzlr mz skul , sc tzvzpxpebzng mz skul .",
+      "reference": "When they didn't see anything at the school, they went to the school.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "There is no one who is not [any] [none] [not any] [none] [not any more] [none] [not any yet] [none] [never] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [",
+      "raw": "There is no one who is not [any] [none] [not any] [none] [not any more] [none] [not any yet] [none] [never] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [",
+      "extracted": "There is no one who is not [any] [none] [not any] [none] [not any more] [none] [not any yet] [none] [never] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [none] [",
+      "raw_span": [
+        0,
+        613
+      ],
+      "extracted_span": [
+        0,
+        613
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 43,
+      "source": "Krlcdeng nzalvztrngr mz skul x nzrtekqtrngr Nzryrngrkxtr .",
+      "reference": "These were teaching at school and translating Scriptures.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The school is being taught by the teacher who is also the head of the school.",
+      "raw": "The school is being taught by the teacher who is also the head of the school.",
+      "extracted": "The school is being taught by the teacher who is also the head of the school.",
+      "raw_span": [
+        0,
+        77
+      ],
+      "extracted_span": [
+        0,
+        77
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 44,
+      "source": "Kxetu kc drtwrde sc tqtrkapem bagr , tqrpipemle bagr kx , \" Memule trlxngiti-ngrmamuu natqnge ?",
+      "reference": "The leader was upset with us, he said to us, \"Why don't you obey my words?",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “Why don’t you obey my word(s)?”",
+      "raw": "He said to them, “Why don’t you obey my word(s)?”",
+      "extracted": "He said to them, “Why don’t you obey my word(s)?”",
+      "raw_span": [
+        0,
+        49
+      ],
+      "extracted_span": [
+        0,
+        49
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 45,
+      "source": "Kzdq ma kxetu nyz Gzpman tu mz plou .",
+      "reference": "A big building of the Government stood on posts with a raised floor.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “The man who is the cause of this will be punished.”",
+      "raw": "He said to them, “The man who is the cause of this will be punished.”",
+      "extracted": "He said to them, “The man who is the cause of this will be punished.”",
+      "raw_span": [
+        0,
+        69
+      ],
+      "extracted_span": [
+        0,
+        69
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 46,
+      "source": "Rpim Rik bange kx naope a' sa naom dq ncblo kzble kx natekqtrle nide .",
+      "reference": "Rick told me that he had to go but another man would come to replace him.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “What are you cooking? That is, you are not cooking anything, but you are cooking something.” (33.17)",
+      "raw": "He said to them, “What are you cooking? That is, you are not cooking anything, but you are cooking something.” (33.17)",
+      "extracted": "He said to them, “What are you cooking? That is, you are not cooking anything, but you are cooking something.” (33.17)",
+      "raw_span": [
+        0,
+        118
+      ],
+      "extracted_span": [
+        0,
+        118
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 47,
+      "source": "Votrpzkr x pookr mz wop Auki .",
+      "reference": "We traveled in it and we disembarked at the wharf in Auki.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Natugu sentence **“Votrpzkr x pookr mz wop Auki.”** is:\n\n**“He said to them, ‘What are you cooking?’”**\n\n---\n\n### Breakdown:\n- **Votrpzkr** = “He said” (verb + subject enclitic =kr, 3rd person minimal, 1st person subject in context)\n- **x** = “to them” (personal directional =x, 2nd person minimal, indicating direction toward the listener)\n- **pookr** = “what” (interrogative pronoun, often used as a question word)\n- **mz** = “you” (2nd person minimal, subject of the embedded question)\n- **wop** = “are cooking” (verb “cook” + present tense aspect, with “wop” being the 3rd person minimal enclitic for “you” in the question)\n- **Auki** = “Auki” (proper noun, likely a place or person’s name)\n\nThe sentence is a reported speech construction, where the speaker is quoting someone asking a question — “What are you cooking?” — in a context where “he” (the speaker",
+      "raw": "The translation of the Natugu sentence **“Votrpzkr x pookr mz wop Auki.”** is:\n\n**“He said to them, ‘What are you cooking?’”**\n\n---\n\n### Breakdown:\n- **Votrpzkr** = “He said” (verb + subject enclitic =kr, 3rd person minimal, 1st person subject in context)\n- **x** = “to them” (personal directional =x, 2nd person minimal, indicating direction toward the listener)\n- **pookr** = “what” (interrogative pronoun, often used as a question word)\n- **mz** = “you” (2nd person minimal, subject of the embedded question)\n- **wop** = “are cooking” (verb “cook” + present tense aspect, with “wop” being the 3rd person minimal enclitic for “you” in the question)\n- **Auki** = “Auki” (proper noun, likely a place or person’s name)\n\nThe sentence is a reported speech construction, where the speaker is quoting someone asking a question — “What are you cooking?” — in a context where “he” (the speaker",
+      "extracted": "The translation of the Natugu sentence **“Votrpzkr x pookr mz wop Auki.”** is:\n\n**“He said to them, ‘What are you cooking?’”**\n\n---",
+      "raw_span": [
+        0,
+        886
+      ],
+      "extracted_span": [
+        0,
+        131
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 48,
+      "source": "Kx mwi-lxlr-ngrgr kc mz nrlckxbq , tewa kxetu kc tqdcpe , vzmimq nenq , brlrpc x brlrmei .",
+      "reference": "When we were sleeping in the open at night, a heavy rain fell, along with wind, lightning and thunder.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who",
+      "raw": "He said to them, “You are the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who",
+      "extracted": "He said to them, “You are the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who",
+      "raw_span": [
+        0,
+        1053
+      ],
+      "extracted_span": [
+        0,
+        1053
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 49,
+      "source": "Rpibz trtenge bade kx , “ Mrlxnge la topwz tr-rlr-ngrpou ; a' krlzx nzrlr-ngrbz kzdq mzlede kcng tqetu .”",
+      "reference": "My father said to him, \"That son of mine is small and I do not allow him; but I can allow one of his bigger brothers.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “I am the one who will go to the top of the mountain; but you will not know what the mountain is.”",
+      "raw": "He said to them, “I am the one who will go to the top of the mountain; but you will not know what the mountain is.”",
+      "extracted": "He said to them, “I am the one who will go to the top of the mountain; but you will not know what the mountain is.”",
+      "raw_span": [
+        0,
+        115
+      ],
+      "extracted_span": [
+        0,
+        115
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 50,
+      "source": "Dzbede lcng li nztekqtr-lzbqng .",
+      "reference": "The two groups traded places (with two more groups).",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The two groups exchanged places.",
+      "raw": "The two groups exchanged places.",
+      "extracted": "The two groups exchanged places.",
+      "raw_span": [
+        0,
+        32
+      ],
+      "extracted_span": [
+        0,
+        32
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 51,
+      "source": "Merikol krali lc nide kc tqmcpe pripekt lc , x tqpipemle bange nayapwxtipxbo bamu kxmu nzmc-krngele .",
+      "reference": "This second miracle was one the prefect saw and he told me I should tell you how I saw it.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The king’s son is the one who will be the one to take the responsibility, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and",
+      "raw": "The king’s son is the one who will be the one to take the responsibility, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and",
+      "extracted": "The king’s son is the one who will be the one to take the responsibility, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and he will be the one to take the responsibility for the people, and",
+      "raw_span": [
+        0,
+        1199
+      ],
+      "extracted_span": [
+        0,
+        1199
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 52,
+      "source": "X dabukr bona kcng li ngi blzkr Ncbr , nztelvzlr nyr ngrde x sc tzangcpelr .",
+      "reference": "And the hearts of the two bona birds was a sacrifice for the Cross, they ignited its fire and burned them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are the ones who will be the ones to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will",
+      "raw": "He said to them, “You are the ones who will be the ones to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will",
+      "extracted": "He said to them, “You are the ones who will be the ones to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will",
+      "raw_span": [
+        0,
+        1066
+      ],
+      "extracted_span": [
+        0,
+        1066
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 53,
+      "source": "Sc tqvzpebz ; pnz'txde ncblo kc x taglctxde waelas kc .",
+      "reference": "So he went; he just shot the man and smashed the wireless.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "raw": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "extracted": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "raw_span": [
+        0,
+        1066
+      ],
+      "extracted_span": [
+        0,
+        1066
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 54,
+      "source": "Nzvz-kzng badr doa lr Gwalekana nztqng kx namailzlr nidr .",
+      "reference": "Three students from Guadalcanal also went to lead them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “Always be good to the people of Gwalekana, and do not harm them.”",
+      "raw": "He said to them, “Always be good to the people of Gwalekana, and do not harm them.”",
+      "extracted": "He said to them, “Always be good to the people of Gwalekana, and do not harm them.”",
+      "raw_span": [
+        0,
+        83
+      ],
+      "extracted_span": [
+        0,
+        83
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 55,
+      "source": "30 . Nzryapwx-krbo Mz Doa Kxnzsiklu Pawa Merikol Li",
+      "reference": "EP 30. My Telling Two Miracles to the Students at Pawa School",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The man named Doa Kxnzsiklu is the one who will be the leader of the people.",
+      "raw": "The man named Doa Kxnzsiklu is the one who will be the leader of the people.",
+      "extracted": "The man named Doa Kxnzsiklu is the one who will be the leader of the people.",
+      "raw_span": [
+        0,
+        76
+      ],
+      "extracted_span": [
+        0,
+        76
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 56,
+      "source": "Nzsiklu-krgr yzutrpe a' trvz-zpwxka , murde nzwzngr la tqrlvitxpxbe a' nzsiklungr mrbc-takine .",
+      "reference": "Our schooling began, but it didn't go well, because that work was still demanding, but schooling was broken off short.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Natugu sentence:\n\n**Natugu:**  \n*Nzsiklu-krgr yzutrpe a' trvz-zpwxka , murde nzwzngr la tqrlvitxpxbe a' nzsiklungr mrbc-takine.*\n\n**English translation:**  \n*The people who were being taught were not yet ready, but the teacher was still teaching them how to make the boat.*\n\n---\n\n### Explanation:\n\nThis translation is based on the grammatical structure and semantic context provided in the Natugu grammar book. Here’s a breakdown:\n\n- **Nzsiklu-krgr** = “The people who were being taught”  \n  - *Nzsiklu* = “people” (from the verb *nzsiklu* meaning “to teach” in passive form, with *-krgr* indicating passive or ongoing action)  \n  - *-krgr* = passive or ongoing aspect marker (from the circumfix *nz-...-krgr*, indicating “being taught”)\n\n- **yzutrpe** = “were not yet ready”  \n  - *yzutr* = “ready” (from *yzutr* meaning “ready” or “prepared”)",
+      "raw": "The translation of the Natugu sentence:\n\n**Natugu:**  \n*Nzsiklu-krgr yzutrpe a' trvz-zpwxka , murde nzwzngr la tqrlvitxpxbe a' nzsiklungr mrbc-takine.*\n\n**English translation:**  \n*The people who were being taught were not yet ready, but the teacher was still teaching them how to make the boat.*\n\n---\n\n### Explanation:\n\nThis translation is based on the grammatical structure and semantic context provided in the Natugu grammar book. Here’s a breakdown:\n\n- **Nzsiklu-krgr** = “The people who were being taught”  \n  - *Nzsiklu* = “people” (from the verb *nzsiklu* meaning “to teach” in passive form, with *-krgr* indicating passive or ongoing action)  \n  - *-krgr* = passive or ongoing aspect marker (from the circumfix *nz-...-krgr*, indicating “being taught”)\n\n- **yzutrpe** = “were not yet ready”  \n  - *yzutr* = “ready” (from *yzutr* meaning “ready” or “prepared”)",
+      "extracted": "The translation of the Natugu sentence:\n\n**Natugu:**  \n*Nzsiklu-krgr yzutrpe a' trvz-zpwxka , murde nzwzngr la tqrlvitxpxbe a' nzsiklungr mrbc-takine.*\n\n**English translation:**  \n*The people who were being taught were not yet ready, but the teacher was still teaching them how to make the boat.*\n\n---\n\n### Explanation:\n\nThis translation is based on the grammatical structure and semantic context provided in the Natugu grammar book. Here’s a breakdown:\n\n- **Nzsiklu-krgr** = “The people who were being taught”  \n  - *Nzsiklu* = “people” (from the verb *nzsiklu* meaning “to teach” in passive form, with *-krgr* indicating passive or ongoing action)  \n  - *-krgr* = passive or ongoing aspect marker (from the circumfix *nz-...-krgr*, indicating “being taught”)\n\n- **yzutrpe** = “were not yet ready”  \n  - *yzutr* = “ready” (from *yzutr* meaning “ready” or “prepared”)",
+      "raw_span": [
+        0,
+        867
+      ],
+      "extracted_span": [
+        0,
+        867
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 57,
+      "source": "Nzrklengr Jiszs x arlapxle leplz mzli lcdepwz .",
+      "reference": "Calling Jesus and he saves people right at the same time.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The people of Jiszs said, “We will not be able to go to them.”",
+      "raw": "The people of Jiszs said, “We will not be able to go to them.”",
+      "extracted": "The people of Jiszs said, “We will not be able to go to them.”",
+      "raw_span": [
+        0,
+        62
+      ],
+      "extracted_span": [
+        0,
+        62
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 58,
+      "source": "Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu .",
+      "reference": "He gave to Srpi for him to translate the Gospel which Matthew wrote.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He assigned Srpi to translate the Gospel which Matthew wrote.",
+      "raw": "He assigned Srpi to translate the Gospel which Matthew wrote.",
+      "extracted": "He assigned Srpi to translate the Gospel which Matthew wrote.",
+      "raw_span": [
+        0,
+        61
+      ],
+      "extracted_span": [
+        0,
+        61
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 59,
+      "source": "Ma nyzgr badr trtenge ngi ma nzanei , x rum ngrde li .",
+      "reference": "The house where I lived with my father had a roof with four panels, and it had two rooms.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I am not a native speaker of Natugu, and I do not have direct access to the full linguistic database or real-time translation tools for this specific language. However, based on the grammar book provided and the context of the sentence, I can offer a plausible translation.\n\nThe sentence:  \n**“Ma nyzgr badr trtenge ngi ma nzanei , x rum ngrde li .”**\n\nBreaking it down:\n\n- **Ma** — likely a subject marker or a pronoun (possibly “I” or “we” depending on context).\n- **nyzgr** — possibly a verb or a noun, but in context, it may be part of a compound or a verb form.\n- **badr** — likely a verb or a particle, possibly meaning “to say” or “to speak”.\n- **trtenge** — possibly a verb meaning “to be” or “to exist”.\n- **ngi** — likely a pronoun or a particle, possibly “me” or “my”.\n- **ma nzanei** — possibly “my people” or “my people’s”.\n- **x** — likely a conjunction or a particle, possibly “and”.\n- **rum** —",
+      "raw": "I am not a native speaker of Natugu, and I do not have direct access to the full linguistic database or real-time translation tools for this specific language. However, based on the grammar book provided and the context of the sentence, I can offer a plausible translation.\n\nThe sentence:  \n**“Ma nyzgr badr trtenge ngi ma nzanei , x rum ngrde li .”**\n\nBreaking it down:\n\n- **Ma** — likely a subject marker or a pronoun (possibly “I” or “we” depending on context).\n- **nyzgr** — possibly a verb or a noun, but in context, it may be part of a compound or a verb form.\n- **badr** — likely a verb or a particle, possibly meaning “to say” or “to speak”.\n- **trtenge** — possibly a verb meaning “to be” or “to exist”.\n- **ngi** — likely a pronoun or a particle, possibly “me” or “my”.\n- **ma nzanei** — possibly “my people” or “my people’s”.\n- **x** — likely a conjunction or a particle, possibly “and”.\n- **rum** —",
+      "extracted": "I am not a native speaker of Natugu, and I do not have direct access to the full linguistic database or real-time translation tools for this specific language. However, based on the grammar book provided and the context of the sentence, I can offer a plausible translation.\n\nThe sentence:  \n**“Ma nyzgr badr trtenge ngi ma nzanei , x rum ngrde li .”**\n\nBreaking it down:\n\n- **Ma** — likely a subject marker or a pronoun (possibly “I” or “we” depending on context).\n- **nyzgr** — possibly a verb or a noun, but in context, it may be part of a compound or a verb form.\n- **badr** — likely a verb or a particle, possibly meaning “to say” or “to speak”.\n- **trtenge** — possibly a verb meaning “to be” or “to exist”.\n- **ngi** — likely a pronoun or a particle, possibly “me” or “my”.\n- **ma nzanei** — possibly “my people” or “my people’s”.\n- **x** — likely a conjunction or a particle, possibly “and”.\n- **rum** —",
+      "raw_span": [
+        0,
+        910
+      ],
+      "extracted_span": [
+        0,
+        910
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 60,
+      "source": "Mista Manfoot sc tqrpipemle bange kx mzli kc tqaenzli-ngrne lcsu naokatr-kaix nidr mz nzalvztrngr , murde klas li trpnzngr kxnzakrlztrng elr .",
+      "reference": "Mr. Manfort told me that while I was waiting for the ship I should first help them in teaching, because there were two classes without any teachers there.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Mr. Manfoot said to them, “We must go to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the",
+      "raw": "Mr. Manfoot said to them, “We must go to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the",
+      "extracted": "Mr. Manfoot said to them, “We must go to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the people are coming to the place where the people are, and they will be there, because the",
+      "raw_span": [
+        0,
+        1176
+      ],
+      "extracted_span": [
+        0,
+        1176
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 61,
+      "source": "Zbz mzli kcpe milzpq , dakxnzng kcng sc tqtwzope trtenge mz Menabz mz rum kc tqtupx-ngrm mqngr Ncbr .",
+      "reference": "Then when it was evening, my father and Menabz took that food into the room where the Cross statue stood.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “When you are in the middle of the forest, you will be able to see the man named Menabz, who is sitting there.”",
+      "raw": "He said to them, “When you are in the middle of the forest, you will be able to see the man named Menabz, who is sitting there.”",
+      "extracted": "He said to them, “When you are in the middle of the forest, you will be able to see the man named Menabz, who is sitting there.”",
+      "raw_span": [
+        0,
+        128
+      ],
+      "extracted_span": [
+        0,
+        128
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 62,
+      "source": "Rpibz tzsiu Jon bade kx , \" Inyxm vzpem peto delc tqasule dakxnzng lcng ?\"",
+      "reference": "Brother John said to her, “Did your daughter come from the bush and that’s who cooked that food?”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Father said to Jon, “What is the matter with you, why are you so angry with me?”",
+      "raw": "Father said to Jon, “What is the matter with you, why are you so angry with me?”",
+      "extracted": "Father said to Jon, “What is the matter with you, why are you so angry with me?”",
+      "raw_span": [
+        0,
+        80
+      ],
+      "extracted_span": [
+        0,
+        80
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 63,
+      "source": "A' trngq-pnzleu ; malelvitxde , tatxo prla .",
+      "reference": "But he didn't eat it; it was held insecurely and fell into the sea.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are not going to be able to do it; you will not be able to do it.”",
+      "raw": "He said to them, “You are not going to be able to do it; you will not be able to do it.”",
+      "extracted": "He said to them, “You are not going to be able to do it; you will not be able to do it.”",
+      "raw_span": [
+        0,
+        88
+      ],
+      "extracted_span": [
+        0,
+        88
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 64,
+      "source": "X rpibo bade kx trtingr .",
+      "reference": "And I told him no.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "No.",
+      "raw": "No.",
+      "extracted": "No.",
+      "raw_span": [
+        0,
+        3
+      ],
+      "extracted_span": [
+        0,
+        3
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 65,
+      "source": "Kx krlzbzkr Point Krus , sc tqmcpebzkr lcsu ngr vea kxkqlu nzdwatr-krde Luga , x kzdung sc tzvopxng x kzdu nzvotrpqng , lcsukxlvc sc tzlvcneng .",
+      "reference": "When we reached Point Cruz we saw many warships anchored at Lungga, and some went out and some came in, airplanes flew around.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them at Point Krus, “You must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place",
+      "raw": "He said to them at Point Krus, “You must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place",
+      "extracted": "He said to them at Point Krus, “You must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place where the wind blows, and you must go to the place",
+      "raw_span": [
+        0,
+        1076
+      ],
+      "extracted_span": [
+        0,
+        1076
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 66,
+      "source": "Kx krlzmgr kc Nctekzmuli tryapewxu a' nge'txpepo , murde nenq matqtx-zlwzpe .",
+      "reference": "When we reached Bead Point I wasn't paddling anymore because I was only bailing since the wind had become very much more powerful.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You will be given the power to do great things, but you will not be able to do them.”",
+      "raw": "He said to them, “You will be given the power to do great things, but you will not be able to do them.”",
+      "extracted": "He said to them, “You will be given the power to do great things, but you will not be able to do them.”",
+      "raw_span": [
+        0,
+        103
+      ],
+      "extracted_span": [
+        0,
+        103
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 67,
+      "source": "Drtq doa lcde , Josip Tealo .",
+      "reference": "His name was Joseph Tealo.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "His name is Josip Tealo.",
+      "raw": "His name is Josip Tealo.",
+      "extracted": "His name is Josip Tealo.",
+      "raw_span": [
+        0,
+        24
+      ],
+      "extracted_span": [
+        0,
+        24
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 68,
+      "source": "A' nigr da kx etu myatxngr katris .",
+      "reference": "But we who are big things the cartridges completely missed us.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are not going to be able to do it.”",
+      "raw": "He said to them, “You are not going to be able to do it.”",
+      "extracted": "He said to them, “You are not going to be able to do it.”",
+      "raw_span": [
+        0,
+        57
+      ],
+      "extracted_span": [
+        0,
+        57
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 69,
+      "source": "Mzli lcde , pibo mz Rik kx natwz-mouki du letz kcng tzrtctxngr mz alfabet ngr Natqgu .",
+      "reference": "At that time, I told Rick that the two of us should take some more letters to be deleted from the Natqgu alphabet. [ED. The idea was to eliminate the vowels with diacritics and to substitute letters from the typewriter not already used by Natqgu.]",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The time is now, and I, Rik, have learned the alphabet of Natqgu.",
+      "raw": "The time is now, and I, Rik, have learned the alphabet of Natqgu.",
+      "extracted": "The time is now, and I, Rik, have learned the alphabet of Natqgu.",
+      "raw_span": [
+        0,
+        65
+      ],
+      "extracted_span": [
+        0,
+        65
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 70,
+      "source": "Elakr nrlc ngrlxtxo .",
+      "reference": "We danced until daylight.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “What are you cooking?”",
+      "raw": "He said to them, “What are you cooking?”",
+      "extracted": "He said to them, “What are you cooking?”",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 71,
+      "source": "A' rpimle kx nayatipxx krkcng tqpetikr Dxi , murde ma tqmibitxtr .",
+      "reference": "But she told me I should paddle out to the ones we had planted at Dxi, lest they spoil on the vine.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "But she told me I should paddle out to the ones [pineapples] we had planted at Dxi, lest it [the crop] rot on the vine.",
+      "raw": "But she told me I should paddle out to the ones [pineapples] we had planted at Dxi, lest it [the crop] rot on the vine.",
+      "extracted": "But she told me I should paddle out to the ones [pineapples] we had planted at Dxi, lest it [the crop] rot on the vine.",
+      "raw_span": [
+        0,
+        119
+      ],
+      "extracted_span": [
+        0,
+        119
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 72,
+      "source": "Zbz wisol kc tqyrnipe mou kx lr Japan nzlvcpeng .",
+      "reference": "Then the siren sounded again that the Japanese had flown away.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “What are you cooking?”",
+      "raw": "He said to them, “What are you cooking?”",
+      "extracted": "He said to them, “What are you cooking?”",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 73,
+      "source": "Kzdq zbq trtenge x Menabz nzabzlr bona kx ncblongr li .",
+      "reference": "One day my father and Menabz killed two male doves.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "One day my father and Menabz killed two male pigeons.",
+      "raw": "One day my father and Menabz killed two male pigeons.",
+      "extracted": "One day my father and Menabz killed two male pigeons.",
+      "raw_span": [
+        0,
+        53
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 74,
+      "source": "63 . Skul Kc Naim Nzglqtrpq Nabzn",
+      "reference": "EP 63. The School at Naim is Moved to Naban on Graciosa Bay",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The school that I first lived at is named Alangaula.",
+      "raw": "The school that I first lived at is named Alangaula.",
+      "extracted": "The school that I first lived at is named Alangaula.",
+      "raw_span": [
+        0,
+        52
+      ],
+      "extracted_span": [
+        0,
+        52
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 75,
+      "source": "Kzdq kc ncblo drtqde Metalo .",
+      "reference": "There was a man named Metalo.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “Metalo is his name.”",
+      "raw": "He said to them, “Metalo is his name.”",
+      "extracted": "He said to them, “Metalo is his name.”",
+      "raw_span": [
+        0,
+        38
+      ],
+      "extracted_span": [
+        0,
+        38
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 76,
+      "source": "Trtenge kx xlrbzle nzpipxkr Mzdealwx nzlxngiti-krde Gct rdr tzsiu kcng sc tqlxngitipe-kzle .",
+      "reference": "When my father heard Mzdealwx's saying he believed in the God of those brothers he also believed.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Natugu sentence “Trtenge kx xlrbzle nzpipxkr Mzdealwx nzlxngiti-krde Gct rdr tzsiu kcng sc tqlxngitipe-kzle” is:\n\n**“He said to them, ‘Mzdealwx woke up again, and God said to him, “You are the one who will be the one to wake up.”’”**\n\n---\n\n### Breakdown of Translation:\n\n- **Trtenge** = “He said to them” (tr- = “say”, -tenge = “to them”, with the 3AUG subject enclitic =ng)\n- **kx xlrbzle** = “to them” (kx = “to”, xlrbzle = “them”)\n- **nzpipxkr** = “Mzdealwx” (nz- = “name”, pipxkr = “Mzdealwx”)\n- **Mzdealwx** = “Mzdealwx” (proper name)\n- **nzlxngiti-krde** = “woke up again” (nz- = “wake”, lxngiti = “up”, -krde = “again",
+      "raw": "The translation of the Natugu sentence “Trtenge kx xlrbzle nzpipxkr Mzdealwx nzlxngiti-krde Gct rdr tzsiu kcng sc tqlxngitipe-kzle” is:\n\n**“He said to them, ‘Mzdealwx woke up again, and God said to him, “You are the one who will be the one to wake up.”’”**\n\n---\n\n### Breakdown of Translation:\n\n- **Trtenge** = “He said to them” (tr- = “say”, -tenge = “to them”, with the 3AUG subject enclitic =ng)\n- **kx xlrbzle** = “to them” (kx = “to”, xlrbzle = “them”)\n- **nzpipxkr** = “Mzdealwx” (nz- = “name”, pipxkr = “Mzdealwx”)\n- **Mzdealwx** = “Mzdealwx” (proper name)\n- **nzlxngiti-krde** = “woke up again” (nz- = “wake”, lxngiti = “up”, -krde = “again",
+      "extracted": "The translation of the Natugu sentence “Trtenge kx xlrbzle nzpipxkr Mzdealwx nzlxngiti-krde Gct rdr tzsiu kcng sc tqlxngitipe-kzle” is:\n\n**“He said to them, ‘Mzdealwx woke up again, and God said to him, “You are the one who will be the one to wake up.”’”**\n\n---",
+      "raw_span": [
+        0,
+        647
+      ],
+      "extracted_span": [
+        0,
+        261
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 77,
+      "source": "11 . Be Ngr Lika Kx Nqvi lrde Yzpr",
+      "reference": "EP 11. The Story of the Kite Whose String Broke",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “That is the way of the good person.”",
+      "raw": "He said to them, “That is the way of the good person.”",
+      "extracted": "He said to them, “That is the way of the good person.”",
+      "raw_span": [
+        0,
+        54
+      ],
+      "extracted_span": [
+        0,
+        54
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 78,
+      "source": "Rpi-mopwz kxetu r ami kx , \" Nim ncblo kznike ?\"",
+      "reference": "The head of the army further said, \"What kind of man are you?\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “What are you cooking?”",
+      "raw": "He said to them, “What are you cooking?”",
+      "extracted": "He said to them, “What are you cooking?”",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 79,
+      "source": "A' nenq kx mnctxde kc mz ulu sc tzmnctx-alopeng Nzlvz .",
+      "reference": "But there was that strong wind from the southwest so had they stayed a long time at Nzlvz.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are",
+      "raw": "He said to them, “You are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are",
+      "extracted": "He said to them, “You are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are",
+      "raw_span": [
+        0,
+        1079
+      ],
+      "extracted_span": [
+        0,
+        1079
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 80,
+      "source": "Zbz sc tqtwzpe kz Rik Frank Yrpusz nzngini-krde kz kxrtekqtr natq .",
+      "reference": "Then Rick also took Frank Yrpusz to be a translator too.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “Rik Frank Yrpusz is the one who will be the leader of the church.”",
+      "raw": "He said to them, “Rik Frank Yrpusz is the one who will be the leader of the church.”",
+      "extracted": "He said to them, “Rik Frank Yrpusz is the one who will be the leader of the church.”",
+      "raw_span": [
+        0,
+        84
+      ],
+      "extracted_span": [
+        0,
+        84
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 81,
+      "source": "X yzuo-moukr Uta yrkrpx Pa'lz , x trmctu ka sc tqtulvzpe mz nzwzkr Gari Saemons .",
+      "reference": "And we started again at Uta finishing at Pa'lz, and this island was thoroughly covered by the work of Gary Simons.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The people of Nepa’ and Pa’lë villages chose me so that I might become a peacemaker for those two villages.",
+      "raw": "The people of Nepa’ and Pa’lë villages chose me so that I might become a peacemaker for those two villages.",
+      "extracted": "The people of Nepa’ and Pa’lë villages chose me so that I might become a peacemaker for those two villages.",
+      "raw_span": [
+        0,
+        107
+      ],
+      "extracted_span": [
+        0,
+        107
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 82,
+      "source": "Mz nzvz-krgr kc , tqvzdzkr , tqvzokr x tqrkawitikr lue kxetuting .",
+      "reference": "In our going, we went up, we went down, and we crossed large rivers.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "raw": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "extracted": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "raw_span": [
+        0,
+        1066
+      ],
+      "extracted_span": [
+        0,
+        1066
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 83,
+      "source": "Aelwapx Gct da kxmule lcng murde nalxngitiku x na-abrtrpzku drtwrgu mz Jiszs x Trtede Gct mz da amrlx mzli ka tqlu-ngrgu mz nrlc .",
+      "reference": "God revealed such things so that we might believe and we might trust in Jesus and his Father, God, in everything now while we're living in the world.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "God demonstrated such things to them, that they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already",
+      "raw": "God demonstrated such things to them, that they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already",
+      "extracted": "God demonstrated such things to them, that they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already in the kingdom of heaven, and they might be like those who are already",
+      "raw_span": [
+        0,
+        1219
+      ],
+      "extracted_span": [
+        0,
+        1219
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 84,
+      "source": "Zbz kzdq doa lr Sikaiana sc tqolzpebz .",
+      "reference": "Then a student from Sikaiana island did climb up.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “The Sikaiana people are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones",
+      "raw": "He said to them, “The Sikaiana people are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones",
+      "extracted": "He said to them, “The Sikaiana people are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones",
+      "raw_span": [
+        0,
+        1066
+      ],
+      "extracted_span": [
+        0,
+        1066
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 85,
+      "source": "Krlc kzdq rkx kxmatq , kzdq merikol .",
+      "reference": "This was a powerful sign, a miracle.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “What are you cooking?” He said, “You are not cooking.”",
+      "raw": "He said to them, “What are you cooking?” He said, “You are not cooking.”",
+      "extracted": "He said to them, “What are you cooking?” He said, “You are not cooking.”",
+      "raw_span": [
+        0,
+        72
+      ],
+      "extracted_span": [
+        0,
+        72
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 86,
+      "source": "Kzdq kc zbq naoszx kzdq nc bia .",
+      "reference": "One day I was walking away from a breadfruit tree.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "But today, I said to them, “You are the ones who should go to Mr. Lore.”",
+      "raw": "But today, I said to them, “You are the ones who should go to Mr. Lore.”",
+      "extracted": "But today, I said to them, “You are the ones who should go to Mr. Lore.”",
+      "raw_span": [
+        0,
+        72
+      ],
+      "extracted_span": [
+        0,
+        72
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 87,
+      "source": "Ana Teao kx yrkrpxle kc mz skul , vom sc tqlipekr ncdr mz nzalvztrngr .",
+      "reference": "When Anna Teao finished her schooling, she came and we partnered in teaching.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The people of Nepa’ and Pa’lë villages chose me that I might become a peacemaker for those two villages.",
+      "raw": "The people of Nepa’ and Pa’lë villages chose me that I might become a peacemaker for those two villages.",
+      "extracted": "The people of Nepa’ and Pa’lë villages chose me that I might become a peacemaker for those two villages.",
+      "raw_span": [
+        0,
+        104
+      ],
+      "extracted_span": [
+        0,
+        104
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 88,
+      "source": "79 . Nzrblx-krbz Natqgu Badr Leplz Kcng Tzrtekqtrng Natq",
+      "reference": "EP 79. The Difficulty of Natqgu for the People who Translate the Language",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The people of the village of Bznwz said to the people, “The people of the village of Bznwz are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the",
+      "raw": "The people of the village of Bznwz said to the people, “The people of the village of Bznwz are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the",
+      "extracted": "The people of the village of Bznwz said to the people, “The people of the village of Bznwz are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the",
+      "raw_span": [
+        0,
+        1067
+      ],
+      "extracted_span": [
+        0,
+        1067
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 89,
+      "source": "Nzyolxomlr , kx nzkaobzlrle mz leu kx nzprlxlr mrkc , kio kcng wxlikitxpxpnz .",
+      "reference": "They took it off the fire; when they removed it onto leaves which were laid out there, the chicken fell into small pieces.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "raw": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "extracted": "He said to them, “You are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the",
+      "raw_span": [
+        0,
+        1066
+      ],
+      "extracted_span": [
+        0,
+        1066
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 90,
+      "source": "42 . Dzbedr Lipe Merikol Krapwx Mz Mzli R Vea",
+      "reference": "EP 42. Their Group Splits into Two and the Fourth Wartime Miracle",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The group said, “He said to them, ‘What are you cooking?’”",
+      "raw": "The group said, “He said to them, ‘What are you cooking?’”",
+      "extracted": "The group said, “He said to them, ‘What are you cooking?’”",
+      "raw_span": [
+        0,
+        58
+      ],
+      "extracted_span": [
+        0,
+        58
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 91,
+      "source": "Kx nzglxlr nzngini-krdr lr Japan , sc tzdwapeng .",
+      "reference": "When they realized their being Japanese, they fled.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “That is the way of Japan, and they are going to be destroyed.”",
+      "raw": "He said to them, “That is the way of Japan, and they are going to be destroyed.”",
+      "extracted": "He said to them, “That is the way of Japan, and they are going to be destroyed.”",
+      "raw_span": [
+        0,
+        80
+      ],
+      "extracted_span": [
+        0,
+        80
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 92,
+      "source": "A' mz nibrde sc tzaolvz-atebz kzdung leplz nzlxngiti-krdr Nrpakxmrlz .",
+      "reference": "But afterward some people later accepted their believing the Goodnews.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are the ones who are being taught by the people of the church, and you are the ones who are being taught by the people of the church.”",
+      "raw": "He said to them, “You are the ones who are being taught by the people of the church, and you are the ones who are being taught by the people of the church.”",
+      "extracted": "He said to them, “You are the ones who are being taught by the people of the church, and you are the ones who are being taught by the people of the church.”",
+      "raw_span": [
+        0,
+        156
+      ],
+      "extracted_span": [
+        0,
+        156
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 93,
+      "source": "Krali Yamzli mzte nzmc Narnztilolx mz yiz 1918 .",
+      "reference": "The second, Yamzli, was born in Narnztilolx in the year 1918.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "King Yamzli died in Narnztilolx in the year 1918.",
+      "raw": "King Yamzli died in Narnztilolx in the year 1918.",
+      "extracted": "King Yamzli died in Narnztilolx in the year 1918.",
+      "raw_span": [
+        0,
+        49
+      ],
+      "extracted_span": [
+        0,
+        49
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 94,
+      "source": "Murde rwz-ngrgr ma kxetuting .",
+      "reference": "Because we built large buildings.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Because of that bad thing, we should go.",
+      "raw": "Because of that bad thing, we should go.",
+      "extracted": "Because of that bad thing, we should go.",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 95,
+      "source": "Yzuo-moukr Ncipx x mwikr Nebz .",
+      "reference": "Starting again at Noipx and we slept at Nebz.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You are the ones who will be the ones.”",
+      "raw": "He said to them, “You are the ones who will be the ones.”",
+      "extracted": "He said to them, “You are the ones who will be the ones.”",
+      "raw_span": [
+        0,
+        57
+      ],
+      "extracted_span": [
+        0,
+        57
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 96,
+      "source": "X Mista Sadrak Sade kx ngi Kxetu r skul lc .",
+      "reference": "And it was Mr. Shadrach Sunday who was Headmaster of that school.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “I am the one who will teach you at school.”",
+      "raw": "He said to them, “I am the one who will teach you at school.”",
+      "extracted": "He said to them, “I am the one who will teach you at school.”",
+      "raw_span": [
+        0,
+        61
+      ],
+      "extracted_span": [
+        0,
+        61
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 97,
+      "source": "A' trkrlzwxu kx nzyzlu-mcpqng , nidr lcng tztavelr naonrx lc e doa kzbleng .”",
+      "reference": "But I do not know whether they returned again, those were the ones who broke the door or it was someone else.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “You will be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones",
+      "raw": "He said to them, “You will be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones",
+      "extracted": "He said to them, “You will be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones who are going to be the ones",
+      "raw_span": [
+        0,
+        1053
+      ],
+      "extracted_span": [
+        0,
+        1053
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 98,
+      "source": "Volzx mrkc tqxlva-ngrde , ninge kc tqtupex .",
+      "reference": "I went up to where it forked and I stood there.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “What are you cooking?”",
+      "raw": "He said to them, “What are you cooking?”",
+      "extracted": "He said to them, “What are you cooking?”",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    }
+  ]
+}

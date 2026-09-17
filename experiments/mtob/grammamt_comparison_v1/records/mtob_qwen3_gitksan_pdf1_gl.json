@@ -1,0 +1,856 @@
+{
+  "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+  "records": [
+    {
+      "index": 0,
+      "source": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.",
+      "reference": "I will tell about when the white men first came to Kitwancool long ago.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "extracted": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 1,
+      "source": "Ha'ondii 'nakw hlidaa bakwhl gyet dipun, ii sag̲aytg̲oodindiithl hli gyedihl Gitwinhlguu'l.",
+      "reference": "Not long after these people arrived, they gathered together the people of Kitwancool.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind said: “I am the strongest of us,” and the sun replied, “You are not the strongest.”",
+      "raw": "The wind said: “I am the strongest of us,” and the sun replied, “You are not the strongest.”",
+      "extracted": "The wind said: “I am the strongest of us,” and the sun replied, “You are not the strongest.”",
+      "raw_span": [
+        0,
+        92
+      ],
+      "extracted_span": [
+        0,
+        92
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 2,
+      "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+      "reference": "They wanted to tell about the new place where the village of Kitwancool is to be.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing among themselves who was the strongest of them.",
+      "raw": "The wind and the sun were discussing among themselves who was the strongest of them.",
+      "extracted": "The wind and the sun were discussing among themselves who was the strongest of them.",
+      "raw_span": [
+        0,
+        84
+      ],
+      "extracted_span": [
+        0,
+        84
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 3,
+      "source": "'Nit sag̲ootxwhl government siwetdiit, ii dim 'nii wenhl dim jok̲hl aluugigyet g̲o'ohl lax̲ reserve siwetdiit.",
+      "reference": "The plan of the so-called government was that they will have Indian people live on a so-called reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The government decided, they thought, “We will make the reserve government decide.”",
+      "raw": "The government decided, they thought, “We will make the reserve government decide.”",
+      "extracted": "The government decided, they thought, “We will make the reserve government decide.”",
+      "raw_span": [
+        0,
+        83
+      ],
+      "extracted_span": [
+        0,
+        83
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 4,
+      "source": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"",
+      "reference": "\"Why?\" the people of Kitwancool asked. \"We live on our land, here.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "“Go ahead,” said the old Gitwinhlguu, “and let the strong one take the blanket off.”",
+      "raw": "“Go ahead,” said the old Gitwinhlguu, “and let the strong one take the blanket off.”",
+      "extracted": "“Go ahead,” said the old Gitwinhlguu, “and let the strong one take the blanket off.”",
+      "raw_span": [
+        0,
+        84
+      ],
+      "extracted_span": [
+        0,
+        84
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 5,
+      "source": "Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.",
+      "reference": "They heard that what they call surveyors were coming.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "extracted": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 6,
+      "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+      "reference": "They will measure out the length of the perimeter of what is called the reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "extracted": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 7,
+      "source": "Ii aam win ky'ax̲ hehl Gitwinhlguu'l dim 'wiit'is, dim wag̲ayt jog̲o daa'whl g̲o'ohl k'i'yhl sg̲a'nist, dim ii lok̲'on daa'whl g̲o'ohl k'i'yhl aks, g̲o'ohl Ksen, 'nii g̲a'wayit k̲'ali daa'whl g̲o'ohl Meji'aadin. 'Nithl hasak̲diithl reserve.",
+      "reference": "The people agreed that they wanted a big reserve which would encompass mountains starting from the Skeena all the way up to Meji'aadin. They wanted that for a reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind said: “I am going to show you, I will demonstrate to you, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it,",
+      "raw": "The wind said: “I am going to show you, I will demonstrate to you, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it,",
+      "extracted": "The wind said: “I am going to show you, I will demonstrate to you, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it, how the strong ones are the ones who are able to do it,",
+      "raw_span": [
+        0,
+        1018
+      ],
+      "extracted_span": [
+        0,
+        1018
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 8,
+      "source": "Way ii needii hehl Indian Agendima'a, siwetxwit ehl Indian Agent, ent sag̲aytg̲oodinhl gyet, sag̲aytwendiit.",
+      "reference": "The Indian Agent disagreed, the so-called Indian Agent who gathered the people together for the meeting.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind said: “The Indian Agent is coming, the Indian Agent is coming, and he will take the blanket off.”",
+      "raw": "The wind said: “The Indian Agent is coming, the Indian Agent is coming, and he will take the blanket off.”",
+      "extracted": "The wind said: “The Indian Agent is coming, the Indian Agent is coming, and he will take the blanket off.”",
+      "raw_span": [
+        0,
+        106
+      ],
+      "extracted_span": [
+        0,
+        106
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 9,
+      "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+      "reference": "And the people of the village Kitwancool said, \"If you don't do that, then we don't want you to carve out a very small reserve.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind said: “The sun is the strongest, because I am the one who can make him take off his blanket.”\n\n(Note: The Gitksan sentence is a direct quotation from the narrative “The North Wind and the Sun,” as presented in the grammar book. The translation preserves the meaning and context of the speaker (the wind) asserting the sun’s strength and his own power to compel the stranger to remove his blanket — a key point in the story’s moral or plot development.)",
+      "raw": "The wind said: “The sun is the strongest, because I am the one who can make him take off his blanket.”\n\n(Note: The Gitksan sentence is a direct quotation from the narrative “The North Wind and the Sun,” as presented in the grammar book. The translation preserves the meaning and context of the speaker (the wind) asserting the sun’s strength and his own power to compel the stranger to remove his blanket — a key point in the story’s moral or plot development.)",
+      "extracted": "The wind said: “The sun is the strongest, because I am the one who can make him take off his blanket.”\n\n(Note: The Gitksan sentence is a direct quotation from the narrative “The North Wind and the Sun,” as presented in the grammar book. The translation preserves the meaning and context of the speaker (the wind) asserting the sun’s strength and his own power to compel the stranger to remove his blanket — a key point in the story’s moral or plot development.)",
+      "raw_span": [
+        0,
+        461
+      ],
+      "extracted_span": [
+        0,
+        461
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 10,
+      "source": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+      "reference": "And now even though the people of Kitwancool said they did not want the little reserve; \"We don't want to give away our land,\" they said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing among themselves who was the strongest. “The strongest one will make the stranger take off his blanket,” they said.",
+      "raw": "The wind and the sun were discussing among themselves who was the strongest. “The strongest one will make the stranger take off his blanket,” they said.",
+      "extracted": "The wind and the sun were discussing among themselves who was the strongest. “The strongest one will make the stranger take off his blanket,” they said.",
+      "raw_span": [
+        0,
+        152
+      ],
+      "extracted_span": [
+        0,
+        152
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 11,
+      "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+      "reference": "And they told the Indian Agent to stop the surveyors; they will chase away the surveyors.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing among themselves who was the strongest of them — the wind, the sun, and the surveyors — the surveyors, the surveyors.",
+      "raw": "The wind and the sun were discussing among themselves who was the strongest of them — the wind, the sun, and the surveyors — the surveyors, the surveyors.",
+      "extracted": "The wind and the sun were discussing among themselves who was the strongest of them — the wind, the sun, and the surveyors — the surveyors, the surveyors.",
+      "raw_span": [
+        0,
+        154
+      ],
+      "extracted_span": [
+        0,
+        154
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 12,
+      "source": "Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.",
+      "reference": "Even though Kitwancool said they did not want the reserve, the surveyors (apparently) came back.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing amongst themselves who was the strongest of them. They were discussing who was the strongest. Just then a stranger arrived wearing a big blanket. And then they decided, they had the idea that whoever was the strongest would make the stranger take off his big blanket, using their power to make him take it off. So the wind tried really hard, he really blew at him. He blew very hard. But after a while, he said: “I can’t do it.” The stranger held his blanket back tightly because he was cold, since the wind was blowing so much. So a while later, the wind said, he said: “Okay, it’s your turn to take the blanket off the stranger.” Well, so then the sun started and it got really hot when he came out. A little while later, the stranger took off his big blanket, because it was hot. The wind said: “Okay, it’s your turn to take the blanket off the stranger.”",
+      "raw": "The wind and the sun were discussing amongst themselves who was the strongest of them. They were discussing who was the strongest. Just then a stranger arrived wearing a big blanket. And then they decided, they had the idea that whoever was the strongest would make the stranger take off his big blanket, using their power to make him take it off. So the wind tried really hard, he really blew at him. He blew very hard. But after a while, he said: “I can’t do it.” The stranger held his blanket back tightly because he was cold, since the wind was blowing so much. So a while later, the wind said, he said: “Okay, it’s your turn to take the blanket off the stranger.” Well, so then the sun started and it got really hot when he came out. A little while later, the stranger took off his big blanket, because it was hot. The wind said: “Okay, it’s your turn to take the blanket off the stranger.”",
+      "extracted": "The wind and the sun were discussing amongst themselves who was the strongest of them. They were discussing who was the strongest. Just then a stranger arrived wearing a big blanket. And then they decided, they had the idea that whoever was the strongest would make the stranger take off his big blanket, using their power to make him take it off. So the wind tried really hard, he really blew at him. He blew very hard. But after a while, he said: “I can’t do it.” The stranger held his blanket back tightly because he was cold, since the wind was blowing so much. So a while later, the wind said, he said: “Okay, it’s your turn to take the blanket off the stranger.” Well, so then the sun started and it got really hot when he came out. A little while later, the stranger took off his big blanket, because it was hot. The wind said: “Okay, it’s your turn to take the blanket off the stranger.”",
+      "raw_span": [
+        0,
+        895
+      ],
+      "extracted_span": [
+        0,
+        895
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 13,
+      "source": "Ii sit'aa'mam depdiithl hlidaaxhl hlgu lax̲ ha'niijok̲.",
+      "reference": "They started measuring out the little settlement.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind said: “It’s your turn to sit down and rest.”",
+      "raw": "The wind said: “It’s your turn to sit down and rest.”",
+      "extracted": "The wind said: “It’s your turn to sit down and rest.”",
+      "raw_span": [
+        0,
+        53
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 14,
+      "source": "Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.\"",
+      "reference": "So they stood by and watched after they told the surveyors, \"It will not be right that you start.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing among themselves who was the strongest, “Neither of us is strong enough to make the stranger take off his blanket.”",
+      "raw": "The wind and the sun were discussing among themselves who was the strongest, “Neither of us is strong enough to make the stranger take off his blanket.”",
+      "extracted": "The wind and the sun were discussing among themselves who was the strongest, “Neither of us is strong enough to make the stranger take off his blanket.”",
+      "raw_span": [
+        0,
+        152
+      ],
+      "extracted_span": [
+        0,
+        152
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 15,
+      "source": "Ii k̲'ap g̲aniwila yukwhl surveyors.",
+      "reference": "But the surveyors continued.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "extracted": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 16,
+      "source": "Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"",
+      "reference": "One chief gathered together some people of the village, and they said \"We will oppose (them) and we will chase them away.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing amongst themselves who was the strongest of them.  \nThey said, “The one who is truly strong, the one who is most powerful, is the strongest.”",
+      "raw": "The wind and the sun were discussing amongst themselves who was the strongest of them.  \nThey said, “The one who is truly strong, the one who is most powerful, is the strongest.”",
+      "extracted": "The wind and the sun were discussing amongst themselves who was the strongest of them.  \nThey said, “The one who is truly strong, the one who is most powerful, is the strongest.”",
+      "raw_span": [
+        0,
+        178
+      ],
+      "extracted_span": [
+        0,
+        178
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 17,
+      "source": "\"Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.\"",
+      "reference": "\"We will want the support of young men to help us.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "A little while later, the wind said: “Okay, it’s your turn to take the blanket off the stranger.”",
+      "raw": "A little while later, the wind said: “Okay, it’s your turn to take the blanket off the stranger.”",
+      "extracted": "A little while later, the wind said: “Okay, it’s your turn to take the blanket off the stranger.”",
+      "raw_span": [
+        0,
+        97
+      ],
+      "extracted_span": [
+        0,
+        97
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 18,
+      "source": "Way 'nithl wildiit.",
+      "reference": "And that's what they did.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind is blowing.",
+      "raw": "The wind is blowing.",
+      "extracted": "The wind is blowing.",
+      "raw_span": [
+        0,
+        20
+      ],
+      "extracted_span": [
+        0,
+        20
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 19,
+      "source": "Iit hapdiithl surveyors.",
+      "reference": "They mobbed the surveyors.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They are surveyors.",
+      "raw": "They are surveyors.",
+      "extracted": "They are surveyors.",
+      "raw_span": [
+        0,
+        19
+      ],
+      "extracted_span": [
+        0,
+        19
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 20,
+      "source": "Iit dok̲diithl andeba'a, tape dip siwedit.",
+      "reference": "They took the measuring tape (what we call tape in English).",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "extracted": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 21,
+      "source": "Dok̲diithl anooya'a, surveyors equipment siwedihl anooya'ahl surveyors.",
+      "reference": "They took the tools, surveyors' equipment, what the surveyors' tools were called.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The surveyors’ equipment is the surveyors’ equipment.",
+      "raw": "The surveyors’ equipment is the surveyors’ equipment.",
+      "extracted": "The surveyors’ equipment is the surveyors’ equipment.",
+      "raw_span": [
+        0,
+        53
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 22,
+      "source": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.",
+      "reference": "And they completely chopped it up with axes.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind tried really hard, he really blew at him. He blew very hard.",
+      "raw": "The wind tried really hard, he really blew at him. He blew very hard.",
+      "extracted": "The wind tried really hard, he really blew at him. He blew very hard.",
+      "raw_span": [
+        0,
+        69
+      ],
+      "extracted_span": [
+        0,
+        69
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 23,
+      "source": "Iit huudindiithl surveyors.",
+      "reference": "And they chased away the surveyors.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They are surveyors.",
+      "raw": "They are surveyors.",
+      "extracted": "They are surveyors.",
+      "raw_span": [
+        0,
+        19
+      ],
+      "extracted_span": [
+        0,
+        19
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 24,
+      "source": "Needii 'nakwt ii bakwhl police.",
+      "reference": "Not long after, the police came.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The stranger held his blanket back tightly because he was cold, since the wind was blowing so much.",
+      "raw": "The stranger held his blanket back tightly because he was cold, since the wind was blowing so much.",
+      "extracted": "The stranger held his blanket back tightly because he was cold, since the wind was blowing so much.",
+      "raw_span": [
+        0,
+        99
+      ],
+      "extracted_span": [
+        0,
+        99
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 25,
+      "source": "Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.",
+      "reference": "They arrested people who they thought were around there when they destroyed the surveyors' tools.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan sentence **Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.** translates to:\n\n> **The surveyors were discussing among themselves who was the strongest of them.**\n\n---\n\n### Breakdown for clarity:\n\n- **Gidiidok̲diithl** → *The surveyors* (plural, 3rd person, discussing — *Gidiidok̲diithl* = “they were discussing” with *Gidiidok̲* = “discuss” + *-diithl* = 3PL.III, “among themselves”)\n- **naahl** → *among themselves* (prepositional phrase, “among” + “themselves”)\n- **g̲ay** → *who* (interrogative pronoun, “who”)\n- **ha'niig̲ootdiit** → *was the strongest* (from *ha’niig̲oot* = “strongest” + *-diit* =",
+      "raw": "The Gitksan sentence **Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.** translates to:\n\n> **The surveyors were discussing among themselves who was the strongest of them.**\n\n---\n\n### Breakdown for clarity:\n\n- **Gidiidok̲diithl** → *The surveyors* (plural, 3rd person, discussing — *Gidiidok̲diithl* = “they were discussing” with *Gidiidok̲* = “discuss” + *-diithl* = 3PL.III, “among themselves”)\n- **naahl** → *among themselves* (prepositional phrase, “among” + “themselves”)\n- **g̲ay** → *who* (interrogative pronoun, “who”)\n- **ha'niig̲ootdiit** → *was the strongest* (from *ha’niig̲oot* = “strongest” + *-diit* =",
+      "extracted": "The Gitksan sentence **Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.** translates to:\n\n> **The surveyors were discussing among themselves who was the strongest of them.**\n\n---",
+      "raw_span": [
+        0,
+        678
+      ],
+      "extracted_span": [
+        0,
+        240
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 26,
+      "source": "Iit luuwendindiit.",
+      "reference": "And they jailed them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Iit luuwendindiit.\n\nEnglish translation:  \n**He/She is going to be the strongest.**\n\n---\n\n**Explanation:**\n\nThe Gitksan phrase *Iit luuwendindiit* is a simple declarative sentence.\n\n- **Iit** = 3rd person singular subject (he/she) — from the Gitksan pronoun *i* (he/she) + the clitic *-t* (3rd person singular).\n- **luuwendindiit** = “to be the strongest” — a compound verb form.\n\nBreaking it down:\n- **luuwen** = “to be strong” (from *luuwen*, a verb meaning “to be strong” or “to be powerful”).\n- **diit** = “the strongest” — a noun phrase meaning “the strongest one” (from *diit*, meaning “strong” + the suffix *-it* indicating the superlative or “the one who is...”).\n- The suffix **-diit** is used to indicate the superlative form, often meaning “the most...” or “the one who is...” — here, “the strongest.”\n\nIn Gitksan, the verb *luuwen",
+      "raw": "Iit luuwendindiit.\n\nEnglish translation:  \n**He/She is going to be the strongest.**\n\n---\n\n**Explanation:**\n\nThe Gitksan phrase *Iit luuwendindiit* is a simple declarative sentence.\n\n- **Iit** = 3rd person singular subject (he/she) — from the Gitksan pronoun *i* (he/she) + the clitic *-t* (3rd person singular).\n- **luuwendindiit** = “to be the strongest” — a compound verb form.\n\nBreaking it down:\n- **luuwen** = “to be strong” (from *luuwen*, a verb meaning “to be strong” or “to be powerful”).\n- **diit** = “the strongest” — a noun phrase meaning “the strongest one” (from *diit*, meaning “strong” + the suffix *-it* indicating the superlative or “the one who is...”).\n- The suffix **-diit** is used to indicate the superlative form, often meaning “the most...” or “the one who is...” — here, “the strongest.”\n\nIn Gitksan, the verb *luuwen",
+      "extracted": "Iit luuwendindiit.\n\nEnglish translation:  \n**He/She is going to be the strongest.**\n\n---\n\n**Explanation:**\n\nThe Gitksan phrase *Iit luuwendindiit* is a simple declarative sentence.\n\n- **Iit** = 3rd person singular subject (he/she) — from the Gitksan pronoun *i* (he/she) + the clitic *-t* (3rd person singular).\n- **luuwendindiit** = “to be the strongest” — a compound verb form.\n\nBreaking it down:\n- **luuwen** = “to be strong” (from *luuwen*, a verb meaning “to be strong” or “to be powerful”).\n- **diit** = “the strongest” — a noun phrase meaning “the strongest one” (from *diit*, meaning “strong” + the suffix *-it* indicating the superlative or “the one who is...”).\n- The suffix **-diit** is used to indicate the superlative form, often meaning “the most...” or “the one who is...” — here, “the strongest.”\n\nIn Gitksan, the verb *luuwen",
+      "raw_span": [
+        0,
+        842
+      ],
+      "extracted_span": [
+        0,
+        842
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 27,
+      "source": "Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.",
+      "reference": "After the police took away the men who destroyed the surveyors' tools, the Kitwancool people still objected.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The surveyors, who are police officers, are here to measure the land, and they are from Gitwinhlguu.",
+      "raw": "The surveyors, who are police officers, are here to measure the land, and they are from Gitwinhlguu.",
+      "extracted": "The surveyors, who are police officers, are here to measure the land, and they are from Gitwinhlguu.",
+      "raw_span": [
+        0,
+        100
+      ],
+      "extracted_span": [
+        0,
+        100
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 28,
+      "source": "\"K̲'ap dim sg̲asgitxu'm.\"",
+      "reference": "\"We will absolutely oppose it.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "English translation: “I am going to the river.”",
+      "raw": "“I am going to the river.”",
+      "extracted": "“I am going to the river.”",
+      "raw_span": [
+        21,
+        47
+      ],
+      "extracted_span": [
+        21,
+        47
+      ],
+      "rule": "leading_translation_label",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 29,
+      "source": "Ii luuwenhl ligi gwilunima'ahl simgigyet g̲o'ohl Oakalla Prison siwetxwsit.",
+      "reference": "And there were maybe three chiefs who were jailed at what was known as Oakalla Prison.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing among themselves who would be the strongest — the one who would make the stranger take off his big blanket — at Oakalla Prison.",
+      "raw": "The wind and the sun were discussing among themselves who would be the strongest — the one who would make the stranger take off his big blanket — at Oakalla Prison.",
+      "extracted": "The wind and the sun were discussing among themselves who would be the strongest — the one who would make the stranger take off his big blanket — at Oakalla Prison.",
+      "raw_span": [
+        0,
+        164
+      ],
+      "extracted_span": [
+        0,
+        164
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 30,
+      "source": "Ligi t'imisima'ahl k'uuhl luuwendiit.",
+      "reference": "It wasn't recorded how many years they were incarcerated.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "extracted": "The wind and the sun were discussing amongst themselves who was the strongest of them.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 31,
+      "source": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.",
+      "reference": "While these chiefs were in prison, the surveyors returned.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing among themselves who was the strongest, and they were looking at the surveyors.",
+      "raw": "The wind and the sun were discussing among themselves who was the strongest, and they were looking at the surveyors.",
+      "extracted": "The wind and the sun were discussing among themselves who was the strongest, and they were looking at the surveyors.",
+      "raw_span": [
+        0,
+        116
+      ],
+      "extracted_span": [
+        0,
+        116
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 32,
+      "source": "Way ii sim dit'e'lt iit depdiithl hlguts'uusxhl lax̲ ha'niiyip gi'namihl Indian Agent tun ehl hli gyedihl Gitwinhlguu'l.",
+      "reference": "They hurriedly measured out the tiny reserve that the Indian Agent gave Kitwancool.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind and the sun were discussing among themselves who was the strongest of them.  \nThey decided they had the idea that whoever was the strongest would make the stranger take off his big blanket, using their power to make him take it off.  \nSo the wind tried really hard, he really blew at him. He blew very hard.  \nBut after a while, he said: “I can’t do it.”  \nThe stranger held his blanket back tightly because he was cold, since the wind was blowing so much.  \nSo a while later, the wind said, he said: “Okay, it’s your turn to take the blanket off the stranger.”  \nWell, so then the sun started and it got really hot when he came out.  \nA little while later, the stranger took off his big blanket, because it was hot.  \nThe wind said: “Okay, it’s your turn to take the blanket off the stranger.”",
+      "raw": "The wind and the sun were discussing among themselves who was the strongest of them.  \nThey decided they had the idea that whoever was the strongest would make the stranger take off his big blanket, using their power to make him take it off.  \nSo the wind tried really hard, he really blew at him. He blew very hard.  \nBut after a while, he said: “I can’t do it.”  \nThe stranger held his blanket back tightly because he was cold, since the wind was blowing so much.  \nSo a while later, the wind said, he said: “Okay, it’s your turn to take the blanket off the stranger.”  \nWell, so then the sun started and it got really hot when he came out.  \nA little while later, the stranger took off his big blanket, because it was hot.  \nThe wind said: “Okay, it’s your turn to take the blanket off the stranger.”",
+      "extracted": "The wind and the sun were discussing among themselves who was the strongest of them.  \nThey decided they had the idea that whoever was the strongest would make the stranger take off his big blanket, using their power to make him take it off.  \nSo the wind tried really hard, he really blew at him. He blew very hard.  \nBut after a while, he said: “I can’t do it.”  \nThe stranger held his blanket back tightly because he was cold, since the wind was blowing so much.  \nSo a while later, the wind said, he said: “Okay, it’s your turn to take the blanket off the stranger.”  \nWell, so then the sun started and it got really hot when he came out.  \nA little while later, the stranger took off his big blanket, because it was hot.  \nThe wind said: “Okay, it’s your turn to take the blanket off the stranger.”",
+      "raw_span": [
+        0,
+        803
+      ],
+      "extracted_span": [
+        0,
+        803
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 33,
+      "source": "\"One mile by one mile,\" diphiida 'nuu'm.",
+      "reference": "\"It's one mile by one mile,\" we said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "“One mile by one mile,” diphiida ‘nuu’m.  \nEnglish translation: **“One mile by one mile,”** — *diphiida ‘nuu’m.*  \n\n*(Note: The phrase “diphiida ‘nuu’m” appears to be a direct quotation or a locution in Gitksan, possibly a measure or a descriptive phrase. Given the context and the lack of a clear morphological breakdown in the provided grammar text, the translation preserves the literal structure as a quoted phrase. The phrase “One mile by one mile” is likely a literal rendering of the Gitksan expression, possibly indicating a square mile or a specific spatial measure.)*\n\n**Final Translation:**  \n**“One mile by one mile,”** — *diphiida ‘nuu’m.*",
+      "raw": "“One mile by one mile,” diphiida ‘nuu’m.  \nEnglish translation: **“One mile by one mile,”** — *diphiida ‘nuu’m.*  \n\n*(Note: The phrase “diphiida ‘nuu’m” appears to be a direct quotation or a locution in Gitksan, possibly a measure or a descriptive phrase. Given the context and the lack of a clear morphological breakdown in the provided grammar text, the translation preserves the literal structure as a quoted phrase. The phrase “One mile by one mile” is likely a literal rendering of the Gitksan expression, possibly indicating a square mile or a specific spatial measure.)*\n\n**Final Translation:**  \n**“One mile by one mile,”** — *diphiida ‘nuu’m.*",
+      "extracted": "“One mile by one mile,” diphiida ‘nuu’m.  \nEnglish translation: **“One mile by one mile,”** — *diphiida ‘nuu’m.*  \n\n*(Note: The phrase “diphiida ‘nuu’m” appears to be a direct quotation or a locution in Gitksan, possibly a measure or a descriptive phrase. Given the context and the lack of a clear morphological breakdown in the provided grammar text, the translation preserves the literal structure as a quoted phrase. The phrase “One mile by one mile” is likely a literal rendering of the Gitksan expression, possibly indicating a square mile or a specific spatial measure.)*\n\n**Final Translation:**  \n**“One mile by one mile,”** — *diphiida ‘nuu’m.*",
+      "raw_span": [
+        0,
+        652
+      ],
+      "extracted_span": [
+        0,
+        652
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 34,
+      "source": "G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.",
+      "reference": "Because the surveyors were so afraid, the villagers say today that they should not have made a surveyor's reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The surveyors, G̲asg̲oohl lax̲bits'iixwhl, who are the ones who need to survey the surveyor’s reserve, are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones",
+      "raw": "The surveyors, G̲asg̲oohl lax̲bits'iixwhl, who are the ones who need to survey the surveyor’s reserve, are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones",
+      "extracted": "The surveyors, G̲asg̲oohl lax̲bits'iixwhl, who are the ones who need to survey the surveyor’s reserve, are the ones who are going to be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones who will be the ones",
+      "raw_span": [
+        0,
+        1026
+      ],
+      "extracted_span": [
+        0,
+        1026
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 35,
+      "source": "Needii gu ji t'amdiit, diyehl het.",
+      "reference": "They never signed anything, they said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind said: “It’s your turn to take the blanket off the stranger.”",
+      "raw": "The wind said: “It’s your turn to take the blanket off the stranger.”",
+      "extracted": "The wind said: “It’s your turn to take the blanket off the stranger.”",
+      "raw_span": [
+        0,
+        69
+      ],
+      "extracted_span": [
+        0,
+        69
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 36,
+      "source": "'Nihl g̲abit.",
+      "reference": "That's it.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "English translation: **He is not.**",
+      "raw": "**He is not.**",
+      "extracted": "**He is not.**",
+      "raw_span": [
+        21,
+        35
+      ],
+      "extracted_span": [
+        21,
+        35
+      ],
+      "rule": "leading_translation_label",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    }
+  ]
+}

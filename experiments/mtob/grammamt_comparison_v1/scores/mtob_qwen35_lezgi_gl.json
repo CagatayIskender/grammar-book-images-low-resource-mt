@@ -1,0 +1,79 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records_sha256": "5fe0d492ed8032d5e9f9e1326ed5003d8380643b9e768b32d13ba3efad753901"
+  },
+  "views": {
+    "raw": {
+      "num_examples": 87,
+      "chrf": {
+        "score": 14.754117090232407,
+        "char_order": 6,
+        "word_order": 0,
+        "beta": 2
+      },
+      "bleu": {
+        "bleu": 0.004186151857728104,
+        "precisions": [
+          0.047658688865764826,
+          0.00847816871555744,
+          0.0017274886633556468,
+          0.0004399472063352398
+        ],
+        "brevity_penalty": 1.0,
+        "length_ratio": 5.803140096618358,
+        "translation_length": 4805,
+        "reference_length": 828
+      },
+      "rouge": {
+        "rouge1": 0.1426550329152935,
+        "rouge2": 0.0434337126898865,
+        "rougeL": 0.12047641819074476,
+        "rougeLsum": 0.12047641819074476
+      },
+      "character": {
+        "cer_score": 0.8465913977720279
+      },
+      "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+      "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+      "input_sha256": "72a4660722b28cb45b8e37d3d0f448eff3e7e29f693902dbacf7b06c4236b7db",
+      "empty_predictions": 0
+    },
+    "extracted": {
+      "num_examples": 87,
+      "chrf": {
+        "score": 20.043608153848734,
+        "char_order": 6,
+        "word_order": 0,
+        "beta": 2
+      },
+      "bleu": {
+        "bleu": 0.008380777481127828,
+        "precisions": [
+          0.08828451882845188,
+          0.016500217108119844,
+          0.0036101083032490976,
+          0.0009380863039399625
+        ],
+        "brevity_penalty": 1.0,
+        "length_ratio": 2.8864734299516908,
+        "translation_length": 2390,
+        "reference_length": 828
+      },
+      "rouge": {
+        "rouge1": 0.1876015993594202,
+        "rouge2": 0.04429919594552762,
+        "rougeL": 0.15974811200777397,
+        "rougeLsum": 0.15974811200777397
+      },
+      "character": {
+        "cer_score": 0.7887567103735558
+      },
+      "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+      "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+      "input_sha256": "0d4ef726f15ce454afda23076c56bd4f49cff3abfb5eb1f76dcc6af6234cd39e",
+      "empty_predictions": 0
+    }
+  }
+}

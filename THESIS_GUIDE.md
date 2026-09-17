@@ -278,6 +278,58 @@ reporting. Do not change the model list and describe the result as the same plan
 family. This protocol was fixed for the campaign but is not claimed to have been
 externally preregistered.
 
+## Separate MTOB Supplement
+
+The [MTOB closure protocol](experiments/mtob/evaluation_v1/README.md),
+[live closure report](experiments/mtob/evaluation_v1/CLOSURE_REPORT.md), and
+[30-condition matrix](experiments/mtob/evaluation_v1/condition_matrix.tsv)
+cover the existing Qwen3/Qwen3.5 Ge/Gs/Gl experiments only. This supplement is
+not included in the 351-condition primary matched_v1 matrix above.
+
+Use the closure report's current completion state before citing new MTOB scores
+or significance. Original outputs and historical metrics are preserved. New
+evaluation retains failures in the denominator and provides both raw and
+deterministically extracted translation views. It uses 120 planned paired
+BLEU/chrF tests, 100,000 resamples, and one Holm correction family across views.
+
+The original 30-condition MTOB closure has no matched grammar-free baseline: its
+conclusions concern Ge/Gs/Gl differences, not a benefit from adding grammar. The
+planned source-specific [baseline extension](experiments/mtob/baseline_v1/README.md)
+was cancelled at the researcher's request. Its preparation files are not evidence
+of completed experiments and must not be cited as baseline results.
+
+The separate [cross-protocol comparison](experiments/mtob/grammamt_comparison_v1/README.md)
+uses existing matched_v1 shot, chain_gloss and modelgloss baseline predictions.
+It pairs identical sentences/references and recomputes both setups with one
+evaluator. Consult its [live report](experiments/mtob/grammamt_comparison_v1/COMPARISON_REPORT.md)
+before citing completion or significance. Ninety comparisons, two views and two
+metrics define a separate 360-test Holm family. Neither the primary 351-condition
+matrix nor the original 120-test MTOB closure family is changed.
+
+Completion verified: Slurm job 5795449 finished successfully in 01:17:38.
+All 360 cross-protocol tests completed. Holm correction identifies 217 significant
+differences, all favouring the GRAMMAMT baseline configuration: raw BLEU 39,
+raw chrF 77, extracted BLEU 39 and extracted chrF 62. These are metric-test
+counts across correlated comparisons/views, not 217 independent experiments.
+All 90 comparisons have lower MTOB BLEU and chrF in both views; not every
+difference is statistically significant. Original input hashes remain verified.
+
+These are valid **cross-protocol translation-performance comparisons**, not
+controlled grammar-addition ablations. MTOB uses temperature 0.05 and a 256-token
+output cap; matched_v1 uses temperature 0.7 and a 512-token cap. Prompts, examples,
+gloss information, seeds and retry policies also differ. Common scoring removes
+metric-convention differences, not these experimental confounds. Gitksan PDF1
+and PDF2 share their language baseline/test cohort, so they are not independent
+datasets. Report absolute differences first; relative changes are undefined at
+zero baseline and unstable near zero. Do not mix historical metrics directly.
+
+Actual Gl lengths vary substantially and are not uniformly 100K tokens. Four
+Qwen3.5 records were rerun; earlier-round responses are not retained in their
+final JSONL. Missing finish metadata means truncation is unknown. Read the
+closure report for extraction ambiguities, local ROUGE limitations, CharacTER
+definition and historical-denominator effects. Neither a non-significant result
+nor two equally low scores establishes equivalence.
+
 ## References
 
 - [GRAMMAMT paper, including Appendix L](https://aclanthology.org/2025.acl-long.1447.pdf)

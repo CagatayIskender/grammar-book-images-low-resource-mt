@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "f2222072e1b2203b3bbbe34047c943bcc7df6d0cdb573c26a5d8a5e29aa7c064",
+      "b6fb05d03fbc12a77c446901fff6ab52127656c5e3473e368b1143260c1888fb"
+    ],
+    "scores": [
+      "f9387e1af55ec25bed9558ae8fd9bf95ff839cd7b6c144e4c11452c87ec7734b",
+      "a802f956d5d2234c9cb6277e021df507e6cc553e2d60c879a867056390d8cfc6"
+    ],
+    "view": "extracted"
+  },
+  "tests": [
+    {
+      "model": "qwen35",
+      "source": "gitksan_pdf2",
+      "language": "gitksan",
+      "condition": "gl",
+      "method": "chain_gloss",
+      "left": "matched_qwen35_gitksan_chain_gloss",
+      "right": "mtob_qwen35_gitksan_pdf2_gl",
+      "view": "extracted",
+      "num_examples": 37,
+      "metric": "BLEU",
+      "left_score": 2.939150098501362,
+      "right_score": 0.35506499122731433,
+      "delta_right_minus_left": -2.5840851072740474,
+      "p_raw": 0.045529544704552956,
+      "p_sacrebleu": 0.045529544704552956,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.28539094336843795,
+      "right_ci95_halfwidth": 0.36467899333693254,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen35",
+      "source": "gitksan_pdf2",
+      "language": "gitksan",
+      "condition": "gl",
+      "method": "chain_gloss",
+      "left": "matched_qwen35_gitksan_chain_gloss",
+      "right": "mtob_qwen35_gitksan_pdf2_gl",
+      "view": "extracted",
+      "num_examples": 37,
+      "metric": "chrF",
+      "left_score": 27.356503491543567,
+      "right_score": 18.41213332045193,
+      "delta_right_minus_left": -8.944370171091638,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 18.438840866088867,
+      "right_ci95_halfwidth": 2.3523178100585938,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

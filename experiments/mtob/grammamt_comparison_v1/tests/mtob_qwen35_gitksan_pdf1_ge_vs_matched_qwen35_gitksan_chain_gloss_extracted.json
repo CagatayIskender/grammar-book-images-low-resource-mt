@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "f2222072e1b2203b3bbbe34047c943bcc7df6d0cdb573c26a5d8a5e29aa7c064",
+      "c43ec37ad55f87063ef179ba6c697935d38724929b39c8dfbb2e38dc0a51b8ae"
+    ],
+    "scores": [
+      "f9387e1af55ec25bed9558ae8fd9bf95ff839cd7b6c144e4c11452c87ec7734b",
+      "9facf1b918b6bf9993796b92e82b02e0ca7a4a9441e5468b8a7914f8630e3aa0"
+    ],
+    "view": "extracted"
+  },
+  "tests": [
+    {
+      "model": "qwen35",
+      "source": "gitksan_pdf1",
+      "language": "gitksan",
+      "condition": "ge",
+      "method": "chain_gloss",
+      "left": "matched_qwen35_gitksan_chain_gloss",
+      "right": "mtob_qwen35_gitksan_pdf1_ge",
+      "view": "extracted",
+      "num_examples": 37,
+      "metric": "BLEU",
+      "left_score": 2.939150098501362,
+      "right_score": 0.7785081664591268,
+      "delta_right_minus_left": -2.160641932042235,
+      "p_raw": 0.04562954370456295,
+      "p_sacrebleu": 0.04562954370456295,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 0.6236686501643115,
+      "right_ci95_halfwidth": 0.8516654473987576,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen35",
+      "source": "gitksan_pdf1",
+      "language": "gitksan",
+      "condition": "ge",
+      "method": "chain_gloss",
+      "left": "matched_qwen35_gitksan_chain_gloss",
+      "right": "mtob_qwen35_gitksan_pdf1_ge",
+      "view": "extracted",
+      "num_examples": 37,
+      "metric": "chrF",
+      "left_score": 27.356503491543567,
+      "right_score": 22.742731989310204,
+      "delta_right_minus_left": -4.613771502233362,
+      "p_raw": 8.99991000089999e-05,
+      "p_sacrebleu": 8.99991000089999e-05,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 22.86050796508789,
+      "right_ci95_halfwidth": 3.617917060852051,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

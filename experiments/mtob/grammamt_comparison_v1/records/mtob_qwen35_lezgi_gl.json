@@ -1,0 +1,2006 @@
+{
+  "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+  "records": [
+    {
+      "index": 0,
+      "source": "И гададини гъил вегьена са жуьт къачуда .",
+      "reference": "And the guy picked up one necklace pair.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The children who are playing are very happy.",
+      "raw": "The children who are playing are very happy.",
+      "extracted": "The children who are playing are very happy.",
+      "raw_span": [
+        0,
+        44
+      ],
+      "extracted_span": [
+        0,
+        44
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 1,
+      "source": "Вични хьанвай къвалахар я .",
+      "reference": "and all this were real stories",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The people you know are good.\n\n**Breakdown:**\n*   **Вични** (vichni): good (adjective)\n*   **хьанвай** (x'navay): you know (present tense, 2nd person singular)\n*   **къвалахар** (q'valaxar): people (plural, absolutive case)\n*   **я** (ya): copula (is/are)",
+      "raw": "The people you know are good.\n\n**Breakdown:**\n*   **Вични** (vichni): good (adjective)\n*   **хьанвай** (x'navay): you know (present tense, 2nd person singular)\n*   **къвалахар** (q'valaxar): people (plural, absolutive case)\n*   **я** (ya): copula (is/are)",
+      "extracted": "The people you know are good.",
+      "raw_span": [
+        0,
+        255
+      ],
+      "extracted_span": [
+        0,
+        29
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 2,
+      "source": "Яргъал акъатна чун ...",
+      "reference": "We ran far from there...",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When I left the house...\n\n**Explanation:**\n*   **Яргъал** (*yarg'al*): First person singular, Aorist converb of the verb \"to go\" (*yarg*). The gloss would be `I:ABS go-AOP`.\n*   **акъатна** (*aqtana*): First person singular, Aorist of the verb \"to leave\" (*aqtan*). The gloss would be `leave-AOR`.\n*   **чун** (*chun*): Conjunction meaning \"when\" or \"as soon as\".\n\nThis sentence structure corresponds to example (12) in the provided text (page 8): *Zun k'wal-äj fe-ji-waldi, Ahmed ata-na* (\"As soon as I left the house, Ahmed came\").",
+      "raw": "When I left the house...\n\n**Explanation:**\n*   **Яргъал** (*yarg'al*): First person singular, Aorist converb of the verb \"to go\" (*yarg*). The gloss would be `I:ABS go-AOP`.\n*   **акъатна** (*aqtana*): First person singular, Aorist of the verb \"to leave\" (*aqtan*). The gloss would be `leave-AOR`.\n*   **чун** (*chun*): Conjunction meaning \"when\" or \"as soon as\".\n\nThis sentence structure corresponds to example (12) in the provided text (page 8): *Zun k'wal-äj fe-ji-waldi, Ahmed ata-na* (\"As soon as I left the house, Ahmed came\").",
+      "extracted": "When I left the house...",
+      "raw_span": [
+        0,
+        533
+      ],
+      "extracted_span": [
+        0,
+        24
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 3,
+      "source": "Ша фин гьуьлуьн къерехдиз » лугьуда .",
+      "reference": "\"Let’s go to the seaside.\" said the horse.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They say that this village is beautiful.",
+      "raw": "They say that this village is beautiful.",
+      "extracted": "They say that this village is beautiful.",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 4,
+      "source": "Ахпа отпуска гана заз .",
+      "reference": "I was sent on vacation.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The brother went away.\n\n**Breakdown:**\n*   **Ахпа** (axpa): brother (Absolutive case)\n*   **отпуска** (otpuska): goes away / departs (Aorist converb form, often used in narrative sequences or as a main verb in certain contexts, here functioning as the main action)\n*   **гана** (gana): away / off (Adelative case marker or directional particle indicating movement away)\n*   **заз** (zaz): went / has gone (Past tense of the verb *zaw* 'to go')\n\n*Note: The sentence structure reflects the Lezgian word order and aspectual usage found in the provided grammar examples.*",
+      "raw": "The brother went away.\n\n**Breakdown:**\n*   **Ахпа** (axpa): brother (Absolutive case)\n*   **отпуска** (otpuska): goes away / departs (Aorist converb form, often used in narrative sequences or as a main verb in certain contexts, here functioning as the main action)\n*   **гана** (gana): away / off (Adelative case marker or directional particle indicating movement away)\n*   **заз** (zaz): went / has gone (Past tense of the verb *zaw* 'to go')\n\n*Note: The sentence structure reflects the Lezgian word order and aspectual usage found in the provided grammar examples.*",
+      "extracted": "The brother went away.",
+      "raw_span": [
+        0,
+        567
+      ],
+      "extracted_span": [
+        0,
+        22
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 5,
+      "source": "« Фена », лагьана , « куьне », лагьана , « зи балкӀандин кӀвач галукь тавунвай са чкадлай » лагьана , « заз са тике », лагьана « накьв гъваш » лагьана .",
+      "reference": "\"Go\" he said, \"and bring me some soil from a place where my horse has never walked.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Phena,\" he said, \"Kune,\" he said, \"from the place where my beloved's heart was broken,\" he said, \"I am a little,\" he said, \"I will go.\"\n\n**Note on the translation:**\nThe source text appears to be a poetic or literary excerpt (likely from a folk tale or song, given the source abbreviations often found in such grammars, e.g., H77 or HQ89). The word \"лагьана\" (*lag'ana*) is the past tense of the verb \"to say\" (*lag'*) with a first-person singular subject marker or a specific dialectal variation, but in this context, it functions as \"he said\" or \"she said\" (referring to the speaker of the quoted phrase). The names \"Фена\" (*Phena*) and \"куьне\" (*Kune*) are likely proper nouns (names of people or deities in Lezgian mythology). The phrase \"зи балкӀандин кӀвач галукь тавунвай са чкадлай\" is a complex genitive construction meaning \"from the place where my beloved's heart was broken.\" \"Заз са тике\" is an",
+      "raw": "\"Phena,\" he said, \"Kune,\" he said, \"from the place where my beloved's heart was broken,\" he said, \"I am a little,\" he said, \"I will go.\"\n\n**Note on the translation:**\nThe source text appears to be a poetic or literary excerpt (likely from a folk tale or song, given the source abbreviations often found in such grammars, e.g., H77 or HQ89). The word \"лагьана\" (*lag'ana*) is the past tense of the verb \"to say\" (*lag'*) with a first-person singular subject marker or a specific dialectal variation, but in this context, it functions as \"he said\" or \"she said\" (referring to the speaker of the quoted phrase). The names \"Фена\" (*Phena*) and \"куьне\" (*Kune*) are likely proper nouns (names of people or deities in Lezgian mythology). The phrase \"зи балкӀандин кӀвач галукь тавунвай са чкадлай\" is a complex genitive construction meaning \"from the place where my beloved's heart was broken.\" \"Заз са тике\" is an",
+      "extracted": "\"Phena,\" he said, \"Kune,\" he said, \"from the place where my beloved's heart was broken,\" he said, \"I am a little,\" he said, \"I will go.\"\n\n**Note on the translation:**\nThe source text appears to be a poetic or literary excerpt (likely from a folk tale or song, given the source abbreviations often found in such grammars, e.g., H77 or HQ89). The word \"лагьана\" (*lag'ana*) is the past tense of the verb \"to say\" (*lag'*) with a first-person singular subject marker or a specific dialectal variation, but in this context, it functions as \"he said\" or \"she said\" (referring to the speaker of the quoted phrase). The names \"Фена\" (*Phena*) and \"куьне\" (*Kune*) are likely proper nouns (names of people or deities in Lezgian mythology). The phrase \"зи балкӀандин кӀвач галукь тавунвай са чкадлай\" is a complex genitive construction meaning \"from the place where my beloved's heart was broken.\" \"Заз са тике\" is an",
+      "raw_span": [
+        0,
+        908
+      ],
+      "extracted_span": [
+        0,
+        908
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 6,
+      "source": "Лагьана чна , рекъел эвицӀ~хъувуна , рехъ чира ман .",
+      "reference": "we asked to show us the road.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I have come from the village, having seen the fields, and I am happy.\n\n**Breakdown of the translation:**\n\n*   **Лагьана чна** (*laghāna čna*): \"I have come from the village.\"\n    *   *laghāna*: village (Absolutive).\n    *   *čna*: from (Postelative case marker indicating origin/source).\n*   **рекъел эвицӀ~хъувуна** (*rekel evič'~xuvuna*): \"having seen the fields.\"\n    *   *rekel*: fields (Genitive case).\n    *   *evič'*: to see (verb stem).\n    *   *xuvuna*: a converb form indicating that the action of seeing happened prior to or as part of the main action (often translated as \"having seen\" or \"after seeing\").\n*   **рехъ чира ман** (*reḵ čira man*): \"I am happy.\"\n    *   *reḵ*: happy (adjective).\n    *   *čira*: is (copula).\n    *   *man",
+      "raw": "I have come from the village, having seen the fields, and I am happy.\n\n**Breakdown of the translation:**\n\n*   **Лагьана чна** (*laghāna čna*): \"I have come from the village.\"\n    *   *laghāna*: village (Absolutive).\n    *   *čna*: from (Postelative case marker indicating origin/source).\n*   **рекъел эвицӀ~хъувуна** (*rekel evič'~xuvuna*): \"having seen the fields.\"\n    *   *rekel*: fields (Genitive case).\n    *   *evič'*: to see (verb stem).\n    *   *xuvuna*: a converb form indicating that the action of seeing happened prior to or as part of the main action (often translated as \"having seen\" or \"after seeing\").\n*   **рехъ чира ман** (*reḵ čira man*): \"I am happy.\"\n    *   *reḵ*: happy (adjective).\n    *   *čira*: is (copula).\n    *   *man",
+      "extracted": "I have come from the village, having seen the fields, and I am happy.",
+      "raw_span": [
+        0,
+        747
+      ],
+      "extracted_span": [
+        0,
+        69
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 7,
+      "source": "Берлиндай Франциядиз ,",
+      "reference": "from Berlin to France,",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "From Berlin to France,",
+      "raw": "From Berlin to France,",
+      "extracted": "From Berlin to France,",
+      "raw_span": [
+        0,
+        22
+      ],
+      "extracted_span": [
+        0,
+        22
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 8,
+      "source": "чун рехъ къуна хкверла",
+      "reference": "when we were returning along the road",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When the grey stone was found, they were happy.\n\n**Breakdown:**\n*   **чун** (*čun*): when (temporal converb)\n*   **рехъ** (*reḵ*): grey stone (noun, absolutive singular)\n*   **къуна** (*quna*): was found (verb, past tense, passive/antipassive construction or transitive with omitted agent, often implying \"it was found\")\n*   **хкверла** (*xkverla*): they were happy/glad (adjective, plural, likely inessive or locative case indicating state of being, or simply plural predicate)\n\n*Note: The sentence structure reflects Lezgian syntax where the temporal clause (\"when the grey stone was found\") precedes the main clause (\"they were happy\"). The verb \"хкверла\" indicates a state of happiness or gladness.*",
+      "raw": "When the grey stone was found, they were happy.\n\n**Breakdown:**\n*   **чун** (*čun*): when (temporal converb)\n*   **рехъ** (*reḵ*): grey stone (noun, absolutive singular)\n*   **къуна** (*quna*): was found (verb, past tense, passive/antipassive construction or transitive with omitted agent, often implying \"it was found\")\n*   **хкверла** (*xkverla*): they were happy/glad (adjective, plural, likely inessive or locative case indicating state of being, or simply plural predicate)\n\n*Note: The sentence structure reflects Lezgian syntax where the temporal clause (\"when the grey stone was found\") precedes the main clause (\"they were happy\"). The verb \"хкверла\" indicates a state of happiness or gladness.*",
+      "extracted": "When the grey stone was found, they were happy.",
+      "raw_span": [
+        0,
+        703
+      ],
+      "extracted_span": [
+        0,
+        47
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 9,
+      "source": "Гьабурни кӀвалариз-къариз ахъатна .",
+      "reference": "They have their homes.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The brothers came back home.\n\n**Breakdown:**\n*   **Гьабурни** (*gaburni*): \"The brothers\" (Plural of *gabur* 'brother', in Ergative case).\n*   **кӀвалариз-къариз** (*k'valariz-k'qariz*): \"home\" (Dative case of *k'val* 'house/home', with the postposition *-qariz* 'to/into' attached, forming a compound dative meaning 'to the house').\n*   **ахъатна** (*ax'atna*): \"came back\" (Verb *ax'at* 'return', Aorist tense, 3rd person plural).",
+      "raw": "The brothers came back home.\n\n**Breakdown:**\n*   **Гьабурни** (*gaburni*): \"The brothers\" (Plural of *gabur* 'brother', in Ergative case).\n*   **кӀвалариз-къариз** (*k'valariz-k'qariz*): \"home\" (Dative case of *k'val* 'house/home', with the postposition *-qariz* 'to/into' attached, forming a compound dative meaning 'to the house').\n*   **ахъатна** (*ax'atna*): \"came back\" (Verb *ax'at* 'return', Aorist tense, 3rd person plural).",
+      "extracted": "The brothers came back home.",
+      "raw_span": [
+        0,
+        432
+      ],
+      "extracted_span": [
+        0,
+        28
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 10,
+      "source": "Хъсан жи къайгъудик амукьна заз еке тир хъсанвилер къалурна жамаатдин патай .",
+      "reference": "They took care of me and were very kind to me.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The good ones who have died in sorrow are the ones who have been raised in the community.\n\n*(Note: This translation is based on the Lezgi text provided and the grammatical context from the grammar book. The sentence appears to reflect a cultural or proverbial sentiment about those who passed away with a heavy heart or in grief being honored or remembered within the community.)*\n\n**Breakdown of key terms:**\n*   **Хъсан** (xhsan) = good\n*   **жи** (ji) = and / with\n*   **къайгъудик** (qayg'udik) = sorrowful / in sorrow (from *qayg'u* - sorrow)\n*   **амукьна** (amuk'na) = died (past tense)\n*   **зaz** (zaz) = those who / the ones who\n*   **еке тир** (eke tir) = are great / are many / are the ones (emphasizing their status)\n*   **хъсанвилер** (xhsanviler) = good ones / virtuous people\n*   **къалурна** (qalurna) =",
+      "raw": "The good ones who have died in sorrow are the ones who have been raised in the community.\n\n*(Note: This translation is based on the Lezgi text provided and the grammatical context from the grammar book. The sentence appears to reflect a cultural or proverbial sentiment about those who passed away with a heavy heart or in grief being honored or remembered within the community.)*\n\n**Breakdown of key terms:**\n*   **Хъсан** (xhsan) = good\n*   **жи** (ji) = and / with\n*   **къайгъудик** (qayg'udik) = sorrowful / in sorrow (from *qayg'u* - sorrow)\n*   **амукьна** (amuk'na) = died (past tense)\n*   **зaz** (zaz) = those who / the ones who\n*   **еке тир** (eke tir) = are great / are many / are the ones (emphasizing their status)\n*   **хъсанвилер** (xhsanviler) = good ones / virtuous people\n*   **къалурна** (qalurna) =",
+      "extracted": "The good ones who have died in sorrow are the ones who have been raised in the community.\n\n*(Note: This translation is based on the Lezgi text provided and the grammatical context from the grammar book. The sentence appears to reflect a cultural or proverbial sentiment about those who passed away with a heavy heart or in grief being honored or remembered within the community.)*",
+      "raw_span": [
+        0,
+        820
+      ],
+      "extracted_span": [
+        0,
+        380
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 11,
+      "source": "« Самур » газет атай береда . 00 . 20",
+      "reference": "When \"Samur\" newspaper came",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The newspaper \"Samur\" is being published. 00. 20",
+      "raw": "The newspaper \"Samur\" is being published. 00. 20",
+      "extracted": "The newspaper \"Samur\" is being published. 00. 20",
+      "raw_span": [
+        0,
+        48
+      ],
+      "extracted_span": [
+        0,
+        48
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 12,
+      "source": "Писвал ийиз кӀанзава хьир гададиз .",
+      "reference": "He wants to do evil to the guy.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "You used to write good letters to us.\n\n**Breakdown:**\n*   **Писвал** (*piswal*): \"used to write\" (Past Imperfective of *pis* 'to write').\n*   **ийиз** (*iyiz*): \"to us\" (Dative plural of *i* 'we').\n*   **кӀанзава** (*k'anzawa*): \"letters\" (Plural of *k'anz* 'letter', in the Absolutive case).\n*   **хьир** (*x'ir*): \"good\" (Adjective).\n*   **гададиз** (*gadatiz*): \"well\" or \"properly\" (Adverbial form of *gada* 'good').\n\n*Note: The phrase \"хьир гададиз\" is a slightly poetic or emphatic way of saying \"good letters\" or \"letters written well.\" A more literal word-for-word translation would be \"wrote good well-to-us letters,\" but the natural English equivalent is \"You used to write good letters to us.\"*",
+      "raw": "You used to write good letters to us.\n\n**Breakdown:**\n*   **Писвал** (*piswal*): \"used to write\" (Past Imperfective of *pis* 'to write').\n*   **ийиз** (*iyiz*): \"to us\" (Dative plural of *i* 'we').\n*   **кӀанзава** (*k'anzawa*): \"letters\" (Plural of *k'anz* 'letter', in the Absolutive case).\n*   **хьир** (*x'ir*): \"good\" (Adjective).\n*   **гададиз** (*gadatiz*): \"well\" or \"properly\" (Adverbial form of *gada* 'good').\n\n*Note: The phrase \"хьир гададиз\" is a slightly poetic or emphatic way of saying \"good letters\" or \"letters written well.\" A more literal word-for-word translation would be \"wrote good well-to-us letters,\" but the natural English equivalent is \"You used to write good letters to us.\"*",
+      "extracted": "You used to write good letters to us.",
+      "raw_span": [
+        0,
+        705
+      ],
+      "extracted_span": [
+        0,
+        37
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 13,
+      "source": "« За вучин », лугьуда , бес , « аквазвачни », лугьуда , « пачагьдиз завай гила гевгьеррин иеси кӀанзава ».",
+      "reference": "“What to do? he said.  \"Did I not see this? Now the king wants from me the owner of the pearls.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"\n\n*(Note: The Lezgi text provided in the prompt appears to be a transliteration of a Russian sentence into the Lezgi Cyrillic script, rather than an original Lezgi sentence. The Russian source is: «За вучин», лугьуда, бес, «аквазвачни», лугьуда, «пачагьдиз завай гила гевгьеррин иеси кӀанзава». This translates literally to: \"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\" The translation above reflects this meaning.)*",
+      "raw": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"\n\n*(Note: The Lezgi text provided in the prompt appears to be a transliteration of a Russian sentence into the Lezgi Cyrillic script, rather than an original Lezgi sentence. The Russian source is: «За вучин», лугьуда, бес, «аквазвачни», лугьуда, «пачагьдиз завай гила гевгьеррин иеси кӀанзава». This translates literally to: \"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\" The translation above reflects this meaning.)*",
+      "extracted": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"\n\n*(Note: The Lezgi text provided in the prompt appears to be a transliteration of a Russian sentence into the Lezgi Cyrillic script, rather than an original Lezgi sentence. The Russian source is: «За вучин», лугьуда, бес, «аквазвачни», лугьуда, «пачагьдиз завай гила гевгьеррин иеси кӀанзава». This translates literally to: \"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\" The translation above reflects this meaning.)*",
+      "raw_span": [
+        0,
+        594
+      ],
+      "extracted_span": [
+        0,
+        594
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 14,
+      "source": "Седакъет ханума вичин кӀалуб туькӀуьрна ва гьа кӀалубдив кутуна и ктаб кхьанва .",
+      "reference": "She created a form and wrote a book according this form.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Sedaqet Khanum wrote this book with her heart and poured her heart into it.",
+      "raw": "Sedaqet Khanum wrote this book with her heart and poured her heart into it.",
+      "extracted": "Sedaqet Khanum wrote this book with her heart and poured her heart into it.",
+      "raw_span": [
+        0,
+        75
+      ],
+      "extracted_span": [
+        0,
+        75
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 15,
+      "source": "« Гьа и луьтквечидини », лагьана , « идани », лагьана « зун », лагьана , « гададивай къакъудна », лагьана , « алцурарна вичин кӀвализ тухузвай тир .",
+      "reference": "\"Yes this boatman,\" she said, \"he also took me from the guy, deceiving me and taking me to his home.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"He said, 'That is the smallest of them all,' and said, 'I am,' and said, 'The boy who is sitting in the courtyard of the rich man.'\"\n\n**Breakdown of the translation:**\n\n*   **« Гьа и луьтквечидини »** (*Gə i lütqveçidinini*): \"That is the smallest of them all.\"\n    *   *Gə*: That\n    *   *i*: is (copula)\n    *   *lütqveçidinini*: smallest of them all (superlative form).\n*   **« идани »** (*idani*): \"I am.\"\n    *   *i*: I\n    *   *dani*: am (first person singular of the copula).\n*   **« зун »** (*zun*): \"The boy\" (or \"I\", depending on context, but here likely \"the boy\" based on the next clause, though *zun* literally means \"I\". However, looking at the structure \"The boy who...\", it implies a demonstrative or specific reference. Wait, *zun* is \"I\". Let's re-evaluate. If the speaker is saying",
+      "raw": "\"He said, 'That is the smallest of them all,' and said, 'I am,' and said, 'The boy who is sitting in the courtyard of the rich man.'\"\n\n**Breakdown of the translation:**\n\n*   **« Гьа и луьтквечидини »** (*Gə i lütqveçidinini*): \"That is the smallest of them all.\"\n    *   *Gə*: That\n    *   *i*: is (copula)\n    *   *lütqveçidinini*: smallest of them all (superlative form).\n*   **« идани »** (*idani*): \"I am.\"\n    *   *i*: I\n    *   *dani*: am (first person singular of the copula).\n*   **« зун »** (*zun*): \"The boy\" (or \"I\", depending on context, but here likely \"the boy\" based on the next clause, though *zun* literally means \"I\". However, looking at the structure \"The boy who...\", it implies a demonstrative or specific reference. Wait, *zun* is \"I\". Let's re-evaluate. If the speaker is saying",
+      "extracted": "\"He said, 'That is the smallest of them all,' and said, 'I am,' and said, 'The boy who is sitting in the courtyard of the rich man.'\"",
+      "raw_span": [
+        0,
+        801
+      ],
+      "extracted_span": [
+        0,
+        133
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 16,
+      "source": "« Ваъ », лугьуда , « зи пӀузаррал хер хьанва » лугьуда , « а ковшда аваз са яд це кван заз ».",
+      "reference": "\"No,\" he said, \"There is a wound on my lips. Please, give me some water in that ladel.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Va\", he said, \"zi p'uzarral xer x'ana\" he said, \"a kovshda avaz sa yad ce kvan zaz\".\n\nHowever, this appears to be a transliteration of Lezgi using Cyrillic characters that have been incorrectly rendered or mixed with Latin script in the prompt. Let me reconstruct the actual Lezgi sentence based on standard orthography and grammar:\n\nThe correct Lezgi sentence should be:\n« Ваъ », лугьуда, « зи пӀузаррал хер хьанва » лугьуда, « а ковшда аваз са яд це кван заз ».\n\nBut looking at the actual Lezgi orthography from the grammar book provided, this seems to be a dialogue with reported speech. Let me translate it properly:\n\n« Ваъ », лугьуда, « зи пӀузаррал хер хьанва » лугьуда, « а ковшда аваз са яд це кван заз ».\n\nActually, I need to recognize that the text in the prompt contains Cyrillic characters that represent Lezgi. Let me decode this properly:\n\nThe sentence appears to be",
+      "raw": "\"Va\", he said, \"zi p'uzarral xer x'ana\" he said, \"a kovshda avaz sa yad ce kvan zaz\".\n\nHowever, this appears to be a transliteration of Lezgi using Cyrillic characters that have been incorrectly rendered or mixed with Latin script in the prompt. Let me reconstruct the actual Lezgi sentence based on standard orthography and grammar:\n\nThe correct Lezgi sentence should be:\n« Ваъ », лугьуда, « зи пӀузаррал хер хьанва » лугьуда, « а ковшда аваз са яд це кван заз ».\n\nBut looking at the actual Lezgi orthography from the grammar book provided, this seems to be a dialogue with reported speech. Let me translate it properly:\n\n« Ваъ », лугьуда, « зи пӀузаррал хер хьанва » лугьуда, « а ковшда аваз са яд це кван заз ».\n\nActually, I need to recognize that the text in the prompt contains Cyrillic characters that represent Lezgi. Let me decode this properly:\n\nThe sentence appears to be",
+      "extracted": "\"Va\", he said, \"zi p'uzarral xer x'ana\" he said, \"a kovshda avaz sa yad ce kvan zaz\".\n\nHowever, this appears to be a transliteration of Lezgi using Cyrillic characters that have been incorrectly rendered or mixed with Latin script in the prompt. Let me reconstruct the actual Lezgi sentence based on standard orthography and grammar:\n\nThe correct Lezgi sentence should be:\n« Ваъ », лугьуда, « зи пӀузаррал хер хьанва » лугьуда, « а ковшда аваз са яд це кван заз ».\n\nBut looking at the actual Lezgi orthography from the grammar book provided, this seems to be a dialogue with reported speech. Let me translate it properly:\n\n« Ваъ », лугьуда, « зи пӀузаррал хер хьанва » лугьуда, « а ковшда аваз са яд це кван заз ».\n\nActually, I need to recognize that the text in the prompt contains Cyrillic characters that represent Lezgi. Let me decode this properly:\n\nThe sentence appears to be",
+      "raw_span": [
+        0,
+        881
+      ],
+      "extracted_span": [
+        0,
+        881
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 17,
+      "source": "« АкӀ жеш хьи », лугьуда .",
+      "reference": "\"It cannot work this way.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Let's go,\" they said.",
+      "raw": "\"Let's go,\" they said.",
+      "extracted": "\"Let's go,\" they said.",
+      "raw_span": [
+        0,
+        22
+      ],
+      "extracted_span": [
+        0,
+        22
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 18,
+      "source": "Чубанди кицӀиз ихьтин гьерекатар ийидай туш .",
+      "reference": "Shepherds don’t treat dogs this way.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "There are no such customs in our country.",
+      "raw": "There are no such customs in our country.",
+      "extracted": "There are no such customs in our country.",
+      "raw_span": [
+        0,
+        41
+      ],
+      "extracted_span": [
+        0,
+        41
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 19,
+      "source": "Жи хуьре атана лагьайла , за атана концертни гайди я и хуьре атана .",
+      "reference": "he said in our village, and I also gave a concert in this village",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When I came to this village, I came to the concert, and I came to this village.\n\n(Note: The sentence appears to be a slightly ungrammatical or colloquial repetition in Lezgi, likely meaning: \"When I came to this village, I came to the concert, and [then] I came to this village [again]\" or it may be a redundant phrasing emphasizing the speaker's arrival at the village in connection with attending the concert. A more natural English rendering of the intended meaning might be: \"When I came to this village, I came to the concert.\")\n\nHowever, a literal and faithful translation of the structure provided is:\n\n**\"When I came to this village, I came to the concert, and I came to this village.\"**",
+      "raw": "When I came to this village, I came to the concert, and I came to this village.\n\n(Note: The sentence appears to be a slightly ungrammatical or colloquial repetition in Lezgi, likely meaning: \"When I came to this village, I came to the concert, and [then] I came to this village [again]\" or it may be a redundant phrasing emphasizing the speaker's arrival at the village in connection with attending the concert. A more natural English rendering of the intended meaning might be: \"When I came to this village, I came to the concert.\")\n\nHowever, a literal and faithful translation of the structure provided is:\n\n**\"When I came to this village, I came to the concert, and I came to this village.\"**",
+      "extracted": "When I came to this village, I came to the concert, and I came to this village.\n\n(Note: The sentence appears to be a slightly ungrammatical or colloquial repetition in Lezgi, likely meaning: \"When I came to this village, I came to the concert, and [then] I came to this village [again]\" or it may be a redundant phrasing emphasizing the speaker's arrival at the village in connection with attending the concert. A more natural English rendering of the intended meaning might be: \"When I came to this village, I came to the concert.\")\n\nHowever, a literal and faithful translation of the structure provided is:\n\n**\"When I came to this village, I came to the concert, and I came to this village.\"**",
+      "raw_span": [
+        0,
+        695
+      ],
+      "extracted_span": [
+        0,
+        695
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 20,
+      "source": "Рехъ акваз амукъназ сад~лагьана",
+      "reference": "We couldn't even see the road.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The water has stopped flowing.",
+      "raw": "The water has stopped flowing.",
+      "extracted": "The water has stopped flowing.",
+      "raw_span": [
+        0,
+        30
+      ],
+      "extracted_span": [
+        0,
+        30
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 21,
+      "source": "И кар акур жибури лагьана ки , яда къе вуча ма чав .",
+      "reference": "Hearing this, our guys asked him to give the cassete that day.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "If you come to my house, tell me where you are.",
+      "raw": "If you come to my house, tell me where you are.",
+      "extracted": "If you come to my house, tell me where you are.",
+      "raw_span": [
+        0,
+        47
+      ],
+      "extracted_span": [
+        0,
+        47
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 22,
+      "source": "Ва гьада , гьикъван гьа терезидин стрелка пара хкаж хьанватӀа , гьам вилик кутунва .",
+      "reference": "And she put first that person which is more valuable according to the position of scale arrow.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When the clock's hand on the wall clock has moved a little, it is time to wake up.",
+      "raw": "When the clock's hand on the wall clock has moved a little, it is time to wake up.",
+      "extracted": "When the clock's hand on the wall clock has moved a little, it is time to wake up.",
+      "raw_span": [
+        0,
+        82
+      ],
+      "extracted_span": [
+        0,
+        82
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 23,
+      "source": "хуьруьн абурун кӀвалар чила ава , асканда пенжер",
+      "reference": "houses in that village were small",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The village elders are saying, \"Open the window.\"\n\n**Breakdown:**\n*   **хуьруьн** (*xurün*): of the village (Genitive case of *xur* \"village\")\n*   **абурун** (*aburun*): of the elders (Genitive case of *abu* \"elder/old man\", plural)\n*   **кӀвалар** (*k'valar*): words/speech (Plural of *k'val* \"word\")\n*   **чила** (*čila*): are saying / it is said (3rd person plural present of *ča* \"to say\")\n*   **ава** (*ava*): is (copula)\n*   **асканда** (*askan-da*): open (Imperative of *askan* \"to open\")\n*   **пенжер** (*penjer*): window",
+      "raw": "The village elders are saying, \"Open the window.\"\n\n**Breakdown:**\n*   **хуьруьн** (*xurün*): of the village (Genitive case of *xur* \"village\")\n*   **абурун** (*aburun*): of the elders (Genitive case of *abu* \"elder/old man\", plural)\n*   **кӀвалар** (*k'valar*): words/speech (Plural of *k'val* \"word\")\n*   **чила** (*čila*): are saying / it is said (3rd person plural present of *ča* \"to say\")\n*   **ава** (*ava*): is (copula)\n*   **асканда** (*askan-da*): open (Imperative of *askan* \"to open\")\n*   **пенжер** (*penjer*): window",
+      "extracted": "The village elders are saying, \"Open the window.\"",
+      "raw_span": [
+        0,
+        529
+      ],
+      "extracted_span": [
+        0,
+        49
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 24,
+      "source": "Идан акъадарна ахпа къагъана чун са шегьердиз .",
+      "reference": "he took us in a city.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "As soon as I left the house, Ahmed came.",
+      "raw": "As soon as I left the house, Ahmed came.",
+      "extracted": "As soon as I left the house, Ahmed came.",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 25,
+      "source": "« Хьуй », лугьуда .",
+      "reference": "\"Yes.\" they said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Hey,\" he said.\n\n**Explanation:**\n*   **« Хьуй »**: This is the Lezgi interjection for \"Hey!\" or \"Hello!\" (often used to get someone's attention).\n*   **лугьуда**: This is the verb *luguda* in the past tense, third person singular. It comes from the root *lug-* (to say, to speak). The suffix *-uda* marks the past tense for third person singular.\n*   The comma and quotation marks indicate that the word is spoken.",
+      "raw": "\"Hey,\" he said.\n\n**Explanation:**\n*   **« Хьуй »**: This is the Lezgi interjection for \"Hey!\" or \"Hello!\" (often used to get someone's attention).\n*   **лугьуда**: This is the verb *luguda* in the past tense, third person singular. It comes from the root *lug-* (to say, to speak). The suffix *-uda* marks the past tense for third person singular.\n*   The comma and quotation marks indicate that the word is spoken.",
+      "extracted": "\"Hey,\" he said.",
+      "raw_span": [
+        0,
+        415
+      ],
+      "extracted_span": [
+        0,
+        15
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 26,
+      "source": "СтӀурани , квез чидайвал , чи дереда авай виридлайни кьакьан дагъларив мукьвал са хуьр я .",
+      "reference": "As you know, Sudur is the village close to the highest mountains.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is a village located near the high, snow-capped mountains of the Qwaz Ridge, where the Qwaz River flows.",
+      "raw": "This is a village located near the high, snow-capped mountains of the Qwaz Ridge, where the Qwaz River flows.",
+      "extracted": "This is a village located near the high, snow-capped mountains of the Qwaz Ridge, where the Qwaz River flows.",
+      "raw_span": [
+        0,
+        109
+      ],
+      "extracted_span": [
+        0,
+        109
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 27,
+      "source": "АтӀуз гана ибурун кьилерни .",
+      "reference": "And she gave the order to cut off thier heads.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Only the brothers' heads.\n\n**Breakdown:**\n*   **АтӀуз** (*at'uz*): Only (adverbializer of the numeral *at* 'one').\n*   **гана** (*gana*): Aorist converb of the verb *gana* 'to be' (often used to mean 'there is/are' or as a copula in specific constructions, here functioning to link the subject to the predicate).\n*   **ибур** (*ibur*): Plural of *ib* 'brother' (in the Ergative case, though often used as the subject in this specific construction type or simply pluralized).\n*   **кьилерни** (*k'iler-ni*): 'Heads' (*k'il* 'head') + plural (*-er*) + question marker (*-ni*).\n\n*Note: The sentence structure is slightly unusual for a declarative statement due to the question marker *-ni* at the end, which typically turns a statement into a polar question (\"Are there only the brothers' heads?\"). However, in some contexts or dialects, this can be used rhetorically or as an exclamatory fragment",
+      "raw": "Only the brothers' heads.\n\n**Breakdown:**\n*   **АтӀуз** (*at'uz*): Only (adverbializer of the numeral *at* 'one').\n*   **гана** (*gana*): Aorist converb of the verb *gana* 'to be' (often used to mean 'there is/are' or as a copula in specific constructions, here functioning to link the subject to the predicate).\n*   **ибур** (*ibur*): Plural of *ib* 'brother' (in the Ergative case, though often used as the subject in this specific construction type or simply pluralized).\n*   **кьилерни** (*k'iler-ni*): 'Heads' (*k'il* 'head') + plural (*-er*) + question marker (*-ni*).\n\n*Note: The sentence structure is slightly unusual for a declarative statement due to the question marker *-ni* at the end, which typically turns a statement into a polar question (\"Are there only the brothers' heads?\"). However, in some contexts or dialects, this can be used rhetorically or as an exclamatory fragment",
+      "extracted": "Only the brothers' heads.",
+      "raw_span": [
+        0,
+        894
+      ],
+      "extracted_span": [
+        0,
+        25
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 28,
+      "source": "Зу кьилелни пара атайди я .",
+      "reference": "I went through many things.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I am very happy to see you.\n\n**Breakdown of the translation:**\n*   **Зу** (zu): I (1st person singular, Absolutive case)\n*   **кьилелни** (k'ilel-ni): you (2nd person singular, Ergative case). The suffix *-ni* marks the Ergative case here.\n*   **пара** (para): very / extremely (adverb)\n*   **атайди** (ataj-di): happy (adjective). The suffix *-di* is the substantivizing/adjectival suffix often used to form the predicate in this construction (literally \"happy one\" or \"happiness\").\n*   **я** (ja): is / am (copula)\n\nThe sentence structure follows the typical Lezgian pattern of Subject (Absolutive) + Object/Experiencer (Ergative) + Adverb + Adjective Predicate + Copula.",
+      "raw": "I am very happy to see you.\n\n**Breakdown of the translation:**\n*   **Зу** (zu): I (1st person singular, Absolutive case)\n*   **кьилелни** (k'ilel-ni): you (2nd person singular, Ergative case). The suffix *-ni* marks the Ergative case here.\n*   **пара** (para): very / extremely (adverb)\n*   **атайди** (ataj-di): happy (adjective). The suffix *-di* is the substantivizing/adjectival suffix often used to form the predicate in this construction (literally \"happy one\" or \"happiness\").\n*   **я** (ja): is / am (copula)\n\nThe sentence structure follows the typical Lezgian pattern of Subject (Absolutive) + Object/Experiencer (Ergative) + Adverb + Adjective Predicate + Copula.",
+      "extracted": "I am very happy to see you.",
+      "raw_span": [
+        0,
+        673
+      ],
+      "extracted_span": [
+        0,
+        27
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 29,
+      "source": "Кани ярдиз ви рикӀе лугьудай гафар амани ?",
+      "reference": "Do you still have words to say to your sweetheart in your heart",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Are you asking me if I can help you?",
+      "raw": "Are you asking me if I can help you?",
+      "extracted": "Are you asking me if I can help you?",
+      "raw_span": [
+        0,
+        36
+      ],
+      "extracted_span": [
+        0,
+        36
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 30,
+      "source": "Акур шеъер кхьана , сегьне , не , къевиз за атана гьикӀ авунатӀа , и са шеъ ида яратмишна , вичи яратмишна кхьизайди я дастан .",
+      "reference": "he wrote about thing he saw, stage, how i came tonight here, and this thing was done by him, he creates and writes dastan",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is a beautiful and complex sentence from Lezgian poetry or folklore. Here is the translation:\n\n**\"This is a story (dastan) about the creation of this poem and my own creation, which I composed when I was young, saying: 'O, my dear friend, you are the one who has come to me.'\"**\n\n---\n\n### Breakdown of the Translation:\n\n*   **Акур шеъер кхьана** (*Akur she'er kh'ana*): \"O, my dear friend\" (or \"O, beloved friend\"). *Akur* is a term of endearment (like \"dear\" or \"beloved\"), *she'er* means \"friend,\" and *kh'ana* is a vocative particle.\n*   **сегьне , не , къевиз за атана гьикӀ авунатӀа** (*seg'ne, ne, qeviz za atana g'ik' avunata*): \"when I was young, saying...\" or \"in my youth, having said...\"\n    *   *seg'ne*: \"when I was young\" / \"in my youth.\"\n    *   *",
+      "raw": "This is a beautiful and complex sentence from Lezgian poetry or folklore. Here is the translation:\n\n**\"This is a story (dastan) about the creation of this poem and my own creation, which I composed when I was young, saying: 'O, my dear friend, you are the one who has come to me.'\"**\n\n---\n\n### Breakdown of the Translation:\n\n*   **Акур шеъер кхьана** (*Akur she'er kh'ana*): \"O, my dear friend\" (or \"O, beloved friend\"). *Akur* is a term of endearment (like \"dear\" or \"beloved\"), *she'er* means \"friend,\" and *kh'ana* is a vocative particle.\n*   **сегьне , не , къевиз за атана гьикӀ авунатӀа** (*seg'ne, ne, qeviz za atana g'ik' avunata*): \"when I was young, saying...\" or \"in my youth, having said...\"\n    *   *seg'ne*: \"when I was young\" / \"in my youth.\"\n    *   *",
+      "extracted": "This is a beautiful and complex sentence from Lezgian poetry or folklore. Here is the translation:\n\n**\"This is a story (dastan) about the creation of this poem and my own creation, which I composed when I was young, saying: 'O, my dear friend, you are the one who has come to me.'\"**\n\n---",
+      "raw_span": [
+        0,
+        767
+      ],
+      "extracted_span": [
+        0,
+        288
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 31,
+      "source": "Заз дуьз кичӀе хьана .",
+      "reference": "I was so scared.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He has gone to the right house.\n\n**Breakdown:**\n*   **Заз** (Zaz): He (3rd person singular, masculine, Ergative case).\n*   **дуьз** (düz): right (correct).\n*   **кичӀе** (kiche): house (Absolutive case).\n*   **хьана** (x'ana): has gone / went (Perfect tense, 3rd person singular).\n\n*Note: The sentence uses the Perfect tense (\"has gone\") rather than the simple past (\"went\"), indicating a completed action with relevance to the present.*",
+      "raw": "He has gone to the right house.\n\n**Breakdown:**\n*   **Заз** (Zaz): He (3rd person singular, masculine, Ergative case).\n*   **дуьз** (düz): right (correct).\n*   **кичӀе** (kiche): house (Absolutive case).\n*   **хьана** (x'ana): has gone / went (Perfect tense, 3rd person singular).\n\n*Note: The sentence uses the Perfect tense (\"has gone\") rather than the simple past (\"went\"), indicating a completed action with relevance to the present.*",
+      "extracted": "He has gone to the right house.",
+      "raw_span": [
+        0,
+        437
+      ],
+      "extracted_span": [
+        0,
+        31
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 32,
+      "source": "Концертар гуз фейла акуртӀа ки , бес гьакъикъетдай , ида вичиз кхьанва дастан .",
+      "reference": "And she saw that he really wrote a legend in her honor",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The concert was held very briefly, as it were, and, to tell the truth, it was a fairy tale.",
+      "raw": "The concert was held very briefly, as it were, and, to tell the truth, it was a fairy tale.",
+      "extracted": "The concert was held very briefly, as it were, and, to tell the truth, it was a fairy tale.",
+      "raw_span": [
+        0,
+        91
+      ],
+      "extracted_span": [
+        0,
+        91
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 33,
+      "source": "заз гила кӀвале са свасни ава .",
+      "reference": "I have a daughter-in-law at home.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I have given the girl a drink of water.\n\n**Breakdown:**\n*   **заз** (zaz): girl (ABS)\n*   **гила** (gila): gave (Past tense of *gaw* 'to give')\n*   **кӀвале** (k'wale): to the girl (Dative case of *k'wal* 'girl')\n    *   *Note: There appears to be a slight redundancy or dialectal variation in the source sentence provided (\"заз\" and \"кӀвале\" both refer to the girl, one as the theme and one as the recipient). In standard Lezgian, one would typically say \"заз гила кӀвал\" (gave to the girl) or \"кӀвал гила заз\" (gave the girl). However, translating the literal meaning of the provided string:*\n    *   *Literal:* \"To the girl, the girl gave a drink of water.\"\n    *   *Natural English:* \"I gave the girl a drink of water.\" (Assuming the first \"заз\" might be a typo for a pronoun like \"за\" (I) or simply emphasizing the",
+      "raw": "I have given the girl a drink of water.\n\n**Breakdown:**\n*   **заз** (zaz): girl (ABS)\n*   **гила** (gila): gave (Past tense of *gaw* 'to give')\n*   **кӀвале** (k'wale): to the girl (Dative case of *k'wal* 'girl')\n    *   *Note: There appears to be a slight redundancy or dialectal variation in the source sentence provided (\"заз\" and \"кӀвале\" both refer to the girl, one as the theme and one as the recipient). In standard Lezgian, one would typically say \"заз гила кӀвал\" (gave to the girl) or \"кӀвал гила заз\" (gave the girl). However, translating the literal meaning of the provided string:*\n    *   *Literal:* \"To the girl, the girl gave a drink of water.\"\n    *   *Natural English:* \"I gave the girl a drink of water.\" (Assuming the first \"заз\" might be a typo for a pronoun like \"за\" (I) or simply emphasizing the",
+      "extracted": "I have given the girl a drink of water.",
+      "raw_span": [
+        0,
+        819
+      ],
+      "extracted_span": [
+        0,
+        39
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 34,
+      "source": "Гьадакай регъуьла завай гьейетдални физ жезвач .",
+      "reference": "Because of that I couldn’t enter even his courtyard.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "We do not know how many people there are in the committee.",
+      "raw": "We do not know how many people there are in the committee.",
+      "extracted": "We do not know how many people there are in the committee.",
+      "raw_span": [
+        0,
+        58
+      ],
+      "extracted_span": [
+        0,
+        58
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 35,
+      "source": "« За вучин », лугьуда , бес , « аквазвачни », лугьуда , « пачагьдиз завай гила гевгьеррин иеси кӀанзава ».",
+      "reference": "“What to do? he said.  \"Did I not see this? Now the king wants from me the owner of the pearls.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"\n\n*(Note: The Lezgi text provided in the prompt appears to be a transliteration of a Russian sentence into the Lezgi Cyrillic script, rather than an original Lezgi sentence. The Russian source is: «За вучин», лугьуда, бес, «аквазвачни», лугьуда, «пачагьдиз завай гила гевгьеррин иеси кӀанзава». This translates literally to: \"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\" The translation above reflects this meaning.)*",
+      "raw": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"\n\n*(Note: The Lezgi text provided in the prompt appears to be a transliteration of a Russian sentence into the Lezgi Cyrillic script, rather than an original Lezgi sentence. The Russian source is: «За вучин», лугьуда, бес, «аквазвачни», лугьуда, «пачагьдиз завай гила гевгьеррин иеси кӀанзава». This translates literally to: \"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\" The translation above reflects this meaning.)*",
+      "extracted": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"\n\n*(Note: The Lezgi text provided in the prompt appears to be a transliteration of a Russian sentence into the Lezgi Cyrillic script, rather than an original Lezgi sentence. The Russian source is: «За вучин», лугьуда, бес, «аквазвачни», лугьуда, «пачагьдиз завай гила гевгьеррин иеси кӀанзава». This translates literally to: \"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\" The translation above reflects this meaning.)*",
+      "raw_span": [
+        0,
+        594
+      ],
+      "extracted_span": [
+        0,
+        594
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 36,
+      "source": "къажгъанар , къапар , дуьгуьяр , абур гваз фена гьана жаван рушари , и еке рушари ...",
+      "reference": "young girls used to take pans, dishes, rice and there young girls...",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The young men, the elders, the women, the boys and girls who have been given to the house, and the two boys...",
+      "raw": "The young men, the elders, the women, the boys and girls who have been given to the house, and the two boys...",
+      "extracted": "The young men, the elders, the women, the boys and girls who have been given to the house, and the two boys...",
+      "raw_span": [
+        0,
+        110
+      ],
+      "extracted_span": [
+        0,
+        110
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 37,
+      "source": "Вичи мад вучда кьван , лагьана .",
+      "reference": "nan",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When the mine is reopened, there will be work in the village for all of us.",
+      "raw": "When the mine is reopened, there will be work in the village for all of us.",
+      "extracted": "When the mine is reopened, there will be work in the village for all of us.",
+      "raw_span": [
+        0,
+        75
+      ],
+      "extracted_span": [
+        0,
+        75
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 38,
+      "source": "Идаз атана лагьанва ки , инал и кӀарасар ви заз маса ча , лагьанва . 06 : 29",
+      "reference": "He came and asked him to sell him the wood, which was there.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Idaz's father said that this man is not our brother, he said. 06:29",
+      "raw": "Idaz's father said that this man is not our brother, he said. 06:29",
+      "extracted": "Idaz's father said that this man is not our brother, he said. 06:29",
+      "raw_span": [
+        0,
+        67
+      ],
+      "extracted_span": [
+        0,
+        67
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 39,
+      "source": "Кьвед~лагьай гадади лагьана « Зун фида буба », лагьана , « исятда за гъида », лагьана .",
+      "reference": "The second son said: “Now I will go and bring it to you, father.”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The first time I said, \"I am sacrificing for my father,\" I said, \"I will not eat,\" I said.",
+      "raw": "The first time I said, \"I am sacrificing for my father,\" I said, \"I will not eat,\" I said.",
+      "extracted": "The first time I said, \"I am sacrificing for my father,\" I said, \"I will not eat,\" I said.",
+      "raw_span": [
+        0,
+        90
+      ],
+      "extracted_span": [
+        0,
+        90
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 40,
+      "source": "Мад са шейни хьанач лагьана за , ун .",
+      "reference": "I said that I'm ok.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I did not say that I would not come, I will.",
+      "raw": "I did not say that I would not come, I will.",
+      "extracted": "I did not say that I would not come, I will.",
+      "raw_span": [
+        0,
+        44
+      ],
+      "extracted_span": [
+        0,
+        44
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 41,
+      "source": "« Гьуьлуьн кӀануз фин патакайни зун гьуьлуьн шивдихъ галаз ккӀана кӀанзава » лугьуда .",
+      "reference": "\"And to go to the bottom of the sea, I must fight with the Sea Steed.”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"They say that my son, who is a child of the village, went to the village with the village's people.\"\n\nA more natural and idiomatic English translation would be:\n\n**\"They say that my son, a village boy, went to the village with the villagers.\"**\n\nOr, if emphasizing the contrast or specificity:\n\n**\"They say that my son, who is from the village, went to the village with the villagers.\"**\n\n*Note: The Lezgi sentence contains a slight redundancy (\"village boy\" and \"village people\"), which is common in Lezgi for emphasis or clarity. The core meaning is that the speaker's son, identified as belonging to the village community, traveled to the village accompanied by other members of that community.*",
+      "raw": "\"They say that my son, who is a child of the village, went to the village with the village's people.\"\n\nA more natural and idiomatic English translation would be:\n\n**\"They say that my son, a village boy, went to the village with the villagers.\"**\n\nOr, if emphasizing the contrast or specificity:\n\n**\"They say that my son, who is from the village, went to the village with the villagers.\"**\n\n*Note: The Lezgi sentence contains a slight redundancy (\"village boy\" and \"village people\"), which is common in Lezgi for emphasis or clarity. The core meaning is that the speaker's son, identified as belonging to the village community, traveled to the village accompanied by other members of that community.*",
+      "extracted": "\"They say that my son, who is a child of the village, went to the village with the village's people.\"\n\nA more natural and idiomatic English translation would be:\n\n**\"They say that my son, a village boy, went to the village with the villagers.\"**\n\nOr, if emphasizing the contrast or specificity:\n\n**\"They say that my son, who is from the village, went to the village with the villagers.\"**\n\n*Note: The Lezgi sentence contains a slight redundancy (\"village boy\" and \"village people\"), which is common in Lezgi for emphasis or clarity. The core meaning is that the speaker's son, identified as belonging to the village community, traveled to the village accompanied by other members of that community.*",
+      "raw_span": [
+        0,
+        699
+      ],
+      "extracted_span": [
+        0,
+        699
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 42,
+      "source": "И рушни пачагь хьана гила башламишда вичин пачагьвализ .",
+      "reference": "And the girl became the king and started her own reign.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When they started to wash their clothes, they washed their own clothes.\n\n*(Note: The sentence contains a slight redundancy or emphasis common in Lezgian, where \"their clothes\" is mentioned twice—once as the object of the washing action and once as \"their own clothes\" to emphasize possession or distinction from others. The translation reflects this nuance.)*\n\n**Breakdown:**\n*   **И** (I) – When\n*   **рушни** (runi) – clothes (plural)\n*   **пачагь** (pačağ) – wash\n*   **хьана** (x'ana) – they (ergative subject)\n*   **гила** (gila) – started (aorist converb)\n*   **башламишда** (bašlamışda) – beginning (temporal converb, \"when they started\")\n*   **вичин** (vičin) – their (possessive)\n*   **пачагьвализ** (pačağvaliz) – clothes (plural, absolutive object)\n\nA more literal rendering of the structure would be: \"When they started washing",
+      "raw": "When they started to wash their clothes, they washed their own clothes.\n\n*(Note: The sentence contains a slight redundancy or emphasis common in Lezgian, where \"their clothes\" is mentioned twice—once as the object of the washing action and once as \"their own clothes\" to emphasize possession or distinction from others. The translation reflects this nuance.)*\n\n**Breakdown:**\n*   **И** (I) – When\n*   **рушни** (runi) – clothes (plural)\n*   **пачагь** (pačağ) – wash\n*   **хьана** (x'ana) – they (ergative subject)\n*   **гила** (gila) – started (aorist converb)\n*   **башламишда** (bašlamışda) – beginning (temporal converb, \"when they started\")\n*   **вичин** (vičin) – their (possessive)\n*   **пачагьвализ** (pačağvaliz) – clothes (plural, absolutive object)\n\nA more literal rendering of the structure would be: \"When they started washing",
+      "extracted": "When they started to wash their clothes, they washed their own clothes.\n\n*(Note: The sentence contains a slight redundancy or emphasis common in Lezgian, where \"their clothes\" is mentioned twice—once as the object of the washing action and once as \"their own clothes\" to emphasize possession or distinction from others. The translation reflects this nuance.)*",
+      "raw_span": [
+        0,
+        839
+      ],
+      "extracted_span": [
+        0,
+        359
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 43,
+      "source": "Юлдашари меслят акуна ки , гьава къенин хьиз чими яз ...",
+      "reference": "The weather was hot and my friends decided to...",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "My friend said that, like the wind, I am...",
+      "raw": "My friend said that, like the wind, I am...",
+      "extracted": "My friend said that, like the wind, I am...",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 44,
+      "source": "« Твах и зи шикил », лугьуда , « а ,» лугьуда « анавай вилаятдин кьилел алай булахдин кьилел эциг » лугьуда .",
+      "reference": "\"Carry this portrait of me,\" she said, “and place it at the top of the spring at the head of the province.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Your beauty and my beauty,\" he said, \"Oh,\" he said, \"the head of the river that flows from the head of this province.\"",
+      "raw": "\"Your beauty and my beauty,\" he said, \"Oh,\" he said, \"the head of the river that flows from the head of this province.\"",
+      "extracted": "\"Your beauty and my beauty,\" he said, \"Oh,\" he said, \"the head of the river that flows from the head of this province.\"",
+      "raw_span": [
+        0,
+        119
+      ],
+      "extracted_span": [
+        0,
+        119
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 45,
+      "source": "Чна и объектдилай хкверла",
+      "reference": "and we were returning from the facility",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The object is the one that is looked at.\n\n**Breakdown:**\n*   **Чна** (*çna*): \"the object\" (from *çna* \"object\", in the absolutive case).\n*   **и** (*i*): a connective particle or marker often used in this construction to link the theme/object to the action or to mark the scope of the converb.\n*   **объектдилай** (*çna-dilay*): This appears to be a slightly non-standard or dialectal form of *çna-dilay* or *çna-dilay* (using the oblique stem *çna-d* + the converb suffix *-ilay* or *-lay*). However, looking at the root *xkver-* (\"to look\"), the phrase structure is likely:\n    *   *çna* (object) + *i* (connector) + *çna-dilay* (looking at the object - using the oblique stem *çna-d* + converb suffix *-ilay* meaning \"while looking at\" or \"having looked at\").\n    *   *Wait, let's re-evaluate the Lezgi text provided",
+      "raw": "The object is the one that is looked at.\n\n**Breakdown:**\n*   **Чна** (*çna*): \"the object\" (from *çna* \"object\", in the absolutive case).\n*   **и** (*i*): a connective particle or marker often used in this construction to link the theme/object to the action or to mark the scope of the converb.\n*   **объектдилай** (*çna-dilay*): This appears to be a slightly non-standard or dialectal form of *çna-dilay* or *çna-dilay* (using the oblique stem *çna-d* + the converb suffix *-ilay* or *-lay*). However, looking at the root *xkver-* (\"to look\"), the phrase structure is likely:\n    *   *çna* (object) + *i* (connector) + *çna-dilay* (looking at the object - using the oblique stem *çna-d* + converb suffix *-ilay* meaning \"while looking at\" or \"having looked at\").\n    *   *Wait, let's re-evaluate the Lezgi text provided",
+      "extracted": "The object is the one that is looked at.",
+      "raw_span": [
+        0,
+        820
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 46,
+      "source": "КӀвалин къвалахар вири зал хьана , пуд стхани са вах хьана зун .",
+      "reference": "I was doing all housework, we were three brothers and one sister.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "All four of them have gone, and I have been sitting here for three hours.\n\n**Breakdown of the translation:**\n*   **КӀвалин** (*k'valin*): All (of the brothers/sons) – *k'val* (brother) + *-in* (genitive/possessive plural marker in this context, often implying \"all of the brothers\").\n*   **къвалахар** (*k'valahar*): The brothers (plural absolutive).\n*   **вири** (*viri*): All / every.\n*   **зал** (*zal*): Gone / left.\n*   **хьана** (*x'ana*): Past tense (they have gone).\n*   **пуд** (*pud*): Three.\n*   **стхани** (*stxani*): Hours (plural).\n*   **са вах** (*sa vah*): Time / duration.\n*   **хьана** (*x'ana*): Past tense (I have been sitting).\n*   **зун** (*zun*): I (absolutive).\n\n*Note: The sentence structure implies \"All",
+      "raw": "All four of them have gone, and I have been sitting here for three hours.\n\n**Breakdown of the translation:**\n*   **КӀвалин** (*k'valin*): All (of the brothers/sons) – *k'val* (brother) + *-in* (genitive/possessive plural marker in this context, often implying \"all of the brothers\").\n*   **къвалахар** (*k'valahar*): The brothers (plural absolutive).\n*   **вири** (*viri*): All / every.\n*   **зал** (*zal*): Gone / left.\n*   **хьана** (*x'ana*): Past tense (they have gone).\n*   **пуд** (*pud*): Three.\n*   **стхани** (*stxani*): Hours (plural).\n*   **са вах** (*sa vah*): Time / duration.\n*   **хьана** (*x'ana*): Past tense (I have been sitting).\n*   **зун** (*zun*): I (absolutive).\n\n*Note: The sentence structure implies \"All",
+      "extracted": "All four of them have gone, and I have been sitting here for three hours.",
+      "raw_span": [
+        0,
+        729
+      ],
+      "extracted_span": [
+        0,
+        73
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 47,
+      "source": "Ада вучзава .",
+      "reference": "What does he do?",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "She is reading.\n\n**Breakdown:**\n*   **Ада** (*ada*): \"she\" (Ergative case of the 3rd person singular pronoun).\n*   **вучзава** (*vuchzawa*): \"is reading\" (Imperfective form of the verb *vuch* 'to read').",
+      "raw": "She is reading.\n\n**Breakdown:**\n*   **Ада** (*ada*): \"she\" (Ergative case of the 3rd person singular pronoun).\n*   **вучзава** (*vuchzawa*): \"is reading\" (Imperfective form of the verb *vuch* 'to read').",
+      "extracted": "She is reading.",
+      "raw_span": [
+        0,
+        203
+      ],
+      "extracted_span": [
+        0,
+        15
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 48,
+      "source": "И гъел эцикзавайди Бебир халу хьана .",
+      "reference": "A person who was putting the plough was uncle Bebir.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "And the people who were speaking Lezgi, they were a nation.",
+      "raw": "And the people who were speaking Lezgi, they were a nation.",
+      "extracted": "And the people who were speaking Lezgi, they were a nation.",
+      "raw_span": [
+        0,
+        59
+      ],
+      "extracted_span": [
+        0,
+        59
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 49,
+      "source": "Хтана балкӀан , « Гьаа », лагьана « гила чавай физ жеда » лагьана , « пачагьдин руш гъиз ».",
+      "reference": "The horse came back and said, “Now we can go and get the king’s daughter.”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The brother said to the horse, \"Go,\" saying, \"It will come to the field,\" saying, \"The king's horse is gone.\"",
+      "raw": "The brother said to the horse, \"Go,\" saying, \"It will come to the field,\" saying, \"The king's horse is gone.\"",
+      "extracted": "The brother said to the horse, \"Go,\" saying, \"It will come to the field,\" saying, \"The king's horse is gone.\"",
+      "raw_span": [
+        0,
+        109
+      ],
+      "extracted_span": [
+        0,
+        109
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 50,
+      "source": "куьтях хьана ... гьанал чун минометчикар тир , минаяр вегьидай пуд нефер",
+      "reference": ". then it finished... We were mortar men, there were three of us.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When we were in the mountains, there were three people who could throw grenades.",
+      "raw": "When we were in the mountains, there were three people who could throw grenades.",
+      "extracted": "When we were in the mountains, there were three people who could throw grenades.",
+      "raw_span": [
+        0,
+        80
+      ],
+      "extracted_span": [
+        0,
+        80
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 51,
+      "source": "Высоковольтный линиядинни и жи крандин стреладин арада са икьван са вад санти чка амукьна .",
+      "reference": "there was only five centimeters between the crane's tip and the high-voltage line.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Between the high-voltage line and the crane's boom, there is a gap of only a few centimeters.",
+      "raw": "Between the high-voltage line and the crane's boom, there is a gap of only a few centimeters.",
+      "extracted": "Between the high-voltage line and the crane's boom, there is a gap of only a few centimeters.",
+      "raw_span": [
+        0,
+        93
+      ],
+      "extracted_span": [
+        0,
+        93
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 52,
+      "source": "Ты куда ?»",
+      "reference": "\" Where are you going?\" (Russian)",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Where are you going?",
+      "raw": "Where are you going?",
+      "extracted": "Where are you going?",
+      "raw_span": [
+        0,
+        20
+      ],
+      "extracted_span": [
+        0,
+        20
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 53,
+      "source": "Аналай инихъ , зегьметдалди къазанмишиз жуваз са кап фу , хъсандик яшамиш хьана .",
+      "reference": "And after that, we  live good live by earning our lives by hard work.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "And so, having earned their livelihood through hard work, they lived a decent life.",
+      "raw": "And so, having earned their livelihood through hard work, they lived a decent life.",
+      "extracted": "And so, having earned their livelihood through hard work, they lived a decent life.",
+      "raw_span": [
+        0,
+        83
+      ],
+      "extracted_span": [
+        0,
+        83
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 54,
+      "source": "Элчиярни ракъузва за , лагьана .»",
+      "reference": "And I'll send matchmakers",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The children are crying, and they are coming.",
+      "raw": "The children are crying, and they are coming.",
+      "extracted": "The children are crying, and they are coming.",
+      "raw_span": [
+        0,
+        45
+      ],
+      "extracted_span": [
+        0,
+        45
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 55,
+      "source": "Мектебдин кьарас затӀ игъидай сад тир .",
+      "reference": "He was the one who was carring wood and things like this for school",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The one who is the most diligent student of the school.\n\n*(Literal breakdown: \"school-GEN diligent thing-doer one COP\")*",
+      "raw": "The one who is the most diligent student of the school.\n\n*(Literal breakdown: \"school-GEN diligent thing-doer one COP\")*",
+      "extracted": "The one who is the most diligent student of the school.\n\n*(Literal breakdown: \"school-GEN diligent thing-doer one COP\")*",
+      "raw_span": [
+        0,
+        120
+      ],
+      "extracted_span": [
+        0,
+        120
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 56,
+      "source": "Польшадай аниз , Берлиндиз",
+      "reference": "Then they took us to Berlin from Poland,",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Poland-ADIR, Berlin-ADIR\n\n**Explanation:**\n*   **Poland-ADIR**: \"Poland\" + **Addirective case** (ADIR). The Addirective case in Lezgi typically marks the location *into* which something is sent or moved (e.g., \"to Poland\").\n*   **Berlin-ADIR**: \"Berlin\" + **Addirective case** (ADIR). Similarly, \"to Berlin\".\n*   The sentence structure implies a parallel construction: \"To Poland, [and] to Berlin\" or \"Into Poland, into Berlin.\" The comma suggests a list or a comparison of destinations. Without a verb, it functions as a phrase indicating direction towards these two cities.",
+      "raw": "Poland-ADIR, Berlin-ADIR\n\n**Explanation:**\n*   **Poland-ADIR**: \"Poland\" + **Addirective case** (ADIR). The Addirective case in Lezgi typically marks the location *into* which something is sent or moved (e.g., \"to Poland\").\n*   **Berlin-ADIR**: \"Berlin\" + **Addirective case** (ADIR). Similarly, \"to Berlin\".\n*   The sentence structure implies a parallel construction: \"To Poland, [and] to Berlin\" or \"Into Poland, into Berlin.\" The comma suggests a list or a comparison of destinations. Without a verb, it functions as a phrase indicating direction towards these two cities.",
+      "extracted": "Poland-ADIR, Berlin-ADIR",
+      "raw_span": [
+        0,
+        575
+      ],
+      "extracted_span": [
+        0,
+        24
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 57,
+      "source": "Гьуьлуьн шив гьуьлуьн балкӀан .",
+      "reference": "The Sea Steed is the Sea Horse.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The village's water is the village's pride.",
+      "raw": "The village's water is the village's pride.",
+      "extracted": "The village's water is the village's pride.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 58,
+      "source": "Рак гатана фад ахъайна тамашайтӀа , са кьуьзуь къари баде ава .",
+      "reference": "She knocked and quickly opened the door - there is an old woman.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When we watch the play, you will be the best friend.",
+      "raw": "When we watch the play, you will be the best friend.",
+      "extracted": "When we watch the play, you will be the best friend.",
+      "raw_span": [
+        0,
+        52
+      ],
+      "extracted_span": [
+        0,
+        52
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 59,
+      "source": "Жи диде , бубани амаш , кӀарасар агъана канзава ма чуьлдай .",
+      "reference": "Our father was died, and our mother needed to go to the forest to bring wood",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Come, mother, beat the drum, and let us dance in the courtyard.",
+      "raw": "Come, mother, beat the drum, and let us dance in the courtyard.",
+      "extracted": "Come, mother, beat the drum, and let us dance in the courtyard.",
+      "raw_span": [
+        0,
+        63
+      ],
+      "extracted_span": [
+        0,
+        63
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 60,
+      "source": "Аналай сонра за цӀуд йис къвалахна и сагьеда за домкультурада .",
+      "reference": "and after that I worked at the culture house for ten years",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "After that, the dog began to play with the house culture.\n\n*(Note: This sentence appears to be a machine-generated or non-standard example, as \"house culture\" (домкультурада) is not a natural concept in Lezgi, and the structure seems slightly off. However, based strictly on the provided text and standard Lezgi grammar rules from the book:)*\n\n*   **Аналай сонра** = After that (literally: \"then after\")\n*   **за цӀуд йис** = the dog (за = the, цӀуд = dog, йис = is/definite marker)\n*   **къвалахна** = began to play (къвалах = to play, -на = past tense marker)\n*   **и сагьеда** = with the house (и = with, сагье = house, -да = locative/instrumental case marker)\n*   **за домкультурада** = with the house culture (за = the, домкультура = house culture, -да = locative/instrumental case marker)\n\n**Corrected Natural Translation:**\n\"After that, the dog began to play",
+      "raw": "After that, the dog began to play with the house culture.\n\n*(Note: This sentence appears to be a machine-generated or non-standard example, as \"house culture\" (домкультурада) is not a natural concept in Lezgi, and the structure seems slightly off. However, based strictly on the provided text and standard Lezgi grammar rules from the book:)*\n\n*   **Аналай сонра** = After that (literally: \"then after\")\n*   **за цӀуд йис** = the dog (за = the, цӀуд = dog, йис = is/definite marker)\n*   **къвалахна** = began to play (къвалах = to play, -на = past tense marker)\n*   **и сагьеда** = with the house (и = with, сагье = house, -да = locative/instrumental case marker)\n*   **за домкультурада** = with the house culture (за = the, домкультура = house culture, -да = locative/instrumental case marker)\n\n**Corrected Natural Translation:**\n\"After that, the dog began to play",
+      "extracted": "After that, the dog began to play with the house culture.\n\n*(Note: This sentence appears to be a machine-generated or non-standard example, as \"house culture\" (домкультурада) is not a natural concept in Lezgi, and the structure seems slightly off. However, based strictly on the provided text and standard Lezgi grammar rules from the book:)*\n\n*   **Аналай сонра** = After that (literally: \"then after\")\n*   **за цӀуд йис** = the dog (за = the, цӀуд = dog, йис = is/definite marker)\n*   **къвалахна** = began to play (къвалах = to play, -на = past tense marker)\n*   **и сагьеда** = with the house (и = with, сагье = house, -да = locative/instrumental case marker)\n*   **за домкультурада** = with the house culture (за = the, домкультура = house culture, -да = locative/instrumental case marker)\n\n**Corrected Natural Translation:**\n\"After that, the dog began to play",
+      "raw_span": [
+        0,
+        865
+      ],
+      "extracted_span": [
+        0,
+        865
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 61,
+      "source": "Абуру ви кьил тӀарарда », лугьуда .",
+      "reference": "\"They will give you a headache.”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"They said, 'Abur, you are a liar.'\"\n\n**Breakdown:**\n*   **Абуру** (Aburu): \"Abur\" (vocative case, addressing Abur) + **u** (plural marker or part of the name depending on context, but here likely addressing a group or pluralizing the name for emphasis, or simply \"Abur\" with a plural suffix if referring to multiple Aburs, though often names take plural suffixes in Lezgi). *Correction*: In this specific context, \"Aburu\" is likely the vocative form of the name \"Abur\" (meaning \"Abur!\").\n*   **ви** (vi): \"you\" (plural or emphatic).\n*   **кьил** (kil): \"lie\" (noun) or related to lying.\n*   **тӀарарда** (t'ararda): \"in lying\" or \"as a liar\" (using the locative/adverbial form of the noun).\n*   **», лугьуда** (», lug'uda): \"they said\" (lug'uda = they say/said).\n\nSo the sentence translates to: **\"They said, 'Ab",
+      "raw": "\"They said, 'Abur, you are a liar.'\"\n\n**Breakdown:**\n*   **Абуру** (Aburu): \"Abur\" (vocative case, addressing Abur) + **u** (plural marker or part of the name depending on context, but here likely addressing a group or pluralizing the name for emphasis, or simply \"Abur\" with a plural suffix if referring to multiple Aburs, though often names take plural suffixes in Lezgi). *Correction*: In this specific context, \"Aburu\" is likely the vocative form of the name \"Abur\" (meaning \"Abur!\").\n*   **ви** (vi): \"you\" (plural or emphatic).\n*   **кьил** (kil): \"lie\" (noun) or related to lying.\n*   **тӀарарда** (t'ararda): \"in lying\" or \"as a liar\" (using the locative/adverbial form of the noun).\n*   **», лугьуда** (», lug'uda): \"they said\" (lug'uda = they say/said).\n\nSo the sentence translates to: **\"They said, 'Ab",
+      "extracted": "\"They said, 'Abur, you are a liar.'\"",
+      "raw_span": [
+        0,
+        813
+      ],
+      "extracted_span": [
+        0,
+        36
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 62,
+      "source": "05 : Ӏ6",
+      "reference": "nan",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "05: 16",
+      "raw": "05: 16",
+      "extracted": "05: 16",
+      "raw_span": [
+        0,
+        6
+      ],
+      "extracted_span": [
+        0,
+        6
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 63,
+      "source": "тек къари тир ама .",
+      "reference": "she was lonely.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The text \"тек къари тир ама\" appears to be a sentence in the Lezgian language. Based on the provided grammar book and linguistic knowledge of Lezgian:\n\n- **тек** = \"this\" (demonstrative pronoun, ABS case)\n- **къари** = \"brother\" (noun, ABS case; from root *qar-* meaning \"brother\")\n- **тир** = \"is\" (copula verb, present tense, 3rd person singular)\n- **ама** = \"good\" (adjective, ABS case)\n\nPutting it together:\n\n**English translation:**  \n\"This brother is good.\"  \n\nOr more naturally:  \n\"This brother is a good man.\"  \n\n(Note: In Lezgian, adjectives often follow the noun and agree in case. The structure here is typical for a simple declarative sentence.)",
+      "raw": "The text \"тек къари тир ама\" appears to be a sentence in the Lezgian language. Based on the provided grammar book and linguistic knowledge of Lezgian:\n\n- **тек** = \"this\" (demonstrative pronoun, ABS case)\n- **къари** = \"brother\" (noun, ABS case; from root *qar-* meaning \"brother\")\n- **тир** = \"is\" (copula verb, present tense, 3rd person singular)\n- **ама** = \"good\" (adjective, ABS case)\n\nPutting it together:\n\n**English translation:**  \n\"This brother is good.\"  \n\nOr more naturally:  \n\"This brother is a good man.\"  \n\n(Note: In Lezgian, adjectives often follow the noun and agree in case. The structure here is typical for a simple declarative sentence.)",
+      "extracted": "The text \"тек къари тир ама\" appears to be a sentence in the Lezgian language. Based on the provided grammar book and linguistic knowledge of Lezgian:\n\n- **тек** = \"this\" (demonstrative pronoun, ABS case)\n- **къари** = \"brother\" (noun, ABS case; from root *qar-* meaning \"brother\")\n- **тир** = \"is\" (copula verb, present tense, 3rd person singular)\n- **ама** = \"good\" (adjective, ABS case)\n\nPutting it together:\n\n**English translation:**  \n\"This brother is good.\"  \n\nOr more naturally:  \n\"This brother is a good man.\"  \n\n(Note: In Lezgian, adjectives often follow the noun and agree in case. The structure here is typical for a simple declarative sentence.)",
+      "raw_span": [
+        0,
+        657
+      ],
+      "extracted_span": [
+        0,
+        657
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 64,
+      "source": "И~арада кьада имни тухуда и кӀвализ .",
+      "reference": "At this moment they caught and took him to this house.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "In this place, where there is no one to help, I am alone.\n\n*(Note: The Lezgi sentence provided contains some orthographic irregularities or dialectal variations compared to the standard Cyrillic spelling outlined in the grammar book. The translation interprets the intended meaning based on the context of the words: \"И~арада\" (in this place), \"кьада\" (where/when), \"имни\" (there is no one/none), \"тухуда\" (to help/assist), and \"и кӀвализ\" (and I am alone/solitary).)*",
+      "raw": "In this place, where there is no one to help, I am alone.\n\n*(Note: The Lezgi sentence provided contains some orthographic irregularities or dialectal variations compared to the standard Cyrillic spelling outlined in the grammar book. The translation interprets the intended meaning based on the context of the words: \"И~арада\" (in this place), \"кьада\" (where/when), \"имни\" (there is no one/none), \"тухуда\" (to help/assist), and \"и кӀвализ\" (and I am alone/solitary).)*",
+      "extracted": "In this place, where there is no one to help, I am alone.\n\n*(Note: The Lezgi sentence provided contains some orthographic irregularities or dialectal variations compared to the standard Cyrillic spelling outlined in the grammar book. The translation interprets the intended meaning based on the context of the words: \"И~арада\" (in this place), \"кьада\" (where/when), \"имни\" (there is no one/none), \"тухуда\" (to help/assist), and \"и кӀвализ\" (and I am alone/solitary).)*",
+      "raw_span": [
+        0,
+        468
+      ],
+      "extracted_span": [
+        0,
+        468
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 65,
+      "source": "Аялни ава .",
+      "reference": "I have a child.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The village is being built.\n\n**Explanation:**\n*   **Аялни (Ayalni):** This is the dative case of *ayal* (village). The suffix *-ni* marks the dative case (indicated in the glosses as DAT).\n*   **ава (awa):** This is the verb *awa* in the present tense, specifically the imperfective form (indicated as IMPF in the glosses, e.g., *k'el-zawa* 'is reading'). In this context, it functions as a copula or auxiliary indicating a continuous state or process.\n*   **Context:** The grammar book mentions that the imperfective form often derives from a periphrastic construction involving the auxiliary *awa* (e.g., *k'el-zawa* comes from *k'el-z* + *awa*). Therefore, \"Аялни ава\" translates to \"The village is [being] built\" or simply \"The village is being built.\"",
+      "raw": "The village is being built.\n\n**Explanation:**\n*   **Аялни (Ayalni):** This is the dative case of *ayal* (village). The suffix *-ni* marks the dative case (indicated in the glosses as DAT).\n*   **ава (awa):** This is the verb *awa* in the present tense, specifically the imperfective form (indicated as IMPF in the glosses, e.g., *k'el-zawa* 'is reading'). In this context, it functions as a copula or auxiliary indicating a continuous state or process.\n*   **Context:** The grammar book mentions that the imperfective form often derives from a periphrastic construction involving the auxiliary *awa* (e.g., *k'el-zawa* comes from *k'el-z* + *awa*). Therefore, \"Аялни ава\" translates to \"The village is [being] built\" or simply \"The village is being built.\"",
+      "extracted": "The village is being built.",
+      "raw_span": [
+        0,
+        756
+      ],
+      "extracted_span": [
+        0,
+        27
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 66,
+      "source": "Чун къерар сад я .",
+      "reference": "We came into one decision",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The decision has been made.",
+      "raw": "The decision has been made.",
+      "extracted": "The decision has been made.",
+      "raw_span": [
+        0,
+        27
+      ],
+      "extracted_span": [
+        0,
+        27
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 67,
+      "source": "Гьинай кӀантӀани заз жагъурна гъваш ».",
+      "reference": "\"From wherever is needed, find her and bring her to me.”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Come on, little one, let's go.\"\n\n**Breakdown of the translation:**\n*   **Гьинай (G'ina):** Come! (Imperative)\n*   **кӀантӀани (k'ant'ani):** little one / child (Diminutive form of *k'ant* 'child')\n*   **заз (zaz):** let's / we (First person plural inclusive pronoun)\n*   **жагъурна (jağurna):** go (Verb *jağur* 'to go' in the Aorist converb form, used here for the purpose of the action)\n*   **гъваш (g'vaš):** go! (Imperative plural or hortative)\n\nThe sentence is a colloquial invitation or encouragement to a child to leave or move.",
+      "raw": "\"Come on, little one, let's go.\"\n\n**Breakdown of the translation:**\n*   **Гьинай (G'ina):** Come! (Imperative)\n*   **кӀантӀани (k'ant'ani):** little one / child (Diminutive form of *k'ant* 'child')\n*   **заз (zaz):** let's / we (First person plural inclusive pronoun)\n*   **жагъурна (jağurna):** go (Verb *jağur* 'to go' in the Aorist converb form, used here for the purpose of the action)\n*   **гъваш (g'vaš):** go! (Imperative plural or hortative)\n\nThe sentence is a colloquial invitation or encouragement to a child to leave or move.",
+      "extracted": "\"Come on, little one, let's go.\"",
+      "raw_span": [
+        0,
+        536
+      ],
+      "extracted_span": [
+        0,
+        32
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 68,
+      "source": "Чунни инал хтана .",
+      "reference": "​We returned there.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Has your brother returned?\n\n**Breakdown:**\n*   **Чунни** (*čunni*): \"Has he/she/it...\" (3rd person singular present perfect/interrogative form of the copula or auxiliary indicating completion).\n*   **инал** (*inal*): \"brother\" (in the Ergative case, marked by the suffix *-l* on the stem *in*).\n*   **хтана** (*xтана*): \"came back\" / \"returned\" (Aorist tense, 3rd person singular of the verb *xta-* 'to return').\n\n*Note: The sentence structure follows the typical Lezgian SOV (Subject-Object-Verb) order with the question marker *-ni* attached to the verb.*",
+      "raw": "Has your brother returned?\n\n**Breakdown:**\n*   **Чунни** (*čunni*): \"Has he/she/it...\" (3rd person singular present perfect/interrogative form of the copula or auxiliary indicating completion).\n*   **инал** (*inal*): \"brother\" (in the Ergative case, marked by the suffix *-l* on the stem *in*).\n*   **хтана** (*xтана*): \"came back\" / \"returned\" (Aorist tense, 3rd person singular of the verb *xta-* 'to return').\n\n*Note: The sentence structure follows the typical Lezgian SOV (Subject-Object-Verb) order with the question marker *-ni* attached to the verb.*",
+      "extracted": "Has your brother returned?",
+      "raw_span": [
+        0,
+        557
+      ],
+      "extracted_span": [
+        0,
+        26
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 69,
+      "source": "Гададини лугьуда « я пачагь , за гьинай гъин », лугьуда , « заз чизвач хьир , за ваз вучин , гьикӀ ийин ?»",
+      "reference": "The guy said, “Oh king, where can I find her? I have no idea. How shall I do this?”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The boy said, \"I am hungry, what shall I eat?\" and said, \"I have nothing good, where shall I get it?\"",
+      "raw": "The boy said, \"I am hungry, what shall I eat?\" and said, \"I have nothing good, where shall I get it?\"",
+      "extracted": "The boy said, \"I am hungry, what shall I eat?\" and said, \"I have nothing good, where shall I get it?\"",
+      "raw_span": [
+        0,
+        101
+      ],
+      "extracted_span": [
+        0,
+        101
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 70,
+      "source": "Севастопольда мугьарибе хьана ,",
+      "reference": "There was a battle in the Sevastopol,",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "A war was fought in Sevastopol,\n\n**Explanation:**\n*   **Севастопольда** (Sevastopol-da): \"In Sevastopol\" (Location + Adessive case).\n*   **мугьарибе** (mug'aribe): \"War\" (Noun, likely in the Dative case or used as a predicate depending on context, but here functioning as the subject/theme of the event).\n*   **хьана** (x'ana): \"Was fought\" or \"Happened\" (Past tense, Aorist or Imperfective converb form indicating a completed event).\n\n*Note: The sentence structure in Lezgi is typically SOV (Subject-Object-Verb) or Locative-Theme-Verb. The provided text \"Севастопольда мугьарибе хьана\" translates literally to \"In Sevastopol, war happened/was fought.\"*",
+      "raw": "A war was fought in Sevastopol,\n\n**Explanation:**\n*   **Севастопольда** (Sevastopol-da): \"In Sevastopol\" (Location + Adessive case).\n*   **мугьарибе** (mug'aribe): \"War\" (Noun, likely in the Dative case or used as a predicate depending on context, but here functioning as the subject/theme of the event).\n*   **хьана** (x'ana): \"Was fought\" or \"Happened\" (Past tense, Aorist or Imperfective converb form indicating a completed event).\n\n*Note: The sentence structure in Lezgi is typically SOV (Subject-Object-Verb) or Locative-Theme-Verb. The provided text \"Севастопольда мугьарибе хьана\" translates literally to \"In Sevastopol, war happened/was fought.\"*",
+      "extracted": "A war was fought in Sevastopol,",
+      "raw_span": [
+        0,
+        654
+      ],
+      "extracted_span": [
+        0,
+        31
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 71,
+      "source": "Акъадарда и пачагь ибуру ламрал , балкӀандал акъадарда , ламрал акъадарда яда , цӀайни ахъайда , им гьи хуьрей агъуз .",
+      "reference": "They mounted this king on a donkey - horse or donkey - lit him on fire, and sent him out of the village.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "In the mountains, there are many sheep, but in the valleys, the sheep are few; when the grass is eaten, this is the fate of the Agul.",
+      "raw": "In the mountains, there are many sheep, but in the valleys, the sheep are few; when the grass is eaten, this is the fate of the Agul.",
+      "extracted": "In the mountains, there are many sheep, but in the valleys, the sheep are few; when the grass is eaten, this is the fate of the Agul.",
+      "raw_span": [
+        0,
+        133
+      ],
+      "extracted_span": [
+        0,
+        133
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 72,
+      "source": "Ибурни амна , хкведа и гадани руш … гадани руш хкведа ибур чпин вилаятдиз .",
+      "reference": "That happening, the guy and girl returned to their own province.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They are not safe, the boy and the girl are in the province... the boy and the girl are in the province.\n\n*(Note: The sentence appears to be a repetition or a stylistic feature common in oral narratives. The core meaning is that the boy and girl are currently located within the province and are in a state of danger or insecurity.)*\n\n**Breakdown of key terms:**\n*   **Ибурни амна** (*Ibur-ni amna*): \"They are not safe\" (or \"They are in danger\"). *Ibur* = they, *-ni* = ergative case marker (often used with experiencer verbs or in specific constructions), *amna* = not safe/in danger.\n*   **хкведа и гадани руш** (*xkveda i gadani rus*): \"the boy and the girl\". *xkveda* = boy, *gada* = girl, *-ni* = ergative marker, *rus* = in/at (locative/dative context).\n*   **чпин вилаятдиз** (*chpin vilayatziz*): \"in the province\". *chpin* = in/inside, *vilayat*",
+      "raw": "They are not safe, the boy and the girl are in the province... the boy and the girl are in the province.\n\n*(Note: The sentence appears to be a repetition or a stylistic feature common in oral narratives. The core meaning is that the boy and girl are currently located within the province and are in a state of danger or insecurity.)*\n\n**Breakdown of key terms:**\n*   **Ибурни амна** (*Ibur-ni amna*): \"They are not safe\" (or \"They are in danger\"). *Ibur* = they, *-ni* = ergative case marker (often used with experiencer verbs or in specific constructions), *amna* = not safe/in danger.\n*   **хкведа и гадани руш** (*xkveda i gadani rus*): \"the boy and the girl\". *xkveda* = boy, *gada* = girl, *-ni* = ergative marker, *rus* = in/at (locative/dative context).\n*   **чпин вилаятдиз** (*chpin vilayatziz*): \"in the province\". *chpin* = in/inside, *vilayat*",
+      "extracted": "They are not safe, the boy and the girl are in the province... the boy and the girl are in the province.\n\n*(Note: The sentence appears to be a repetition or a stylistic feature common in oral narratives. The core meaning is that the boy and girl are currently located within the province and are in a state of danger or insecurity.)*",
+      "raw_span": [
+        0,
+        855
+      ],
+      "extracted_span": [
+        0,
+        333
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 73,
+      "source": "Чун гьада виликди гьеле христиан дин амай вахт тир чаз .",
+      "reference": "The time before that was when we had Christian religion.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is the time when I was not a Christian.",
+      "raw": "This is the time when I was not a Christian.",
+      "extracted": "This is the time when I was not a Christian.",
+      "raw_span": [
+        0,
+        44
+      ],
+      "extracted_span": [
+        0,
+        44
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 74,
+      "source": "Чунни чуьнуьх~хьана къвазна .",
+      "reference": "we hid.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They have already left.\n\n**Breakdown:**\n*   **Чунни** (*čunni*): \"already\" (adverb)\n*   **чуьнуьх** (*čününx*): \"they\" (3rd person plural, oblique stem form used here)\n*   **~хьана** (*-x'ana*): \"left\" (past tense, aorist converb form functioning as a perfective predicate in this context, or simply past tense marker depending on specific dialectal analysis, but here indicating completed action)\n*   **къвазна** (*q'wazna*): \"have gone/left\" (verb root *q'waz* 'go', with perfective aspect marker *-n* and 3rd person plural agreement *-a*, though Lezgian verbs do not show person-number agreement in the same way as Indo-European languages; the form indicates the completed action).\n\n*Note: The sentence structure and specific verb forms reflect the Lezgian grammar described in the text, particularly the use of converbs and aspect markers to indicate completed actions.*",
+      "raw": "They have already left.\n\n**Breakdown:**\n*   **Чунни** (*čunni*): \"already\" (adverb)\n*   **чуьнуьх** (*čününx*): \"they\" (3rd person plural, oblique stem form used here)\n*   **~хьана** (*-x'ana*): \"left\" (past tense, aorist converb form functioning as a perfective predicate in this context, or simply past tense marker depending on specific dialectal analysis, but here indicating completed action)\n*   **къвазна** (*q'wazna*): \"have gone/left\" (verb root *q'waz* 'go', with perfective aspect marker *-n* and 3rd person plural agreement *-a*, though Lezgian verbs do not show person-number agreement in the same way as Indo-European languages; the form indicates the completed action).\n\n*Note: The sentence structure and specific verb forms reflect the Lezgian grammar described in the text, particularly the use of converbs and aspect markers to indicate completed actions.*",
+      "extracted": "They have already left.",
+      "raw_span": [
+        0,
+        874
+      ],
+      "extracted_span": [
+        0,
+        23
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 75,
+      "source": "инани ахпа вахт куьтях хьана ,",
+      "reference": "then the vacation finished,",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When I was young, I used to believe...\n\n(Note: The sentence appears to be incomplete or cut off at the end. The phrase \"куьтях хьана\" likely corresponds to a past tense form involving \"believe\" or \"trust,\" but without the full verb ending, the translation is rendered as \"I used to believe...\" to reflect the likely intended meaning based on common Lezgi narrative structures.)\n\nA more precise morpheme-by-morpheme breakdown based on the grammar provided:\n*   **инани** (inani) = I:ABS (first person singular absolutive pronoun)\n*   **ахпа** (axpa) = young (adjective)\n*   **вахт** (vaqht) = time (noun, likely in a temporal construction)\n*   **куьтях** (küt'ax) = believe/trust (verb stem, likely in a converb or participle form indicating past habitual action)\n*   **хьана** (x'ana) = was/were (copula or auxiliary indicating past state)\n\nHowever, given the context of Lezgi grammar and common phrases, a natural English translation would be:\n\n**\"",
+      "raw": "When I was young, I used to believe...\n\n(Note: The sentence appears to be incomplete or cut off at the end. The phrase \"куьтях хьана\" likely corresponds to a past tense form involving \"believe\" or \"trust,\" but without the full verb ending, the translation is rendered as \"I used to believe...\" to reflect the likely intended meaning based on common Lezgi narrative structures.)\n\nA more precise morpheme-by-morpheme breakdown based on the grammar provided:\n*   **инани** (inani) = I:ABS (first person singular absolutive pronoun)\n*   **ахпа** (axpa) = young (adjective)\n*   **вахт** (vaqht) = time (noun, likely in a temporal construction)\n*   **куьтях** (küt'ax) = believe/trust (verb stem, likely in a converb or participle form indicating past habitual action)\n*   **хьана** (x'ana) = was/were (copula or auxiliary indicating past state)\n\nHowever, given the context of Lezgi grammar and common phrases, a natural English translation would be:\n\n**\"",
+      "extracted": "When I was young, I used to believe...\n\n(Note: The sentence appears to be incomplete or cut off at the end. The phrase \"куьтях хьана\" likely corresponds to a past tense form involving \"believe\" or \"trust,\" but without the full verb ending, the translation is rendered as \"I used to believe...\" to reflect the likely intended meaning based on common Lezgi narrative structures.)\n\nA more precise morpheme-by-morpheme breakdown based on the grammar provided:\n*   **инани** (inani) = I:ABS (first person singular absolutive pronoun)\n*   **ахпа** (axpa) = young (adjective)\n*   **вахт** (vaqht) = time (noun, likely in a temporal construction)\n*   **куьтях** (küt'ax) = believe/trust (verb stem, likely in a converb or participle form indicating past habitual action)\n*   **хьана** (x'ana) = was/were (copula or auxiliary indicating past state)\n\nHowever, given the context of Lezgi grammar and common phrases, a natural English translation would be:\n\n**\"",
+      "raw_span": [
+        0,
+        949
+      ],
+      "extracted_span": [
+        0,
+        949
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 76,
+      "source": "Но , Рафикан сырой материални , куьне чугай материал гьа сегьнеда , гьамани чаз канда ки , чна комбинироватна са шеъ винел акъудин .",
+      "reference": "But we also need a raw material recorded by Rafik on that scene, to combine and create a work.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "However, Rafik's raw material, which was made from cheap material in this way, I found out that we have combined a few things.",
+      "raw": "However, Rafik's raw material, which was made from cheap material in this way, I found out that we have combined a few things.",
+      "extracted": "However, Rafik's raw material, which was made from cheap material in this way, I found out that we have combined a few things.",
+      "raw_span": [
+        0,
+        126
+      ],
+      "extracted_span": [
+        0,
+        126
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 77,
+      "source": "Жаваб я ашукь гада ваз ви кани яр авани ?",
+      "reference": "Answer ashuq, if you have a sweetheart",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Is the answer to the question \"Who sent the boy home?\" correct?\n\n**Breakdown of the translation:**\n\n*   **Жаваб (Javab):** Answer\n*   **я (ya):** question marker (Q)\n*   **ашукь (ašuk):** boy (Noun)\n*   **гада (gada):** who (Interrogative pronoun)\n*   **ваз (vaz):** sent (Verb root *raqur* 'send' + causative suffix *-ar*? No, looking at the glosses in the text, *raqur* is 'send'. Wait, let's re-examine the verb in the text.\n    *   In section 1.2.3, example (5): *raqur-aj* is glossed as 'send-AOP'.\n    *   The sentence structure in the prompt is: *gada* (who) *vaz* (sent?).\n    *   Actually, looking closely at the Lezgi text provided in the prompt: **ваз** (*vaz*) is likely a typo or a specific dialectal form for the verb \"to send\" or related to the example sentences.\n    *",
+      "raw": "Is the answer to the question \"Who sent the boy home?\" correct?\n\n**Breakdown of the translation:**\n\n*   **Жаваб (Javab):** Answer\n*   **я (ya):** question marker (Q)\n*   **ашукь (ašuk):** boy (Noun)\n*   **гада (gada):** who (Interrogative pronoun)\n*   **ваз (vaz):** sent (Verb root *raqur* 'send' + causative suffix *-ar*? No, looking at the glosses in the text, *raqur* is 'send'. Wait, let's re-examine the verb in the text.\n    *   In section 1.2.3, example (5): *raqur-aj* is glossed as 'send-AOP'.\n    *   The sentence structure in the prompt is: *gada* (who) *vaz* (sent?).\n    *   Actually, looking closely at the Lezgi text provided in the prompt: **ваз** (*vaz*) is likely a typo or a specific dialectal form for the verb \"to send\" or related to the example sentences.\n    *",
+      "extracted": "Is the answer to the question \"Who sent the boy home?\" correct?",
+      "raw_span": [
+        0,
+        784
+      ],
+      "extracted_span": [
+        0,
+        63
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 78,
+      "source": "Заз садрахъни гъвечи чӀавалай зун икьван , физ хтанани заз садрахъни ахьтин пепе акунвачир .",
+      "reference": "I had been going there since my childhood, but had never seen such a big bug.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I have been sitting in the small room for a long time, and I am thinking about what kind of house I should build.",
+      "raw": "I have been sitting in the small room for a long time, and I am thinking about what kind of house I should build.",
+      "extracted": "I have been sitting in the small room for a long time, and I am thinking about what kind of house I should build.",
+      "raw_span": [
+        0,
+        113
+      ],
+      "extracted_span": [
+        0,
+        113
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 79,
+      "source": "Чун гафариз~аламукьнава .",
+      "reference": "we stayed there talking.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Lezgi sentence \"Чун гафариз~аламукьнава\" into English is:\n\n**\"When he/she/it is speaking.\"**\n\nHere is the breakdown based on the grammar provided:\n*   **Чун** (*čun*): \"When\" (Temporal converb).\n*   **гафариз** (*gafariz*): \"speaking\" (from the root *gafar* 'speak' + *-z* 'imperfective' + *-wa* 'locative copula' + *-s* '3rd person singular').\n*   **~аламукьнава** (*~alamuk'ynawa*): This appears to be a transcription error or a very specific dialectal form in the prompt's source text, as standard Lezgi does not typically combine a temporal clause with a main clause verb ending in *-nawa* (Perfect) in this exact sequence without a conjunction or subject marker visible in the standard orthography provided. However, interpreting the core verb structure **...nawa** as the **Perfect** tense (as defined in section 1.2.2 and 4.1.2.1), the",
+      "raw": "The translation of the Lezgi sentence \"Чун гафариз~аламукьнава\" into English is:\n\n**\"When he/she/it is speaking.\"**\n\nHere is the breakdown based on the grammar provided:\n*   **Чун** (*čun*): \"When\" (Temporal converb).\n*   **гафариз** (*gafariz*): \"speaking\" (from the root *gafar* 'speak' + *-z* 'imperfective' + *-wa* 'locative copula' + *-s* '3rd person singular').\n*   **~аламукьнава** (*~alamuk'ynawa*): This appears to be a transcription error or a very specific dialectal form in the prompt's source text, as standard Lezgi does not typically combine a temporal clause with a main clause verb ending in *-nawa* (Perfect) in this exact sequence without a conjunction or subject marker visible in the standard orthography provided. However, interpreting the core verb structure **...nawa** as the **Perfect** tense (as defined in section 1.2.2 and 4.1.2.1), the",
+      "extracted": "The translation of the Lezgi sentence \"Чун гафариз~аламукьнава\" into English is:\n\n**\"When he/she/it is speaking.\"**\n\nHere is the breakdown based on the grammar provided:\n*   **Чун** (*čun*): \"When\" (Temporal converb).\n*   **гафариз** (*gafariz*): \"speaking\" (from the root *gafar* 'speak' + *-z* 'imperfective' + *-wa* 'locative copula' + *-s* '3rd person singular').\n*   **~аламукьнава** (*~alamuk'ynawa*): This appears to be a transcription error or a very specific dialectal form in the prompt's source text, as standard Lezgi does not typically combine a temporal clause with a main clause verb ending in *-nawa* (Perfect) in this exact sequence without a conjunction or subject marker visible in the standard orthography provided. However, interpreting the core verb structure **...nawa** as the **Perfect** tense (as defined in section 1.2.2 and 4.1.2.1), the",
+      "raw_span": [
+        0,
+        865
+      ],
+      "extracted_span": [
+        0,
+        865
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 80,
+      "source": "Анай ахпа гваз хтанава чун Советдин уьлкведиз .",
+      "reference": "And they took us back to soviet country.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "To the Soviet country, this great nation has come.\n\n(Note: The Lezgi sentence provided in the query appears to be written in a Cyrillic-based orthography that mixes Lezgi words with Russian loanwords and possibly some non-standard or dialectal spellings. A more precise breakdown based on standard Lezgi morphology and the provided grammar context would be:\n\n- **Анай** (Anay) – \"mother\" (or possibly a name, but context suggests \"mother\" as in \"motherland\")\n- **ахпа** (axpa) – \"great\" (archaic or dialectal form of *axwa*)\n- **гваз** (gvaž) – \"this\" (demonstrative)\n- **хтанава** (xtnawa) – \"has come\" (from root *xtn-* 'come', imperfective past or perfective depending on context)\n- **чун** (čun) – \"for\" (purpose marker or preposition)\n- **Советдин** (Sovetdin) – \"Soviet\" (genitive of *Sovet*)\n- **уьлкведиз** (ulqvediz)",
+      "raw": "To the Soviet country, this great nation has come.\n\n(Note: The Lezgi sentence provided in the query appears to be written in a Cyrillic-based orthography that mixes Lezgi words with Russian loanwords and possibly some non-standard or dialectal spellings. A more precise breakdown based on standard Lezgi morphology and the provided grammar context would be:\n\n- **Анай** (Anay) – \"mother\" (or possibly a name, but context suggests \"mother\" as in \"motherland\")\n- **ахпа** (axpa) – \"great\" (archaic or dialectal form of *axwa*)\n- **гваз** (gvaž) – \"this\" (demonstrative)\n- **хтанава** (xtnawa) – \"has come\" (from root *xtn-* 'come', imperfective past or perfective depending on context)\n- **чун** (čun) – \"for\" (purpose marker or preposition)\n- **Советдин** (Sovetdin) – \"Soviet\" (genitive of *Sovet*)\n- **уьлкведиз** (ulqvediz)",
+      "extracted": "To the Soviet country, this great nation has come.\n\n(Note: The Lezgi sentence provided in the query appears to be written in a Cyrillic-based orthography that mixes Lezgi words with Russian loanwords and possibly some non-standard or dialectal spellings. A more precise breakdown based on standard Lezgi morphology and the provided grammar context would be:\n\n- **Анай** (Anay) – \"mother\" (or possibly a name, but context suggests \"mother\" as in \"motherland\")\n- **ахпа** (axpa) – \"great\" (archaic or dialectal form of *axwa*)\n- **гваз** (gvaž) – \"this\" (demonstrative)\n- **хтанава** (xtnawa) – \"has come\" (from root *xtn-* 'come', imperfective past or perfective depending on context)\n- **чун** (čun) – \"for\" (purpose marker or preposition)\n- **Советдин** (Sovetdin) – \"Soviet\" (genitive of *Sovet*)\n- **уьлкведиз** (ulqvediz)",
+      "raw_span": [
+        0,
+        825
+      ],
+      "extracted_span": [
+        0,
+        825
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 81,
+      "source": "06 : Ӏ8",
+      "reference": "nan",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "06: 18",
+      "raw": "06: 18",
+      "extracted": "06: 18",
+      "raw_span": [
+        0,
+        6
+      ],
+      "extracted_span": [
+        0,
+        6
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 82,
+      "source": "Хкведа вич гададин патав мадни .",
+      "reference": "He returned to the young man  again.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When Sabir returns, there will be work for us in the mine.",
+      "raw": "When Sabir returns, there will be work for us in the mine.",
+      "extracted": "When Sabir returns, there will be work for us in the mine.",
+      "raw_span": [
+        0,
+        58
+      ],
+      "extracted_span": [
+        0,
+        58
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 83,
+      "source": "Заз дуьз кичӀе хьана .",
+      "reference": "I was so afraid.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The two brothers met.\n\n**Breakdown:**\n*   **Заз** (Zaz): \"The two\" (dual number marker).\n*   **дуьз** (düz): \"brother\" (in the dual form, often appearing as *düz* or *düz-a* depending on case, here functioning as the subject/theme).\n*   **кичӀе** (kiche): \"each other\" (reciprocal pronoun).\n*   **хьана** (x'ana): \"met\" (verb *x'ana* 'to meet' in the Past Aorist tense).\n\n*Note: The sentence uses the dual number (\"two brothers\") and a reciprocal construction (\"met each other\").*",
+      "raw": "The two brothers met.\n\n**Breakdown:**\n*   **Заз** (Zaz): \"The two\" (dual number marker).\n*   **дуьз** (düz): \"brother\" (in the dual form, often appearing as *düz* or *düz-a* depending on case, here functioning as the subject/theme).\n*   **кичӀе** (kiche): \"each other\" (reciprocal pronoun).\n*   **хьана** (x'ana): \"met\" (verb *x'ana* 'to meet' in the Past Aorist tense).\n\n*Note: The sentence uses the dual number (\"two brothers\") and a reciprocal construction (\"met each other\").*",
+      "extracted": "The two brothers met.",
+      "raw_span": [
+        0,
+        480
+      ],
+      "extracted_span": [
+        0,
+        21
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 84,
+      "source": "Чун , лугьузва , ахиратдин къал санал жедай~вал .",
+      "reference": "We must be together till the end",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This world, this life, is but a fleeting shadow of the Hereafter.",
+      "raw": "This world, this life, is but a fleeting shadow of the Hereafter.",
+      "extracted": "This world, this life, is but a fleeting shadow of the Hereafter.",
+      "raw_span": [
+        0,
+        65
+      ],
+      "extracted_span": [
+        0,
+        65
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 85,
+      "source": "Бакуда Хырдаланда ава .",
+      "reference": "he is in Khirdalan, Baku.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "There is water in the Khirdalan (district) of Baku.\n\n**Breakdown:**\n*   **Бакуда** (Bakuda): In the Baku (locative/dative context).\n*   **Хырдаланда** (Xyrdalanda): In Khirdalan (a district/region). The suffix *-anda* indicates location (essive/localization).\n*   **ава** (ava): There is water (existential construction with the noun *ava* 'water' and the copula).\n\n*Note: \"Khirdalan\" refers to a specific locality or district, likely in the context of the sentence's origin or a specific geographical reference within the Lezgi-speaking area or a loan context.*",
+      "raw": "There is water in the Khirdalan (district) of Baku.\n\n**Breakdown:**\n*   **Бакуда** (Bakuda): In the Baku (locative/dative context).\n*   **Хырдаланда** (Xyrdalanda): In Khirdalan (a district/region). The suffix *-anda* indicates location (essive/localization).\n*   **ава** (ava): There is water (existential construction with the noun *ava* 'water' and the copula).\n\n*Note: \"Khirdalan\" refers to a specific locality or district, likely in the context of the sentence's origin or a specific geographical reference within the Lezgi-speaking area or a loan context.*",
+      "extracted": "There is water in the Khirdalan (district) of Baku.",
+      "raw_span": [
+        0,
+        562
+      ],
+      "extracted_span": [
+        0,
+        51
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 86,
+      "source": "бес ама чна чидаш гудани , гудашни .",
+      "reference": "and we don't know whether to agree or not",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "There is no such thing as a good person, there is only a good deed.",
+      "raw": "There is no such thing as a good person, there is only a good deed.",
+      "extracted": "There is no such thing as a good person, there is only a good deed.",
+      "raw_span": [
+        0,
+        67
+      ],
+      "extracted_span": [
+        0,
+        67
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    }
+  ]
+}

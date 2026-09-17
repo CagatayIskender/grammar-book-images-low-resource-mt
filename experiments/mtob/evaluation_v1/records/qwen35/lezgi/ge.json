@@ -1,0 +1,2006 @@
+{
+  "fingerprint": "c9574955d317b02798027e56b15ee8109dacb4c63e6a7f7fd857c7262a5ac825",
+  "records": [
+    {
+      "index": 0,
+      "source": "И гададини гъил вегьена са жуьт къачуда .",
+      "reference": "And the guy picked up one necklace pair.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "And the people who have been given the word are many in number.",
+      "raw": "And the people who have been given the word are many in number.",
+      "extracted": "And the people who have been given the word are many in number.",
+      "raw_span": [
+        0,
+        63
+      ],
+      "extracted_span": [
+        0,
+        63
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 1,
+      "source": "Вични хьанвай къвалахар я .",
+      "reference": "and all this were real stories",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is the only thing I know.",
+      "raw": "This is the only thing I know.",
+      "extracted": "This is the only thing I know.",
+      "raw_span": [
+        0,
+        30
+      ],
+      "extracted_span": [
+        0,
+        30
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 2,
+      "source": "Яргъал акъатна чун ...",
+      "reference": "We ran far from there...",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Why did you go there...?",
+      "raw": "Why did you go there...?",
+      "extracted": "Why did you go there...?",
+      "raw_span": [
+        0,
+        24
+      ],
+      "extracted_span": [
+        0,
+        24
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 3,
+      "source": "Ша фин гьуьлуьн къерехдиз » лугьуда .",
+      "reference": "\"Let’s go to the seaside.\" said the horse.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They say that this village is ours.",
+      "raw": "They say that this village is ours.",
+      "extracted": "They say that this village is ours.",
+      "raw_span": [
+        0,
+        35
+      ],
+      "extracted_span": [
+        0,
+        35
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 4,
+      "source": "Ахпа отпуска гана заз .",
+      "reference": "I was sent on vacation.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The sentence \"Ахпа отпуска гана заз\" in Lezgi translates to:\n\n**\"The father is going to the market.\"**\n\n### Explanation:\n- **Ахпа** = *axpa* = \"father\"\n- **отпуска** = *otpuska* = \"is sending\" or \"is taking\" (from the verb *otpusk* – to send/take)\n- **гана** = *gana* = \"to the market\" (locative form of *gan* – market)\n- **заз** = *zaz* = \"he/she/it\" (subject pronoun, often omitted but implied here)\n\nIn Lezgi, the subject pronoun can be omitted when clear from context, so \"заз\" emphasizes or clarifies that \"he\" (the father) is the one going.\n\nThus, the full meaning is:  \n**\"The father is taking [someone/something] to the market\"** or more naturally in English:  \n**\"The father is going to the market.\"**\n\n*(Note: Depending on context, \"отпуска\" could imply he is sending someone else, but without further context, the most natural interpretation",
+      "raw": "The sentence \"Ахпа отпуска гана заз\" in Lezgi translates to:\n\n**\"The father is going to the market.\"**\n\n### Explanation:\n- **Ахпа** = *axpa* = \"father\"\n- **отпуска** = *otpuska* = \"is sending\" or \"is taking\" (from the verb *otpusk* – to send/take)\n- **гана** = *gana* = \"to the market\" (locative form of *gan* – market)\n- **заз** = *zaz* = \"he/she/it\" (subject pronoun, often omitted but implied here)\n\nIn Lezgi, the subject pronoun can be omitted when clear from context, so \"заз\" emphasizes or clarifies that \"he\" (the father) is the one going.\n\nThus, the full meaning is:  \n**\"The father is taking [someone/something] to the market\"** or more naturally in English:  \n**\"The father is going to the market.\"**\n\n*(Note: Depending on context, \"отпуска\" could imply he is sending someone else, but without further context, the most natural interpretation",
+      "extracted": "The sentence \"Ахпа отпуска гана заз\" in Lezgi translates to:\n\n**\"The father is going to the market.\"**",
+      "raw_span": [
+        0,
+        852
+      ],
+      "extracted_span": [
+        0,
+        102
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 5,
+      "source": "« Фена », лагьана , « куьне », лагьана , « зи балкӀандин кӀвач галукь тавунвай са чкадлай » лагьана , « заз са тике », лагьана « накьв гъваш » лагьана .",
+      "reference": "\"Go\" he said, \"and bring me some soil from a place where my horse has never walked.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Fena,\" he said, \"küne,\" he said, \"from the place where my Balkan's horse was killed,\" he said, \"I will go a little,\" he said, \"to the river.\"",
+      "raw": "\"Fena,\" he said, \"küne,\" he said, \"from the place where my Balkan's horse was killed,\" he said, \"I will go a little,\" he said, \"to the river.\"",
+      "extracted": "\"Fena,\" he said, \"küne,\" he said, \"from the place where my Balkan's horse was killed,\" he said, \"I will go a little,\" he said, \"to the river.\"",
+      "raw_span": [
+        0,
+        142
+      ],
+      "extracted_span": [
+        0,
+        142
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 6,
+      "source": "Лагьана чна , рекъел эвицӀ~хъувуна , рехъ чира ман .",
+      "reference": "we asked to show us the road.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I have come to you, my dear friend, to tell you the truth.",
+      "raw": "I have come to you, my dear friend, to tell you the truth.",
+      "extracted": "I have come to you, my dear friend, to tell you the truth.",
+      "raw_span": [
+        0,
+        58
+      ],
+      "extracted_span": [
+        0,
+        58
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 7,
+      "source": "Берлиндай Франциядиз ,",
+      "reference": "from Berlin to France,",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "From Berlin to France,",
+      "raw": "From Berlin to France,",
+      "extracted": "From Berlin to France,",
+      "raw_span": [
+        0,
+        22
+      ],
+      "extracted_span": [
+        0,
+        22
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 8,
+      "source": "чун рехъ къуна хкверла",
+      "reference": "when we were returning along the road",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When the sun rises, the day begins.",
+      "raw": "When the sun rises, the day begins.",
+      "extracted": "When the sun rises, the day begins.",
+      "raw_span": [
+        0,
+        35
+      ],
+      "extracted_span": [
+        0,
+        35
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 9,
+      "source": "Гьабурни кӀвалариз-къариз ахъатна .",
+      "reference": "They have their homes.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "We have heard these words from the elders and the wise.",
+      "raw": "We have heard these words from the elders and the wise.",
+      "extracted": "We have heard these words from the elders and the wise.",
+      "raw_span": [
+        0,
+        55
+      ],
+      "extracted_span": [
+        0,
+        55
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 10,
+      "source": "Хъсан жи къайгъудик амукьна заз еке тир хъсанвилер къалурна жамаатдин патай .",
+      "reference": "They took care of me and were very kind to me.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "In the community where good people have been raised and where they have been taught to care for one another, goodness has taken root.",
+      "raw": "In the community where good people have been raised and where they have been taught to care for one another, goodness has taken root.",
+      "extracted": "In the community where good people have been raised and where they have been taught to care for one another, goodness has taken root.",
+      "raw_span": [
+        0,
+        133
+      ],
+      "extracted_span": [
+        0,
+        133
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 11,
+      "source": "« Самур » газет атай береда . 00 . 20",
+      "reference": "When \"Samur\" newspaper came",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The newspaper \"Samur\" is published. 00.20",
+      "raw": "The newspaper \"Samur\" is published. 00.20",
+      "extracted": "The newspaper \"Samur\" is published. 00.20",
+      "raw_span": [
+        0,
+        41
+      ],
+      "extracted_span": [
+        0,
+        41
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 12,
+      "source": "Писвал ийиз кӀанзава хьир гададиз .",
+      "reference": "He wants to do evil to the guy.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He used to write to you with good wishes.",
+      "raw": "He used to write to you with good wishes.",
+      "extracted": "He used to write to you with good wishes.",
+      "raw_span": [
+        0,
+        41
+      ],
+      "extracted_span": [
+        0,
+        41
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 13,
+      "source": "« За вучин », лугьуда , бес , « аквазвачни », лугьуда , « пачагьдиз завай гила гевгьеррин иеси кӀанзава ».",
+      "reference": "“What to do? he said.  \"Did I not see this? Now the king wants from me the owner of the pearls.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"",
+      "raw": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"",
+      "extracted": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"",
+      "raw_span": [
+        0,
+        111
+      ],
+      "extracted_span": [
+        0,
+        111
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 14,
+      "source": "Седакъет ханума вичин кӀалуб туькӀуьрна ва гьа кӀалубдив кутуна и ктаб кхьанва .",
+      "reference": "She created a form and wrote a book according this form.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Sedaqet Khanum wrote this book with her own heart and dedicated it to that very heart.",
+      "raw": "Sedaqet Khanum wrote this book with her own heart and dedicated it to that very heart.",
+      "extracted": "Sedaqet Khanum wrote this book with her own heart and dedicated it to that very heart.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 15,
+      "source": "« Гьа и луьтквечидини », лагьана , « идани », лагьана « зун », лагьана , « гададивай къакъудна », лагьана , « алцурарна вичин кӀвализ тухузвай тир .",
+      "reference": "\"Yes this boatman,\" she said, \"he also took me from the guy, deceiving me and taking me to his home.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"He is the one who is small,\" he said, \"I am,\" he said, \"I am,\" he said, \"I will go to the future,\" he said, \"I am the one who will go to the other world.\"",
+      "raw": "\"He is the one who is small,\" he said, \"I am,\" he said, \"I am,\" he said, \"I will go to the future,\" he said, \"I am the one who will go to the other world.\"",
+      "extracted": "\"He is the one who is small,\" he said, \"I am,\" he said, \"I am,\" he said, \"I will go to the future,\" he said, \"I am the one who will go to the other world.\"",
+      "raw_span": [
+        0,
+        155
+      ],
+      "extracted_span": [
+        0,
+        155
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 16,
+      "source": "« Ваъ », лугьуда , « зи пӀузаррал хер хьанва » лугьуда , « а ковшда аваз са яд це кван заз ».",
+      "reference": "\"No,\" he said, \"There is a wound on my lips. Please, give me some water in that ladel.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Va\", they said, \"zi p'uzarral her khanva\", they said, \"a kovshda avaz sa yad ce kvan zaz\".\n\nHowever, this appears to be a corrupted or non-standard rendering of a Lezgi text, likely due to encoding issues or OCR errors. The Cyrillic characters in the source (e.g., « Ваъ », лугьуда) do not correspond correctly to standard Lezgi orthography as described in the provided grammar excerpts (which use Cyrillic letters like <а>, <б>, <г>, <д>, <ж>, <з>, <и>, <к>, <л>, <м>, <н>, <о>, <п>, <р>, <с>, <т>, <у>, <ф>, <х>, <ц>, <ч>, <ш>, <щ>, <ъ>, <ы>, <ь>, <э>, <ю>, <я> plus specific digraphs and the ejective marker <I>).\n\nFor instance:\n- \"Ваъ\" is not a standard Lezgi word in this context; it may be a misrendering of \"Ва\" (wa) or part of a name.\n- \"луг",
+      "raw": "\"Va\", they said, \"zi p'uzarral her khanva\", they said, \"a kovshda avaz sa yad ce kvan zaz\".\n\nHowever, this appears to be a corrupted or non-standard rendering of a Lezgi text, likely due to encoding issues or OCR errors. The Cyrillic characters in the source (e.g., « Ваъ », лугьуда) do not correspond correctly to standard Lezgi orthography as described in the provided grammar excerpts (which use Cyrillic letters like <а>, <б>, <г>, <д>, <ж>, <з>, <и>, <к>, <л>, <м>, <н>, <о>, <п>, <р>, <с>, <т>, <у>, <ф>, <х>, <ц>, <ч>, <ш>, <щ>, <ъ>, <ы>, <ь>, <э>, <ю>, <я> plus specific digraphs and the ejective marker <I>).\n\nFor instance:\n- \"Ваъ\" is not a standard Lezgi word in this context; it may be a misrendering of \"Ва\" (wa) or part of a name.\n- \"луг",
+      "extracted": "\"Va\", they said, \"zi p'uzarral her khanva\", they said, \"a kovshda avaz sa yad ce kvan zaz\".\n\nHowever, this appears to be a corrupted or non-standard rendering of a Lezgi text, likely due to encoding issues or OCR errors. The Cyrillic characters in the source (e.g., « Ваъ », лугьуда) do not correspond correctly to standard Lezgi orthography as described in the provided grammar excerpts (which use Cyrillic letters like <а>, <б>, <г>, <д>, <ж>, <з>, <и>, <к>, <л>, <м>, <н>, <о>, <п>, <р>, <с>, <т>, <у>, <ф>, <х>, <ц>, <ч>, <ш>, <щ>, <ъ>, <ы>, <ь>, <э>, <ю>, <я> plus specific digraphs and the ejective marker <I>).\n\nFor instance:\n- \"Ваъ\" is not a standard Lezgi word in this context; it may be a misrendering of \"Ва\" (wa) or part of a name.\n- \"луг",
+      "raw_span": [
+        0,
+        750
+      ],
+      "extracted_span": [
+        0,
+        750
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 17,
+      "source": "« АкӀ жеш хьи », лугьуда .",
+      "reference": "\"It cannot work this way.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Seven brothers there are,\" they said.",
+      "raw": "\"Seven brothers there are,\" they said.",
+      "extracted": "\"Seven brothers there are,\" they said.",
+      "raw_span": [
+        0,
+        38
+      ],
+      "extracted_span": [
+        0,
+        38
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 18,
+      "source": "Чубанди кицӀиз ихьтин гьерекатар ийидай туш .",
+      "reference": "Shepherds don’t treat dogs this way.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The brothers who are like this are very strange.",
+      "raw": "The brothers who are like this are very strange.",
+      "extracted": "The brothers who are like this are very strange.",
+      "raw_span": [
+        0,
+        48
+      ],
+      "extracted_span": [
+        0,
+        48
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 19,
+      "source": "Жи хуьре атана лагьайла , за атана концертни гайди я и хуьре атана .",
+      "reference": "he said in our village, and I also gave a concert in this village",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When I come to this village, I will go to the concert and come back to this village.",
+      "raw": "When I come to this village, I will go to the concert and come back to this village.",
+      "extracted": "When I come to this village, I will go to the concert and come back to this village.",
+      "raw_span": [
+        0,
+        84
+      ],
+      "extracted_span": [
+        0,
+        84
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 20,
+      "source": "Рехъ акваз амукъназ сад~лагьана",
+      "reference": "We couldn't even see the road.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The fox drank the water and did not remain.",
+      "raw": "The fox drank the water and did not remain.",
+      "extracted": "The fox drank the water and did not remain.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 21,
+      "source": "И кар акур жибури лагьана ки , яда къе вуча ма чав .",
+      "reference": "Hearing this, our guys asked him to give the cassete that day.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "And if you bring me a horse, then tell me where it is, or if it is lost, tell me where it is.",
+      "raw": "And if you bring me a horse, then tell me where it is, or if it is lost, tell me where it is.",
+      "extracted": "And if you bring me a horse, then tell me where it is, or if it is lost, tell me where it is.",
+      "raw_span": [
+        0,
+        93
+      ],
+      "extracted_span": [
+        0,
+        93
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 22,
+      "source": "Ва гьада , гьикъван гьа терезидин стрелка пара хкаж хьанватӀа , гьам вилик кутунва .",
+      "reference": "And she put first that person which is more valuable according to the position of scale arrow.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When the clock hand on the window of the house you live in moves a little, you will be happy.",
+      "raw": "When the clock hand on the window of the house you live in moves a little, you will be happy.",
+      "extracted": "When the clock hand on the window of the house you live in moves a little, you will be happy.",
+      "raw_span": [
+        0,
+        93
+      ],
+      "extracted_span": [
+        0,
+        93
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 23,
+      "source": "хуьруьн абурун кӀвалар чила ава , асканда пенжер",
+      "reference": "houses in that village were small",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The work of the village people is ours, a window in the sky.",
+      "raw": "The work of the village people is ours, a window in the sky.",
+      "extracted": "The work of the village people is ours, a window in the sky.",
+      "raw_span": [
+        0,
+        60
+      ],
+      "extracted_span": [
+        0,
+        60
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 24,
+      "source": "Идан акъадарна ахпа къагъана чун са шегьердиз .",
+      "reference": "he took us in a city.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "From here, having heard the news, I went to your city.",
+      "raw": "From here, having heard the news, I went to your city.",
+      "extracted": "From here, having heard the news, I went to your city.",
+      "raw_span": [
+        0,
+        54
+      ],
+      "extracted_span": [
+        0,
+        54
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 25,
+      "source": "« Хьуй », лугьуда .",
+      "reference": "\"Yes.\" they said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Fuck,\" he said.",
+      "raw": "\"Fuck,\" he said.",
+      "extracted": "\"Fuck,\" he said.",
+      "raw_span": [
+        0,
+        16
+      ],
+      "extracted_span": [
+        0,
+        16
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 26,
+      "source": "СтӀурани , квез чидайвал , чи дереда авай виридлайни кьакьан дагъларив мукьвал са хуьр я .",
+      "reference": "As you know, Sudur is the village close to the highest mountains.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Sturani, a village located at the foot of the high, snow-capped mountains where your father's orchard stands, is a place where we gather.",
+      "raw": "Sturani, a village located at the foot of the high, snow-capped mountains where your father's orchard stands, is a place where we gather.",
+      "extracted": "Sturani, a village located at the foot of the high, snow-capped mountains where your father's orchard stands, is a place where we gather.",
+      "raw_span": [
+        0,
+        137
+      ],
+      "extracted_span": [
+        0,
+        137
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 27,
+      "source": "АтӀуз гана ибурун кьилерни .",
+      "reference": "And she gave the order to cut off thier heads.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The only thing that remains is the names.",
+      "raw": "The only thing that remains is the names.",
+      "extracted": "The only thing that remains is the names.",
+      "raw_span": [
+        0,
+        41
+      ],
+      "extracted_span": [
+        0,
+        41
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 28,
+      "source": "Зу кьилелни пара атайди я .",
+      "reference": "I went through many things.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is a new and better one.",
+      "raw": "This is a new and better one.",
+      "extracted": "This is a new and better one.",
+      "raw_span": [
+        0,
+        29
+      ],
+      "extracted_span": [
+        0,
+        29
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 29,
+      "source": "Кани ярдиз ви рикӀе лугьудай гафар амани ?",
+      "reference": "Do you still have words to say to your sweetheart in your heart",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Have you ever heard any of the words of peace?",
+      "raw": "Have you ever heard any of the words of peace?",
+      "extracted": "Have you ever heard any of the words of peace?",
+      "raw_span": [
+        0,
+        46
+      ],
+      "extracted_span": [
+        0,
+        46
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 30,
+      "source": "Акур шеъер кхьана , сегьне , не , къевиз за атана гьикӀ авунатӀа , и са шеъ ида яратмишна , вичи яратмишна кхьизайди я дастан .",
+      "reference": "he wrote about thing he saw, stage, how i came tonight here, and this thing was done by him, he creates and writes dastan",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is a beautiful and poetic line from Lezgi literature. Based on the linguistic structure and vocabulary found in Lezgi poetry and the provided context, here is the translation:\n\n**\"This is a story (dastan) about my own creations and the creations of others, which I have composed in this poem, O Akur, O Seghne, O Ne.\"**\n\n### Breakdown of the translation:\n\n*   **Акур шеъер кхьана** (*Akur she'er kh'ana*): \"O Akur, in this poem...\" (Addressing the muse or the poem itself).\n*   **сегьне , не** (*seg'ne, ne*): \"O Seghne, O Ne\" (Addressing other entities, likely personified concepts or deities common in Caucasian poetry).\n*   **къевиз за атана гьикӀ авунатӀа** (*qeviz za atana g'ik' avunata*): \"which I have composed/written\" (*qeviz* = I wrote/composed, *g'ik'* = how/which, *avunata* = having become/existed).\n*",
+      "raw": "This is a beautiful and poetic line from Lezgi literature. Based on the linguistic structure and vocabulary found in Lezgi poetry and the provided context, here is the translation:\n\n**\"This is a story (dastan) about my own creations and the creations of others, which I have composed in this poem, O Akur, O Seghne, O Ne.\"**\n\n### Breakdown of the translation:\n\n*   **Акур шеъер кхьана** (*Akur she'er kh'ana*): \"O Akur, in this poem...\" (Addressing the muse or the poem itself).\n*   **сегьне , не** (*seg'ne, ne*): \"O Seghne, O Ne\" (Addressing other entities, likely personified concepts or deities common in Caucasian poetry).\n*   **къевиз за атана гьикӀ авунатӀа** (*qeviz za atana g'ik' avunata*): \"which I have composed/written\" (*qeviz* = I wrote/composed, *g'ik'* = how/which, *avunata* = having become/existed).\n*",
+      "extracted": "This is a beautiful and poetic line from Lezgi literature. Based on the linguistic structure and vocabulary found in Lezgi poetry and the provided context, here is the translation:\n\n**\"This is a story (dastan) about my own creations and the creations of others, which I have composed in this poem, O Akur, O Seghne, O Ne.\"**",
+      "raw_span": [
+        0,
+        820
+      ],
+      "extracted_span": [
+        0,
+        324
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 31,
+      "source": "Заз дуьз кичӀе хьана .",
+      "reference": "I was so scared.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He has gone to the right house.",
+      "raw": "He has gone to the right house.",
+      "extracted": "He has gone to the right house.",
+      "raw_span": [
+        0,
+        31
+      ],
+      "extracted_span": [
+        0,
+        31
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 32,
+      "source": "Концертар гуз фейла акуртӀа ки , бес гьакъикъетдай , ида вичиз кхьанва дастан .",
+      "reference": "And she saw that he really wrote a legend in her honor",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The concerts were held very briefly, as it turned out, and the story was sung by himself.",
+      "raw": "The concerts were held very briefly, as it turned out, and the story was sung by himself.",
+      "extracted": "The concerts were held very briefly, as it turned out, and the story was sung by himself.",
+      "raw_span": [
+        0,
+        89
+      ],
+      "extracted_span": [
+        0,
+        89
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 33,
+      "source": "заз гила кӀвале са свасни ава .",
+      "reference": "I have a daughter-in-law at home.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I am going to the market to buy some bread.",
+      "raw": "I am going to the market to buy some bread.",
+      "extracted": "I am going to the market to buy some bread.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 34,
+      "source": "Гьадакай регъуьла завай гьейетдални физ жезвач .",
+      "reference": "Because of that I couldn’t enter even his courtyard.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I do not know how to say this in Lezgi.",
+      "raw": "I do not know how to say this in Lezgi.",
+      "extracted": "I do not know how to say this in Lezgi.",
+      "raw_span": [
+        0,
+        39
+      ],
+      "extracted_span": [
+        0,
+        39
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 35,
+      "source": "« За вучин », лугьуда , бес , « аквазвачни », лугьуда , « пачагьдиз завай гила гевгьеррин иеси кӀанзава ».",
+      "reference": "“What to do? he said.  \"Did I not see this? Now the king wants from me the owner of the pearls.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"",
+      "raw": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"",
+      "extracted": "\"Because of the rain,\" he said, \"the water has risen,\" he said, \"the fields of the villages have been flooded.\"",
+      "raw_span": [
+        0,
+        111
+      ],
+      "extracted_span": [
+        0,
+        111
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 36,
+      "source": "къажгъанар , къапар , дуьгуьяр , абур гваз фена гьана жаван рушари , и еке рушари ...",
+      "reference": "young girls used to take pans, dishes, rice and there young girls...",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The young men, the elders, the women, the children who have been born in this house, and the older children...",
+      "raw": "The young men, the elders, the women, the children who have been born in this house, and the older children...",
+      "extracted": "The young men, the elders, the women, the children who have been born in this house, and the older children...",
+      "raw_span": [
+        0,
+        110
+      ],
+      "extracted_span": [
+        0,
+        110
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 37,
+      "source": "Вичи мад вучда кьван , лагьана .",
+      "reference": "nan",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Seven brothers, he said.",
+      "raw": "Seven brothers, he said.",
+      "extracted": "Seven brothers, he said.",
+      "raw_span": [
+        0,
+        24
+      ],
+      "extracted_span": [
+        0,
+        24
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 38,
+      "source": "Идаз атана лагьанва ки , инал и кӀарасар ви заз маса ча , лагьанва . 06 : 29",
+      "reference": "He came and asked him to sell him the wood, which was there.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Idaz said that, \"Now this man is not like us, he said.\" 06:29",
+      "raw": "Idaz said that, \"Now this man is not like us, he said.\" 06:29",
+      "extracted": "Idaz said that, \"Now this man is not like us, he said.\" 06:29",
+      "raw_span": [
+        0,
+        61
+      ],
+      "extracted_span": [
+        0,
+        61
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 39,
+      "source": "Кьвед~лагьай гадади лагьана « Зун фида буба », лагьана , « исятда за гъида », лагьана .",
+      "reference": "The second son said: “Now I will go and bring it to you, father.”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When the seven-year-old boy said, \"I will feed my father,\" he said, \"I will not eat,\" he said.",
+      "raw": "When the seven-year-old boy said, \"I will feed my father,\" he said, \"I will not eat,\" he said.",
+      "extracted": "When the seven-year-old boy said, \"I will feed my father,\" he said, \"I will not eat,\" he said.",
+      "raw_span": [
+        0,
+        94
+      ],
+      "extracted_span": [
+        0,
+        94
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 40,
+      "source": "Мад са шейни хьанач лагьана за , ун .",
+      "reference": "I said that I'm ok.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I didn't know that you were sick, I see.",
+      "raw": "I didn't know that you were sick, I see.",
+      "extracted": "I didn't know that you were sick, I see.",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 41,
+      "source": "« Гьуьлуьн кӀануз фин патакайни зун гьуьлуьн шивдихъ галаз ккӀана кӀанзава » лугьуда .",
+      "reference": "\"And to go to the bottom of the sea, I must fight with the Sea Steed.”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"It is said that my brother and I went to the village together.\"",
+      "raw": "\"It is said that my brother and I went to the village together.\"",
+      "extracted": "\"It is said that my brother and I went to the village together.\"",
+      "raw_span": [
+        0,
+        64
+      ],
+      "extracted_span": [
+        0,
+        64
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 42,
+      "source": "И рушни пачагь хьана гила башламишда вичин пачагьвализ .",
+      "reference": "And the girl became the king and started her own reign.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "And when the two brothers began to quarrel, they started their own separate households.",
+      "raw": "And when the two brothers began to quarrel, they started their own separate households.",
+      "extracted": "And when the two brothers began to quarrel, they started their own separate households.",
+      "raw_span": [
+        0,
+        87
+      ],
+      "extracted_span": [
+        0,
+        87
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 43,
+      "source": "Юлдашари меслят акуна ки , гьава къенин хьиз чими яз ...",
+      "reference": "The weather was hot and my friends decided to...",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "My friend, I have decided that, like the wind, I will become...",
+      "raw": "My friend, I have decided that, like the wind, I will become...",
+      "extracted": "My friend, I have decided that, like the wind, I will become...",
+      "raw_span": [
+        0,
+        63
+      ],
+      "extracted_span": [
+        0,
+        63
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 44,
+      "source": "« Твах и зи шикил », лугьуда , « а ,» лугьуда « анавай вилаятдин кьилел алай булахдин кьилел эциг » лугьуда .",
+      "reference": "\"Carry this portrait of me,\" she said, “and place it at the top of the spring at the head of the province.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Your face and your beauty,\" he said, \"oh,\" he said, \"the head of the river that lies in this very province.\"",
+      "raw": "\"Your face and your beauty,\" he said, \"oh,\" he said, \"the head of the river that lies in this very province.\"",
+      "extracted": "\"Your face and your beauty,\" he said, \"oh,\" he said, \"the head of the river that lies in this very province.\"",
+      "raw_span": [
+        0,
+        109
+      ],
+      "extracted_span": [
+        0,
+        109
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 45,
+      "source": "Чна и объектдилай хкверла",
+      "reference": "and we were returning from the facility",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is a sentence from Lezgi, a language spoken in the Caucasus region. Based on the linguistic structure and vocabulary of Lezgi:\n\n- **Чна** = \"This\" (demonstrative pronoun)\n- **и** = \"and\"\n- **объектдилай** = \"object\" (with a case suffix indicating \"of the object\" or \"regarding the object\")\n- **хкверла** = \"to say\" or \"to speak\" (verb in a form indicating purpose or intention)\n\nPutting it together in natural English:\n\n**\"This and the object, to say.\"**\n\nHowever, this phrasing is somewhat literal and may not fully capture the intended meaning without more context. A more natural translation could be:\n\n**\"This and the object, as stated.\"**\n\nOr, if the sentence is part of a larger discourse about mentioning or referring to things:\n\n**\"This and the object are mentioned.\"**\n\nWithout additional context, the most accurate literal translation is:\n\n**\"This and the object, to say.\"**",
+      "raw": "This is a sentence from Lezgi, a language spoken in the Caucasus region. Based on the linguistic structure and vocabulary of Lezgi:\n\n- **Чна** = \"This\" (demonstrative pronoun)\n- **и** = \"and\"\n- **объектдилай** = \"object\" (with a case suffix indicating \"of the object\" or \"regarding the object\")\n- **хкверла** = \"to say\" or \"to speak\" (verb in a form indicating purpose or intention)\n\nPutting it together in natural English:\n\n**\"This and the object, to say.\"**\n\nHowever, this phrasing is somewhat literal and may not fully capture the intended meaning without more context. A more natural translation could be:\n\n**\"This and the object, as stated.\"**\n\nOr, if the sentence is part of a larger discourse about mentioning or referring to things:\n\n**\"This and the object are mentioned.\"**\n\nWithout additional context, the most accurate literal translation is:\n\n**\"This and the object, to say.\"**",
+      "extracted": "This is a sentence from Lezgi, a language spoken in the Caucasus region. Based on the linguistic structure and vocabulary of Lezgi:\n\n- **Чна** = \"This\" (demonstrative pronoun)\n- **и** = \"and\"\n- **объектдилай** = \"object\" (with a case suffix indicating \"of the object\" or \"regarding the object\")\n- **хкверла** = \"to say\" or \"to speak\" (verb in a form indicating purpose or intention)\n\nPutting it together in natural English:\n\n**\"This and the object, to say.\"**\n\nHowever, this phrasing is somewhat literal and may not fully capture the intended meaning without more context. A more natural translation could be:\n\n**\"This and the object, as stated.\"**\n\nOr, if the sentence is part of a larger discourse about mentioning or referring to things:\n\n**\"This and the object are mentioned.\"**\n\nWithout additional context, the most accurate literal translation is:\n\n**\"This and the object, to say.\"**",
+      "raw_span": [
+        0,
+        889
+      ],
+      "extracted_span": [
+        0,
+        889
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 46,
+      "source": "КӀвалин къвалахар вири зал хьана , пуд стхани са вах хьана зун .",
+      "reference": "I was doing all housework, we were three brothers and one sister.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The whole of the Kvalin valley has been destroyed, and I have been in this place for four days.",
+      "raw": "The whole of the Kvalin valley has been destroyed, and I have been in this place for four days.",
+      "extracted": "The whole of the Kvalin valley has been destroyed, and I have been in this place for four days.",
+      "raw_span": [
+        0,
+        95
+      ],
+      "extracted_span": [
+        0,
+        95
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 47,
+      "source": "Ада вучзава .",
+      "reference": "What does he do?",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "She is in school.",
+      "raw": "She is in school.",
+      "extracted": "She is in school.",
+      "raw_span": [
+        0,
+        17
+      ],
+      "extracted_span": [
+        0,
+        17
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 48,
+      "source": "И гъел эцикзавайди Бебир халу хьана .",
+      "reference": "A person who was putting the plough was uncle Bebir.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "And the people who were reading the book, Bebir became a man.",
+      "raw": "And the people who were reading the book, Bebir became a man.",
+      "extracted": "And the people who were reading the book, Bebir became a man.",
+      "raw_span": [
+        0,
+        61
+      ],
+      "extracted_span": [
+        0,
+        61
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 49,
+      "source": "Хтана балкӀан , « Гьаа », лагьана « гила чавай физ жеда » лагьана , « пачагьдин руш гъиз ».",
+      "reference": "The horse came back and said, “Now we can go and get the king’s daughter.”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Htana Balkan said, \"Go,\" and said, \"Even if you go, you will come back,\" and said, \"The king's son is dead.\"",
+      "raw": "Htana Balkan said, \"Go,\" and said, \"Even if you go, you will come back,\" and said, \"The king's son is dead.\"",
+      "extracted": "Htana Balkan said, \"Go,\" and said, \"Even if you go, you will come back,\" and said, \"The king's son is dead.\"",
+      "raw_span": [
+        0,
+        108
+      ],
+      "extracted_span": [
+        0,
+        108
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 50,
+      "source": "куьтях хьана ... гьанал чун минометчикар тир , минаяр вегьидай пуд нефер",
+      "reference": ". then it finished... We were mortar men, there were three of us.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Back then... at that time we were three men who could lay mines, artillerymen.",
+      "raw": "Back then... at that time we were three men who could lay mines, artillerymen.",
+      "extracted": "Back then... at that time we were three men who could lay mines, artillerymen.",
+      "raw_span": [
+        0,
+        78
+      ],
+      "extracted_span": [
+        0,
+        78
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 51,
+      "source": "Высоковольтный линиядинни и жи крандин стреладин арада са икьван са вад санти чка амукьна .",
+      "reference": "there was only five centimeters between the crane's tip and the high-voltage line.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Between the high-voltage line and the crane's boom, there is a gap of exactly one and a half centimeters.",
+      "raw": "Between the high-voltage line and the crane's boom, there is a gap of exactly one and a half centimeters.",
+      "extracted": "Between the high-voltage line and the crane's boom, there is a gap of exactly one and a half centimeters.",
+      "raw_span": [
+        0,
+        105
+      ],
+      "extracted_span": [
+        0,
+        105
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 52,
+      "source": "Ты куда ?»",
+      "reference": "\" Where are you going?\" (Russian)",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Where are you going?",
+      "raw": "Where are you going?",
+      "extracted": "Where are you going?",
+      "raw_span": [
+        0,
+        20
+      ],
+      "extracted_span": [
+        0,
+        20
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 53,
+      "source": "Аналай инихъ , зегьметдалди къазанмишиз жуваз са кап фу , хъсандик яшамиш хьана .",
+      "reference": "And after that, we  live good live by earning our lives by hard work.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "And so, having earned their livelihood through hard work, they lived a dignified life.",
+      "raw": "And so, having earned their livelihood through hard work, they lived a dignified life.",
+      "extracted": "And so, having earned their livelihood through hard work, they lived a dignified life.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 54,
+      "source": "Элчиярни ракъузва за , лагьана .»",
+      "reference": "And I'll send matchmakers",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Let us speak Lezgian, my dear.\"",
+      "raw": "\"Let us speak Lezgian, my dear.\"",
+      "extracted": "\"Let us speak Lezgian, my dear.\"",
+      "raw_span": [
+        0,
+        32
+      ],
+      "extracted_span": [
+        0,
+        32
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 55,
+      "source": "Мектебдин кьарас затӀ игъидай сад тир .",
+      "reference": "He was the one who was carring wood and things like this for school",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The one who is the most worthy of the school's honor.",
+      "raw": "The one who is the most worthy of the school's honor.",
+      "extracted": "The one who is the most worthy of the school's honor.",
+      "raw_span": [
+        0,
+        53
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 56,
+      "source": "Польшадай аниз , Берлиндиз",
+      "reference": "Then they took us to Berlin from Poland,",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Poland's sun, Berlin's moon.",
+      "raw": "Poland's sun, Berlin's moon.",
+      "extracted": "Poland's sun, Berlin's moon.",
+      "raw_span": [
+        0,
+        28
+      ],
+      "extracted_span": [
+        0,
+        28
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 57,
+      "source": "Гьуьлуьн шив гьуьлуьн балкӀан .",
+      "reference": "The Sea Steed is the Sea Horse.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The village's water is the village's pride.",
+      "raw": "The village's water is the village's pride.",
+      "extracted": "The village's water is the village's pride.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 58,
+      "source": "Рак гатана фад ахъайна тамашайтӀа , са кьуьзуь къари баде ава .",
+      "reference": "She knocked and quickly opened the door - there is an old woman.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When you come to watch, your beloved son is already dead.",
+      "raw": "When you come to watch, your beloved son is already dead.",
+      "extracted": "When you come to watch, your beloved son is already dead.",
+      "raw_span": [
+        0,
+        57
+      ],
+      "extracted_span": [
+        0,
+        57
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 59,
+      "source": "Жи диде , бубани амаш , кӀарасар агъана канзава ма чуьлдай .",
+      "reference": "Our father was died, and our mother needed to go to the forest to bring wood",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "My dear mother, do not be sad, for the sun will rise again tomorrow.",
+      "raw": "My dear mother, do not be sad, for the sun will rise again tomorrow.",
+      "extracted": "My dear mother, do not be sad, for the sun will rise again tomorrow.",
+      "raw_span": [
+        0,
+        68
+      ],
+      "extracted_span": [
+        0,
+        68
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 60,
+      "source": "Аналай сонра за цӀуд йис къвалахна и сагьеда за домкультурада .",
+      "reference": "and after that I worked at the culture house for ten years",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "After that, in the following year, they began to work in the field of folk culture.",
+      "raw": "After that, in the following year, they began to work in the field of folk culture.",
+      "extracted": "After that, in the following year, they began to work in the field of folk culture.",
+      "raw_span": [
+        0,
+        83
+      ],
+      "extracted_span": [
+        0,
+        83
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 61,
+      "source": "Абуру ви кьил тӀарарда », лугьуда .",
+      "reference": "\"They will give you a headache.”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Aburu, you are the one who is born,\" he said.",
+      "raw": "\"Aburu, you are the one who is born,\" he said.",
+      "extracted": "\"Aburu, you are the one who is born,\" he said.",
+      "raw_span": [
+        0,
+        46
+      ],
+      "extracted_span": [
+        0,
+        46
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 62,
+      "source": "05 : Ӏ6",
+      "reference": "nan",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The string \"05 : Ӏ6\" does not contain Lezgi words or grammatical structures; it appears to be a timestamp, a code, or a reference number (possibly from a document or recording). The character \"Ӏ\" is a Cyrillic letter (Izhitsa), used in some Caucasian languages but not as part of standard Lezgi orthography for lexical content.\n\nSince there is no linguistic content to translate, the accurate response is:\n\n**This is not a sentence in Lezgi; it appears to be a code, timestamp, or reference number.**",
+      "raw": "The string \"05 : Ӏ6\" does not contain Lezgi words or grammatical structures; it appears to be a timestamp, a code, or a reference number (possibly from a document or recording). The character \"Ӏ\" is a Cyrillic letter (Izhitsa), used in some Caucasian languages but not as part of standard Lezgi orthography for lexical content.\n\nSince there is no linguistic content to translate, the accurate response is:\n\n**This is not a sentence in Lezgi; it appears to be a code, timestamp, or reference number.**",
+      "extracted": "The string \"05 : Ӏ6\" does not contain Lezgi words or grammatical structures; it appears to be a timestamp, a code, or a reference number (possibly from a document or recording). The character \"Ӏ\" is a Cyrillic letter (Izhitsa), used in some Caucasian languages but not as part of standard Lezgi orthography for lexical content.\n\nSince there is no linguistic content to translate, the accurate response is:\n\n**This is not a sentence in Lezgi; it appears to be a code, timestamp, or reference number.**",
+      "raw_span": [
+        0,
+        500
+      ],
+      "extracted_span": [
+        0,
+        500
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 63,
+      "source": "тек къари тир ама .",
+      "reference": "she was lonely.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The girl is beautiful, but...",
+      "raw": "The girl is beautiful, but...",
+      "extracted": "The girl is beautiful, but...",
+      "raw_span": [
+        0,
+        29
+      ],
+      "extracted_span": [
+        0,
+        29
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 64,
+      "source": "И~арада кьада имни тухуда и кӀвализ .",
+      "reference": "At this moment they caught and took him to this house.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "In this place, there is no one to help me.",
+      "raw": "In this place, there is no one to help me.",
+      "extracted": "In this place, there is no one to help me.",
+      "raw_span": [
+        0,
+        42
+      ],
+      "extracted_span": [
+        0,
+        42
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 65,
+      "source": "Аялни ава .",
+      "reference": "I have a child.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Let's welcome the village.",
+      "raw": "Let's welcome the village.",
+      "extracted": "Let's welcome the village.",
+      "raw_span": [
+        0,
+        26
+      ],
+      "extracted_span": [
+        0,
+        26
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 66,
+      "source": "Чун къерар сад я .",
+      "reference": "We came into one decision",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I have decided.",
+      "raw": "I have decided.",
+      "extracted": "I have decided.",
+      "raw_span": [
+        0,
+        15
+      ],
+      "extracted_span": [
+        0,
+        15
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 67,
+      "source": "Гьинай кӀантӀани заз жагъурна гъваш ».",
+      "reference": "\"From wherever is needed, find her and bring her to me.”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "\"Come, let's go to the village where we were born.\"",
+      "raw": "\"Come, let's go to the village where we were born.\"",
+      "extracted": "\"Come, let's go to the village where we were born.\"",
+      "raw_span": [
+        0,
+        51
+      ],
+      "extracted_span": [
+        0,
+        51
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 68,
+      "source": "Чунни инал хтана .",
+      "reference": "​We returned there.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They are good neighbors.",
+      "raw": "They are good neighbors.",
+      "extracted": "They are good neighbors.",
+      "raw_span": [
+        0,
+        24
+      ],
+      "extracted_span": [
+        0,
+        24
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 69,
+      "source": "Гададини лугьуда « я пачагь , за гьинай гъин », лугьуда , « заз чизвач хьир , за ваз вучин , гьикӀ ийин ?»",
+      "reference": "The guy said, “Oh king, where can I find her? I have no idea. How shall I do this?”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When he said, \"I am sick, what should I do?\", he said, \"I have no money, I have no place to go, what shall I do?\"",
+      "raw": "When he said, \"I am sick, what should I do?\", he said, \"I have no money, I have no place to go, what shall I do?\"",
+      "extracted": "When he said, \"I am sick, what should I do?\", he said, \"I have no money, I have no place to go, what shall I do?\"",
+      "raw_span": [
+        0,
+        113
+      ],
+      "extracted_span": [
+        0,
+        113
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 70,
+      "source": "Севастопольда мугьарибе хьана ,",
+      "reference": "There was a battle in the Sevastopol,",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "In Sevastopol, a war was fought,",
+      "raw": "In Sevastopol, a war was fought,",
+      "extracted": "In Sevastopol, a war was fought,",
+      "raw_span": [
+        0,
+        32
+      ],
+      "extracted_span": [
+        0,
+        32
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 71,
+      "source": "Акъадарда и пачагь ибуру ламрал , балкӀандал акъадарда , ламрал акъадарда яда , цӀайни ахъайда , им гьи хуьрей агъуз .",
+      "reference": "They mounted this king on a donkey - horse or donkey - lit him on fire, and sent him out of the village.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "In the mountains, the people are like eagles; in the valleys, the people are like eagles; even in the plains, the people are like eagles; and even in the cities, the people are like eagles.",
+      "raw": "In the mountains, the people are like eagles; in the valleys, the people are like eagles; even in the plains, the people are like eagles; and even in the cities, the people are like eagles.",
+      "extracted": "In the mountains, the people are like eagles; in the valleys, the people are like eagles; even in the plains, the people are like eagles; and even in the cities, the people are like eagles.",
+      "raw_span": [
+        0,
+        189
+      ],
+      "extracted_span": [
+        0,
+        189
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 72,
+      "source": "Ибурни амна , хкведа и гадани руш … гадани руш хкведа ибур чпин вилаятдиз .",
+      "reference": "That happening, the guy and girl returned to their own province.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The sun is beautiful, and the sky is clear... the clear sky, the beautiful sun, in every province.",
+      "raw": "The sun is beautiful, and the sky is clear... the clear sky, the beautiful sun, in every province.",
+      "extracted": "The sun is beautiful, and the sky is clear... the clear sky, the beautiful sun, in every province.",
+      "raw_span": [
+        0,
+        98
+      ],
+      "extracted_span": [
+        0,
+        98
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 73,
+      "source": "Чун гьада виликди гьеле христиан дин амай вахт тир чаз .",
+      "reference": "The time before that was when we had Christian religion.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is the time when there was no Christian religion in the world.",
+      "raw": "This is the time when there was no Christian religion in the world.",
+      "extracted": "This is the time when there was no Christian religion in the world.",
+      "raw_span": [
+        0,
+        67
+      ],
+      "extracted_span": [
+        0,
+        67
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 74,
+      "source": "Чунни чуьнуьх~хьана къвазна .",
+      "reference": "we hid.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They will not come to the station.",
+      "raw": "They will not come to the station.",
+      "extracted": "They will not come to the station.",
+      "raw_span": [
+        0,
+        34
+      ],
+      "extracted_span": [
+        0,
+        34
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 75,
+      "source": "инани ахпа вахт куьтях хьана ,",
+      "reference": "then the vacation finished,",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When I was young, I believed...",
+      "raw": "When I was young, I believed...",
+      "extracted": "When I was young, I believed...",
+      "raw_span": [
+        0,
+        31
+      ],
+      "extracted_span": [
+        0,
+        31
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 76,
+      "source": "Но , Рафикан сырой материални , куьне чугай материал гьа сегьнеда , гьамани чаз канда ки , чна комбинироватна са шеъ винел акъудин .",
+      "reference": "But we also need a raw material recorded by Rafik on that scene, to combine and create a work.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "But, Rafik's raw material, which he made into a good material in this way, I have seen that we have combined it with a few other things.",
+      "raw": "But, Rafik's raw material, which he made into a good material in this way, I have seen that we have combined it with a few other things.",
+      "extracted": "But, Rafik's raw material, which he made into a good material in this way, I have seen that we have combined it with a few other things.",
+      "raw_span": [
+        0,
+        136
+      ],
+      "extracted_span": [
+        0,
+        136
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 77,
+      "source": "Жаваб я ашукь гада ваз ви кани яр авани ?",
+      "reference": "Answer ashuq, if you have a sweetheart",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "What is your name?",
+      "raw": "What is your name?",
+      "extracted": "What is your name?",
+      "raw_span": [
+        0,
+        18
+      ],
+      "extracted_span": [
+        0,
+        18
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 78,
+      "source": "Заз садрахъни гъвечи чӀавалай зун икьван , физ хтанани заз садрахъни ахьтин пепе акунвачир .",
+      "reference": "I had been going there since my childhood, but had never seen such a big bug.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I have been a small child since I was born, and I have never seen anyone like me.",
+      "raw": "I have been a small child since I was born, and I have never seen anyone like me.",
+      "extracted": "I have been a small child since I was born, and I have never seen anyone like me.",
+      "raw_span": [
+        0,
+        81
+      ],
+      "extracted_span": [
+        0,
+        81
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 79,
+      "source": "Чун гафариз~аламукьнава .",
+      "reference": "we stayed there talking.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is the alphabet of Kazanfar.",
+      "raw": "This is the alphabet of Kazanfar.",
+      "extracted": "This is the alphabet of Kazanfar.",
+      "raw_span": [
+        0,
+        33
+      ],
+      "extracted_span": [
+        0,
+        33
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 80,
+      "source": "Анай ахпа гваз хтанава чун Советдин уьлкведиз .",
+      "reference": "And they took us back to soviet country.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is a translation of a Lezgi sentence into English:\n\n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава ч",
+      "raw": "This is a translation of a Lezgi sentence into English:\n\n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава ч",
+      "extracted": "This is a translation of a Lezgi sentence into English:\n\n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава чун Советдин уьлкведиз .  \n**English translation:** This is a translation of a Lezgi sentence into English:  \n**Lezgi:** Анай ахпа гваз хтанава ч",
+      "raw_span": [
+        0,
+        812
+      ],
+      "extracted_span": [
+        0,
+        812
+      ],
+      "rule": "preserve_multiple_translation_labels",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 81,
+      "source": "06 : Ӏ8",
+      "reference": "nan",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "06 : 18",
+      "raw": "06 : 18",
+      "extracted": "06 : 18",
+      "raw_span": [
+        0,
+        7
+      ],
+      "extracted_span": [
+        0,
+        7
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 82,
+      "source": "Хкведа вич гададин патав мадни .",
+      "reference": "He returned to the young man  again.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "We will always remember our beloved mother.",
+      "raw": "We will always remember our beloved mother.",
+      "extracted": "We will always remember our beloved mother.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 83,
+      "source": "Заз дуьз кичӀе хьана .",
+      "reference": "I was so afraid.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He has gone to the right house.",
+      "raw": "He has gone to the right house.",
+      "extracted": "He has gone to the right house.",
+      "raw_span": [
+        0,
+        31
+      ],
+      "extracted_span": [
+        0,
+        31
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 84,
+      "source": "Чун , лугьузва , ахиратдин къал санал жедай~вал .",
+      "reference": "We must be together till the end",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "As for this world, the one that will come after it is the Hereafter.",
+      "raw": "As for this world, the one that will come after it is the Hereafter.",
+      "extracted": "As for this world, the one that will come after it is the Hereafter.",
+      "raw_span": [
+        0,
+        68
+      ],
+      "extracted_span": [
+        0,
+        68
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 85,
+      "source": "Бакуда Хырдаланда ава .",
+      "reference": "he is in Khirdalan, Baku.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "There is water in Baku and in Khirdalan.",
+      "raw": "There is water in Baku and in Khirdalan.",
+      "extracted": "There is water in Baku and in Khirdalan.",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 86,
+      "source": "бес ама чна чидаш гудани , гудашни .",
+      "reference": "and we don't know whether to agree or not",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "This is not a good time to come, it is not good.",
+      "raw": "This is not a good time to come, it is not good.",
+      "extracted": "This is not a good time to come, it is not good.",
+      "raw_span": [
+        0,
+        48
+      ],
+      "extracted_span": [
+        0,
+        48
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    }
+  ]
+}

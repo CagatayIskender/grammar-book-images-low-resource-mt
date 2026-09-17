@@ -1,0 +1,2282 @@
+{
+  "fingerprint": "c9574955d317b02798027e56b15ee8109dacb4c63e6a7f7fd857c7262a5ac825",
+  "records": [
+    {
+      "index": 0,
+      "source": "A' Mama Lesile badr doa kcng pwx trnzmncpeu .",
+      "reference": "But Fr. Leslie with his four students were not there anymore.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "It is forbidden for Mama Lesile and the children to enter that house.",
+      "raw": "It is forbidden for Mama Lesile and the children to enter that house.",
+      "extracted": "It is forbidden for Mama Lesile and the children to enter that house.",
+      "raw_span": [
+        0,
+        69
+      ],
+      "extracted_span": [
+        0,
+        69
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 1,
+      "source": "43 . Dzbede Ne Mr Lore",
+      "reference": "EP 43. Mr. Lore's Group",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Forty-three. He said, “Mr. Lore.”",
+      "raw": "Forty-three. He said, “Mr. Lore.”",
+      "extracted": "Forty-three. He said, “Mr. Lore.”",
+      "raw_span": [
+        0,
+        33
+      ],
+      "extracted_span": [
+        0,
+        33
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 2,
+      "source": "Kx xlrbz trtenge nzycmnekrbz Tzsiu Jon , sc tqrpipebzle kx , “ Awitxpe Jon , mz nzycmne-krm la .",
+      "reference": "When my father heard the speech of Brother John, he said to him, \"Thank you very much John, for that speech of yours.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Jon wants to use the knife to cut the meat, saying, “Jon, cut the meat with it.”",
+      "raw": "Jon wants to use the knife to cut the meat, saying, “Jon, cut the meat with it.”",
+      "extracted": "Jon wants to use the knife to cut the meat, saying, “Jon, cut the meat with it.”",
+      "raw_span": [
+        0,
+        80
+      ],
+      "extracted_span": [
+        0,
+        80
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 3,
+      "source": "X nzmnclzbzng mrkc tqtuo-ngrm nanycde kzdung leplz .",
+      "reference": "And there were also some people down where his feet were standing.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the meat with the knife.\n\n(Note: Based on the grammar notes provided, “kx” introduces an irrealis purpose clause, and “-ngrm” indicates “with which,” so “tqtuo-ngrm” = “with the knife” or “using the knife.” The phrase “nzmnclzbzng mrkc” likely means “they want to use,” and “nanycde kzdung leplz” = “the meat to cut.” The structure implies the purpose of using the knife is to cut the meat — possibly redundantly, but the grammar suggests “with the knife” is part of the purpose phrase. The translation is rendered as above for natural English flow, though the literal structure is “to cut the meat with the knife.”)",
+      "raw": "They want to use the knife to cut the meat with the knife.\n\n(Note: Based on the grammar notes provided, “kx” introduces an irrealis purpose clause, and “-ngrm” indicates “with which,” so “tqtuo-ngrm” = “with the knife” or “using the knife.” The phrase “nzmnclzbzng mrkc” likely means “they want to use,” and “nanycde kzdung leplz” = “the meat to cut.” The structure implies the purpose of using the knife is to cut the meat — possibly redundantly, but the grammar suggests “with the knife” is part of the purpose phrase. The translation is rendered as above for natural English flow, though the literal structure is “to cut the meat with the knife.”)",
+      "extracted": "They want to use the knife to cut the meat with the knife.\n\n(Note: Based on the grammar notes provided, “kx” introduces an irrealis purpose clause, and “-ngrm” indicates “with which,” so “tqtuo-ngrm” = “with the knife” or “using the knife.” The phrase “nzmnclzbzng mrkc” likely means “they want to use,” and “nanycde kzdung leplz” = “the meat to cut.” The structure implies the purpose of using the knife is to cut the meat — possibly redundantly, but the grammar suggests “with the knife” is part of the purpose phrase. The translation is rendered as above for natural English flow, though the literal structure is “to cut the meat with the knife.”)",
+      "raw_span": [
+        0,
+        650
+      ],
+      "extracted_span": [
+        0,
+        650
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 4,
+      "source": "Kx oblvztile rum kc x mcte da kx aletikrng , drtwrde vztx murde trnzpi-krpleu bagr nzrpwa'-krde nzdwatr-krgr mz rum nyz mqngr Ncbr .",
+      "reference": "When he looked over the room and saw what we had done, he was very sad because of his not telling about his forbidding our entering the room belonging to the image of the cross.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the meat, so that they can prepare it for eating with the people of Ncbr.",
+      "raw": "They want to use the knife to cut the meat, so that they can prepare it for eating with the people of Ncbr.",
+      "extracted": "They want to use the knife to cut the meat, so that they can prepare it for eating with the people of Ncbr.",
+      "raw_span": [
+        0,
+        107
+      ],
+      "extracted_span": [
+        0,
+        107
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 5,
+      "source": "Nzmulr nangrlrkitrlr peto a' nrlc boipxm .",
+      "reference": "They wanted to run into the bush but the distance was too far.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw_span": [
+        0,
+        104
+      ],
+      "extracted_span": [
+        0,
+        104
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 6,
+      "source": "Rkalzmqgr badr mrkc x mwitxkr badr mz lclr banyapu nyz skul .",
+      "reference": "We left from there with them and we slept with them in the school's pineapple field.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The children are playing with knives, and they want to use them to cut the banana leaves for school.",
+      "raw": "The children are playing with knives, and they want to use them to cut the banana leaves for school.",
+      "extracted": "The children are playing with knives, and they want to use them to cut the banana leaves for school.",
+      "raw_span": [
+        0,
+        100
+      ],
+      "extracted_span": [
+        0,
+        100
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 7,
+      "source": "Mcpxle kcng ncblo kx nangi nidr kcmiti nede .",
+      "reference": "He chose some men who would be his committee.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat.",
+      "raw": "They also want to use the knife to cut the meat.",
+      "extracted": "They also want to use the knife to cut the meat.",
+      "raw_span": [
+        0,
+        48
+      ],
+      "extracted_span": [
+        0,
+        48
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 8,
+      "source": "Da kx ngi narlue scde mz nzmabz-krde nzalvc-krde lika .",
+      "reference": "His occupation for earning a living was flying fishing kites.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They removed the hearts of the two pigeons and burned them for the Cross.",
+      "raw": "They removed the hearts of the two pigeons and burned them for the Cross.",
+      "extracted": "They removed the hearts of the two pigeons and burned them for the Cross.",
+      "raw_span": [
+        0,
+        73
+      ],
+      "extracted_span": [
+        0,
+        73
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 9,
+      "source": "Zbz nigr kc tqyapekr rlilrgr .",
+      "reference": "So it was the two of us who paddled off.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the hill.\n\n---\n\n**Explanation:**\n\n- **Zbz** = They (plural subject, 3rd person plural inclusive/exclusive depending on context, but here likely “they” as a group)\n- **nigr** = also (adverb, often used to indicate addition or emphasis)\n- **kc** = subordinator meaning “with which” or introducing a purpose clause (as explained in the grammar passage — “kx mc-lz=kr” is a similar construction)\n- **tqyapekr** = to cut (from *tq-* = cut, *-yapekr* = 3rd person plural, but here likely used as a verb form indicating action)\n- **rlilrgr** = the hill (from *rlil* = hill, *-rgr* = locative or nominalizer)\n\nThe phrase “kc tqyapekr” is a purpose clause introduced by “kx” (here written as “kc” — possibly a variant or shorthand), meaning “with which they want to cut.” The applicative suffix “-ngr” (as seen in “naöyëkö-ngögö”) adds the sense of “with,” so “",
+      "raw": "They also want to use the knife to cut the hill.\n\n---\n\n**Explanation:**\n\n- **Zbz** = They (plural subject, 3rd person plural inclusive/exclusive depending on context, but here likely “they” as a group)\n- **nigr** = also (adverb, often used to indicate addition or emphasis)\n- **kc** = subordinator meaning “with which” or introducing a purpose clause (as explained in the grammar passage — “kx mc-lz=kr” is a similar construction)\n- **tqyapekr** = to cut (from *tq-* = cut, *-yapekr* = 3rd person plural, but here likely used as a verb form indicating action)\n- **rlilrgr** = the hill (from *rlil* = hill, *-rgr* = locative or nominalizer)\n\nThe phrase “kc tqyapekr” is a purpose clause introduced by “kx” (here written as “kc” — possibly a variant or shorthand), meaning “with which they want to cut.” The applicative suffix “-ngr” (as seen in “naöyëkö-ngögö”) adds the sense of “with,” so “",
+      "extracted": "They also want to use the knife to cut the hill.\n\n---",
+      "raw_span": [
+        0,
+        891
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 10,
+      "source": "Kx mcpz Kzpten ncte nzli-krde sc tqyrnipe .",
+      "reference": "When the Captain saw its two pieces he cried.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the hill.\n\nExplanation:\n- “Kx” is the subordinator indicating an irrealis purpose clause — “they want to use...”\n- “mcpz” = “knife” (with applicative -ngr implied in context, though not explicitly shown here — “with which” or “for the purpose of using”)\n- “Kzpten” = “cut” (verb, likely in a purposive or irrealis form)\n- “ncte” = “the hill” (demonstrative + noun, “that hill” or “the hill”)\n- “nzli-krde” = “to cut” (infinitive or purpose marker, possibly “for cutting”)\n- “sc tqyrnipe” = “the hill” (demonstrative + noun, “that hill”)\n\nPutting it together: “They want to use the knife to cut the hill.”\n\nNote: The structure “kx mcpz Kzpten ncte nzli-krde sc tqyrnipe” follows the pattern of “kx + object + verb + object + location/demonstrative,” indicating an irrealis purpose clause — “",
+      "raw": "They want to use the knife to cut the hill.\n\nExplanation:\n- “Kx” is the subordinator indicating an irrealis purpose clause — “they want to use...”\n- “mcpz” = “knife” (with applicative -ngr implied in context, though not explicitly shown here — “with which” or “for the purpose of using”)\n- “Kzpten” = “cut” (verb, likely in a purposive or irrealis form)\n- “ncte” = “the hill” (demonstrative + noun, “that hill” or “the hill”)\n- “nzli-krde” = “to cut” (infinitive or purpose marker, possibly “for cutting”)\n- “sc tqyrnipe” = “the hill” (demonstrative + noun, “that hill”)\n\nPutting it together: “They want to use the knife to cut the hill.”\n\nNote: The structure “kx mcpz Kzpten ncte nzli-krde sc tqyrnipe” follows the pattern of “kx + object + verb + object + location/demonstrative,” indicating an irrealis purpose clause — “",
+      "extracted": "They want to use the knife to cut the hill.",
+      "raw_span": [
+        0,
+        824
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 11,
+      "source": "Aijz rkalzm Nzlvz sc tqvokipemle bagr Nea .",
+      "reference": "The Aijz left the Reefs and traveled along to us in Nea.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the hill there.\n\n---\n\n**Explanation:**\n\n- **Aijz** = They (plural subject)\n- **rkalzm** = also (adverb, often used for emphasis or addition)\n- **Nzlvz** = knife (noun)\n- **sc** = to (subordinator introducing purpose or intention — here, “to use the knife for…”)\n- **tqvokipemle** = cut (verb, in the context of cutting something, likely a hill or tree)\n- **bagr** = there (locative, indicating location)\n- **Nea** = the hill (demonstrative + noun, “that hill” or “the hill there”)\n\nThe structure “sc tqvokipemle bagr Nea” indicates purpose: “to cut the hill there.” The subordinator **sc** introduces the purpose clause, and **tqvokipemle** is the verb “to cut,” with **bagr Nea** specifying the object/location.\n\nThe phrase “rkalzm Nzlvz” means “also the knife,” and the whole sentence is: “They also want to use the knife to cut the hill there.”\n\nNote: The",
+      "raw": "They also want to use the knife to cut the hill there.\n\n---\n\n**Explanation:**\n\n- **Aijz** = They (plural subject)\n- **rkalzm** = also (adverb, often used for emphasis or addition)\n- **Nzlvz** = knife (noun)\n- **sc** = to (subordinator introducing purpose or intention — here, “to use the knife for…”)\n- **tqvokipemle** = cut (verb, in the context of cutting something, likely a hill or tree)\n- **bagr** = there (locative, indicating location)\n- **Nea** = the hill (demonstrative + noun, “that hill” or “the hill there”)\n\nThe structure “sc tqvokipemle bagr Nea” indicates purpose: “to cut the hill there.” The subordinator **sc** introduces the purpose clause, and **tqvokipemle** is the verb “to cut,” with **bagr Nea** specifying the object/location.\n\nThe phrase “rkalzm Nzlvz” means “also the knife,” and the whole sentence is: “They also want to use the knife to cut the hill there.”\n\nNote: The",
+      "extracted": "They also want to use the knife to cut the hill there.\n\n---",
+      "raw_span": [
+        0,
+        897
+      ],
+      "extracted_span": [
+        0,
+        59
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 12,
+      "source": "Yrbqtikr mrkc minuti nzlvqn .",
+      "reference": "We lay down there for five minutes.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the meat.",
+      "raw": "They want to use the knife to cut the meat.",
+      "extracted": "They want to use the knife to cut the meat.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 13,
+      "source": "Trtenge yrlzo mz Trmctu Nemya' mrkc Nea .",
+      "reference": "My father married into Nemya' Island near Nea village.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat.\n\n---\n\n**Explanation:**\n\nThe sentence “Trtenge yrlzo mz Trmctu Nemya' mrkc Nea” can be broken down as follows:\n\n- **Trtenge** = they also (from “Trt” = they + “enge” = also, or “Trtenge” as a compound form meaning “they also”)\n- **yrlzo** = to use (verb stem, with the purposive or irrealis marker implied by context)\n- **mz** = the knife (demonstrative or possessive marker indicating “this” or “the”)\n- **Trmctu** = meat (possibly “Trmctu” = “Trmctu” — likely a noun meaning “meat” or “flesh”)\n- **Nemya'** = (likely a possessive or locative marker, possibly “of” or “from” — but in context, it may be part of the phrase “Nemya’ mrkc Nea”)\n- **mrkc** = to cut (verb stem)\n- **Nea** = the meat (or “it” — referring to the",
+      "raw": "They also want to use the knife to cut the meat.\n\n---\n\n**Explanation:**\n\nThe sentence “Trtenge yrlzo mz Trmctu Nemya' mrkc Nea” can be broken down as follows:\n\n- **Trtenge** = they also (from “Trt” = they + “enge” = also, or “Trtenge” as a compound form meaning “they also”)\n- **yrlzo** = to use (verb stem, with the purposive or irrealis marker implied by context)\n- **mz** = the knife (demonstrative or possessive marker indicating “this” or “the”)\n- **Trmctu** = meat (possibly “Trmctu” = “Trmctu” — likely a noun meaning “meat” or “flesh”)\n- **Nemya'** = (likely a possessive or locative marker, possibly “of” or “from” — but in context, it may be part of the phrase “Nemya’ mrkc Nea”)\n- **mrkc** = to cut (verb stem)\n- **Nea** = the meat (or “it” — referring to the",
+      "extracted": "They also want to use the knife to cut the meat.\n\n---",
+      "raw_span": [
+        0,
+        770
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 14,
+      "source": "Rlrq nzata-krngele ?”",
+      "reference": "Would you let me collect them?",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "“Are you going to the market?”",
+      "raw": "“Are you going to the market?”",
+      "extracted": "“Are you going to the market?”",
+      "raw_span": [
+        0,
+        30
+      ],
+      "extracted_span": [
+        0,
+        30
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 15,
+      "source": "Nzrpilr nalikr mz kzdonge Sadas Balo .",
+      "reference": "They said I should be paired with my in-law [ED. wife's brother] Sanders Balo.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I also want to use the knife with Sadas Balo.",
+      "raw": "I also want to use the knife with Sadas Balo.",
+      "extracted": "I also want to use the knife with Sadas Balo.",
+      "raw_span": [
+        0,
+        45
+      ],
+      "extracted_span": [
+        0,
+        45
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 16,
+      "source": "Kx yagoxtx-zlwzpele kc , sc tqrpipe Kzpten nayrbqtxpe mz manyzkxnzyagoxng mrkc Pauabu .",
+      "reference": "When he got really sick, the Captain said he should be resting in the hospital at Pauabu.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the meat from the pig that they have slaughtered in Pauabu.\n\n---\n\n**Explanation:**\n\n- **Kx yagoxtx-zlwzpele kc** → “They want to use the knife”  \n  - *kx* = subordinator introducing an irrealis purpose phrase (“to use... for...”)  \n  - *yagoxtx-zlwzpele* = “to use the knife” (with applicative -ngr implied in structure, though not explicitly marked here — the “with which” sense is embedded in the purpose clause)  \n  - *kc* = “they” (subject marker)\n\n- **sc tqrpipe Kzpten nayrbqtxpe mz manyzkxnzyagoxng mrkc Pauabu** → “to cut the meat from the pig that they have slaughtered in Pauabu”  \n  - *sc* = “to” (infinitival marker)  \n  - *tqrpipe* = “to cut”  \n  - *Kzpten* = “the meat”  \n  - *nayrbqtxpe* = “from the pig” (with prepositional structure",
+      "raw": "They want to use the knife to cut the meat from the pig that they have slaughtered in Pauabu.\n\n---\n\n**Explanation:**\n\n- **Kx yagoxtx-zlwzpele kc** → “They want to use the knife”  \n  - *kx* = subordinator introducing an irrealis purpose phrase (“to use... for...”)  \n  - *yagoxtx-zlwzpele* = “to use the knife” (with applicative -ngr implied in structure, though not explicitly marked here — the “with which” sense is embedded in the purpose clause)  \n  - *kc* = “they” (subject marker)\n\n- **sc tqrpipe Kzpten nayrbqtxpe mz manyzkxnzyagoxng mrkc Pauabu** → “to cut the meat from the pig that they have slaughtered in Pauabu”  \n  - *sc* = “to” (infinitival marker)  \n  - *tqrpipe* = “to cut”  \n  - *Kzpten* = “the meat”  \n  - *nayrbqtxpe* = “from the pig” (with prepositional structure",
+      "extracted": "They want to use the knife to cut the meat from the pig that they have slaughtered in Pauabu.\n\n---",
+      "raw_span": [
+        0,
+        783
+      ],
+      "extracted_span": [
+        0,
+        98
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 17,
+      "source": "Prtrx elr mz Jenwzri 1937 .",
+      "reference": "I entered there in January 1937.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "It was on January 1937.",
+      "raw": "It was on January 1937.",
+      "extracted": "It was on January 1937.",
+      "raw_span": [
+        0,
+        23
+      ],
+      "extracted_span": [
+        0,
+        23
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 18,
+      "source": "Vaol lcng amrlx brngztxtr angidr mz nzycmnengr mz Natqgu .",
+      "reference": "All of those vowels were really very good for speaking in Natqgu. [ED. They also made texting straightforward once mobile phones reached the island.]",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also talked about it and were in agreement that they should leave their village.\n\n(Note: While the given Natugu sentence “Vaol lcng amrlx brngztxtr angidr mz nzycmnengr mz Natqgu” does not exactly match the structure of the example in the grammar book, the closest semantic match based on the provided examples and context is the translation “They also talked about it and were in agreement that they should leave their village.” This assumes “Vaol” = “They also,” “lcng” = “talked about,” “amrlx” = “were in agreement,” “brngztxtr” = “that they should leave,” “angidr” = “their,” “mz” = “village,” and “nzycmnengr” = “their” — though the latter two may be misaligned. Given the grammar book’s examples, the intended meaning likely revolves around agreement to leave a village, and “Natqgu” is likely a misrendering of “Natugu” or a placeholder for “their village” or “the village.”)\n\nHowever, if we take the sentence literally and attempt to parse it with the grammar book’s patterns:\n\n- “Vaol",
+      "raw": "They also talked about it and were in agreement that they should leave their village.\n\n(Note: While the given Natugu sentence “Vaol lcng amrlx brngztxtr angidr mz nzycmnengr mz Natqgu” does not exactly match the structure of the example in the grammar book, the closest semantic match based on the provided examples and context is the translation “They also talked about it and were in agreement that they should leave their village.” This assumes “Vaol” = “They also,” “lcng” = “talked about,” “amrlx” = “were in agreement,” “brngztxtr” = “that they should leave,” “angidr” = “their,” “mz” = “village,” and “nzycmnengr” = “their” — though the latter two may be misaligned. Given the grammar book’s examples, the intended meaning likely revolves around agreement to leave a village, and “Natqgu” is likely a misrendering of “Natugu” or a placeholder for “their village” or “the village.”)\n\nHowever, if we take the sentence literally and attempt to parse it with the grammar book’s patterns:\n\n- “Vaol",
+      "extracted": "They also talked about it and were in agreement that they should leave their village.\n\n(Note: While the given Natugu sentence “Vaol lcng amrlx brngztxtr angidr mz nzycmnengr mz Natqgu” does not exactly match the structure of the example in the grammar book, the closest semantic match based on the provided examples and context is the translation “They also talked about it and were in agreement that they should leave their village.” This assumes “Vaol” = “They also,” “lcng” = “talked about,” “amrlx” = “were in agreement,” “brngztxtr” = “that they should leave,” “angidr” = “their,” “mz” = “village,” and “nzycmnengr” = “their” — though the latter two may be misaligned. Given the grammar book’s examples, the intended meaning likely revolves around agreement to leave a village, and “Natqgu” is likely a misrendering of “Natugu” or a placeholder for “their village” or “the village.”)\n\nHowever, if we take the sentence literally and attempt to parse it with the grammar book’s patterns:\n\n- “Vaol",
+      "raw_span": [
+        0,
+        999
+      ],
+      "extracted_span": [
+        0,
+        999
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 19,
+      "source": "Mz nzrtrngr-ngrbz nzmungr nadr dzu lipwz , nan Dckta kc mz Kzpten x nan kru nedrng kc .",
+      "reference": "In making their food double portions were given to the doctor and the captain and to their crew.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The people are hunting wild pigs, and the knife is for cutting meat, which they want to use with the knife.\n\n(Note: Based on the grammar notes provided, “kx” introduces an irrealis purpose phrase, and “-ngr” indicates “with” or “with which.” The phrase “nan Dckta kc mz Kzpten x nan kru nedrng kc” likely means “the knife is for cutting meat, which they want to use with the knife.” The first part “Mz nzrtrngr-ngrbz nzmungr nadr dzu lipwz” translates as “The people are hunting wild pigs.”)\n\nFinal translation:\n**The people are hunting wild pigs, and the knife is for cutting meat, which they want to use with the knife.**",
+      "raw": "The people are hunting wild pigs, and the knife is for cutting meat, which they want to use with the knife.\n\n(Note: Based on the grammar notes provided, “kx” introduces an irrealis purpose phrase, and “-ngr” indicates “with” or “with which.” The phrase “nan Dckta kc mz Kzpten x nan kru nedrng kc” likely means “the knife is for cutting meat, which they want to use with the knife.” The first part “Mz nzrtrngr-ngrbz nzmungr nadr dzu lipwz” translates as “The people are hunting wild pigs.”)\n\nFinal translation:\n**The people are hunting wild pigs, and the knife is for cutting meat, which they want to use with the knife.**",
+      "extracted": "The people are hunting wild pigs, and the knife is for cutting meat, which they want to use with the knife.\n\n(Note: Based on the grammar notes provided, “kx” introduces an irrealis purpose phrase, and “-ngr” indicates “with” or “with which.” The phrase “nan Dckta kc mz Kzpten x nan kru nedrng kc” likely means “the knife is for cutting meat, which they want to use with the knife.” The first part “Mz nzrtrngr-ngrbz nzmungr nadr dzu lipwz” translates as “The people are hunting wild pigs.”)\n\nFinal translation:\n**The people are hunting wild pigs, and the knife is for cutting meat, which they want to use with the knife.**",
+      "raw_span": [
+        0,
+        623
+      ],
+      "extracted_span": [
+        0,
+        623
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 20,
+      "source": "A' rvzmim doa kx bletipx-lxblrng mz Sade kcng tqvz-ngrmle .",
+      "reference": "But he brings a different student (person/child) on those Sundays he comes.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The children of Sade want to use the knife to kill the demon.\n\n---\n\n**Explanation:**\n\n- **A' rvzmim** → “The children” (A’ = plural marker for “child”; rvzmim = child, plural form)\n- **doa** → “want” (from the verb doa = to want, in the 3rd person plural)\n- **kx** → subordinator meaning “so that” or “in order to” (introduces purpose)\n- **bletipx-lxblrng** → “knife” (bletipx = knife; -lxblrng = applicative suffix meaning “with which” or “using”)\n- **mz Sade** → “of Sade” (mz = possessive marker; Sade = name of the group or family)\n- **kcng** → “to kill” (kc = to kill; ng = infinitive marker)\n- **tqvz-ngrmle** → “the demon” (tqvz = demon; -ngrmle = locative or applicative form indicating “the demon” as the target)\n\nPutting it together:  \n“The children of Sade want to use the knife to kill the",
+      "raw": "The children of Sade want to use the knife to kill the demon.\n\n---\n\n**Explanation:**\n\n- **A' rvzmim** → “The children” (A’ = plural marker for “child”; rvzmim = child, plural form)\n- **doa** → “want” (from the verb doa = to want, in the 3rd person plural)\n- **kx** → subordinator meaning “so that” or “in order to” (introduces purpose)\n- **bletipx-lxblrng** → “knife” (bletipx = knife; -lxblrng = applicative suffix meaning “with which” or “using”)\n- **mz Sade** → “of Sade” (mz = possessive marker; Sade = name of the group or family)\n- **kcng** → “to kill” (kc = to kill; ng = infinitive marker)\n- **tqvz-ngrmle** → “the demon” (tqvz = demon; -ngrmle = locative or applicative form indicating “the demon” as the target)\n\nPutting it together:  \n“The children of Sade want to use the knife to kill the",
+      "extracted": "The children of Sade want to use the knife to kill the demon.\n\n---",
+      "raw_span": [
+        0,
+        801
+      ],
+      "extracted_span": [
+        0,
+        66
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 21,
+      "source": "Wztitxpo mz Kcoporetiv Sosaeti temz rpwxmz .",
+      "reference": "I only worked for the Cooperative Society for nine months.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "We are also going to the Kcoporetiv Sosaeti market tomorrow.\n\n---\n\n**Explanation:**\n\n- **Wztitxpo** = We are going (first-person plural, future tense, indicating intention or plan)\n- **mz** = to / toward (directional particle)\n- **Kcoporetiv Sosaeti** = Kcoporetiv Sosaeti (proper noun, name of a market or place)\n- **temz** = tomorrow (time adverb)\n- **rpwxmz** = (likely a form of “we” or “our” + “place” or “market,” but in context, it’s part of the phrase “temz rpwxmz” meaning “tomorrow [to] the market” — though the exact morpheme may vary; in this case, “rpwxmz” likely functions as a locative or directional complement to “temz”)\n\nHowever, based on the grammar book examples and the structure, “Wztitxpo mz Kcoporetiv Sosaeti temz rpwxmz” most naturally translates to:\n\n> **We are going to the Kcoporetiv Sosaeti market tomorrow.**\n\nThis is consistent with the pattern seen in the",
+      "raw": "We are also going to the Kcoporetiv Sosaeti market tomorrow.\n\n---\n\n**Explanation:**\n\n- **Wztitxpo** = We are going (first-person plural, future tense, indicating intention or plan)\n- **mz** = to / toward (directional particle)\n- **Kcoporetiv Sosaeti** = Kcoporetiv Sosaeti (proper noun, name of a market or place)\n- **temz** = tomorrow (time adverb)\n- **rpwxmz** = (likely a form of “we” or “our” + “place” or “market,” but in context, it’s part of the phrase “temz rpwxmz” meaning “tomorrow [to] the market” — though the exact morpheme may vary; in this case, “rpwxmz” likely functions as a locative or directional complement to “temz”)\n\nHowever, based on the grammar book examples and the structure, “Wztitxpo mz Kcoporetiv Sosaeti temz rpwxmz” most naturally translates to:\n\n> **We are going to the Kcoporetiv Sosaeti market tomorrow.**\n\nThis is consistent with the pattern seen in the",
+      "extracted": "We are also going to the Kcoporetiv Sosaeti market tomorrow.\n\n---",
+      "raw_span": [
+        0,
+        888
+      ],
+      "extracted_span": [
+        0,
+        65
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 22,
+      "source": "Sutx , twzbo brma x awitx-ngrbzkr mz Gct x Ellen kc tqmupe .",
+      "reference": "It cooked, I took it home and we thanked God for it and Ellen ate it.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The captain and his crew were rudely awakened on the Hygeia from the sea swell making it tilt in the early morning.\n\nWait — let’s carefully analyze the Natugu sentence:  \n**Sutx , twzbo brma x awitx-ngrbzkr mz Gct x Ellen kc tqmupe .**\n\nLooking at the grammar book and the example sentences, we can break this down:\n\n- **Sutx** — likely “The captain” (from “Sâ tüöpipebële” in the example, which is “He said to them”, but “Sutx” may be a form of “Sâ” or “Sutx” = “The captain” — possibly “Sutx” = “Sâ” + “tux” or “Sutx” = “Sutx” as a proper noun or title. But in context, “Sutx” likely = “The captain” — as in “Sutx” = “Sutx” = “Captain” — perhaps “Sutx” = “Sutx” = “Captain” — but in the example, “Sâ” is used for “He”, so perhaps “Sutx” is “The",
+      "raw": "The captain and his crew were rudely awakened on the Hygeia from the sea swell making it tilt in the early morning.\n\nWait — let’s carefully analyze the Natugu sentence:  \n**Sutx , twzbo brma x awitx-ngrbzkr mz Gct x Ellen kc tqmupe .**\n\nLooking at the grammar book and the example sentences, we can break this down:\n\n- **Sutx** — likely “The captain” (from “Sâ tüöpipebële” in the example, which is “He said to them”, but “Sutx” may be a form of “Sâ” or “Sutx” = “The captain” — possibly “Sutx” = “Sâ” + “tux” or “Sutx” = “Sutx” as a proper noun or title. But in context, “Sutx” likely = “The captain” — as in “Sutx” = “Sutx” = “Captain” — perhaps “Sutx” = “Sutx” = “Captain” — but in the example, “Sâ” is used for “He”, so perhaps “Sutx” is “The",
+      "extracted": "The captain and his crew were rudely awakened on the Hygeia from the sea swell making it tilt in the early morning.\n\nWait — let’s carefully analyze the Natugu sentence:  \n**Sutx , twzbo brma x awitx-ngrbzkr mz Gct x Ellen kc tqmupe .**\n\nLooking at the grammar book and the example sentences, we can break this down:\n\n- **Sutx** — likely “The captain” (from “Sâ tüöpipebële” in the example, which is “He said to them”, but “Sutx” may be a form of “Sâ” or “Sutx” = “The captain” — possibly “Sutx” = “Sâ” + “tux” or “Sutx” = “Sutx” as a proper noun or title. But in context, “Sutx” likely = “The captain” — as in “Sutx” = “Sutx” = “Captain” — perhaps “Sutx” = “Sutx” = “Captain” — but in the example, “Sâ” is used for “He”, so perhaps “Sutx” is “The",
+      "raw_span": [
+        0,
+        746
+      ],
+      "extracted_span": [
+        0,
+        746
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 23,
+      "source": "Nzvzbzng x nrlc kc tqbqpe x sc tzmwipeng .",
+      "reference": "They kept going and it got dark and they slept.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They and the two pigeons were burned for the Cross.\n\n---\n\n**Explanation:**\n\nThe sentence:  \n**Nzvzbzng x nrlc kc tqbqpe x sc tzmwipeng.**\n\nBreakdown using the grammar hints:\n\n- **Nzvzbzng** → likely “They” (from *nz-*, 3AUG, and *-vzbzng* possibly a form of *-vz* = “they” + *-bzng* = “and” or “with” — but in context, it’s likely “they” as subject)\n- **x** → “and” (conjunction)\n- **nrlc** → “the two pigeons” (from *nrlc* = *nrl* “two” + *c* = “pigeons” — *nrlc* is a noun phrase meaning “two pigeons”)\n- **kc** → “for” or “to” (preposition, often used with purpose)\n- **tqbqpe** → “burned” (from *tq* = “burn” + *bqpe* = past tense marker)\n- **x** → “and”",
+      "raw": "They and the two pigeons were burned for the Cross.\n\n---\n\n**Explanation:**\n\nThe sentence:  \n**Nzvzbzng x nrlc kc tqbqpe x sc tzmwipeng.**\n\nBreakdown using the grammar hints:\n\n- **Nzvzbzng** → likely “They” (from *nz-*, 3AUG, and *-vzbzng* possibly a form of *-vz* = “they” + *-bzng* = “and” or “with” — but in context, it’s likely “they” as subject)\n- **x** → “and” (conjunction)\n- **nrlc** → “the two pigeons” (from *nrlc* = *nrl* “two” + *c* = “pigeons” — *nrlc* is a noun phrase meaning “two pigeons”)\n- **kc** → “for” or “to” (preposition, often used with purpose)\n- **tqbqpe** → “burned” (from *tq* = “burn” + *bqpe* = past tense marker)\n- **x** → “and”",
+      "extracted": "They and the two pigeons were burned for the Cross.\n\n---",
+      "raw_span": [
+        0,
+        658
+      ],
+      "extracted_span": [
+        0,
+        56
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 24,
+      "source": "Murde trpnzngr nyzgr ma , drvrtinepe-ngrgr nqni mnrgrng .",
+      "reference": "Because we had no house, we covered from the rain with our mats.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "So that he might go through the bush, he said that I should look throughout there and say how many men stayed there.",
+      "raw": "So that he might go through the bush, he said that I should look throughout there and say how many men stayed there.",
+      "extracted": "So that he might go through the bush, he said that I should look throughout there and say how many men stayed there.",
+      "raw_span": [
+        0,
+        116
+      ],
+      "extracted_span": [
+        0,
+        116
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 25,
+      "source": "01 . Melrmqngeng",
+      "reference": "EP 01. My Ancestors",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "We who were the only ones living there were the twenty-two of us.\n\n(Note: The Natugu phrase “01 . Melrmqngeng” appears to be a numeral phrase with a possessive or referential structure. Based on the grammar book excerpt, “Melrmqngeng” likely contains a numeral (possibly “22”) with a person-number enclitic (like “-3” or “-2”) embedded within it, followed by a possessive or referential marker. The “01” may be a label or identifier, not part of the actual Natugu phrase. The translation “We who were the only ones living there were the twenty-two of us” is inferred from the example given in the grammar book — “We who were the only ones living there were the twenty-two of us” — which matches the structure and meaning of such a phrase in Natugu.)\n\nHowever, if “01 . Melrmqngeng” is meant to be a standalone phrase, and “Melrmqngeng” is a single word, then based on the grammar book’s examples, it may be a numeral phrase with embedded person-number, possibly meaning “we (22)” or “the twenty-two of us.” The “0",
+      "raw": "We who were the only ones living there were the twenty-two of us.\n\n(Note: The Natugu phrase “01 . Melrmqngeng” appears to be a numeral phrase with a possessive or referential structure. Based on the grammar book excerpt, “Melrmqngeng” likely contains a numeral (possibly “22”) with a person-number enclitic (like “-3” or “-2”) embedded within it, followed by a possessive or referential marker. The “01” may be a label or identifier, not part of the actual Natugu phrase. The translation “We who were the only ones living there were the twenty-two of us” is inferred from the example given in the grammar book — “We who were the only ones living there were the twenty-two of us” — which matches the structure and meaning of such a phrase in Natugu.)\n\nHowever, if “01 . Melrmqngeng” is meant to be a standalone phrase, and “Melrmqngeng” is a single word, then based on the grammar book’s examples, it may be a numeral phrase with embedded person-number, possibly meaning “we (22)” or “the twenty-two of us.” The “0",
+      "extracted": "We who were the only ones living there were the twenty-two of us.\n\n(Note: The Natugu phrase “01 . Melrmqngeng” appears to be a numeral phrase with a possessive or referential structure. Based on the grammar book excerpt, “Melrmqngeng” likely contains a numeral (possibly “22”) with a person-number enclitic (like “-3” or “-2”) embedded within it, followed by a possessive or referential marker. The “01” may be a label or identifier, not part of the actual Natugu phrase. The translation “We who were the only ones living there were the twenty-two of us” is inferred from the example given in the grammar book — “We who were the only ones living there were the twenty-two of us” — which matches the structure and meaning of such a phrase in Natugu.)\n\nHowever, if “01 . Melrmqngeng” is meant to be a standalone phrase, and “Melrmqngeng” is a single word, then based on the grammar book’s examples, it may be a numeral phrase with embedded person-number, possibly meaning “we (22)” or “the twenty-two of us.” The “0",
+      "raw_span": [
+        0,
+        1013
+      ],
+      "extracted_span": [
+        0,
+        1013
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 26,
+      "source": "Abzokr nzaglqngr mz nabznepi kc tqrtqmz mz nourla vz vz krlzbzle nabznepi kc tqrpwxmz mz nrlckxbq x dztudr ami kc tqyrkrtr-atem .",
+      "reference": "We started carring at eight o'clock in the morning, on and on until nine o'clock at night and only then was the army cargo finished loading.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wild pigs are being hunted by the men who are in the forest, and they are hunting them with spears and knives for the purpose of eating meat.\n\n(Note: Based on the grammar patterns and examples provided, “Abzokr” likely means “the wild pigs are being hunted,” “nzaglqngr” indicates “hunting,” “nabznepi” = “men,” “tqrtqmz” = “in the forest,” “nourla” = “they,” “vz vz” = “are,” “krlzbzle” = “with,” “tqrpwxmz” = “spears,” “nrlckxbq” = “knives,” “dztudr” = “for the purpose of,” “ami” = “eating,” “tqyrkrtr-atem” = “meat.” The structure follows the pattern of “hunting with tools for a purpose.”)",
+      "raw": "The wild pigs are being hunted by the men who are in the forest, and they are hunting them with spears and knives for the purpose of eating meat.\n\n(Note: Based on the grammar patterns and examples provided, “Abzokr” likely means “the wild pigs are being hunted,” “nzaglqngr” indicates “hunting,” “nabznepi” = “men,” “tqrtqmz” = “in the forest,” “nourla” = “they,” “vz vz” = “are,” “krlzbzle” = “with,” “tqrpwxmz” = “spears,” “nrlckxbq” = “knives,” “dztudr” = “for the purpose of,” “ami” = “eating,” “tqyrkrtr-atem” = “meat.” The structure follows the pattern of “hunting with tools for a purpose.”)",
+      "extracted": "The wild pigs are being hunted by the men who are in the forest, and they are hunting them with spears and knives for the purpose of eating meat.\n\n(Note: Based on the grammar patterns and examples provided, “Abzokr” likely means “the wild pigs are being hunted,” “nzaglqngr” indicates “hunting,” “nabznepi” = “men,” “tqrtqmz” = “in the forest,” “nourla” = “they,” “vz vz” = “are,” “krlzbzle” = “with,” “tqrpwxmz” = “spears,” “nrlckxbq” = “knives,” “dztudr” = “for the purpose of,” “ami” = “eating,” “tqyrkrtr-atem” = “meat.” The structure follows the pattern of “hunting with tools for a purpose.”)",
+      "raw_span": [
+        0,
+        598
+      ],
+      "extracted_span": [
+        0,
+        598
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 27,
+      "source": "Mz nzkrlz-krbzkr Paumalepc , sc tqataplxsrpex nidr 40 sents .",
+      "reference": "When we reached Paumalepc, I evenly distributed 40 cents between them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned to Paumalepc, then he said that I should count how many men there were — 40 men.",
+      "raw": "I returned to Paumalepc, then he said that I should count how many men there were — 40 men.",
+      "extracted": "I returned to Paumalepc, then he said that I should count how many men there were — 40 men.",
+      "raw_span": [
+        0,
+        91
+      ],
+      "extracted_span": [
+        0,
+        91
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 28,
+      "source": "A' da esz' kx trkatr elr , rmakx-zlwzngr mc x yagox-zvz-ngrgr badr doa kxnzsiklu .",
+      "reference": "But there's one thing that was bad there, being bitten by insects [ED. flies, mosquitoes] and we were constantly sick along with the students.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat with which they will cook it.",
+      "raw": "They also want to use the knife to cut the meat with which they will cook it.",
+      "extracted": "They also want to use the knife to cut the meat with which they will cook it.",
+      "raw_span": [
+        0,
+        77
+      ],
+      "extracted_span": [
+        0,
+        77
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 29,
+      "source": "Ngrlrtitxlzx spiz scnge , twzomc , x sc tqlupex , yrlqtxne x ninge kc tqngelu-moux .",
+      "reference": "I rushed up (to the house) for my spear, I took it back down (to the shore), and I speared it and put it (in the pot), then I went on lighting my way.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He said to them, “Hold that wire down and jump over it quickly.”",
+      "raw": "He said to them, “Hold that wire down and jump over it quickly.”",
+      "extracted": "He said to them, “Hold that wire down and jump over it quickly.”",
+      "raw_span": [
+        0,
+        64
+      ],
+      "extracted_span": [
+        0,
+        64
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 30,
+      "source": "Dckrlzde Kc Nzpnu-esz'-nrade-tq",
+      "reference": "Chapter Thirteen",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "But they were already dry because previously I had first cut them off at their roots.\n\n---\n\n**Explanation:**\n\nThe Natugu phrase **Dckrlzde Kc Nzpnu-esz'-nrade-tq** is a complex clause with embedded causative and temporal elements. Breaking it down:\n\n- **Dckrlzde** = “they were already dry” — derived from *dëbödö* (dry) + *-krlz* (causative/aspect marker) + *-de* (past tense) + *-kaiä* (plural, 3rd person) — but in this case, it’s likely *dëbödö* + *-krlz* + *-de* + *-kaiä* = “they were already dry” (as in the example: *dzbr=dr but be.dry-ᴛʀ=ᴄᴏѕ-ᴘʟ because ᴄᴀᴜѕ-cut.in.two-ᴛʀ-Gᴅɪʀ.up=ᴄᴍᴘʟ-first=1ᴍɪɴI root=3ᴀᴜɢII*).\n\nActually, looking at the example given:  \n> *dzbr=dr but be.dry-ᴛʀ",
+      "raw": "But they were already dry because previously I had first cut them off at their roots.\n\n---\n\n**Explanation:**\n\nThe Natugu phrase **Dckrlzde Kc Nzpnu-esz'-nrade-tq** is a complex clause with embedded causative and temporal elements. Breaking it down:\n\n- **Dckrlzde** = “they were already dry” — derived from *dëbödö* (dry) + *-krlz* (causative/aspect marker) + *-de* (past tense) + *-kaiä* (plural, 3rd person) — but in this case, it’s likely *dëbödö* + *-krlz* + *-de* + *-kaiä* = “they were already dry” (as in the example: *dzbr=dr but be.dry-ᴛʀ=ᴄᴏѕ-ᴘʟ because ᴄᴀᴜѕ-cut.in.two-ᴛʀ-Gᴅɪʀ.up=ᴄᴍᴘʟ-first=1ᴍɪɴI root=3ᴀᴜɢII*).\n\nActually, looking at the example given:  \n> *dzbr=dr but be.dry-ᴛʀ",
+      "extracted": "But they were already dry because previously I had first cut them off at their roots.\n\n---",
+      "raw_span": [
+        0,
+        688
+      ],
+      "extracted_span": [
+        0,
+        90
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 31,
+      "source": "Nzpwrkilvcngr doa kcng nztupebz badr .",
+      "reference": "Those students were surprised about him standing there with them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The people there are forbidden to enter that place.",
+      "raw": "The people there are forbidden to enter that place.",
+      "extracted": "The people there are forbidden to enter that place.",
+      "raw_span": [
+        0,
+        51
+      ],
+      "extracted_span": [
+        0,
+        51
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 32,
+      "source": "Nrla nc bia kc tqmalex malemixle kc dzbr legou kxlu esz' .",
+      "reference": "That breadfruit branch that I was holding, I held it by the root of a single living creeper vine.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat.\n\n---\n\n**Explanation:**\n\n- **Nrla** = They (plural subject, 3rd person plural)\n- **nc** = also\n- **bia** = want (verb, 3rd person plural)\n- **kc** = to (infinitive marker or purpose marker)\n- **tqmalex** = knife\n- **malemixle** = to cut (verb, infinitive form)\n- **kc** = to (again, indicating purpose)\n- **dzbr** = meat (or flesh)\n- **legou** = the (definite article)\n- **kxlu** = with which / using which (applicative -ngr + subordinator kx, indicating purpose/tool)\n- **esz'** = (sentence-final particle, often indicating completion or emphasis — here it may be a tag or modal particle, but in context, it can be rendered as a natural ending)\n\nThe structure “kxlu” combines the subordinator **kx** (meaning “with which” or “for which”) and the applicative **-ngr** (which adds “with” or “using”), forming a purpose phrase: “to use the knife with which",
+      "raw": "They also want to use the knife to cut the meat.\n\n---\n\n**Explanation:**\n\n- **Nrla** = They (plural subject, 3rd person plural)\n- **nc** = also\n- **bia** = want (verb, 3rd person plural)\n- **kc** = to (infinitive marker or purpose marker)\n- **tqmalex** = knife\n- **malemixle** = to cut (verb, infinitive form)\n- **kc** = to (again, indicating purpose)\n- **dzbr** = meat (or flesh)\n- **legou** = the (definite article)\n- **kxlu** = with which / using which (applicative -ngr + subordinator kx, indicating purpose/tool)\n- **esz'** = (sentence-final particle, often indicating completion or emphasis — here it may be a tag or modal particle, but in context, it can be rendered as a natural ending)\n\nThe structure “kxlu” combines the subordinator **kx** (meaning “with which” or “for which”) and the applicative **-ngr** (which adds “with” or “using”), forming a purpose phrase: “to use the knife with which",
+      "extracted": "They also want to use the knife to cut the meat.\n\n---",
+      "raw_span": [
+        0,
+        902
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 33,
+      "source": "Olvz rnge lcde bz-ngrde doa kxtopwz .",
+      "reference": "That wife of mine died in childbirth.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Hold that rope there and jump over it quickly.",
+      "raw": "Hold that rope there and jump over it quickly.",
+      "extracted": "Hold that rope there and jump over it quickly.",
+      "raw_span": [
+        0,
+        46
+      ],
+      "extracted_span": [
+        0,
+        46
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 34,
+      "source": "Mrlz , sc tzpipelr rlilrdr kxnamu na-amrlztr-ngrbzlr drtwr Ncbr .",
+      "reference": "OK, then the two of them thought how they might make things right with the cross.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They went up the hill so that they could use the knife with which they would cut the tree.\n\n---\n\n**Explanation:**\n\n- **Mrlz** = They (subject)\n- **sc** = went (verb, past tense)\n- **tzpipelr** = hill (demonstrative + noun, “that hill” or “the hill”)\n- **rlilrdr** = up (directional adverb)\n- **kxnamu** = with which (purpose clause marker + applicative -ngr + object marker)\n- **na-amrlztr-ngrbzlr** = knife (with which — “with the knife”)\n- **drtwr** = cut (verb, infinitive or purpose form)\n- **Ncbr** = tree (object)\n\nThe structure “kxnamu na-amrlztr-ngrbzlr” is a purpose clause introduced by **kx** (irrealis marker), meaning “with which they would use the knife for cutting.” The applicative **-ngr** adds “with” or “with which,” and **na-amrlztr-ngrbzlr** = “the knife with which.” The verb **drtwr** (cut) is",
+      "raw": "They went up the hill so that they could use the knife with which they would cut the tree.\n\n---\n\n**Explanation:**\n\n- **Mrlz** = They (subject)\n- **sc** = went (verb, past tense)\n- **tzpipelr** = hill (demonstrative + noun, “that hill” or “the hill”)\n- **rlilrdr** = up (directional adverb)\n- **kxnamu** = with which (purpose clause marker + applicative -ngr + object marker)\n- **na-amrlztr-ngrbzlr** = knife (with which — “with the knife”)\n- **drtwr** = cut (verb, infinitive or purpose form)\n- **Ncbr** = tree (object)\n\nThe structure “kxnamu na-amrlztr-ngrbzlr” is a purpose clause introduced by **kx** (irrealis marker), meaning “with which they would use the knife for cutting.” The applicative **-ngr** adds “with” or “with which,” and **na-amrlztr-ngrbzlr** = “the knife with which.” The verb **drtwr** (cut) is",
+      "extracted": "They went up the hill so that they could use the knife with which they would cut the tree.\n\n---",
+      "raw_span": [
+        0,
+        816
+      ],
+      "extracted_span": [
+        0,
+        95
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 35,
+      "source": "Tewa kx kqomle kc nigr kc tqvzpekr .",
+      "reference": "When the rain \"covered\" we left.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the tree.",
+      "raw": "They want to use the knife to cut the tree.",
+      "extracted": "They want to use the knife to cut the tree.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 36,
+      "source": "Zbz nigr kc tqkawiopekr lue x tqvztrpekr mz lclr nc nzlu nyz skul .",
+      "reference": "Then we crossed over the river and went into a coconut field belonging to the school.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat with which they will cook it.\n\n---\n\n**Explanation:**\n\n- **Zbz** = They (plural subject, 3rd person plural)\n- **nigr** = want (verb, 3rd person plural, irrealis mood — indicating intention or desire)\n- **kc** = subordinator meaning “to” or “for” (introduces purpose clause)\n- **tqkawiopekr** = knife (with applicative suffix -ngr implied in context, meaning “with which”)\n- **lue x** = to cut (verb “cut” + particle “x” indicating purpose or direction)\n- **tqvztrpekr** = meat (object of the action)\n- **mz lclr** = with which (applicative -ngr implied; “lclr” = “which” + applicative marker)\n- **nc nzlu** = they will (future tense marker + subject)\n- **nyz skul** = cook it (verb “cook” + object pronoun “it”)\n\nThe structure follows the grammar book’s note: “kx” introduces an irrealis purpose phrase, and “-ngr” adds the sense",
+      "raw": "They also want to use the knife to cut the meat with which they will cook it.\n\n---\n\n**Explanation:**\n\n- **Zbz** = They (plural subject, 3rd person plural)\n- **nigr** = want (verb, 3rd person plural, irrealis mood — indicating intention or desire)\n- **kc** = subordinator meaning “to” or “for” (introduces purpose clause)\n- **tqkawiopekr** = knife (with applicative suffix -ngr implied in context, meaning “with which”)\n- **lue x** = to cut (verb “cut” + particle “x” indicating purpose or direction)\n- **tqvztrpekr** = meat (object of the action)\n- **mz lclr** = with which (applicative -ngr implied; “lclr” = “which” + applicative marker)\n- **nc nzlu** = they will (future tense marker + subject)\n- **nyz skul** = cook it (verb “cook” + object pronoun “it”)\n\nThe structure follows the grammar book’s note: “kx” introduces an irrealis purpose phrase, and “-ngr” adds the sense",
+      "extracted": "They also want to use the knife to cut the meat with which they will cook it.\n\n---",
+      "raw_span": [
+        0,
+        876
+      ],
+      "extracted_span": [
+        0,
+        82
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 37,
+      "source": "Twzomgr mz bot x nigr kc tqyapemgr bzq .",
+      "reference": "We took them down to the boat and then we started paddling home.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "We want to use the knife to cut the fish.",
+      "raw": "We want to use the knife to cut the fish.",
+      "extracted": "We want to use the knife to cut the fish.",
+      "raw_span": [
+        0,
+        41
+      ],
+      "extracted_span": [
+        0,
+        41
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 38,
+      "source": "Sc tqrpipemle bange kx , “ Trngiu ncblo lcng , krlcng nounc !",
+      "reference": "then said to me, \"These aren't men! They're wooden.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "From the Natugu sentence:  \n**Sc tqrpipemle bange kx , “ Trngiu ncblo lcng , krlcng nounc !**  \n\nUsing the grammar notes and structure provided, here’s the translation:\n\n---\n\n**English translation:**  \n*“We will say from the hill, ‘Let us go there, with the knife!’”*\n\n---\n\n### Breakdown:\n\n- **Sc** = 1st person plural subject (we) — from the free subject pronoun *sc* (1st person plural).\n- **tqrpipemle** = “say” (from *tq-r-pi=pe-mq*, 1st person plural, 3rd person object, “we say” — but here it’s used as a verb phrase with “from the hill”).\n- **bange** = “from the hill” — *bange* is the locative form of *tq* (hill) with the preposition *b* (from) — *bange* = “from the hill”.\n- **kx** = subordinator introducing an irrealis purpose phrase — “with which” or “for the purpose of” — here modifying “knife”",
+      "raw": "From the Natugu sentence:  \n**Sc tqrpipemle bange kx , “ Trngiu ncblo lcng , krlcng nounc !**  \n\nUsing the grammar notes and structure provided, here’s the translation:\n\n---\n\n**English translation:**  \n*“We will say from the hill, ‘Let us go there, with the knife!’”*\n\n---\n\n### Breakdown:\n\n- **Sc** = 1st person plural subject (we) — from the free subject pronoun *sc* (1st person plural).\n- **tqrpipemle** = “say” (from *tq-r-pi=pe-mq*, 1st person plural, 3rd person object, “we say” — but here it’s used as a verb phrase with “from the hill”).\n- **bange** = “from the hill” — *bange* is the locative form of *tq* (hill) with the preposition *b* (from) — *bange* = “from the hill”.\n- **kx** = subordinator introducing an irrealis purpose phrase — “with which” or “for the purpose of” — here modifying “knife”",
+      "extracted": "From the Natugu sentence:  \n**Sc tqrpipemle bange kx , “ Trngiu ncblo lcng , krlcng nounc !**  \n\nUsing the grammar notes and structure provided, here’s the translation:\n\n---\n\n**English translation:**  \n*“We will say from the hill, ‘Let us go there, with the knife!’”*\n\n---\n\n### Breakdown:\n\n- **Sc** = 1st person plural subject (we) — from the free subject pronoun *sc* (1st person plural).\n- **tqrpipemle** = “say” (from *tq-r-pi=pe-mq*, 1st person plural, 3rd person object, “we say” — but here it’s used as a verb phrase with “from the hill”).\n- **bange** = “from the hill” — *bange* is the locative form of *tq* (hill) with the preposition *b* (from) — *bange* = “from the hill”.\n- **kx** = subordinator introducing an irrealis purpose phrase — “with which” or “for the purpose of” — here modifying “knife”",
+      "raw_span": [
+        0,
+        809
+      ],
+      "extracted_span": [
+        0,
+        809
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 39,
+      "source": "Ninge dq kx prtrpz badr leplz lcdeng tzrlxngiti-ayrnrngrng .",
+      "reference": "I was one who joined those people who first believed.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat with which they are preparing the meal.",
+      "raw": "They also want to use the knife to cut the meat with which they are preparing the meal.",
+      "extracted": "They also want to use the knife to cut the meat with which they are preparing the meal.",
+      "raw_span": [
+        0,
+        87
+      ],
+      "extracted_span": [
+        0,
+        87
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 40,
+      "source": "Mzli boitx nzrtangrti-krgrle x sc tqmc-atekr .",
+      "reference": "Only after we had searched for a long time did we find it.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw_span": [
+        0,
+        104
+      ],
+      "extracted_span": [
+        0,
+        104
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 41,
+      "source": "Nzrmusrti-krbo lc trau scdr leplz takitr temz kx tq .",
+      "reference": "My treating people's money like that went on for three months.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat.\n\n---\n\n**Explanation:**\n\nThe sentence “Nzrmusrti-krbo lc trau scdr leplz takitr temz kx tq .” can be broken down as follows:\n\n- **Nzrmusrti-krbo** — “They also want” (from the pattern “Nzrmusrti-krbo” = “they also want to” — “krbo” is the verb “to want” in the irrealis mood, and “Nzrmusrti” is the subject marker for “they” + “also”)\n- **lc trau scdr** — “to cut the meat” (lc = “the”, trau = “meat”, scdr = “to cut” — “scdr” is the verb “to cut” in the infinitive form)\n- **leplz takitr temz** — “the meat” (leplz = “meat”, takitr = “the”, temz = “meat” — this is redundant or emphatic, possibly “the meat” again for emphasis)\n- **kx tq** — “with the knife” (kx",
+      "raw": "They also want to use the knife to cut the meat.\n\n---\n\n**Explanation:**\n\nThe sentence “Nzrmusrti-krbo lc trau scdr leplz takitr temz kx tq .” can be broken down as follows:\n\n- **Nzrmusrti-krbo** — “They also want” (from the pattern “Nzrmusrti-krbo” = “they also want to” — “krbo” is the verb “to want” in the irrealis mood, and “Nzrmusrti” is the subject marker for “they” + “also”)\n- **lc trau scdr** — “to cut the meat” (lc = “the”, trau = “meat”, scdr = “to cut” — “scdr” is the verb “to cut” in the infinitive form)\n- **leplz takitr temz** — “the meat” (leplz = “meat”, takitr = “the”, temz = “meat” — this is redundant or emphatic, possibly “the meat” again for emphasis)\n- **kx tq** — “with the knife” (kx",
+      "extracted": "They also want to use the knife to cut the meat.\n\n---",
+      "raw_span": [
+        0,
+        711
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 42,
+      "source": "Kx trpnzngr kc da kx nzmcpxbzlr mz skul , sc tzvzpxpebzng mz skul .",
+      "reference": "When they didn't see anything at the school, they went to the school.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife with which they will cut the meat, so that they can eat it.",
+      "raw": "They want to use the knife with which they will cut the meat, so that they can eat it.",
+      "extracted": "They want to use the knife with which they will cut the meat, so that they can eat it.",
+      "raw_span": [
+        0,
+        86
+      ],
+      "extracted_span": [
+        0,
+        86
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 43,
+      "source": "Krlcdeng nzalvztrngr mz skul x nzrtekqtrngr Nzryrngrkxtr .",
+      "reference": "These were teaching at school and translating Scriptures.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat with which they will eat.\n\n---\n\n**Explanation:**\n\n- **Krlcdeng** = They also (from the context of “also” in the grammar passage, and “krlcdeng” likely = “they also”)\n- **nzalvztrngr** = to use (from the grammar book, “nzalvztrngr” is the verb form meaning “to use”)\n- **mz skul** = the knife (from the grammar book, “mz” = “the”, “skul” = “knife”)\n- **x** = subordinator meaning “to” or “for” (as in “kx” in the grammar book, which introduces purpose)\n- **nzrtekqtrngr** = to cut (from the grammar book, “nzrtekqtrngr” = “to cut”)\n- **Nzryrngrkxtr** = the meat with which they will eat (from the grammar book, “Nzryrngrkxtr” = “meat with which they will eat” — “Nzryr” = meat, “ngr” = with, “kxtr",
+      "raw": "They also want to use the knife to cut the meat with which they will eat.\n\n---\n\n**Explanation:**\n\n- **Krlcdeng** = They also (from the context of “also” in the grammar passage, and “krlcdeng” likely = “they also”)\n- **nzalvztrngr** = to use (from the grammar book, “nzalvztrngr” is the verb form meaning “to use”)\n- **mz skul** = the knife (from the grammar book, “mz” = “the”, “skul” = “knife”)\n- **x** = subordinator meaning “to” or “for” (as in “kx” in the grammar book, which introduces purpose)\n- **nzrtekqtrngr** = to cut (from the grammar book, “nzrtekqtrngr” = “to cut”)\n- **Nzryrngrkxtr** = the meat with which they will eat (from the grammar book, “Nzryrngrkxtr” = “meat with which they will eat” — “Nzryr” = meat, “ngr” = with, “kxtr",
+      "extracted": "They also want to use the knife to cut the meat with which they will eat.\n\n---",
+      "raw_span": [
+        0,
+        744
+      ],
+      "extracted_span": [
+        0,
+        78
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 44,
+      "source": "Kxetu kc drtwrde sc tqtrkapem bagr , tqrpipemle bagr kx , \" Memule trlxngiti-ngrmamuu natqnge ?",
+      "reference": "The leader was upset with us, he said to us, \"Why don't you obey my words?",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the hill, and they said, “We should go up there with the knife.”",
+      "raw": "They want to use the knife to cut the hill, and they said, “We should go up there with the knife.”",
+      "extracted": "They want to use the knife to cut the hill, and they said, “We should go up there with the knife.”",
+      "raw_span": [
+        0,
+        98
+      ],
+      "extracted_span": [
+        0,
+        98
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 45,
+      "source": "Kzdq ma kxetu nyz Gzpman tu mz plou .",
+      "reference": "A big building of the Government stood on posts with a raised floor.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the fish.\n\n---\n\n**Explanation:**\n\n- **Kzdq** = They (plural subject, likely from *kz* + *dq* or similar, indicating “they” in context)\n- **ma** = also (as noted in the grammar passage, often used as a subordinator or adverb)\n- **kxetu** = knife (with *kx* as the subordinator introducing an irrealis purpose clause — “to use the knife for…”)\n- **nyz** = to cut / to slice (verb, likely from *ny* + *z* or similar, meaning “cut”)\n- **Gzpman** = fish (proper noun or specific term for fish)\n- **tu** = to / for (preposition or particle indicating purpose)\n- **mz plou** = the fish (or “the fish” — *mz* = the, *plou* = fish)\n\nThe structure follows the pattern seen in the grammar examples: *kx* introduces the purpose clause, and the applicative *-ngr* (though not explicitly present here, implied by the structure) may be involved in “with which” or “for which” —",
+      "raw": "They also want to use the knife to cut the fish.\n\n---\n\n**Explanation:**\n\n- **Kzdq** = They (plural subject, likely from *kz* + *dq* or similar, indicating “they” in context)\n- **ma** = also (as noted in the grammar passage, often used as a subordinator or adverb)\n- **kxetu** = knife (with *kx* as the subordinator introducing an irrealis purpose clause — “to use the knife for…”)\n- **nyz** = to cut / to slice (verb, likely from *ny* + *z* or similar, meaning “cut”)\n- **Gzpman** = fish (proper noun or specific term for fish)\n- **tu** = to / for (preposition or particle indicating purpose)\n- **mz plou** = the fish (or “the fish” — *mz* = the, *plou* = fish)\n\nThe structure follows the pattern seen in the grammar examples: *kx* introduces the purpose clause, and the applicative *-ngr* (though not explicitly present here, implied by the structure) may be involved in “with which” or “for which” —",
+      "extracted": "They also want to use the knife to cut the fish.\n\n---",
+      "raw_span": [
+        0,
+        901
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 46,
+      "source": "Rpim Rik bange kx naope a' sa naom dq ncblo kzble kx natekqtrle nide .",
+      "reference": "Rick told me that he had to go but another man would come to replace him.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the meat with which they will cook it.\n\n---\n\n**Explanation:**\n\n- **Rpim Rik** = They (subject)\n- **bange** = want\n- **kx naope** = to use the knife (kx = subordinator introducing irrealis purpose; naope = knife)\n- **a' sa naom dq ncblo** = the meat (a' = article; sa = of; naom = meat; dq = plural marker or part of compound; ncblo = meat, possibly with a locative or plural suffix)\n- **kzble kx natekqtrle nide** = with which they will cook it (kzble = with; kx = subordinator; natekqtrle = cook; nide = it, object)\n\nThe structure follows Natugu’s typical irrealis purpose construction with the subordinator **kx** introducing the purpose clause, and the applicative **-ngr** (implied in “with which”) marking the instrument (knife) used for the action (cooking).\n\nThus, the full translation is:\n\n> **They want to use the knife to cut the meat with which they will cook",
+      "raw": "They want to use the knife to cut the meat with which they will cook it.\n\n---\n\n**Explanation:**\n\n- **Rpim Rik** = They (subject)\n- **bange** = want\n- **kx naope** = to use the knife (kx = subordinator introducing irrealis purpose; naope = knife)\n- **a' sa naom dq ncblo** = the meat (a' = article; sa = of; naom = meat; dq = plural marker or part of compound; ncblo = meat, possibly with a locative or plural suffix)\n- **kzble kx natekqtrle nide** = with which they will cook it (kzble = with; kx = subordinator; natekqtrle = cook; nide = it, object)\n\nThe structure follows Natugu’s typical irrealis purpose construction with the subordinator **kx** introducing the purpose clause, and the applicative **-ngr** (implied in “with which”) marking the instrument (knife) used for the action (cooking).\n\nThus, the full translation is:\n\n> **They want to use the knife to cut the meat with which they will cook",
+      "extracted": "They want to use the knife to cut the meat with which they will cook it.\n\n---",
+      "raw_span": [
+        0,
+        904
+      ],
+      "extracted_span": [
+        0,
+        77
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 47,
+      "source": "Votrpzkr x pookr mz wop Auki .",
+      "reference": "We traveled in it and we disembarked at the wharf in Auki.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife with the people of Auki.",
+      "raw": "They also want to use the knife with the people of Auki.",
+      "extracted": "They also want to use the knife with the people of Auki.",
+      "raw_span": [
+        0,
+        56
+      ],
+      "extracted_span": [
+        0,
+        56
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 48,
+      "source": "Kx mwi-lxlr-ngrgr kc mz nrlckxbq , tewa kxetu kc tqdcpe , vzmimq nenq , brlrpc x brlrmei .",
+      "reference": "When we were sleeping in the open at night, a heavy rain fell, along with wind, lightning and thunder.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the coconut, to peel it, to remove the husk, and to split it open.",
+      "raw": "They want to use the knife to cut the coconut, to peel it, to remove the husk, and to split it open.",
+      "extracted": "They want to use the knife to cut the coconut, to peel it, to remove the husk, and to split it open.",
+      "raw_span": [
+        0,
+        100
+      ],
+      "extracted_span": [
+        0,
+        100
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 49,
+      "source": "Rpibz trtenge bade kx , “ Mrlxnge la topwz tr-rlr-ngrpou ; a' krlzx nzrlr-ngrbz kzdq mzlede kcng tqetu .”",
+      "reference": "My father said to him, \"That son of mine is small and I do not allow him; but I can allow one of his bigger brothers.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The man said, “I want to cut the tree with the knife; and I will cut it with the knife so that I can make a canoe.”",
+      "raw": "The man said, “I want to cut the tree with the knife; and I will cut it with the knife so that I can make a canoe.”",
+      "extracted": "The man said, “I want to cut the tree with the knife; and I will cut it with the knife so that I can make a canoe.”",
+      "raw_span": [
+        0,
+        115
+      ],
+      "extracted_span": [
+        0,
+        115
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 50,
+      "source": "Dzbede lcng li nztekqtr-lzbqng .",
+      "reference": "The two groups traded places (with two more groups).",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The two groups exchanged places [lit. exchanged themselves].",
+      "raw": "The two groups exchanged places [lit. exchanged themselves].",
+      "extracted": "The two groups exchanged places [lit. exchanged themselves].",
+      "raw_span": [
+        0,
+        60
+      ],
+      "extracted_span": [
+        0,
+        60
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 51,
+      "source": "Merikol krali lc nide kc tqmcpe pripekt lc , x tqpipemle bange nayapwxtipxbo bamu kxmu nzmc-krngele .",
+      "reference": "This second miracle was one the prefect saw and he told me I should tell you how I saw it.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The knife is for cutting the meat, and they want to use it with the knife to cut the meat.\n\n(Note: Based on the grammar notes provided, “kxmu nzmc-krngele” is an irrealis purpose phrase introduced by “kx” (modifying “knife”) with the applicative “-ngr” meaning “with,” indicating the intended use of the knife — to cut meat. The phrase “x tqpipemle bange nayapwxtipxbo bamu kxmu nzmc-krngele” likely means “and they want to use it with the knife to cut the meat,” where “tqpipemle” = “they want,” “bange” = “to cut,” “nayapwxtipxbo” = “the meat,” and “bamu kxmu nzmc-krngele” = “with the knife.”)\n\nThus, the full translation is:\n\n**The knife is for cutting the meat, and they want to use it with the knife to cut the meat.**\n\n*(Note: The repetition of “with the knife” may be a stylistic or grammatical redundancy in the original, but based on the grammar notes, the “k",
+      "raw": "The knife is for cutting the meat, and they want to use it with the knife to cut the meat.\n\n(Note: Based on the grammar notes provided, “kxmu nzmc-krngele” is an irrealis purpose phrase introduced by “kx” (modifying “knife”) with the applicative “-ngr” meaning “with,” indicating the intended use of the knife — to cut meat. The phrase “x tqpipemle bange nayapwxtipxbo bamu kxmu nzmc-krngele” likely means “and they want to use it with the knife to cut the meat,” where “tqpipemle” = “they want,” “bange” = “to cut,” “nayapwxtipxbo” = “the meat,” and “bamu kxmu nzmc-krngele” = “with the knife.”)\n\nThus, the full translation is:\n\n**The knife is for cutting the meat, and they want to use it with the knife to cut the meat.**\n\n*(Note: The repetition of “with the knife” may be a stylistic or grammatical redundancy in the original, but based on the grammar notes, the “k",
+      "extracted": "The knife is for cutting the meat, and they want to use it with the knife to cut the meat.\n\n(Note: Based on the grammar notes provided, “kxmu nzmc-krngele” is an irrealis purpose phrase introduced by “kx” (modifying “knife”) with the applicative “-ngr” meaning “with,” indicating the intended use of the knife — to cut meat. The phrase “x tqpipemle bange nayapwxtipxbo bamu kxmu nzmc-krngele” likely means “and they want to use it with the knife to cut the meat,” where “tqpipemle” = “they want,” “bange” = “to cut,” “nayapwxtipxbo” = “the meat,” and “bamu kxmu nzmc-krngele” = “with the knife.”)\n\nThus, the full translation is:\n\n**The knife is for cutting the meat, and they want to use it with the knife to cut the meat.**\n\n*(Note: The repetition of “with the knife” may be a stylistic or grammatical redundancy in the original, but based on the grammar notes, the “k",
+      "raw_span": [
+        0,
+        869
+      ],
+      "extracted_span": [
+        0,
+        869
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 52,
+      "source": "X dabukr bona kcng li ngi blzkr Ncbr , nztelvzlr nyr ngrde x sc tzangcpelr .",
+      "reference": "And the hearts of the two bona birds was a sacrifice for the Cross, they ignited its fire and burned them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They removed the hearts of the two pigeons and burned them for the Cross.",
+      "raw": "They removed the hearts of the two pigeons and burned them for the Cross.",
+      "extracted": "They removed the hearts of the two pigeons and burned them for the Cross.",
+      "raw_span": [
+        0,
+        73
+      ],
+      "extracted_span": [
+        0,
+        73
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 53,
+      "source": "Sc tqvzpebz ; pnz'txde ncblo kc x taglctxde waelas kc .",
+      "reference": "So he went; he just shot the man and smashed the wireless.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They are going to climb the hill; they want to use the knife with which they will cut the trees.",
+      "raw": "They are going to climb the hill; they want to use the knife with which they will cut the trees.",
+      "extracted": "They are going to climb the hill; they want to use the knife with which they will cut the trees.",
+      "raw_span": [
+        0,
+        96
+      ],
+      "extracted_span": [
+        0,
+        96
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 54,
+      "source": "Nzvz-kzng badr doa lr Gwalekana nztqng kx namailzlr nidr .",
+      "reference": "Three students from Guadalcanal also went to lead them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The children and lowly men are forbidden to enter the house of Gwalekana.",
+      "raw": "The children and lowly men are forbidden to enter the house of Gwalekana.",
+      "extracted": "The children and lowly men are forbidden to enter the house of Gwalekana.",
+      "raw_span": [
+        0,
+        73
+      ],
+      "extracted_span": [
+        0,
+        73
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 55,
+      "source": "30 . Nzryapwx-krbo Mz Doa Kxnzsiklu Pawa Merikol Li",
+      "reference": "EP 30. My Telling Two Miracles to the Students at Pawa School",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw_span": [
+        0,
+        104
+      ],
+      "extracted_span": [
+        0,
+        104
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 56,
+      "source": "Nzsiklu-krgr yzutrpe a' trvz-zpwxka , murde nzwzngr la tqrlvitxpxbe a' nzsiklungr mrbc-takine .",
+      "reference": "Our schooling began, but it didn't go well, because that work was still demanding, but schooling was broken off short.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw_span": [
+        0,
+        104
+      ],
+      "extracted_span": [
+        0,
+        104
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 57,
+      "source": "Nzrklengr Jiszs x arlapxle leplz mzli lcdepwz .",
+      "reference": "Calling Jesus and he saves people right at the same time.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The knife is also for cutting the meat.\n\n---\n\n**Explanation:**\n\n- **Nzrklengr** = knife (noun)\n- **Jiszs** = is (copula or linking verb)\n- **x** = also (adverb, often used for emphasis or addition)\n- **arlapxle** = to cut (verb, infinitive or purpose form)\n- **leplz** = the meat (noun phrase, “leplz” likely means “meat”)\n- **mzli lcdepwz** = with the knife (PP: “mzli” = “with” + “lcdepwz” = “knife”)\n\nThe structure “kx mc-lz=kr” (from the grammar passage) is not directly present here, but the phrase “mzli lcdepwz” functions similarly to an applicative construction — “with the knife” — indicating the instrument used for the action.\n\nThe sentence is a simple statement: “The knife is also for cutting the meat.” The “also” (x) adds emphasis that this purpose is additional or notable.\n\nNote: The grammar passage you provided includes complex constructions with subordinators and applicatives, but this sentence is relatively",
+      "raw": "The knife is also for cutting the meat.\n\n---\n\n**Explanation:**\n\n- **Nzrklengr** = knife (noun)\n- **Jiszs** = is (copula or linking verb)\n- **x** = also (adverb, often used for emphasis or addition)\n- **arlapxle** = to cut (verb, infinitive or purpose form)\n- **leplz** = the meat (noun phrase, “leplz” likely means “meat”)\n- **mzli lcdepwz** = with the knife (PP: “mzli” = “with” + “lcdepwz” = “knife”)\n\nThe structure “kx mc-lz=kr” (from the grammar passage) is not directly present here, but the phrase “mzli lcdepwz” functions similarly to an applicative construction — “with the knife” — indicating the instrument used for the action.\n\nThe sentence is a simple statement: “The knife is also for cutting the meat.” The “also” (x) adds emphasis that this purpose is additional or notable.\n\nNote: The grammar passage you provided includes complex constructions with subordinators and applicatives, but this sentence is relatively",
+      "extracted": "The knife is also for cutting the meat.\n\n---",
+      "raw_span": [
+        0,
+        929
+      ],
+      "extracted_span": [
+        0,
+        44
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 58,
+      "source": "Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu .",
+      "reference": "He gave to Srpi for him to translate the Gospel which Matthew wrote.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The knife is also for Srpi to cut the Nrpakxmrlz with Matiu.\n\n(Note: Based on the grammar hints provided, “kx” introduces an irrealis purpose phrase, and “-ngr” indicates “with” or “with which.” The phrase “kc tqyr Matiu” likely means “with Matiu,” where “tqyr” is a demonstrative or locative marker and “Matiu” is a proper noun — possibly a person’s name or a specific object. The structure “Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu” translates to “The knife is also for Srpi to cut the Nrpakxmrlz with Matiu,” indicating a purpose or intended use of the knife.)",
+      "raw": "The knife is also for Srpi to cut the Nrpakxmrlz with Matiu.\n\n(Note: Based on the grammar hints provided, “kx” introduces an irrealis purpose phrase, and “-ngr” indicates “with” or “with which.” The phrase “kc tqyr Matiu” likely means “with Matiu,” where “tqyr” is a demonstrative or locative marker and “Matiu” is a proper noun — possibly a person’s name or a specific object. The structure “Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu” translates to “The knife is also for Srpi to cut the Nrpakxmrlz with Matiu,” indicating a purpose or intended use of the knife.)",
+      "extracted": "The knife is also for Srpi to cut the Nrpakxmrlz with Matiu.\n\n(Note: Based on the grammar hints provided, “kx” introduces an irrealis purpose phrase, and “-ngr” indicates “with” or “with which.” The phrase “kc tqyr Matiu” likely means “with Matiu,” where “tqyr” is a demonstrative or locative marker and “Matiu” is a proper noun — possibly a person’s name or a specific object. The structure “Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu” translates to “The knife is also for Srpi to cut the Nrpakxmrlz with Matiu,” indicating a purpose or intended use of the knife.)",
+      "raw_span": [
+        0,
+        573
+      ],
+      "extracted_span": [
+        0,
+        573
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 59,
+      "source": "Ma nyzgr badr trtenge ngi ma nzanei , x rum ngrde li .",
+      "reference": "The house where I lived with my father had a roof with four panels, and it had two rooms.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They removed the hearts of the two pigeons and burned them for the Cross.",
+      "raw": "They removed the hearts of the two pigeons and burned them for the Cross.",
+      "extracted": "They removed the hearts of the two pigeons and burned them for the Cross.",
+      "raw_span": [
+        0,
+        73
+      ],
+      "extracted_span": [
+        0,
+        73
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 60,
+      "source": "Mista Manfoot sc tqrpipemle bange kx mzli kc tqaenzli-ngrne lcsu naokatr-kaix nidr mz nzalvztrngr , murde klas li trpnzngr kxnzakrlztrng elr .",
+      "reference": "Mr. Manfort told me that while I was waiting for the ship I should first help them in teaching, because there were two classes without any teachers there.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then Mr. Manfoot said that I should look throughout there and I should say how many men stayed there.",
+      "raw": "I returned, then Mr. Manfoot said that I should look throughout there and I should say how many men stayed there.",
+      "extracted": "I returned, then Mr. Manfoot said that I should look throughout there and I should say how many men stayed there.",
+      "raw_span": [
+        0,
+        113
+      ],
+      "extracted_span": [
+        0,
+        113
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 61,
+      "source": "Zbz mzli kcpe milzpq , dakxnzng kcng sc tqtwzope trtenge mz Menabz mz rum kc tqtupx-ngrm mqngr Ncbr .",
+      "reference": "Then when it was evening, my father and Menabz took that food into the room where the Cross statue stood.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.\n\n---\n\n**Translation breakdown:**\n\n- **Zbz** = I returned (from the pattern *na-obq-lvz-ti-zpwx=x* → “return-Pᴅɪʀ.hither=1ᴍɪɴI” in the grammar example)\n- **mzli kcpe milzpq** = then he said (from *sc= tq-r-pi-mq=le kx* → “say-Pᴅɪʀ.hither=1ᴍɪɴI”)\n- **dakxnzng kcng sc tqtwzope trtenge mz Menabz mz rum kc tqtupx-ngrm mqngr Ncbr** = that I should look throughout there and I should say how many men stayed there\n\n→ *dakxnzng* = then (from *sc=*, indicating sequence)\n→ *kcng* = that (subordinating conjunction)\n→ *sc tqtwzope trtenge* = I should look throughout there (from *ɪʀʀ-look-thruout-ᴛʀ-well=1ᴍɪɴI ʟᴏᴄ-ᴅᴇ",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.\n\n---\n\n**Translation breakdown:**\n\n- **Zbz** = I returned (from the pattern *na-obq-lvz-ti-zpwx=x* → “return-Pᴅɪʀ.hither=1ᴍɪɴI” in the grammar example)\n- **mzli kcpe milzpq** = then he said (from *sc= tq-r-pi-mq=le kx* → “say-Pᴅɪʀ.hither=1ᴍɪɴI”)\n- **dakxnzng kcng sc tqtwzope trtenge mz Menabz mz rum kc tqtupx-ngrm mqngr Ncbr** = that I should look throughout there and I should say how many men stayed there\n\n→ *dakxnzng* = then (from *sc=*, indicating sequence)\n→ *kcng* = that (subordinating conjunction)\n→ *sc tqtwzope trtenge* = I should look throughout there (from *ɪʀʀ-look-thruout-ᴛʀ-well=1ᴍɪɴI ʟᴏᴄ-ᴅᴇ",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.\n\n---\n\n**Translation breakdown:**\n\n- **Zbz** = I returned (from the pattern *na-obq-lvz-ti-zpwx=x* → “return-Pᴅɪʀ.hither=1ᴍɪɴI” in the grammar example)\n- **mzli kcpe milzpq** = then he said (from *sc= tq-r-pi-mq=le kx* → “say-Pᴅɪʀ.hither=1ᴍɪɴI”)\n- **dakxnzng kcng sc tqtwzope trtenge mz Menabz mz rum kc tqtupx-ngrm mqngr Ncbr** = that I should look throughout there and I should say how many men stayed there\n\n→ *dakxnzng* = then (from *sc=*, indicating sequence)\n→ *kcng* = that (subordinating conjunction)\n→ *sc tqtwzope trtenge* = I should look throughout there (from *ɪʀʀ-look-thruout-ᴛʀ-well=1ᴍɪɴI ʟᴏᴄ-ᴅᴇ",
+      "raw_span": [
+        0,
+        714
+      ],
+      "extracted_span": [
+        0,
+        714
+      ],
+      "rule": "preserve_unrecognized_section",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 62,
+      "source": "Rpibz tzsiu Jon bade kx , \" Inyxm vzpem peto delc tqasule dakxnzng lcng ?\"",
+      "reference": "Brother John said to her, “Did your daughter come from the bush and that’s who cooked that food?”",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Jon said, “How many men stayed there?”",
+      "raw": "Jon said, “How many men stayed there?”",
+      "extracted": "Jon said, “How many men stayed there?”",
+      "raw_span": [
+        0,
+        38
+      ],
+      "extracted_span": [
+        0,
+        38
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 63,
+      "source": "A' trngq-pnzleu ; malelvitxde , tatxo prla .",
+      "reference": "But he didn't eat it; it was held insecurely and fell into the sea.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw_span": [
+        0,
+        104
+      ],
+      "extracted_span": [
+        0,
+        104
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 64,
+      "source": "X rpibo bade kx trtingr .",
+      "reference": "And I told him no.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The two pigeons were burned for the Cross.\n\n---\n\n**Explanation:**\n\n- **X** = demonstrative pronoun “two” (demonstrative + numeral, often used for “these two” or “the two”)\n- **rpibo** = “pigeon” (plural form, as indicated by the context and morphology)\n- **bade** = verb “burn” (past tense, 3AUGIA, causative or transitive form)\n- **kx** = preposition “for” (or “to” in purpose)\n- **trtingr** = “the Cross” (demonstrative + noun, “that Cross” or “the Cross”)\n\nThe structure follows the pattern seen in the grammar examples:  \n**“X rpibo”** = “the two pigeons”  \n**“bade”** = “were burned” (passive or causative construction)  \n**“kx trtingr”** = “for the Cross”\n\nThus, the translation is:  \n**“The two pigeons were burned for the Cross.”**\n\nThis matches the grammatical patterns and semantic roles seen in the provided examples (e.g., “burned them for the Cross” in the",
+      "raw": "The two pigeons were burned for the Cross.\n\n---\n\n**Explanation:**\n\n- **X** = demonstrative pronoun “two” (demonstrative + numeral, often used for “these two” or “the two”)\n- **rpibo** = “pigeon” (plural form, as indicated by the context and morphology)\n- **bade** = verb “burn” (past tense, 3AUGIA, causative or transitive form)\n- **kx** = preposition “for” (or “to” in purpose)\n- **trtingr** = “the Cross” (demonstrative + noun, “that Cross” or “the Cross”)\n\nThe structure follows the pattern seen in the grammar examples:  \n**“X rpibo”** = “the two pigeons”  \n**“bade”** = “were burned” (passive or causative construction)  \n**“kx trtingr”** = “for the Cross”\n\nThus, the translation is:  \n**“The two pigeons were burned for the Cross.”**\n\nThis matches the grammatical patterns and semantic roles seen in the provided examples (e.g., “burned them for the Cross” in the",
+      "extracted": "The two pigeons were burned for the Cross.\n\n---",
+      "raw_span": [
+        0,
+        869
+      ],
+      "extracted_span": [
+        0,
+        47
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 65,
+      "source": "Kx krlzbzkr Point Krus , sc tqmcpebzkr lcsu ngr vea kxkqlu nzdwatr-krde Luga , x kzdung sc tzvopxng x kzdu nzvotrpqng , lcsukxlvc sc tzlvcneng .",
+      "reference": "When we reached Point Cruz we saw many warships anchored at Lungga, and some went out and some came in, airplanes flew around.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "When we reached Point Krus, we saw that the people of Luga had already arrived there, and they were preparing to go to the village, intending to ask for a knife with which to cut the coconut trees.",
+      "raw": "When we reached Point Krus, we saw that the people of Luga had already arrived there, and they were preparing to go to the village, intending to ask for a knife with which to cut the coconut trees.",
+      "extracted": "When we reached Point Krus, we saw that the people of Luga had already arrived there, and they were preparing to go to the village, intending to ask for a knife with which to cut the coconut trees.",
+      "raw_span": [
+        0,
+        197
+      ],
+      "extracted_span": [
+        0,
+        197
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 66,
+      "source": "Kx krlzmgr kc Nctekzmuli tryapewxu a' nge'txpepo , murde nenq matqtx-zlwzpe .",
+      "reference": "When we reached Bead Point I wasn't paddling anymore because I was only bailing since the wind had become very much more powerful.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the coconut, so that they can open it.",
+      "raw": "They want to use the knife to cut the coconut, so that they can open it.",
+      "extracted": "They want to use the knife to cut the coconut, so that they can open it.",
+      "raw_span": [
+        0,
+        72
+      ],
+      "extracted_span": [
+        0,
+        72
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 67,
+      "source": "Drtq doa lcde , Josip Tealo .",
+      "reference": "His name was Joseph Tealo.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "From that one, Josip Tealo.",
+      "raw": "From that one, Josip Tealo.",
+      "extracted": "From that one, Josip Tealo.",
+      "raw_span": [
+        0,
+        27
+      ],
+      "extracted_span": [
+        0,
+        27
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 68,
+      "source": "A' nigr da kx etu myatxngr katris .",
+      "reference": "But we who are big things the cartridges completely missed us.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut [something].\n\nExplanation:\n- “A’” = they (plural subject)\n- “nigr” = also (adverb)\n- “da” = want (verb, indicating desire or intention)\n- “kx” = subordinator introducing an irrealis purpose clause (“to...”)\n- “etu” = to, for (purpose marker)\n- “myatxngr” = knife (with applicative -ngr meaning “with which”)\n- “katris” = to cut (verb, in purpose clause)\n\nThus, “A’ nigr da kx etu myatxngr katris” translates to:  \n**They also want to use the knife to cut.**\n\nNote: The exact object of the cutting is not specified in the sentence, so “to cut [something]” is the most accurate translation based on the structure and grammar provided.",
+      "raw": "They also want to use the knife to cut [something].\n\nExplanation:\n- “A’” = they (plural subject)\n- “nigr” = also (adverb)\n- “da” = want (verb, indicating desire or intention)\n- “kx” = subordinator introducing an irrealis purpose clause (“to...”)\n- “etu” = to, for (purpose marker)\n- “myatxngr” = knife (with applicative -ngr meaning “with which”)\n- “katris” = to cut (verb, in purpose clause)\n\nThus, “A’ nigr da kx etu myatxngr katris” translates to:  \n**They also want to use the knife to cut.**\n\nNote: The exact object of the cutting is not specified in the sentence, so “to cut [something]” is the most accurate translation based on the structure and grammar provided.",
+      "extracted": "They also want to use the knife to cut [something].",
+      "raw_span": [
+        0,
+        671
+      ],
+      "extracted_span": [
+        0,
+        51
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 69,
+      "source": "Mzli lcde , pibo mz Rik kx natwz-mouki du letz kcng tzrtctxngr mz alfabet ngr Natqgu .",
+      "reference": "At that time, I told Rick that the two of us should take some more letters to be deleted from the Natqgu alphabet. [ED. The idea was to eliminate the vowels with diacritics and to substitute letters from the typewriter not already used by Natqgu.]",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The sentence “Mzli lcde , pibo mz Rik kx natwz-mouki du letz kcng tzrtctxngr mz alfabet ngr Natqgu” translates to:\n\n**“It is hunting for wild pigs.”**\n\nWait — that doesn’t make sense. The provided grammar passage shows that “nz-apx-ngr-bz ba=dr doa känëtopwë ä nâblo täne nëdwatö-ködö ma kâ” translates to “…it is forbidden for small children and lowly men to enter that building.” But the sentence we’re translating is about “Mzli lcde , pibo mz Rik kx natwz-mouki du letz kcng tzrtctxngr mz alfabet ngr Natqgu.”\n\nLooking at the structure and the grammar book examples, we can deduce:\n\n- “Mzli lcde” — likely “It is hunting for wild pigs.” (But this doesn’t match the rest of the sentence.)\n- “pibo mz Rik” — “Rik is hunting”\n- “kx natwz-mouki” — “for wild pigs”\n- “du letz kcng tzrtctxngr” — “",
+      "raw": "The sentence “Mzli lcde , pibo mz Rik kx natwz-mouki du letz kcng tzrtctxngr mz alfabet ngr Natqgu” translates to:\n\n**“It is hunting for wild pigs.”**\n\nWait — that doesn’t make sense. The provided grammar passage shows that “nz-apx-ngr-bz ba=dr doa känëtopwë ä nâblo täne nëdwatö-ködö ma kâ” translates to “…it is forbidden for small children and lowly men to enter that building.” But the sentence we’re translating is about “Mzli lcde , pibo mz Rik kx natwz-mouki du letz kcng tzrtctxngr mz alfabet ngr Natqgu.”\n\nLooking at the structure and the grammar book examples, we can deduce:\n\n- “Mzli lcde” — likely “It is hunting for wild pigs.” (But this doesn’t match the rest of the sentence.)\n- “pibo mz Rik” — “Rik is hunting”\n- “kx natwz-mouki” — “for wild pigs”\n- “du letz kcng tzrtctxngr” — “",
+      "extracted": "The sentence “Mzli lcde , pibo mz Rik kx natwz-mouki du letz kcng tzrtctxngr mz alfabet ngr Natqgu” translates to:\n\n**“It is hunting for wild pigs.”**\n\nWait — that doesn’t make sense. The provided grammar passage shows that “nz-apx-ngr-bz ba=dr doa känëtopwë ä nâblo täne nëdwatö-ködö ma kâ” translates to “…it is forbidden for small children and lowly men to enter that building.” But the sentence we’re translating is about “Mzli lcde , pibo mz Rik kx natwz-mouki du letz kcng tzrtctxngr mz alfabet ngr Natqgu.”\n\nLooking at the structure and the grammar book examples, we can deduce:\n\n- “Mzli lcde” — likely “It is hunting for wild pigs.” (But this doesn’t match the rest of the sentence.)\n- “pibo mz Rik” — “Rik is hunting”\n- “kx natwz-mouki” — “for wild pigs”\n- “du letz kcng tzrtctxngr” — “",
+      "raw_span": [
+        0,
+        795
+      ],
+      "extracted_span": [
+        0,
+        795
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 70,
+      "source": "Elakr nrlc ngrlxtxo .",
+      "reference": "We danced until daylight.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife with which to cut.\n\n---\n\n**Explanation:**\n\nThe sentence “Elakr nrlc ngrlxtxo” can be broken down as follows:\n\n- **Elakr** = “they want” (from the verb *elakr*, meaning “to want” or “to intend”)\n- **nrlc** = “knife” (noun, possibly with a derivational or applicative suffix)\n- **ngrlxtxo** = “with which to cut” — this is a complex phrase built using the applicative suffix *-ngr* (meaning “with” or “with which”) + *lxtxo* (a verb form meaning “to cut” or “to slice”)\n\nThe structure *nrlc ngrlxtxo* indicates “knife with which to cut,” and the preceding *elakr* indicates the purpose or intention — “they want to use the knife with which to cut.”\n\nThis matches the grammar book’s explanation of *kx* introducing an irrealis purpose phrase, and the applicative *-ngr* indicating “with which.” Although *kx* is not present in this sentence, the structure still follows the same pattern of expressing intention or purpose",
+      "raw": "They want to use the knife with which to cut.\n\n---\n\n**Explanation:**\n\nThe sentence “Elakr nrlc ngrlxtxo” can be broken down as follows:\n\n- **Elakr** = “they want” (from the verb *elakr*, meaning “to want” or “to intend”)\n- **nrlc** = “knife” (noun, possibly with a derivational or applicative suffix)\n- **ngrlxtxo** = “with which to cut” — this is a complex phrase built using the applicative suffix *-ngr* (meaning “with” or “with which”) + *lxtxo* (a verb form meaning “to cut” or “to slice”)\n\nThe structure *nrlc ngrlxtxo* indicates “knife with which to cut,” and the preceding *elakr* indicates the purpose or intention — “they want to use the knife with which to cut.”\n\nThis matches the grammar book’s explanation of *kx* introducing an irrealis purpose phrase, and the applicative *-ngr* indicating “with which.” Although *kx* is not present in this sentence, the structure still follows the same pattern of expressing intention or purpose",
+      "extracted": "They want to use the knife with which to cut.\n\n---",
+      "raw_span": [
+        0,
+        945
+      ],
+      "extracted_span": [
+        0,
+        50
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 71,
+      "source": "A' rpimle kx nayatipxx krkcng tqpetikr Dxi , murde ma tqmibitxtr .",
+      "reference": "But she told me I should paddle out to the ones we had planted at Dxi, lest they spoil on the vine.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.\n\n---\n\n**Translation justification:**\n\nThe Natugu sentence:  \n**A' rpimle kx nayatipxx krkcng tqpetikr Dxi , murde ma tqmibitxtr .**\n\nBreakdown:\n\n- **A' rpimle** → “I returned” (from the grammar example: *tq-r-pi-mq=le kx* = “return-Pᴅɪʀ.hither=1ᴍɪɴI” — “I returned”)\n- **kx nayatipxx krkcng** → “then he said” (from grammar: *tq-r-pi=pe-mq* = “say-Pᴅɪʀ.hither=1ᴍɪɴI” — “he said”)\n- **tqpetikr Dxi** → “that I should look throughout there” (from grammar: *ɪʀʀ-look-thruout-ᴛʀ-well=1ᴍɪɴI ʟᴏᴄ-ᴅᴇᴍ2.ᴅɪѕᴛ* — “look throughout there”)\n- **murde ma tqmibitx",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.\n\n---\n\n**Translation justification:**\n\nThe Natugu sentence:  \n**A' rpimle kx nayatipxx krkcng tqpetikr Dxi , murde ma tqmibitxtr .**\n\nBreakdown:\n\n- **A' rpimle** → “I returned” (from the grammar example: *tq-r-pi-mq=le kx* = “return-Pᴅɪʀ.hither=1ᴍɪɴI” — “I returned”)\n- **kx nayatipxx krkcng** → “then he said” (from grammar: *tq-r-pi=pe-mq* = “say-Pᴅɪʀ.hither=1ᴍɪɴI” — “he said”)\n- **tqpetikr Dxi** → “that I should look throughout there” (from grammar: *ɪʀʀ-look-thruout-ᴛʀ-well=1ᴍɪɴI ʟᴏᴄ-ᴅᴇᴍ2.ᴅɪѕᴛ* — “look throughout there”)\n- **murde ma tqmibitx",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.\n\n---\n\n**Translation justification:**\n\nThe Natugu sentence:  \n**A' rpimle kx nayatipxx krkcng tqpetikr Dxi , murde ma tqmibitxtr .**",
+      "raw_span": [
+        0,
+        654
+      ],
+      "extracted_span": [
+        0,
+        236
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 72,
+      "source": "Zbz wisol kc tqyrnipe mou kx lr Japan nzlvcpeng .",
+      "reference": "Then the siren sounded again that the Japanese had flown away.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He was shocked from hearing that the Japanese were staying at Tulagi.",
+      "raw": "He was shocked from hearing that the Japanese were staying at Tulagi.",
+      "extracted": "He was shocked from hearing that the Japanese were staying at Tulagi.",
+      "raw_span": [
+        0,
+        69
+      ],
+      "extracted_span": [
+        0,
+        69
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 73,
+      "source": "Kzdq zbq trtenge x Menabz nzabzlr bona kx ncblongr li .",
+      "reference": "One day my father and Menabz killed two male doves.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw_span": [
+        0,
+        104
+      ],
+      "extracted_span": [
+        0,
+        104
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 74,
+      "source": "63 . Skul Kc Naim Nzglqtrpq Nabzn",
+      "reference": "EP 63. The School at Naim is Moved to Naban on Graciosa Bay",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Sixty-three. School KC Name Nizglqtrpq Nabzn\n\n(Note: Based on the context and the grammar book excerpt, “Skul Kc Naim Nzglqtrpq Nabzn” appears to be a phrase listing a school name or identifier. “Skul” likely means “School,” “Kc” may be an abbreviation or proper name (possibly “KC” as in “Kai C.” or similar), “Naim” may be a name, and “Nzglqtrpq Nabzn” is likely a transliteration of a longer Natugu word or phrase — possibly “Nizglqtrpq Nabzn” — which may be a proper noun or compound name. Since the grammar book does not provide a direct translation for “Nzglqtrpq Nabzn,” and given the context of the numeral “63” preceding it, the most reasonable interpretation is that this is a label or identifier for a school, such as “School KC Name Nizglqtrpq Nabzn.”)\n\nHowever, if we consider the possibility that “Nzglqtrpq Nabzn” is meant to be read as a single compound term (perhaps “Nizglqtrpq” is a name and “",
+      "raw": "Sixty-three. School KC Name Nizglqtrpq Nabzn\n\n(Note: Based on the context and the grammar book excerpt, “Skul Kc Naim Nzglqtrpq Nabzn” appears to be a phrase listing a school name or identifier. “Skul” likely means “School,” “Kc” may be an abbreviation or proper name (possibly “KC” as in “Kai C.” or similar), “Naim” may be a name, and “Nzglqtrpq Nabzn” is likely a transliteration of a longer Natugu word or phrase — possibly “Nizglqtrpq Nabzn” — which may be a proper noun or compound name. Since the grammar book does not provide a direct translation for “Nzglqtrpq Nabzn,” and given the context of the numeral “63” preceding it, the most reasonable interpretation is that this is a label or identifier for a school, such as “School KC Name Nizglqtrpq Nabzn.”)\n\nHowever, if we consider the possibility that “Nzglqtrpq Nabzn” is meant to be read as a single compound term (perhaps “Nizglqtrpq” is a name and “",
+      "extracted": "Sixty-three. School KC Name Nizglqtrpq Nabzn\n\n(Note: Based on the context and the grammar book excerpt, “Skul Kc Naim Nzglqtrpq Nabzn” appears to be a phrase listing a school name or identifier. “Skul” likely means “School,” “Kc” may be an abbreviation or proper name (possibly “KC” as in “Kai C.” or similar), “Naim” may be a name, and “Nzglqtrpq Nabzn” is likely a transliteration of a longer Natugu word or phrase — possibly “Nizglqtrpq Nabzn” — which may be a proper noun or compound name. Since the grammar book does not provide a direct translation for “Nzglqtrpq Nabzn,” and given the context of the numeral “63” preceding it, the most reasonable interpretation is that this is a label or identifier for a school, such as “School KC Name Nizglqtrpq Nabzn.”)\n\nHowever, if we consider the possibility that “Nzglqtrpq Nabzn” is meant to be read as a single compound term (perhaps “Nizglqtrpq” is a name and “",
+      "raw_span": [
+        0,
+        912
+      ],
+      "extracted_span": [
+        0,
+        912
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 75,
+      "source": "Kzdq kc ncblo drtqde Metalo .",
+      "reference": "There was a man named Metalo.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat.",
+      "raw": "They also want to use the knife to cut the meat.",
+      "extracted": "They also want to use the knife to cut the meat.",
+      "raw_span": [
+        0,
+        48
+      ],
+      "extracted_span": [
+        0,
+        48
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 76,
+      "source": "Trtenge kx xlrbzle nzpipxkr Mzdealwx nzlxngiti-krde Gct rdr tzsiu kcng sc tqlxngitipe-kzle .",
+      "reference": "When my father heard Mzdealwx's saying he believed in the God of those brothers he also believed.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the meat with which they will prepare the meal.",
+      "raw": "They want to use the knife to cut the meat with which they will prepare the meal.",
+      "extracted": "They want to use the knife to cut the meat with which they will prepare the meal.",
+      "raw_span": [
+        0,
+        81
+      ],
+      "extracted_span": [
+        0,
+        81
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 77,
+      "source": "11 . Be Ngr Lika Kx Nqvi lrde Yzpr",
+      "reference": "EP 11. The Story of the Kite Whose String Broke",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "**English translation:**  \n**11. You must go before the village is destroyed.**\n\n---\n\n### Explanation:\n\nThe Natugu sentence:  \n**Be Ngr Lika Kx Nqvi lrde Yzpr**\n\nBreakdown using grammar patterns from the provided text:\n\n- **Be** = “must” / “have to” (modal verb, 2nd person singular, imperative or obligation)\n- **Ngr** = “go” (verb, 3rd person plural or imperative form — context suggests imperative)\n- **Lika** = “before” (preposition or adverb indicating time precedence)\n- **Kx** = “the” (definite article, often used with nouns)\n- **Nqvi** = “village” (noun)\n- **lrde** = “is destroyed” (passive verb form — “lr” = “be”, “de” = “destroy”, passive construction)\n- **Yzpr** = “it” / “this” (referring to the village, or the situation)\n\nPutting it together:\n\n> “You must go before the village is destroyed.”\n\nThis matches the structure and meaning of similar sentences in the grammar book, such as:\n\n> “One of you has",
+      "raw": "**English translation:**  \n**11. You must go before the village is destroyed.**\n\n---\n\n### Explanation:\n\nThe Natugu sentence:  \n**Be Ngr Lika Kx Nqvi lrde Yzpr**\n\nBreakdown using grammar patterns from the provided text:\n\n- **Be** = “must” / “have to” (modal verb, 2nd person singular, imperative or obligation)\n- **Ngr** = “go” (verb, 3rd person plural or imperative form — context suggests imperative)\n- **Lika** = “before” (preposition or adverb indicating time precedence)\n- **Kx** = “the” (definite article, often used with nouns)\n- **Nqvi** = “village” (noun)\n- **lrde** = “is destroyed” (passive verb form — “lr” = “be”, “de” = “destroy”, passive construction)\n- **Yzpr** = “it” / “this” (referring to the village, or the situation)\n\nPutting it together:\n\n> “You must go before the village is destroyed.”\n\nThis matches the structure and meaning of similar sentences in the grammar book, such as:\n\n> “One of you has",
+      "extracted": "**11. You must go before the village is destroyed.**\n\n---",
+      "raw_span": [
+        0,
+        919
+      ],
+      "extracted_span": [
+        27,
+        84
+      ],
+      "rule": "leading_translation_label+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 78,
+      "source": "Rpi-mopwz kxetu r ami kx , \" Nim ncblo kznike ?\"",
+      "reference": "The head of the army further said, \"What kind of man are you?\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I said to him, “How many men are there?”",
+      "raw": "I said to him, “How many men are there?”",
+      "extracted": "I said to him, “How many men are there?”",
+      "raw_span": [
+        0,
+        40
+      ],
+      "extracted_span": [
+        0,
+        40
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 79,
+      "source": "A' nenq kx mnctxde kc mz ulu sc tzmnctx-alopeng Nzlvz .",
+      "reference": "But there was that strong wind from the southwest so had they stayed a long time at Nzlvz.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat with which they will prepare the meal.\n\n---\n\n**Explanation:**\n\n- **A'** = They (plural subject, 1st person plural inclusive or exclusive depending on context, but here likely “they”)\n- **nenq** = also\n- **kx** = subordinator modifying “mnctxde,” introducing an irrealis purpose clause (“to use the knife for…”)\n- **mnctxde** = knife\n- **kc** = to (infinitive marker or purpose marker)\n- **mz ulu** = with which (applicative -ngr added to “mz” = “with” + “ulu” = “which”)\n- **sc** = the meat (or “it” referring to the meat)\n- **tzmnctx-alopeng** = to cut (verb “tzmnctx” = to cut, “-alopeng” = perfective or completed action, possibly “to have cut” or “to cut” in context)\n- **Nzlvz** = they (object or recipient — possibly “them” or “the people”)\n\nHowever, the phrase **“tzmnctx-alopeng Nzlvz”",
+      "raw": "They also want to use the knife to cut the meat with which they will prepare the meal.\n\n---\n\n**Explanation:**\n\n- **A'** = They (plural subject, 1st person plural inclusive or exclusive depending on context, but here likely “they”)\n- **nenq** = also\n- **kx** = subordinator modifying “mnctxde,” introducing an irrealis purpose clause (“to use the knife for…”)\n- **mnctxde** = knife\n- **kc** = to (infinitive marker or purpose marker)\n- **mz ulu** = with which (applicative -ngr added to “mz” = “with” + “ulu” = “which”)\n- **sc** = the meat (or “it” referring to the meat)\n- **tzmnctx-alopeng** = to cut (verb “tzmnctx” = to cut, “-alopeng” = perfective or completed action, possibly “to have cut” or “to cut” in context)\n- **Nzlvz** = they (object or recipient — possibly “them” or “the people”)\n\nHowever, the phrase **“tzmnctx-alopeng Nzlvz”",
+      "extracted": "They also want to use the knife to cut the meat with which they will prepare the meal.\n\n---",
+      "raw_span": [
+        0,
+        841
+      ],
+      "extracted_span": [
+        0,
+        91
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 80,
+      "source": "Zbz sc tqtwzpe kz Rik Frank Yrpusz nzngini-krde kz kxrtekqtr natq .",
+      "reference": "Then Rick also took Frank Yrpusz to be a translator too.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They are hunting for wild pigs with Rik Frank Yrpusz in the forest area near the river.",
+      "raw": "They are hunting for wild pigs with Rik Frank Yrpusz in the forest area near the river.",
+      "extracted": "They are hunting for wild pigs with Rik Frank Yrpusz in the forest area near the river.",
+      "raw_span": [
+        0,
+        87
+      ],
+      "extracted_span": [
+        0,
+        87
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 81,
+      "source": "X yzuo-moukr Uta yrkrpx Pa'lz , x trmctu ka sc tqtulvzpe mz nzwzkr Gari Saemons .",
+      "reference": "And we started again at Uta finishing at Pa'lz, and this island was thoroughly covered by the work of Gary Simons.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.\n\n---\n\n**Translation breakdown:**\n\n- **X yzuo-moukr** → “I returned”  \n  (From: *yzlu-mq=x* = return-Pᴅɪʀ.hither=1ᴍɪɴI → “I returned”)\n\n- **Uta yrkrpx Pa'lz** → “he said”  \n  (From: *ᴘꜰᴠ= ʀʟ-ᴍɪᴅ-say-Pᴅɪʀ.hither=3ᴍɪɴIA* → “he said” — contextually, “he said that...”)\n\n- **x trmctu ka sc tqtulvzpe mz nzwzkr Gari Saemons** → “that I should look throughout there and I should say how many men stayed there.”  \n  - *x* = “I”  \n  - *trmctu* → likely *na-pi-ne-mq=x* → “I should say” (from grammar book: *na-pi-ne-mq=x* = say-Pᴅɪʀ.hither=1ᴍɪɴI)  \n  - *ka sc* →",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.\n\n---\n\n**Translation breakdown:**\n\n- **X yzuo-moukr** → “I returned”  \n  (From: *yzlu-mq=x* = return-Pᴅɪʀ.hither=1ᴍɪɴI → “I returned”)\n\n- **Uta yrkrpx Pa'lz** → “he said”  \n  (From: *ᴘꜰᴠ= ʀʟ-ᴍɪᴅ-say-Pᴅɪʀ.hither=3ᴍɪɴIA* → “he said” — contextually, “he said that...”)\n\n- **x trmctu ka sc tqtulvzpe mz nzwzkr Gari Saemons** → “that I should look throughout there and I should say how many men stayed there.”  \n  - *x* = “I”  \n  - *trmctu* → likely *na-pi-ne-mq=x* → “I should say” (from grammar book: *na-pi-ne-mq=x* = say-Pᴅɪʀ.hither=1ᴍɪɴI)  \n  - *ka sc* →",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.\n\n---\n\n**Translation breakdown:**\n\n- **X yzuo-moukr** → “I returned”  \n  (From: *yzlu-mq=x* = return-Pᴅɪʀ.hither=1ᴍɪɴI → “I returned”)\n\n- **Uta yrkrpx Pa'lz** → “he said”  \n  (From: *ᴘꜰᴠ= ʀʟ-ᴍɪᴅ-say-Pᴅɪʀ.hither=3ᴍɪɴIA* → “he said” — contextually, “he said that...”)\n\n- **x trmctu ka sc tqtulvzpe mz nzwzkr Gari Saemons** → “that I should look throughout there and I should say how many men stayed there.”  \n  - *x* = “I”  \n  - *trmctu* → likely *na-pi-ne-mq=x* → “I should say” (from grammar book: *na-pi-ne-mq=x* = say-Pᴅɪʀ.hither=1ᴍɪɴI)  \n  - *ka sc* →",
+      "raw_span": [
+        0,
+        658
+      ],
+      "extracted_span": [
+        0,
+        658
+      ],
+      "rule": "preserve_unrecognized_section",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 82,
+      "source": "Mz nzvz-krgr kc , tqvzdzkr , tqvzokr x tqrkawitikr lue kxetuting .",
+      "reference": "In our going, we went up, we went down, and we crossed large rivers.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I want to use the knife to cut the meat and the fish.",
+      "raw": "I want to use the knife to cut the meat and the fish.",
+      "extracted": "I want to use the knife to cut the meat and the fish.",
+      "raw_span": [
+        0,
+        53
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 83,
+      "source": "Aelwapx Gct da kxmule lcng murde nalxngitiku x na-abrtrpzku drtwrgu mz Jiszs x Trtede Gct mz da amrlx mzli ka tqlu-ngrgu mz nrlc .",
+      "reference": "God revealed such things so that we might believe and we might trust in Jesus and his Father, God, in everything now while we're living in the world.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the meat with which they will prepare it for Jiszs and Trtede, so that they may eat it with their hands.\n\n---\n\n**Explanation:**\n\n- **Aelwapx Gct** = They also (Aelwapx = they also; Gct = also, often used for emphasis or repetition)\n- **da kxmule lcng murde** = to use the knife (da = to; kxmule = knife; lcng = use; murde = the)\n- **nalxngitiku x na-abrtrpzku drtwrgu** = to prepare it for (nalxngitiku = to prepare; x = for; na-abrtrpzku = Jiszs and Trtede; drtwrgu = them)\n- **mz Jiszs x Trtede Gct** = Jiszs and Trtede (mz = they; Gct = also, here indicating “Jiszs and Trtede” as the recipients)\n- **mz da amrlx mzli ka tqlu-ngrgu mz nrlc** = so that they may eat it with their hands (mz = they",
+      "raw": "They also want to use the knife to cut the meat with which they will prepare it for Jiszs and Trtede, so that they may eat it with their hands.\n\n---\n\n**Explanation:**\n\n- **Aelwapx Gct** = They also (Aelwapx = they also; Gct = also, often used for emphasis or repetition)\n- **da kxmule lcng murde** = to use the knife (da = to; kxmule = knife; lcng = use; murde = the)\n- **nalxngitiku x na-abrtrpzku drtwrgu** = to prepare it for (nalxngitiku = to prepare; x = for; na-abrtrpzku = Jiszs and Trtede; drtwrgu = them)\n- **mz Jiszs x Trtede Gct** = Jiszs and Trtede (mz = they; Gct = also, here indicating “Jiszs and Trtede” as the recipients)\n- **mz da amrlx mzli ka tqlu-ngrgu mz nrlc** = so that they may eat it with their hands (mz = they",
+      "extracted": "They also want to use the knife to cut the meat with which they will prepare it for Jiszs and Trtede, so that they may eat it with their hands.\n\n---",
+      "raw_span": [
+        0,
+        737
+      ],
+      "extracted_span": [
+        0,
+        148
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 84,
+      "source": "Zbz kzdq doa lr Sikaiana sc tqolzpebz .",
+      "reference": "Then a student from Sikaiana island did climb up.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife with which they will cut the Sikaiana fish.\n\n---\n\n**Explanation:**\n\n- **Zbz** = They (plural subject)\n- **kzdq** = want (verb, likely from *kz* + *dq* = to want)\n- **doa** = to use (or “to do” in context of purpose)\n- **lr** = the (definite article, here modifying “Sikaiana”)\n- **Sikaiana** = Sikaiana fish (proper noun, referring to a type of fish)\n- **sc** = also (adverb, often used to indicate addition or emphasis)\n- **tqolzpebz** = to cut (verb form, likely *tqolz* + *-pebz* = to cut, with *-bz* indicating purpose or intention)\n\nThe phrase **kx mc-lz=kr** (from the grammar passage) indicates a purpose clause introduced by *kx* (subordinator meaning “with which” or “for which”), and *-ngr* (applicative) adds the sense of “with.” Although not explicitly present in the target sentence, the structure implies that the knife is to be used *",
+      "raw": "They also want to use the knife with which they will cut the Sikaiana fish.\n\n---\n\n**Explanation:**\n\n- **Zbz** = They (plural subject)\n- **kzdq** = want (verb, likely from *kz* + *dq* = to want)\n- **doa** = to use (or “to do” in context of purpose)\n- **lr** = the (definite article, here modifying “Sikaiana”)\n- **Sikaiana** = Sikaiana fish (proper noun, referring to a type of fish)\n- **sc** = also (adverb, often used to indicate addition or emphasis)\n- **tqolzpebz** = to cut (verb form, likely *tqolz* + *-pebz* = to cut, with *-bz* indicating purpose or intention)\n\nThe phrase **kx mc-lz=kr** (from the grammar passage) indicates a purpose clause introduced by *kx* (subordinator meaning “with which” or “for which”), and *-ngr* (applicative) adds the sense of “with.” Although not explicitly present in the target sentence, the structure implies that the knife is to be used *",
+      "extracted": "They also want to use the knife with which they will cut the Sikaiana fish.\n\n---",
+      "raw_span": [
+        0,
+        881
+      ],
+      "extracted_span": [
+        0,
+        80
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 85,
+      "source": "Krlc kzdq rkx kxmatq , kzdq merikol .",
+      "reference": "This was a powerful sign, a miracle.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife, to cut meat.",
+      "raw": "They also want to use the knife, to cut meat.",
+      "extracted": "They also want to use the knife, to cut meat.",
+      "raw_span": [
+        0,
+        45
+      ],
+      "extracted_span": [
+        0,
+        45
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 86,
+      "source": "Kzdq kc zbq naoszx kzdq nc bia .",
+      "reference": "One day I was walking away from a breadfruit tree.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife to cut the coconut.",
+      "raw": "They also want to use the knife to cut the coconut.",
+      "extracted": "They also want to use the knife to cut the coconut.",
+      "raw_span": [
+        0,
+        51
+      ],
+      "extracted_span": [
+        0,
+        51
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 87,
+      "source": "Ana Teao kx yrkrpxle kc mz skul , vom sc tqlipekr ncdr mz nzalvztrngr .",
+      "reference": "When Anna Teao finished her schooling, she came and we partnered in teaching.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Ana Teao wants to use the knife to cut the meat, so that they may prepare it with the knife.\n\n(Note: Based on the grammar notes provided, “kx” introduces an irrealis purpose clause (“to use the knife for...”), and “ncdr mz nzalvztrngr” means “with the knife” — “ncdr” likely being a preposition or applicative marker, and “nzalvztrngr” meaning “knife.” The phrase “vom sc tqlipekr” likely means “so that they may prepare” or “in order to prepare,” with “tqlipekr” meaning “prepare” and “vom sc” indicating purpose or result. “Ana Teao” is likely a proper name or a phrase meaning “Ana and Teao” or “Ana, Teao,” depending on context — but since it’s a single subject, we treat it as “Ana Teao” as a unit. The translation assumes “yrkrpxle” = “cut,” “mz skul” = “the meat,” and the whole sentence expresses a purposeful action.)",
+      "raw": "Ana Teao wants to use the knife to cut the meat, so that they may prepare it with the knife.\n\n(Note: Based on the grammar notes provided, “kx” introduces an irrealis purpose clause (“to use the knife for...”), and “ncdr mz nzalvztrngr” means “with the knife” — “ncdr” likely being a preposition or applicative marker, and “nzalvztrngr” meaning “knife.” The phrase “vom sc tqlipekr” likely means “so that they may prepare” or “in order to prepare,” with “tqlipekr” meaning “prepare” and “vom sc” indicating purpose or result. “Ana Teao” is likely a proper name or a phrase meaning “Ana and Teao” or “Ana, Teao,” depending on context — but since it’s a single subject, we treat it as “Ana Teao” as a unit. The translation assumes “yrkrpxle” = “cut,” “mz skul” = “the meat,” and the whole sentence expresses a purposeful action.)",
+      "extracted": "Ana Teao wants to use the knife to cut the meat, so that they may prepare it with the knife.\n\n(Note: Based on the grammar notes provided, “kx” introduces an irrealis purpose clause (“to use the knife for...”), and “ncdr mz nzalvztrngr” means “with the knife” — “ncdr” likely being a preposition or applicative marker, and “nzalvztrngr” meaning “knife.” The phrase “vom sc tqlipekr” likely means “so that they may prepare” or “in order to prepare,” with “tqlipekr” meaning “prepare” and “vom sc” indicating purpose or result. “Ana Teao” is likely a proper name or a phrase meaning “Ana and Teao” or “Ana, Teao,” depending on context — but since it’s a single subject, we treat it as “Ana Teao” as a unit. The translation assumes “yrkrpxle” = “cut,” “mz skul” = “the meat,” and the whole sentence expresses a purposeful action.)",
+      "raw_span": [
+        0,
+        826
+      ],
+      "extracted_span": [
+        0,
+        826
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 88,
+      "source": "79 . Nzrblx-krbz Natqgu Badr Leplz Kcng Tzrtekqtrng Natq",
+      "reference": "EP 79. The Difficulty of Natqgu for the People who Translate the Language",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "79. Seventy-nine. Natqgu is a language spoken in Santa Cruz Island, Temotu Province, Solomon Islands.\n\n(Note: The sentence “Nzrblx-krbz Natqgu Badr Leplz Kcng Tzrtekqtrng Natq” appears to be a list or statement identifying the language and its location. Based on the grammar book context and the structure, “Nzrblx-krbz” likely means “Seventy-nine,” “Natqgu” is the language name, “Badr Leplz Kcng” likely refers to “Santa Cruz Island,” and “Tzrtekqtrng Natq” likely means “Temotu Province, Solomon Islands.” The number 79 is likely a heading or reference number, not part of the sentence content.)\n\nThus, the translation is:\n\n**79. Seventy-nine. Natqgu is a language spoken in Santa Cruz Island, Temotu Province, Solomon Islands.**",
+      "raw": "79. Seventy-nine. Natqgu is a language spoken in Santa Cruz Island, Temotu Province, Solomon Islands.\n\n(Note: The sentence “Nzrblx-krbz Natqgu Badr Leplz Kcng Tzrtekqtrng Natq” appears to be a list or statement identifying the language and its location. Based on the grammar book context and the structure, “Nzrblx-krbz” likely means “Seventy-nine,” “Natqgu” is the language name, “Badr Leplz Kcng” likely refers to “Santa Cruz Island,” and “Tzrtekqtrng Natq” likely means “Temotu Province, Solomon Islands.” The number 79 is likely a heading or reference number, not part of the sentence content.)\n\nThus, the translation is:\n\n**79. Seventy-nine. Natqgu is a language spoken in Santa Cruz Island, Temotu Province, Solomon Islands.**",
+      "extracted": "79. Seventy-nine. Natqgu is a language spoken in Santa Cruz Island, Temotu Province, Solomon Islands.\n\n(Note: The sentence “Nzrblx-krbz Natqgu Badr Leplz Kcng Tzrtekqtrng Natq” appears to be a list or statement identifying the language and its location. Based on the grammar book context and the structure, “Nzrblx-krbz” likely means “Seventy-nine,” “Natqgu” is the language name, “Badr Leplz Kcng” likely refers to “Santa Cruz Island,” and “Tzrtekqtrng Natq” likely means “Temotu Province, Solomon Islands.” The number 79 is likely a heading or reference number, not part of the sentence content.)\n\nThus, the translation is:\n\n**79. Seventy-nine. Natqgu is a language spoken in Santa Cruz Island, Temotu Province, Solomon Islands.**",
+      "raw_span": [
+        0,
+        732
+      ],
+      "extracted_span": [
+        0,
+        732
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 89,
+      "source": "Nzyolxomlr , kx nzkaobzlrle mz leu kx nzprlxlr mrkc , kio kcng wxlikitxpxpnz .",
+      "reference": "They took it off the fire; when they removed it onto leaves which were laid out there, the chicken fell into small pieces.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I want to use the knife to cut the meat, so that I can cook it.",
+      "raw": "I want to use the knife to cut the meat, so that I can cook it.",
+      "extracted": "I want to use the knife to cut the meat, so that I can cook it.",
+      "raw_span": [
+        0,
+        63
+      ],
+      "extracted_span": [
+        0,
+        63
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 90,
+      "source": "42 . Dzbedr Lipe Merikol Krapwx Mz Mzli R Vea",
+      "reference": "EP 42. Their Group Splits into Two and the Fourth Wartime Miracle",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw_span": [
+        0,
+        104
+      ],
+      "extracted_span": [
+        0,
+        104
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 91,
+      "source": "Kx nzglxlr nzngini-krdr lr Japan , sc tzdwapeng .",
+      "reference": "When they realized their being Japanese, they fled.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They were shocked to hear that the Japanese were staying at Tulagi, the capital of Solomon Islands.",
+      "raw": "They were shocked to hear that the Japanese were staying at Tulagi, the capital of Solomon Islands.",
+      "extracted": "They were shocked to hear that the Japanese were staying at Tulagi, the capital of Solomon Islands.",
+      "raw_span": [
+        0,
+        99
+      ],
+      "extracted_span": [
+        0,
+        99
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 92,
+      "source": "A' mz nibrde sc tzaolvz-atebz kzdung leplz nzlxngiti-krdr Nrpakxmrlz .",
+      "reference": "But afterward some people later accepted their believing the Goodnews.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They want to use the knife to cut the meat of the Nrpakxmrlz (a type of animal or creature).\n\n---\n\n**Explanation:**\n\n- **A'** = They (subject marker, 3rd person plural)\n- **mz** = want (verb, 3rd person plural, irrealis mood — indicating intention or desire)\n- **nibrde** = to use (infinitive form, often used with “mz” to express intention)\n- **sc** = the knife (demonstrative pronoun, “this” or “that” — here likely “this knife”)\n- **tzaolvz-atebz** = to cut (verb, infinitive form, with applicative suffix -atebz indicating purpose or instrument)\n- **kzdung** = the meat (noun, possibly “meat” or “flesh”)\n- **leplz** = of the (possessive/origin marker, indicating “of the Nrpakxmrlz”)\n- **nzlxngiti-krdr** = Nrpakxmrlz (the name of the animal or creature — possibly “Nrpakxmrlz” is a proper noun or specific animal",
+      "raw": "They want to use the knife to cut the meat of the Nrpakxmrlz (a type of animal or creature).\n\n---\n\n**Explanation:**\n\n- **A'** = They (subject marker, 3rd person plural)\n- **mz** = want (verb, 3rd person plural, irrealis mood — indicating intention or desire)\n- **nibrde** = to use (infinitive form, often used with “mz” to express intention)\n- **sc** = the knife (demonstrative pronoun, “this” or “that” — here likely “this knife”)\n- **tzaolvz-atebz** = to cut (verb, infinitive form, with applicative suffix -atebz indicating purpose or instrument)\n- **kzdung** = the meat (noun, possibly “meat” or “flesh”)\n- **leplz** = of the (possessive/origin marker, indicating “of the Nrpakxmrlz”)\n- **nzlxngiti-krdr** = Nrpakxmrlz (the name of the animal or creature — possibly “Nrpakxmrlz” is a proper noun or specific animal",
+      "extracted": "They want to use the knife to cut the meat of the Nrpakxmrlz (a type of animal or creature).\n\n---",
+      "raw_span": [
+        0,
+        818
+      ],
+      "extracted_span": [
+        0,
+        97
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 93,
+      "source": "Krali Yamzli mzte nzmc Narnztilolx mz yiz 1918 .",
+      "reference": "The second, Yamzli, was born in Narnztilolx in the year 1918.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "King Yamzli died in Narnztilolx in the year 1918.",
+      "raw": "King Yamzli died in Narnztilolx in the year 1918.",
+      "extracted": "King Yamzli died in Narnztilolx in the year 1918.",
+      "raw_span": [
+        0,
+        49
+      ],
+      "extracted_span": [
+        0,
+        49
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 94,
+      "source": "Murde rwz-ngrgr ma kxetuting .",
+      "reference": "Because we built large buildings.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "He went there so that he could ask how many men stayed there.",
+      "raw": "He went there so that he could ask how many men stayed there.",
+      "extracted": "He went there so that he could ask how many men stayed there.",
+      "raw_span": [
+        0,
+        61
+      ],
+      "extracted_span": [
+        0,
+        61
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 95,
+      "source": "Yzuo-moukr Ncipx x mwikr Nebz .",
+      "reference": "Starting again at Noipx and we slept at Nebz.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "extracted": "I returned, then he said that I should look throughout there and I should say how many men stayed there.",
+      "raw_span": [
+        0,
+        104
+      ],
+      "extracted_span": [
+        0,
+        104
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 96,
+      "source": "X Mista Sadrak Sade kx ngi Kxetu r skul lc .",
+      "reference": "And it was Mr. Shadrach Sunday who was Headmaster of that school.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Head of the school said to us that we should go with him to the bush.\n\n---\n\n**Explanation:**\n\n- **X Mista Sadrak Sade** — “The Head of the school” (X = “this/that” demonstrative, Mista = “Head,” Sadrak Sade = “of the school” — likely a compound or proper name/title)\n- **kx ngi Kxetu r skul lc** — “to go with him to the bush”  \n  - **kx** = subordinator introducing an irrealis purpose clause (“to go...”)  \n  - **ngi** = “with” (applicative -ngr is implied or merged here)  \n  - **Kxetu** = “him” (referring to the Head of the school)  \n  - **r** = “to” (directional particle)  \n  - **skul** = “bush” (or “forest,” depending on context)  \n  - **lc** = “go” (irrealis verb form, indicating intention or suggestion)\n\nThe structure follows the pattern seen in the grammar examples: “kx ngi Kxetu r skul lc” = “to go with",
+      "raw": "The Head of the school said to us that we should go with him to the bush.\n\n---\n\n**Explanation:**\n\n- **X Mista Sadrak Sade** — “The Head of the school” (X = “this/that” demonstrative, Mista = “Head,” Sadrak Sade = “of the school” — likely a compound or proper name/title)\n- **kx ngi Kxetu r skul lc** — “to go with him to the bush”  \n  - **kx** = subordinator introducing an irrealis purpose clause (“to go...”)  \n  - **ngi** = “with” (applicative -ngr is implied or merged here)  \n  - **Kxetu** = “him” (referring to the Head of the school)  \n  - **r** = “to” (directional particle)  \n  - **skul** = “bush” (or “forest,” depending on context)  \n  - **lc** = “go” (irrealis verb form, indicating intention or suggestion)\n\nThe structure follows the pattern seen in the grammar examples: “kx ngi Kxetu r skul lc” = “to go with",
+      "extracted": "The Head of the school said to us that we should go with him to the bush.\n\n---",
+      "raw_span": [
+        0,
+        823
+      ],
+      "extracted_span": [
+        0,
+        78
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 97,
+      "source": "A' trkrlzwxu kx nzyzlu-mcpqng , nidr lcng tztavelr naonrx lc e doa kzbleng .”",
+      "reference": "But I do not know whether they returned again, those were the ones who broke the door or it was someone else.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "“They have not yet learned how to use the knife with the purpose of cutting the tree trunk.”\n\n---\n\n**Explanation:**\n\n- **A’ trkrlzwxu** — “They have not yet learned” (from the negative circumfix *tr-...-ka* in slot +13, as seen in the grammar example, and *trkrlzwxu* = “to learn” + negative enclitics).\n- **kx nzyzlu-mcpqng** — “with the purpose of cutting” (kx = subordinator introducing irrealis purpose; nzyzlu = “to cut”; -mcqng = applicative suffix meaning “with” or “with which” — here modifying the purpose).\n- **, nidr lcng tztavelr naonrx lc e doa kzbleng** — “the tree trunk” (nidr = “tree”; lcng = “trunk”; tztavelr = “wood” or “tree material”; naonrx = “of”; lc e doa = “the”; kzbleng = “tree trunk” — likely a compound or specific term for “tree trunk”).\n\nThe phrase “kx nzyzlu-mcp",
+      "raw": "“They have not yet learned how to use the knife with the purpose of cutting the tree trunk.”\n\n---\n\n**Explanation:**\n\n- **A’ trkrlzwxu** — “They have not yet learned” (from the negative circumfix *tr-...-ka* in slot +13, as seen in the grammar example, and *trkrlzwxu* = “to learn” + negative enclitics).\n- **kx nzyzlu-mcpqng** — “with the purpose of cutting” (kx = subordinator introducing irrealis purpose; nzyzlu = “to cut”; -mcqng = applicative suffix meaning “with” or “with which” — here modifying the purpose).\n- **, nidr lcng tztavelr naonrx lc e doa kzbleng** — “the tree trunk” (nidr = “tree”; lcng = “trunk”; tztavelr = “wood” or “tree material”; naonrx = “of”; lc e doa = “the”; kzbleng = “tree trunk” — likely a compound or specific term for “tree trunk”).\n\nThe phrase “kx nzyzlu-mcp",
+      "extracted": "“They have not yet learned how to use the knife with the purpose of cutting the tree trunk.”\n\n---",
+      "raw_span": [
+        0,
+        795
+      ],
+      "extracted_span": [
+        0,
+        97
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 98,
+      "source": "Volzx mrkc tqxlva-ngrde , ninge kc tqtupex .",
+      "reference": "I went up to where it forked and I stood there.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They also want to use the knife (with which) to cut the meat, and they will cook it.",
+      "raw": "They also want to use the knife (with which) to cut the meat, and they will cook it.",
+      "extracted": "They also want to use the knife (with which) to cut the meat, and they will cook it.",
+      "raw_span": [
+        0,
+        84
+      ],
+      "extracted_span": [
+        0,
+        84
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    }
+  ]
+}

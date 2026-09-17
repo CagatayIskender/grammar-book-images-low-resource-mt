@@ -1,0 +1,61 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+    "records": [
+      "6e4f73e2de31a3937b7ab3a30406f3c14a097b3686ec330d5191efe1b4dd30c7",
+      "454c139d4f33d7941157bf72b4720a98496afd42dda42cc57bad718dd9967a16"
+    ],
+    "scores": [
+      "01562e42a5ffbd4e2ed9156a7141a47f537bf2c065afd5e4a67a83eb7a1dfa2b",
+      "d7a90e16e9882faa778eb79256fba566be52f944b36a1b160cc91946d59b9150"
+    ],
+    "view": "raw"
+  },
+  "tests": [
+    {
+      "model": "qwen35",
+      "source": "natugu",
+      "language": "natugu",
+      "condition": "gs",
+      "method": "modelgloss",
+      "left": "matched_qwen35_natugu_modelgloss",
+      "right": "mtob_qwen35_natugu_gs",
+      "view": "raw",
+      "num_examples": 99,
+      "metric": "BLEU",
+      "left_score": 10.042707163484916,
+      "right_score": 1.8645783347949378,
+      "delta_right_minus_left": -8.178128828689978,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 1.875855110217136,
+      "right_ci95_halfwidth": 1.2268516392230118,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:no|tok:13a|smooth:none|version:2.6.0",
+      "scale": "0-100"
+    },
+    {
+      "model": "qwen35",
+      "source": "natugu",
+      "language": "natugu",
+      "condition": "gs",
+      "method": "modelgloss",
+      "left": "matched_qwen35_natugu_modelgloss",
+      "right": "mtob_qwen35_natugu_gs",
+      "view": "raw",
+      "num_examples": 99,
+      "metric": "chrF",
+      "left_score": 39.25698960661375,
+      "right_score": 18.569581684390503,
+      "delta_right_minus_left": -20.687407922223247,
+      "p_raw": 9.99990000099999e-06,
+      "p_sacrebleu": 9.99990000099999e-06,
+      "zero_effect_guard": false,
+      "right_bootstrap_mean": 18.602108001708984,
+      "right_ci95_halfwidth": 2.6638641357421875,
+      "signature": "nrefs:1|bs:100000|seed:20260917|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+      "scale": "0-100"
+    }
+  ]
+}

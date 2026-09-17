@@ -21,6 +21,9 @@ REFUSAL_RETRY_LIMIT = 3
 
 def output_paths(model_key: str, source_id: str, condition: str) -> tuple[Path, Path]:
     directory = (model_key, source_id)
+    if condition == "baseline":
+        return (output_path("baseline_v1", "results", *directory, "results_baseline.jsonl"),
+                output_path("baseline_v1", "metrics", *directory, "metrics_baseline.json"))
     return (
         output_path("results", *directory, f"results_{condition}.jsonl"),
         output_path("metrics", *directory, f"metrics_{condition}.json"),
@@ -74,9 +77,10 @@ def run(
     condition: str,
     smoke: bool = False,
     limit: int | None = None,
+    encoding=None,
 ) -> dict[str, Any]:
     condition = condition.casefold()
-    if condition not in CONDITIONS:
+    if condition not in (*CONDITIONS, "baseline"):
         raise ValueError(f"Condition must be one of {', '.join(CONDITIONS)}")
     source = source_config(source_id)
     model = model_config(model_key)
@@ -90,7 +94,23 @@ def run(
         result_path = output_path("results", "smoke", model_key, source_id, f"results_{condition}.jsonl")
         metrics_path = output_path("metrics", "smoke", model_key, source_id, f"metrics_{condition}.json")
     ensure_output_parent(result_path)
-    existing = _load_existing(result_path, examples)
+    if condition == "baseline":
+        rows = read_jsonl(result_path) if result_path.exists() else []
+        existing = {}
+        for row in rows:
+            i = row.get("index")
+            if type(i) is not int or not 0 <= i < len(examples) or i in existing:
+                raise ValueError("Invalid/duplicate baseline index; refusing silent selection")
+            expected = {"source": examples[i].source, "reference": examples[i].reference,
+                        "model_key": model_key, "model_id": model["model_id"],
+                        "source_id": source_id, "condition": "baseline"}
+            if any(row.get(k) != v for k, v in expected.items()):
+                raise ValueError("Baseline resume identity mismatch")
+            existing[i] = row
+        if len(existing) == len(examples):
+            return {"state": "already_complete", "records": len(existing)}
+    else:
+        existing = _load_existing(result_path, examples)
     retrieval_manifest = {}
     if condition in {"ge", "gs"}:
         manifest_path = output_path("manifests", source_id, f"retrieval_{condition}.jsonl")
@@ -106,7 +126,7 @@ def run(
 
     with result_path.open("a", encoding="utf-8") as handle:
         for example in examples:
-            if example.index in existing and existing[example.index].get("status") == "ok":
+            if example.index in existing and (condition == "baseline" or existing[example.index].get("status") == "ok"):
                 continue
             previous = existing.get(example.index)
             rerun_round = int(previous.get("rerun_round", 0)) + 1 if previous else 0
@@ -123,6 +143,9 @@ def run(
                     raise ValueError(f"Frozen Gs retrieval mismatch at example {example.index}")
                 retrieved = retrieval_record["passages"]
                 context = passage_context(source["language"], [item["text"] for item in retrieved])
+            elif condition == "baseline":
+                retrieved = []
+                context = ""
             else:
                 retrieved = []
                 context = long_context(source["language"], gl_text)
@@ -233,7 +256,7 @@ def run(
                 "model_key": model_key,
                 "model_id": model["model_id"],
                 "prompt": prompt,
-                "prompt_gpt2_tokens": len(gpt2_encoding().encode(prompt)),
+                "prompt_gpt2_tokens": len((encoding or gpt2_encoding()).encode(prompt)),
                 "retrieved_passages": [
                     {
                         key: item[key]
@@ -274,6 +297,11 @@ def run(
                 flush=True,
             )
 
+    if condition == "baseline":
+        records = read_jsonl(result_path)
+        if len(records) != len(examples) or len({r["index"] for r in records}) != len(examples):
+            raise ValueError("Incomplete or duplicated baseline output")
+        return {"state": "complete", "records": len(records), "scoring": "separate CPU job"}
     records = sorted(_load_existing(result_path, examples).values(), key=lambda record: record["index"])
     with result_path.open("w", encoding="utf-8") as handle:
         for record in records:

@@ -1,0 +1,183 @@
+{
+  "state": "complete",
+  "binding": {
+    "fingerprint": "c9574955d317b02798027e56b15ee8109dacb4c63e6a7f7fd857c7262a5ac825",
+    "records_sha256": "ea9eb78ccdb4f896acf94ac00f5eb2f5a6d1d6dbad16794f00b8260425ec25c1"
+  },
+  "model": "qwen35",
+  "source": "lezgi",
+  "condition": "gs",
+  "views": {
+    "raw": {
+      "num_examples": 87,
+      "chrf": {
+        "score": 23.08166201834401,
+        "char_order": 6,
+        "word_order": 0,
+        "beta": 2
+      },
+      "bleu": {
+        "bleu": 0.01911311684472074,
+        "precisions": [
+          0.1324456902592852,
+          0.028358208955223882,
+          0.010375099760574621,
+          0.003424657534246575
+        ],
+        "brevity_penalty": 1.0,
+        "length_ratio": 1.7234299516908214,
+        "translation_length": 1427,
+        "reference_length": 828
+      },
+      "rouge": {
+        "rouge1": 0.19648637521607906,
+        "rouge2": 0.05038094703396199,
+        "rougeL": 0.167106232156793,
+        "rougeLsum": 0.167106232156793
+      },
+      "character": {
+        "cer_score": 0.7525921520080524
+      },
+      "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+      "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+      "evaluation_implementation": {
+        "version": "mtob-evaluation-1.0.0",
+        "parser_version": "mtob-response-views-1.0.0",
+        "denominator": "all expected test records; non-ok predictions blank",
+        "punctuation": "remove ' =' then all ASCII punctuation",
+        "bleu": {
+          "tokenize": "13a",
+          "smooth_method": "none",
+          "effective_order": false,
+          "scale": "0-1 (bootstrap 0-100)"
+        },
+        "chrf": {
+          "char_order": 6,
+          "word_order": 0,
+          "beta": 2,
+          "scale": "0-100"
+        },
+        "rouge": "local macro F1; ASCII alphanumeric tokens; rougeLsum equals rougeL, not official summary-level ROUGE",
+        "character": "cer package CharacTER: word shifts plus character edits; hypothesis-length normalization, capped at 1; empty=1; not standard CER",
+        "bootstrap": {
+          "samples": 100000,
+          "seed": 20260917,
+          "family_size": 120,
+          "correction": "Holm",
+          "alpha": 0.05,
+          "zero_effect_policy": "absolute observed difference <= 1e-12: p_raw=1; preserve unmodified package p as p_sacrebleu"
+        }
+      },
+      "input_sha256": "505a483d8e9cb6aa38f7ce3f058272f90021738e884bd1ab44d0b27c5a24b720",
+      "empty_predictions": 0
+    },
+    "extracted": {
+      "num_examples": 87,
+      "chrf": {
+        "score": 23.629211592132453,
+        "char_order": 6,
+        "word_order": 0,
+        "beta": 2
+      },
+      "bleu": {
+        "bleu": 0.020825033471869595,
+        "precisions": [
+          0.14307342922028765,
+          0.03079416531604538,
+          0.011333914559721011,
+          0.003766478342749529
+        ],
+        "brevity_penalty": 1.0,
+        "length_ratio": 1.5954106280193237,
+        "translation_length": 1321,
+        "reference_length": 828
+      },
+      "rouge": {
+        "rouge1": 0.19648637521607906,
+        "rouge2": 0.05038094703396199,
+        "rougeL": 0.167106232156793,
+        "rougeLsum": 0.167106232156793
+      },
+      "character": {
+        "cer_score": 0.7504654262449267
+      },
+      "cleaning": "remove ' =' and ASCII punctuation, matching released MTOB evaluator",
+      "metric_implementation": "MTOB Evaluate metrics: ROUGE, BLEU, chrF, and CharacTER",
+      "evaluation_implementation": {
+        "version": "mtob-evaluation-1.0.0",
+        "parser_version": "mtob-response-views-1.0.0",
+        "denominator": "all expected test records; non-ok predictions blank",
+        "punctuation": "remove ' =' then all ASCII punctuation",
+        "bleu": {
+          "tokenize": "13a",
+          "smooth_method": "none",
+          "effective_order": false,
+          "scale": "0-1 (bootstrap 0-100)"
+        },
+        "chrf": {
+          "char_order": 6,
+          "word_order": 0,
+          "beta": 2,
+          "scale": "0-100"
+        },
+        "rouge": "local macro F1; ASCII alphanumeric tokens; rougeLsum equals rougeL, not official summary-level ROUGE",
+        "character": "cer package CharacTER: word shifts plus character edits; hypothesis-length normalization, capped at 1; empty=1; not standard CER",
+        "bootstrap": {
+          "samples": 100000,
+          "seed": 20260917,
+          "family_size": 120,
+          "correction": "Holm",
+          "alpha": 0.05,
+          "zero_effect_policy": "absolute observed difference <= 1e-12: p_raw=1; preserve unmodified package p as p_sacrebleu"
+        }
+      },
+      "input_sha256": "40b1747bcd8620c9831454be41fc2a64af9df83daaa8ae4d3f56089809fae948",
+      "empty_predictions": 0
+    }
+  },
+  "historical_comparison": {
+    "historical_num_examples": 87,
+    "reproduced_status_ok_denominator": 87,
+    "full_denominator": 87,
+    "historical_scores": {
+      "bleu": 0.01911311684472074,
+      "chrf": 23.08166201834401,
+      "rouge1": 0.19648637521607906,
+      "rouge2": 0.05038094703396199,
+      "rougeL": 0.167106232156793,
+      "CharacTER": 0.7525921520080524
+    },
+    "historical_reproduction_difference": {
+      "bleu": 0.0,
+      "chrf": 0.0,
+      "rouge1": 0.0,
+      "rouge2": 0.0,
+      "rougeL": 0.0,
+      "CharacTER": 0.0
+    },
+    "denominator_effect_raw_minus_status_ok": {
+      "bleu": 0.0,
+      "chrf": 0.0,
+      "rouge1": 0.0,
+      "rouge2": 0.0,
+      "rougeL": 0.0,
+      "CharacTER": 0.0
+    },
+    "extraction_effect_extracted_minus_raw": {
+      "bleu": 0.0017119166271488545,
+      "chrf": 0.5475495737884444,
+      "rouge1": 0.0,
+      "rouge2": 0.0,
+      "rougeL": 0.0,
+      "CharacTER": -0.0021267257631256697
+    },
+    "total_effect_extracted_minus_historical": {
+      "bleu": 0.0017119166271488545,
+      "chrf": 0.5475495737884444,
+      "rouge1": 0.0,
+      "rouge2": 0.0,
+      "rougeL": 0.0,
+      "CharacTER": -0.0021267257631256697
+    }
+  }
+}

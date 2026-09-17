@@ -1,0 +1,856 @@
+{
+  "fingerprint": "f212b29a0e86977de10b87f3830d997d769261b99fa869122f3112192e20804c",
+  "records": [
+    {
+      "index": 0,
+      "source": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.",
+      "reference": "I will tell about when the white men first came to Kitwancool long ago.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "They were discussing who would make the stranger take off his big blanket, using their power to make him do it.",
+      "raw": "They were discussing who would make the stranger take off his big blanket, using their power to make him do it.",
+      "extracted": "They were discussing who would make the stranger take off his big blanket, using their power to make him do it.",
+      "raw_span": [
+        0,
+        111
+      ],
+      "extracted_span": [
+        0,
+        111
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 1,
+      "source": "Ha'ondii 'nakw hlidaa bakwhl gyet dipun, ii sag̲aytg̲oodindiithl hli gyedihl Gitwinhlguu'l.",
+      "reference": "Not long after these people arrived, they gathered together the people of Kitwancool.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Okay, it’s your turn to take the blanket off the stranger, because it was hot when he came out.",
+      "raw": "Okay, it’s your turn to take the blanket off the stranger, because it was hot when he came out.",
+      "extracted": "Okay, it’s your turn to take the blanket off the stranger, because it was hot when he came out.",
+      "raw_span": [
+        0,
+        95
+      ],
+      "extracted_span": [
+        0,
+        95
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 2,
+      "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+      "reference": "They wanted to tell about the new place where the village of Kitwancool is to be.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The stranger held his blanket back tightly because he was cold, since the wind was blowing so much.",
+      "raw": "The stranger held his blanket back tightly because he was cold, since the wind was blowing so much.",
+      "extracted": "The stranger held his blanket back tightly because he was cold, since the wind was blowing so much.",
+      "raw_span": [
+        0,
+        99
+      ],
+      "extracted_span": [
+        0,
+        99
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 3,
+      "source": "'Nit sag̲ootxwhl government siwetdiit, ii dim 'nii wenhl dim jok̲hl aluugigyet g̲o'ohl lax̲ reserve siwetdiit.",
+      "reference": "The plan of the so-called government was that they will have Indian people live on a so-called reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan government is not, because the people of the reserve are not.\n\n(Note: The sentence appears to be a negation or protest against the idea that the Gitksan government is legitimate or valid, based on the context of “not” and “because the people of the reserve are not.” The structure suggests a rhetorical or political statement, possibly implying that governance legitimacy is tied to the consent or status of the reserve’s people.)\n\nHowever, given the grammatical structure and the provided examples, a more literal and grammatically faithful translation might be:\n\n**“The Gitksan government is not, because the people of the reserve are not.”**\n\nAlternatively, if the intent is to convey a more natural or idiomatic English rendering based on the Gitksan grammar patterns (e.g., “ii dim ‘nii wenhl dim jok̲hl aluugigyet g̲o’ohl lax̲ reserve siwetdiit” — “because the people of the reserve are not” — could imply “because the reserve people are not [in agreement or not legitimate]”), a slightly more interpretive translation might be:\n\n**“The Gitksan government is not, because the people of the reserve do not [support it or recognize",
+      "raw": "The Gitksan government is not, because the people of the reserve are not.\n\n(Note: The sentence appears to be a negation or protest against the idea that the Gitksan government is legitimate or valid, based on the context of “not” and “because the people of the reserve are not.” The structure suggests a rhetorical or political statement, possibly implying that governance legitimacy is tied to the consent or status of the reserve’s people.)\n\nHowever, given the grammatical structure and the provided examples, a more literal and grammatically faithful translation might be:\n\n**“The Gitksan government is not, because the people of the reserve are not.”**\n\nAlternatively, if the intent is to convey a more natural or idiomatic English rendering based on the Gitksan grammar patterns (e.g., “ii dim ‘nii wenhl dim jok̲hl aluugigyet g̲o’ohl lax̲ reserve siwetdiit” — “because the people of the reserve are not” — could imply “because the reserve people are not [in agreement or not legitimate]”), a slightly more interpretive translation might be:\n\n**“The Gitksan government is not, because the people of the reserve do not [support it or recognize",
+      "extracted": "The Gitksan government is not, because the people of the reserve are not.\n\n(Note: The sentence appears to be a negation or protest against the idea that the Gitksan government is legitimate or valid, based on the context of “not” and “because the people of the reserve are not.” The structure suggests a rhetorical or political statement, possibly implying that governance legitimacy is tied to the consent or status of the reserve’s people.)\n\nHowever, given the grammatical structure and the provided examples, a more literal and grammatically faithful translation might be:\n\n**“The Gitksan government is not, because the people of the reserve are not.”**\n\nAlternatively, if the intent is to convey a more natural or idiomatic English rendering based on the Gitksan grammar patterns (e.g., “ii dim ‘nii wenhl dim jok̲hl aluugigyet g̲o’ohl lax̲ reserve siwetdiit” — “because the people of the reserve are not” — could imply “because the reserve people are not [in agreement or not legitimate]”), a slightly more interpretive translation might be:\n\n**“The Gitksan government is not, because the people of the reserve do not [support it or recognize",
+      "raw_span": [
+        0,
+        1147
+      ],
+      "extracted_span": [
+        0,
+        1147
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 4,
+      "source": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"",
+      "reference": "\"Why?\" the people of Kitwancool asked. \"We live on our land, here.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "“Go ahead,” said Gitwinhlguu’s father, “it’s your turn to take the blanket off the stranger.”",
+      "raw": "“Go ahead,” said Gitwinhlguu’s father, “it’s your turn to take the blanket off the stranger.”",
+      "extracted": "“Go ahead,” said Gitwinhlguu’s father, “it’s your turn to take the blanket off the stranger.”",
+      "raw_span": [
+        0,
+        93
+      ],
+      "extracted_span": [
+        0,
+        93
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 5,
+      "source": "Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.",
+      "reference": "They heard that what they call surveyors were coming.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan sentence **“Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.”** translates to:\n\n> **They were discussing who the surveyors were.**\n\n---\n\n### Breakdown:\n\n- **Ii** = 3rd person plural subject marker (they)\n- **nax̲'nidiit** = “to discuss” (verb, 3PL, past tense or ongoing action — IPFV=3.I)\n- **win** = “who” (interrogative pronoun)\n- **dim** = “most” or “the” (in this context, likely “the” as in “the one”)\n- **bakwhl** = “surveyors” (noun, plural)\n- **siwetdiit** = “were” (past tense auxiliary verb, 3PL)\n- **ehl** = “of” or “belonging to” (possessive or relational marker)\n- **surveyors** = English translation of **bakwhl**\n\nNote: The structure “win dim bakwhl” = “who the surveyors” — the “dim” here likely functions as a determiner meaning “",
+      "raw": "The Gitksan sentence **“Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.”** translates to:\n\n> **They were discussing who the surveyors were.**\n\n---\n\n### Breakdown:\n\n- **Ii** = 3rd person plural subject marker (they)\n- **nax̲'nidiit** = “to discuss” (verb, 3PL, past tense or ongoing action — IPFV=3.I)\n- **win** = “who” (interrogative pronoun)\n- **dim** = “most” or “the” (in this context, likely “the” as in “the one”)\n- **bakwhl** = “surveyors” (noun, plural)\n- **siwetdiit** = “were” (past tense auxiliary verb, 3PL)\n- **ehl** = “of” or “belonging to” (possessive or relational marker)\n- **surveyors** = English translation of **bakwhl**\n\nNote: The structure “win dim bakwhl” = “who the surveyors” — the “dim” here likely functions as a determiner meaning “",
+      "extracted": "The Gitksan sentence **“Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.”** translates to:\n\n> **They were discussing who the surveyors were.**\n\n---",
+      "raw_span": [
+        0,
+        766
+      ],
+      "extracted_span": [
+        0,
+        153
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 6,
+      "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+      "reference": "They will measure out the length of the perimeter of what is called the reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The people of the reserve were discussing who was the strongest among them.\n\n---\n\n**Breakdown for clarity:**\n\n- **Way** — “The people” (referring to the group in context, often “people of the reserve”)\n- **dimdii** — “were discussing” (from *dim* = “discuss” + *dii* = past tense marker for 3rd person plural)\n- **depdiithl** — “among them” (from *depdiithl* = “among them” or “among the group”)\n- **g̲a'nagwihl** — “who was” (from *g̲a’nagwihl* = “who was” — subject marker + “was”)\n- **'naayeja'a** — “the strongest” (from *'naayeja'a* = “most strong” or “strongest”)\n- **dim win daa'whl** — “among them” (redundant or reinforcing — *dim* = “among”, *win* = “them”, *daa'whl* = “the group” or “the people”)\n- **reserve siwetxw",
+      "raw": "The people of the reserve were discussing who was the strongest among them.\n\n---\n\n**Breakdown for clarity:**\n\n- **Way** — “The people” (referring to the group in context, often “people of the reserve”)\n- **dimdii** — “were discussing” (from *dim* = “discuss” + *dii* = past tense marker for 3rd person plural)\n- **depdiithl** — “among them” (from *depdiithl* = “among them” or “among the group”)\n- **g̲a'nagwihl** — “who was” (from *g̲a’nagwihl* = “who was” — subject marker + “was”)\n- **'naayeja'a** — “the strongest” (from *'naayeja'a* = “most strong” or “strongest”)\n- **dim win daa'whl** — “among them” (redundant or reinforcing — *dim* = “among”, *win* = “them”, *daa'whl* = “the group” or “the people”)\n- **reserve siwetxw",
+      "extracted": "The people of the reserve were discussing who was the strongest among them.\n\n---",
+      "raw_span": [
+        0,
+        728
+      ],
+      "extracted_span": [
+        0,
+        80
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 7,
+      "source": "Ii aam win ky'ax̲ hehl Gitwinhlguu'l dim 'wiit'is, dim wag̲ayt jog̲o daa'whl g̲o'ohl k'i'yhl sg̲a'nist, dim ii lok̲'on daa'whl g̲o'ohl k'i'yhl aks, g̲o'ohl Ksen, 'nii g̲a'wayit k̲'ali daa'whl g̲o'ohl Meji'aadin. 'Nithl hasak̲diithl reserve.",
+      "reference": "The people agreed that they wanted a big reserve which would encompass mountains starting from the Skeena all the way up to Meji'aadin. They wanted that for a reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan sentence translates to:\n\n**“I am going to tell you about the story of Gitwinhlguu’s people, the story of the man who took off his blanket, the story of the man who took off his shirt, the story of Ksen, and the story of Meji’aadin. This is a reserved story.”**\n\n---\n\n### Notes on Translation:\n\n- **Ii aam win ky'ax̲ hehl Gitwinhlguu'l** → “I am going to tell you about Gitwinhlguu’s people”  \n  - *Ii* = “I” (subject)  \n  - *aam* = “am going to” (future intention)  \n  - *win* = “to tell”  \n  - *ky'ax̲* = “you” (object of the verb)  \n  - *hehl* = “about”  \n  - *Gitwinhlguu'l* = “Gitwinhlguu’s people” (proper noun, likely referring to a specific group or clan)\n\n- **dim 'wiit'is** → “the story of…”  \n  - *dim* = “the story of” (used as a marker for",
+      "raw": "The Gitksan sentence translates to:\n\n**“I am going to tell you about the story of Gitwinhlguu’s people, the story of the man who took off his blanket, the story of the man who took off his shirt, the story of Ksen, and the story of Meji’aadin. This is a reserved story.”**\n\n---\n\n### Notes on Translation:\n\n- **Ii aam win ky'ax̲ hehl Gitwinhlguu'l** → “I am going to tell you about Gitwinhlguu’s people”  \n  - *Ii* = “I” (subject)  \n  - *aam* = “am going to” (future intention)  \n  - *win* = “to tell”  \n  - *ky'ax̲* = “you” (object of the verb)  \n  - *hehl* = “about”  \n  - *Gitwinhlguu'l* = “Gitwinhlguu’s people” (proper noun, likely referring to a specific group or clan)\n\n- **dim 'wiit'is** → “the story of…”  \n  - *dim* = “the story of” (used as a marker for",
+      "extracted": "The Gitksan sentence translates to:\n\n**“I am going to tell you about the story of Gitwinhlguu’s people, the story of the man who took off his blanket, the story of the man who took off his shirt, the story of Ksen, and the story of Meji’aadin. This is a reserved story.”**\n\n---",
+      "raw_span": [
+        0,
+        763
+      ],
+      "extracted_span": [
+        0,
+        277
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 8,
+      "source": "Way ii needii hehl Indian Agendima'a, siwetxwit ehl Indian Agent, ent sag̲aytg̲oodinhl gyet, sag̲aytwendiit.",
+      "reference": "The Indian Agent disagreed, the so-called Indian Agent who gathered the people together for the meeting.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Okay, it’s your turn to take the blanket off the Indian Agent, because the Indian Agent is hot, he’s sweating.",
+      "raw": "Okay, it’s your turn to take the blanket off the Indian Agent, because the Indian Agent is hot, he’s sweating.",
+      "extracted": "Okay, it’s your turn to take the blanket off the Indian Agent, because the Indian Agent is hot, he’s sweating.",
+      "raw_span": [
+        0,
+        110
+      ],
+      "extracted_span": [
+        0,
+        110
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 9,
+      "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+      "reference": "And the people of the village Kitwancool said, \"If you don't do that, then we don't want you to carve out a very small reserve.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The wind said: “It’s your turn, stranger, to take off your blanket, because it’s getting really hot out here.”",
+      "raw": "The wind said: “It’s your turn, stranger, to take off your blanket, because it’s getting really hot out here.”",
+      "extracted": "The wind said: “It’s your turn, stranger, to take off your blanket, because it’s getting really hot out here.”",
+      "raw_span": [
+        0,
+        110
+      ],
+      "extracted_span": [
+        0,
+        110
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 10,
+      "source": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+      "reference": "And now even though the people of Kitwancool said they did not want the little reserve; \"We don't want to give away our land,\" they said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan translation provided is:\n\n**Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.**\n\n---\n\n### Step-by-step breakdown and translation:\n\n1. **Way ts'ax̲ wildiihl hehl Gitwinhlguu'l**  \n   - *Way* = “The” (definite article)  \n   - *ts'ax̲* = “wild” (as in wild, untamed, or perhaps “wilderness” contextually)  \n   - *wildiihl* = “wilderness” or “wild place” (compound form)  \n   - *hehl* = “Gitwinhlguu'l” (proper noun, likely referring to a specific place or clan name — possibly “Gitwinhlguu’l” = “Gitxsan” or “Gitksan” territory)  \n   → **“The wild wilderness of Gitwinhlguu’l”** — but this seems to be a place name or location.  \n   → More likely",
+      "raw": "The Gitksan translation provided is:\n\n**Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.**\n\n---\n\n### Step-by-step breakdown and translation:\n\n1. **Way ts'ax̲ wildiihl hehl Gitwinhlguu'l**  \n   - *Way* = “The” (definite article)  \n   - *ts'ax̲* = “wild” (as in wild, untamed, or perhaps “wilderness” contextually)  \n   - *wildiihl* = “wilderness” or “wild place” (compound form)  \n   - *hehl* = “Gitwinhlguu'l” (proper noun, likely referring to a specific place or clan name — possibly “Gitwinhlguu’l” = “Gitxsan” or “Gitksan” territory)  \n   → **“The wild wilderness of Gitwinhlguu’l”** — but this seems to be a place name or location.  \n   → More likely",
+      "extracted": "The Gitksan translation provided is:\n\n**Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.**\n\n---\n\n### Step-by-step breakdown and translation:\n\n1. **Way ts'ax̲ wildiihl hehl Gitwinhlguu'l**  \n   - *Way* = “The” (definite article)  \n   - *ts'ax̲* = “wild” (as in wild, untamed, or perhaps “wilderness” contextually)  \n   - *wildiihl* = “wilderness” or “wild place” (compound form)  \n   - *hehl* = “Gitwinhlguu'l” (proper noun, likely referring to a specific place or clan name — possibly “Gitwinhlguu’l” = “Gitxsan” or “Gitksan” territory)  \n   → **“The wild wilderness of Gitwinhlguu’l”** — but this seems to be a place name or location.  \n   → More likely",
+      "raw_span": [
+        0,
+        741
+      ],
+      "extracted_span": [
+        0,
+        741
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 11,
+      "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+      "reference": "And they told the Indian Agent to stop the surveyors; they will chase away the surveyors.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Indian Agent and the surveyors were there, and the surveyors were also there.\n\n(Note: The sentence structure in Gitksan appears to be listing two groups — “Indian Agent and surveyors” — with “dimt ha'widinhl surveyors” meaning “and the surveyors” (possibly with “ha’widinhl” indicating “those” or “the ones”), and “dim suwii huudindiithl surveyors” meaning “and also the surveyors” — perhaps emphasizing their presence or role. The translation renders this as a simple listing of presence, since the original lacks explicit verbs of action beyond being “there.”)\n\nAlternatively, if we want to preserve the nuance of “also” or “in addition,” a slightly more descriptive translation might be:\n\n“The Indian Agent and the surveyors were there, and also the surveyors were there.”\n\nBut given the redundancy, a more natural English rendering would be:\n\n**The Indian Agent and the surveyors were there.**\n\nHowever, since the original Gitksan sentence explicitly repeats “surveyors” twice with “dim” (meaning “also” or “and also”), it may be intended to emphasize their presence — perhaps to indicate that both the Indian Agent and the surveyors",
+      "raw": "The Indian Agent and the surveyors were there, and the surveyors were also there.\n\n(Note: The sentence structure in Gitksan appears to be listing two groups — “Indian Agent and surveyors” — with “dimt ha'widinhl surveyors” meaning “and the surveyors” (possibly with “ha’widinhl” indicating “those” or “the ones”), and “dim suwii huudindiithl surveyors” meaning “and also the surveyors” — perhaps emphasizing their presence or role. The translation renders this as a simple listing of presence, since the original lacks explicit verbs of action beyond being “there.”)\n\nAlternatively, if we want to preserve the nuance of “also” or “in addition,” a slightly more descriptive translation might be:\n\n“The Indian Agent and the surveyors were there, and also the surveyors were there.”\n\nBut given the redundancy, a more natural English rendering would be:\n\n**The Indian Agent and the surveyors were there.**\n\nHowever, since the original Gitksan sentence explicitly repeats “surveyors” twice with “dim” (meaning “also” or “and also”), it may be intended to emphasize their presence — perhaps to indicate that both the Indian Agent and the surveyors",
+      "extracted": "The Indian Agent and the surveyors were there, and the surveyors were also there.\n\n(Note: The sentence structure in Gitksan appears to be listing two groups — “Indian Agent and surveyors” — with “dimt ha'widinhl surveyors” meaning “and the surveyors” (possibly with “ha’widinhl” indicating “those” or “the ones”), and “dim suwii huudindiithl surveyors” meaning “and also the surveyors” — perhaps emphasizing their presence or role. The translation renders this as a simple listing of presence, since the original lacks explicit verbs of action beyond being “there.”)\n\nAlternatively, if we want to preserve the nuance of “also” or “in addition,” a slightly more descriptive translation might be:\n\n“The Indian Agent and the surveyors were there, and also the surveyors were there.”\n\nBut given the redundancy, a more natural English rendering would be:\n\n**The Indian Agent and the surveyors were there.**\n\nHowever, since the original Gitksan sentence explicitly repeats “surveyors” twice with “dim” (meaning “also” or “and also”), it may be intended to emphasize their presence — perhaps to indicate that both the Indian Agent and the surveyors",
+      "raw_span": [
+        0,
+        1141
+      ],
+      "extracted_span": [
+        0,
+        1141
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 12,
+      "source": "Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.",
+      "reference": "Even though Kitwancool said they did not want the reserve, the surveyors (apparently) came back.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The translation of the Gitksan sentence:\n\n**Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.**\n\nis:\n\n**“Well, the wild ones are the ones who need the reserve, and the surveyors are the ones who are going to take it.”**\n\n---\n\n### Breakdown and Justification:\n\n- **Way** — “Well” (introductory particle, often used to begin a statement or to indicate a shift in topic or tone).\n- **ts'ax̲ wildiihl** — “the wild ones” (ts’ax̲ = wild, wildiihl = plural noun marker, often used for “those who are wild” or “the wild ones”).\n- **hehl Gitwinhlguu'l** — “are the ones who” (hehl = “they are”, Gitwinhlguu'l = “the ones who” — a relative clause marker indicating “who/that”).\n- **ii needii** — “need” (ii = “they”, needii = “need” — verb form indicating necessity).\n- **has",
+      "raw": "The translation of the Gitksan sentence:\n\n**Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.**\n\nis:\n\n**“Well, the wild ones are the ones who need the reserve, and the surveyors are the ones who are going to take it.”**\n\n---\n\n### Breakdown and Justification:\n\n- **Way** — “Well” (introductory particle, often used to begin a statement or to indicate a shift in topic or tone).\n- **ts'ax̲ wildiihl** — “the wild ones” (ts’ax̲ = wild, wildiihl = plural noun marker, often used for “those who are wild” or “the wild ones”).\n- **hehl Gitwinhlguu'l** — “are the ones who” (hehl = “they are”, Gitwinhlguu'l = “the ones who” — a relative clause marker indicating “who/that”).\n- **ii needii** — “need” (ii = “they”, needii = “need” — verb form indicating necessity).\n- **has",
+      "extracted": "The translation of the Gitksan sentence:\n\n**Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.**\n\nis:\n\n**“Well, the wild ones are the ones who need the reserve, and the surveyors are the ones who are going to take it.”**\n\n---",
+      "raw_span": [
+        0,
+        824
+      ],
+      "extracted_span": [
+        0,
+        282
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 13,
+      "source": "Ii sit'aa'mam depdiithl hlidaaxhl hlgu lax̲ ha'niijok̲.",
+      "reference": "They started measuring out the little settlement.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The stranger took off his blanket because it was hot.",
+      "raw": "The stranger took off his blanket because it was hot.",
+      "extracted": "The stranger took off his blanket because it was hot.",
+      "raw_span": [
+        0,
+        53
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 14,
+      "source": "Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.\"",
+      "reference": "So they stood by and watched after they told the surveyors, \"It will not be right that you start.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan sentence “Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, 'Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.'” translates to English as:\n\n**“Ii al’alg̲altg̲athl gyet hlis hediit ehl surveyors, ‘Neemdii hogyax̲ dim wilsi’m jidaa sit’aa’masi’m.’”**\n\n→ **“It’s the surveyors’ turn to take off the blanket, ‘Indeed, it’s very hot when he comes out.’”**\n\n---\n\n### Breakdown:\n\n- **Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors**  \n  → “It’s the surveyors’ turn to take off the blanket”  \n  - *Ii* = “It’s” / “It is” (CL.CNJ, indicating a turn or moment)  \n  - *al’alg̲altg̲athl* = “to take off” (from *al’alg̲alt* = “to take off”, *",
+      "raw": "The Gitksan sentence “Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, 'Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.'” translates to English as:\n\n**“Ii al’alg̲altg̲athl gyet hlis hediit ehl surveyors, ‘Neemdii hogyax̲ dim wilsi’m jidaa sit’aa’masi’m.’”**\n\n→ **“It’s the surveyors’ turn to take off the blanket, ‘Indeed, it’s very hot when he comes out.’”**\n\n---\n\n### Breakdown:\n\n- **Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors**  \n  → “It’s the surveyors’ turn to take off the blanket”  \n  - *Ii* = “It’s” / “It is” (CL.CNJ, indicating a turn or moment)  \n  - *al’alg̲altg̲athl* = “to take off” (from *al’alg̲alt* = “to take off”, *",
+      "extracted": "The Gitksan sentence “Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, 'Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.'” translates to English as:\n\n**“Ii al’alg̲altg̲athl gyet hlis hediit ehl surveyors, ‘Neemdii hogyax̲ dim wilsi’m jidaa sit’aa’masi’m.’”**\n\n→ **“It’s the surveyors’ turn to take off the blanket, ‘Indeed, it’s very hot when he comes out.’”**\n\n---",
+      "raw_span": [
+        0,
+        646
+      ],
+      "extracted_span": [
+        0,
+        368
+      ],
+      "rule": "preserve+cut_explanation",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 15,
+      "source": "Ii k̲'ap g̲aniwila yukwhl surveyors.",
+      "reference": "But the surveyors continued.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Ii k̲'ap g̲aniwila yukwhl surveyors.\n\nTranslation:  \n**I (the one who) took away the blanket from the surveyors.**\n\n---\n\n**Explanation:**\n\n- **Ii** = I (subject, 1st person singular)\n- **k̲'ap** = take (verb, past tense, 1st person singular, with object marker)\n- **g̲aniwila** = blanket (noun, 3rd person, plural, or “the blanket” — contextually, it may refer to “the blanket(s)” or “the big blanket” as in the example)\n- **yukwhl** = from (preposition, indicating source or origin)\n- **surveyors** = surveyors (English loanword, retained as is)\n\nThe structure “Ii k̲'ap g̲aniwila yukwhl surveyors” follows the pattern of “I took the blanket from the surveyors.” The verb “k̲'ap” is likely the past tense of “to take,” and “g̲aniwila” is the object (blanket), with “yukwhl” indicating the source (“from the survey",
+      "raw": "Ii k̲'ap g̲aniwila yukwhl surveyors.\n\nTranslation:  \n**I (the one who) took away the blanket from the surveyors.**\n\n---\n\n**Explanation:**\n\n- **Ii** = I (subject, 1st person singular)\n- **k̲'ap** = take (verb, past tense, 1st person singular, with object marker)\n- **g̲aniwila** = blanket (noun, 3rd person, plural, or “the blanket” — contextually, it may refer to “the blanket(s)” or “the big blanket” as in the example)\n- **yukwhl** = from (preposition, indicating source or origin)\n- **surveyors** = surveyors (English loanword, retained as is)\n\nThe structure “Ii k̲'ap g̲aniwila yukwhl surveyors” follows the pattern of “I took the blanket from the surveyors.” The verb “k̲'ap” is likely the past tense of “to take,” and “g̲aniwila” is the object (blanket), with “yukwhl” indicating the source (“from the survey",
+      "extracted": "Ii k̲'ap g̲aniwila yukwhl surveyors.\n\nTranslation:  \n**I (the one who) took away the blanket from the surveyors.**\n\n---\n\n**Explanation:**\n\n- **Ii** = I (subject, 1st person singular)\n- **k̲'ap** = take (verb, past tense, 1st person singular, with object marker)\n- **g̲aniwila** = blanket (noun, 3rd person, plural, or “the blanket” — contextually, it may refer to “the blanket(s)” or “the big blanket” as in the example)\n- **yukwhl** = from (preposition, indicating source or origin)\n- **surveyors** = surveyors (English loanword, retained as is)\n\nThe structure “Ii k̲'ap g̲aniwila yukwhl surveyors” follows the pattern of “I took the blanket from the surveyors.” The verb “k̲'ap” is likely the past tense of “to take,” and “g̲aniwila” is the object (blanket), with “yukwhl” indicating the source (“from the survey",
+      "raw_span": [
+        0,
+        814
+      ],
+      "extracted_span": [
+        0,
+        814
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 16,
+      "source": "Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"",
+      "reference": "One chief gathered together some people of the village, and they said \"We will oppose (them) and we will chase them away.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Well, then the stranger took off his big blanket, because it was hot. He said, “It’s getting hot, it’s getting really hot.”",
+      "raw": "Well, then the stranger took off his big blanket, because it was hot. He said, “It’s getting hot, it’s getting really hot.”",
+      "extracted": "Well, then the stranger took off his big blanket, because it was hot. He said, “It’s getting hot, it’s getting really hot.”",
+      "raw_span": [
+        0,
+        123
+      ],
+      "extracted_span": [
+        0,
+        123
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 17,
+      "source": "\"Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.\"",
+      "reference": "\"We will want the support of young men to help us.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The stranger took off his blanket because it was hot, since the wind was blowing so much.",
+      "raw": "The stranger took off his blanket because it was hot, since the wind was blowing so much.",
+      "extracted": "The stranger took off his blanket because it was hot, since the wind was blowing so much.",
+      "raw_span": [
+        0,
+        89
+      ],
+      "extracted_span": [
+        0,
+        89
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 18,
+      "source": "Way 'nithl wildiit.",
+      "reference": "And that's what they did.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The stranger came away.\n\n(Note: Based on the context and grammar patterns provided, “Way 'nithl wildiit” likely means “The stranger came away” — “way” = “stranger,” “'nithl” = “away” (as in “away” from a place or situation), and “wildiit” = “come” or “arrive” in the past tense, with “wildiit” possibly being a variant or form of “widiit” meaning “come” or “arrive.” However, given the structure and the provided examples, “wildiit” may be a misrendering or variant of “widiit” or “widiit=hl” — but in context, “way 'nithl wildiit” most plausibly translates to “The stranger came away.”)\n\nAlternatively, if “wildiit” is meant to be “widiit” (come), and “'nithl” is “away,” then “way 'nithl wildiit” = “The stranger came away.”\n\n✅ Final translation: **The stranger came away.**",
+      "raw": "The stranger came away.\n\n(Note: Based on the context and grammar patterns provided, “Way 'nithl wildiit” likely means “The stranger came away” — “way” = “stranger,” “'nithl” = “away” (as in “away” from a place or situation), and “wildiit” = “come” or “arrive” in the past tense, with “wildiit” possibly being a variant or form of “widiit” meaning “come” or “arrive.” However, given the structure and the provided examples, “wildiit” may be a misrendering or variant of “widiit” or “widiit=hl” — but in context, “way 'nithl wildiit” most plausibly translates to “The stranger came away.”)\n\nAlternatively, if “wildiit” is meant to be “widiit” (come), and “'nithl” is “away,” then “way 'nithl wildiit” = “The stranger came away.”\n\n✅ Final translation: **The stranger came away.**",
+      "extracted": "The stranger came away.\n\n(Note: Based on the context and grammar patterns provided, “Way 'nithl wildiit” likely means “The stranger came away” — “way” = “stranger,” “'nithl” = “away” (as in “away” from a place or situation), and “wildiit” = “come” or “arrive” in the past tense, with “wildiit” possibly being a variant or form of “widiit” meaning “come” or “arrive.” However, given the structure and the provided examples, “wildiit” may be a misrendering or variant of “widiit” or “widiit=hl” — but in context, “way 'nithl wildiit” most plausibly translates to “The stranger came away.”)\n\nAlternatively, if “wildiit” is meant to be “widiit” (come), and “'nithl” is “away,” then “way 'nithl wildiit” = “The stranger came away.”\n\n✅ Final translation: **The stranger came away.**",
+      "raw_span": [
+        0,
+        776
+      ],
+      "extracted_span": [
+        0,
+        776
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 19,
+      "source": "Iit hapdiithl surveyors.",
+      "reference": "They mobbed the surveyors.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The surveyors are here.\n\n(Note: The Gitksan sentence “Iit hapdiithl surveyors” appears to be a nominal phrase or clause where “Iit” likely means “they” or “the ones,” “hapdiithl” is a form of “surveyors” (possibly a plural or agentive form), and the structure suggests a statement identifying or introducing the surveyors as present. Given the context and typical Gitksan syntax, the most natural English translation is “The surveyors are here” or “They [the surveyors] are here.” However, since “Iit” may be a pronoun meaning “they,” and “hapdiithl” is the noun “surveyors,” the translation is best rendered as “The surveyors are here.”)\n\nAlternatively, if “Iit” is meant to be “they” and the sentence is declarative, “They are the surveyors” or “The surveyors are here” are both plausible. But given the structure and the likely intent to indicate presence, “The surveyors are here” is the most natural and grammatically appropriate translation.)",
+      "raw": "The surveyors are here.\n\n(Note: The Gitksan sentence “Iit hapdiithl surveyors” appears to be a nominal phrase or clause where “Iit” likely means “they” or “the ones,” “hapdiithl” is a form of “surveyors” (possibly a plural or agentive form), and the structure suggests a statement identifying or introducing the surveyors as present. Given the context and typical Gitksan syntax, the most natural English translation is “The surveyors are here” or “They [the surveyors] are here.” However, since “Iit” may be a pronoun meaning “they,” and “hapdiithl” is the noun “surveyors,” the translation is best rendered as “The surveyors are here.”)\n\nAlternatively, if “Iit” is meant to be “they” and the sentence is declarative, “They are the surveyors” or “The surveyors are here” are both plausible. But given the structure and the likely intent to indicate presence, “The surveyors are here” is the most natural and grammatically appropriate translation.)",
+      "extracted": "The surveyors are here.\n\n(Note: The Gitksan sentence “Iit hapdiithl surveyors” appears to be a nominal phrase or clause where “Iit” likely means “they” or “the ones,” “hapdiithl” is a form of “surveyors” (possibly a plural or agentive form), and the structure suggests a statement identifying or introducing the surveyors as present. Given the context and typical Gitksan syntax, the most natural English translation is “The surveyors are here” or “They [the surveyors] are here.” However, since “Iit” may be a pronoun meaning “they,” and “hapdiithl” is the noun “surveyors,” the translation is best rendered as “The surveyors are here.”)\n\nAlternatively, if “Iit” is meant to be “they” and the sentence is declarative, “They are the surveyors” or “The surveyors are here” are both plausible. But given the structure and the likely intent to indicate presence, “The surveyors are here” is the most natural and grammatically appropriate translation.)",
+      "raw_span": [
+        0,
+        948
+      ],
+      "extracted_span": [
+        0,
+        948
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 20,
+      "source": "Iit dok̲diithl andeba'a, tape dip siwedit.",
+      "reference": "They took the measuring tape (what we call tape in English).",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The stranger took off his blanket, and then he got cold.",
+      "raw": "The stranger took off his blanket, and then he got cold.",
+      "extracted": "The stranger took off his blanket, and then he got cold.",
+      "raw_span": [
+        0,
+        56
+      ],
+      "extracted_span": [
+        0,
+        56
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 21,
+      "source": "Dok̲diithl anooya'a, surveyors equipment siwedihl anooya'ahl surveyors.",
+      "reference": "They took the tools, surveyors' equipment, what the surveyors' tools were called.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The surveyors’ equipment is being used by the surveyors.",
+      "raw": "The surveyors’ equipment is being used by the surveyors.",
+      "extracted": "The surveyors’ equipment is being used by the surveyors.",
+      "raw_span": [
+        0,
+        56
+      ],
+      "extracted_span": [
+        0,
+        56
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 22,
+      "source": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.",
+      "reference": "And they completely chopped it up with axes.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The stranger took off his blanket because it was hot.",
+      "raw": "The stranger took off his blanket because it was hot.",
+      "extracted": "The stranger took off his blanket because it was hot.",
+      "raw_span": [
+        0,
+        53
+      ],
+      "extracted_span": [
+        0,
+        53
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 23,
+      "source": "Iit huudindiithl surveyors.",
+      "reference": "And they chased away the surveyors.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The surveyors are here.\n\n(Note: The Gitksan sentence “Iit huudindiithl surveyors” appears to be a mixed construction — possibly a gloss or a transliteration with English words appended. Based on Gitksan grammar and the structure, “Iit” likely means “they” or “these,” “huudindiithl” is likely a noun phrase meaning “surveyors,” and the English word “surveyors” is appended for clarification. However, in standard Gitksan, the sentence would be more naturally rendered as “Iit huudindiithl” meaning “The surveyors are here” or “These are the surveyors,” depending on context. Since the English word “surveyors” is included, it’s likely meant to be a gloss or a transliteration with English terms for clarity. The most natural English translation is:)\n\n**The surveyors are here.**\n\nAlternatively, if “Iit huudindiithl” is meant to be a noun phrase with “surveyors” as a gloss, then:\n\n**These are the surveyors.**\n\nBut given the structure and the likely intent to translate the Gitksan phrase into English, the most accurate and natural translation is:\n\n✅ **The surveyors are",
+      "raw": "The surveyors are here.\n\n(Note: The Gitksan sentence “Iit huudindiithl surveyors” appears to be a mixed construction — possibly a gloss or a transliteration with English words appended. Based on Gitksan grammar and the structure, “Iit” likely means “they” or “these,” “huudindiithl” is likely a noun phrase meaning “surveyors,” and the English word “surveyors” is appended for clarification. However, in standard Gitksan, the sentence would be more naturally rendered as “Iit huudindiithl” meaning “The surveyors are here” or “These are the surveyors,” depending on context. Since the English word “surveyors” is included, it’s likely meant to be a gloss or a transliteration with English terms for clarity. The most natural English translation is:)\n\n**The surveyors are here.**\n\nAlternatively, if “Iit huudindiithl” is meant to be a noun phrase with “surveyors” as a gloss, then:\n\n**These are the surveyors.**\n\nBut given the structure and the likely intent to translate the Gitksan phrase into English, the most accurate and natural translation is:\n\n✅ **The surveyors are",
+      "extracted": "The surveyors are here.\n\n(Note: The Gitksan sentence “Iit huudindiithl surveyors” appears to be a mixed construction — possibly a gloss or a transliteration with English words appended. Based on Gitksan grammar and the structure, “Iit” likely means “they” or “these,” “huudindiithl” is likely a noun phrase meaning “surveyors,” and the English word “surveyors” is appended for clarification. However, in standard Gitksan, the sentence would be more naturally rendered as “Iit huudindiithl” meaning “The surveyors are here” or “These are the surveyors,” depending on context. Since the English word “surveyors” is included, it’s likely meant to be a gloss or a transliteration with English terms for clarity. The most natural English translation is:)\n\n**The surveyors are here.**\n\nAlternatively, if “Iit huudindiithl” is meant to be a noun phrase with “surveyors” as a gloss, then:\n\n**These are the surveyors.**\n\nBut given the structure and the likely intent to translate the Gitksan phrase into English, the most accurate and natural translation is:\n\n✅ **The surveyors are",
+      "raw_span": [
+        0,
+        1072
+      ],
+      "extracted_span": [
+        0,
+        1072
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 24,
+      "source": "Needii 'nakwt ii bakwhl police.",
+      "reference": "Not long after, the police came.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "I can’t do it, because the police are here.",
+      "raw": "I can’t do it, because the police are here.",
+      "extracted": "I can’t do it, because the police are here.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 25,
+      "source": "Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.",
+      "reference": "They arrested people who they thought were around there when they destroyed the surveyors' tools.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan sentence:  \n**Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.**\n\n### Translation:\n**They decided that the surveyors would take the land, because they were the strongest.**\n\n---\n\n### Breakdown (based on grammar patterns and context):\n\n- **Gidiidok̲diithl** — “They decided” (from *gidiidok̲diithl* = “they decided” — *gidiidok̲* = “to decide”, *-diithl* = 3PL.II CNJ)\n- **naahl** — “that” (clausal connector)\n- **g̲ay** — “the” (definite article)\n- **ha'niig̲ootdiit** — “surveyors” (from *ha’niig̲oot* = “surveyor”, *-diit* = plural)\n- **huksxwit** — “would take” (from *huksxwit* = “to take",
+      "raw": "The Gitksan sentence:  \n**Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.**\n\n### Translation:\n**They decided that the surveyors would take the land, because they were the strongest.**\n\n---\n\n### Breakdown (based on grammar patterns and context):\n\n- **Gidiidok̲diithl** — “They decided” (from *gidiidok̲diithl* = “they decided” — *gidiidok̲* = “to decide”, *-diithl* = 3PL.II CNJ)\n- **naahl** — “that” (clausal connector)\n- **g̲ay** — “the” (definite article)\n- **ha'niig̲ootdiit** — “surveyors” (from *ha’niig̲oot* = “surveyor”, *-diit* = plural)\n- **huksxwit** — “would take” (from *huksxwit* = “to take",
+      "extracted": "The Gitksan sentence:  \n**Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.**\n\n### Translation:\n**They decided that the surveyors would take the land, because they were the strongest.**\n\n---\n\n### Breakdown (based on grammar patterns and context):\n\n- **Gidiidok̲diithl** — “They decided” (from *gidiidok̲diithl* = “they decided” — *gidiidok̲* = “to decide”, *-diithl* = 3PL.II CNJ)\n- **naahl** — “that” (clausal connector)\n- **g̲ay** — “the” (definite article)\n- **ha'niig̲ootdiit** — “surveyors” (from *ha’niig̲oot* = “surveyor”, *-diit* = plural)\n- **huksxwit** — “would take” (from *huksxwit* = “to take",
+      "raw_span": [
+        0,
+        666
+      ],
+      "extracted_span": [
+        0,
+        666
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 26,
+      "source": "Iit luuwendindiit.",
+      "reference": "And they jailed them.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Iit luuwendindiit.  \nEnglish translation: **He is going to be cold.**\n\n---\n\n**Explanation:**\n\nThe phrase “Iit luuwendindiit” can be broken down as:\n\n- **Iit** = 3rd person singular subject pronoun (he/she/it) — often used for “he” in context.\n- **luuwendindiit** = verb phrase meaning “to be cold” or “will be cold” — derived from *luuwend* (cold) + *-indiit* (future tense marker, often used for “will be” or “is going to be”).\n\nIn the provided grammar passage, similar constructions appear, such as:\n\n> “iːt saːˈɡuːtdiːtɬ gʷIˈlaɬ / lIxsˈɡʲadIt” — “he was cold”  \n> “iː ɬa aːmɬ ɢaˈˀnaɡʷut iː iː het / neː ap ˈɬɡuxʷsInˀj / neːˈdiːt” — “he said, ‘I am cold’”\n\nAlso, in the passage:",
+      "raw": "Iit luuwendindiit.  \nEnglish translation: **He is going to be cold.**\n\n---\n\n**Explanation:**\n\nThe phrase “Iit luuwendindiit” can be broken down as:\n\n- **Iit** = 3rd person singular subject pronoun (he/she/it) — often used for “he” in context.\n- **luuwendindiit** = verb phrase meaning “to be cold” or “will be cold” — derived from *luuwend* (cold) + *-indiit* (future tense marker, often used for “will be” or “is going to be”).\n\nIn the provided grammar passage, similar constructions appear, such as:\n\n> “iːt saːˈɡuːtdiːtɬ gʷIˈlaɬ / lIxsˈɡʲadIt” — “he was cold”  \n> “iː ɬa aːmɬ ɢaˈˀnaɡʷut iː iː het / neː ap ˈɬɡuxʷsInˀj / neːˈdiːt” — “he said, ‘I am cold’”\n\nAlso, in the passage:",
+      "extracted": "Iit luuwendindiit.  \nEnglish translation: **He is going to be cold.**\n\n---\n\n**Explanation:**\n\nThe phrase “Iit luuwendindiit” can be broken down as:\n\n- **Iit** = 3rd person singular subject pronoun (he/she/it) — often used for “he” in context.\n- **luuwendindiit** = verb phrase meaning “to be cold” or “will be cold” — derived from *luuwend* (cold) + *-indiit* (future tense marker, often used for “will be” or “is going to be”).\n\nIn the provided grammar passage, similar constructions appear, such as:\n\n> “iːt saːˈɡuːtdiːtɬ gʷIˈlaɬ / lIxsˈɡʲadIt” — “he was cold”  \n> “iː ɬa aːmɬ ɢaˈˀnaɡʷut iː iː het / neː ap ˈɬɡuxʷsInˀj / neːˈdiːt” — “he said, ‘I am cold’”\n\nAlso, in the passage:",
+      "raw_span": [
+        0,
+        680
+      ],
+      "extracted_span": [
+        0,
+        680
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 27,
+      "source": "Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.",
+      "reference": "After the police took away the men who destroyed the surveyors' tools, the Kitwancool people still objected.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan sentence:  \n**Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.**\n\nTranslation:  \n**The police have come to arrest the surveyors, because they are the ones who are taking land from the Gitwinhlguu people.**\n\n---\n\n### Notes on Translation:\n\n- **Hlist** = “The” (definite article)\n- **disekshl** = “police” (plural, with the suffix -shl indicating plural or collective)\n- **policehl** = “police” (noun, possibly with a locative or emphatic suffix)\n- **gyet** = “have come” (perfective aspect, from *gyet* = “to come”)\n- **ent** = “to” or “for” (preposition indicating purpose or direction)\n- **sim** = “they” (3rd person plural subject)\n- **kwhlii** = “to arrest” (verb, causative or action-oriented)\n- **hisyetshl** = “the ones",
+      "raw": "The Gitksan sentence:  \n**Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.**\n\nTranslation:  \n**The police have come to arrest the surveyors, because they are the ones who are taking land from the Gitwinhlguu people.**\n\n---\n\n### Notes on Translation:\n\n- **Hlist** = “The” (definite article)\n- **disekshl** = “police” (plural, with the suffix -shl indicating plural or collective)\n- **policehl** = “police” (noun, possibly with a locative or emphatic suffix)\n- **gyet** = “have come” (perfective aspect, from *gyet* = “to come”)\n- **ent** = “to” or “for” (preposition indicating purpose or direction)\n- **sim** = “they” (3rd person plural subject)\n- **kwhlii** = “to arrest” (verb, causative or action-oriented)\n- **hisyetshl** = “the ones",
+      "extracted": "The Gitksan sentence:  \n**Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.**\n\nTranslation:  \n**The police have come to arrest the surveyors, because they are the ones who are taking land from the Gitwinhlguu people.**\n\n---\n\n### Notes on Translation:\n\n- **Hlist** = “The” (definite article)\n- **disekshl** = “police” (plural, with the suffix -shl indicating plural or collective)\n- **policehl** = “police” (noun, possibly with a locative or emphatic suffix)\n- **gyet** = “have come” (perfective aspect, from *gyet* = “to come”)\n- **ent** = “to” or “for” (preposition indicating purpose or direction)\n- **sim** = “they” (3rd person plural subject)\n- **kwhlii** = “to arrest” (verb, causative or action-oriented)\n- **hisyetshl** = “the ones",
+      "raw_span": [
+        0,
+        811
+      ],
+      "extracted_span": [
+        0,
+        811
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 28,
+      "source": "\"K̲'ap dim sg̲asgitxu'm.\"",
+      "reference": "\"We will absolutely oppose it.\"",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "“Okay, it’s your turn to take the blanket off the stranger.”",
+      "raw": "“Okay, it’s your turn to take the blanket off the stranger.”",
+      "extracted": "“Okay, it’s your turn to take the blanket off the stranger.”",
+      "raw_span": [
+        0,
+        60
+      ],
+      "extracted_span": [
+        0,
+        60
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 29,
+      "source": "Ii luuwenhl ligi gwilunima'ahl simgigyet g̲o'ohl Oakalla Prison siwetxwsit.",
+      "reference": "And there were maybe three chiefs who were jailed at what was known as Oakalla Prison.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "A little while later, the stranger took off his blanket because it was hot when he came out of Oakalla Prison.",
+      "raw": "A little while later, the stranger took off his blanket because it was hot when he came out of Oakalla Prison.",
+      "extracted": "A little while later, the stranger took off his blanket because it was hot when he came out of Oakalla Prison.",
+      "raw_span": [
+        0,
+        110
+      ],
+      "extracted_span": [
+        0,
+        110
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 30,
+      "source": "Ligi t'imisima'ahl k'uuhl luuwendiit.",
+      "reference": "It wasn't recorded how many years they were incarcerated.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The stranger tried to take off his blanket.",
+      "raw": "The stranger tried to take off his blanket.",
+      "extracted": "The stranger tried to take off his blanket.",
+      "raw_span": [
+        0,
+        43
+      ],
+      "extracted_span": [
+        0,
+        43
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 31,
+      "source": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.",
+      "reference": "While these chiefs were in prison, the surveyors returned.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The stranger held his blanket back tightly because he was cold, since the wind was blowing so much.  \nSo a while later, the wind said, “He said:  \n‘Okay, it’s your turn to take the blanket off the stranger.’”  \nWell, so then the sun started and it got really hot when he came out.  \nA little while later, the stranger took off his big blanket, because it was hot.  \nThe wind said:  \n“Okay, it’s your turn to take the blanket off the stranger.”  \n\n—\n\n**Final Translation:**\n\n**Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.**\n\n→ **The stranger held his blanket back tightly because he was cold, since the wind was blowing so much. So a while later, the wind said, “He said: ‘Okay, it’s your turn to take the blanket off the stranger.’” Well, so then the sun started and it got really hot when he came out. A little while later, the stranger took off his big blanket, because it was hot. The wind said: “Okay, it’s your turn to take the blanket off the stranger.”**\n\n—\n\n**Note:** The",
+      "raw": "The stranger held his blanket back tightly because he was cold, since the wind was blowing so much.  \nSo a while later, the wind said, “He said:  \n‘Okay, it’s your turn to take the blanket off the stranger.’”  \nWell, so then the sun started and it got really hot when he came out.  \nA little while later, the stranger took off his big blanket, because it was hot.  \nThe wind said:  \n“Okay, it’s your turn to take the blanket off the stranger.”  \n\n—\n\n**Final Translation:**\n\n**Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.**\n\n→ **The stranger held his blanket back tightly because he was cold, since the wind was blowing so much. So a while later, the wind said, “He said: ‘Okay, it’s your turn to take the blanket off the stranger.’” Well, so then the sun started and it got really hot when he came out. A little while later, the stranger took off his big blanket, because it was hot. The wind said: “Okay, it’s your turn to take the blanket off the stranger.”**\n\n—\n\n**Note:** The",
+      "extracted": "The stranger held his blanket back tightly because he was cold, since the wind was blowing so much.  \nSo a while later, the wind said, “He said:  \n‘Okay, it’s your turn to take the blanket off the stranger.’”  \nWell, so then the sun started and it got really hot when he came out.  \nA little while later, the stranger took off his big blanket, because it was hot.  \nThe wind said:  \n“Okay, it’s your turn to take the blanket off the stranger.”  \n\n—\n\n**Final Translation:**\n\n**Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.**\n\n→ **The stranger held his blanket back tightly because he was cold, since the wind was blowing so much. So a while later, the wind said, “He said: ‘Okay, it’s your turn to take the blanket off the stranger.’” Well, so then the sun started and it got really hot when he came out. A little while later, the stranger took off his big blanket, because it was hot. The wind said: “Okay, it’s your turn to take the blanket off the stranger.”**\n\n—\n\n**Note:** The",
+      "raw_span": [
+        0,
+        1005
+      ],
+      "extracted_span": [
+        0,
+        1005
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 32,
+      "source": "Way ii sim dit'e'lt iit depdiithl hlguts'uusxhl lax̲ ha'niiyip gi'namihl Indian Agent tun ehl hli gyedihl Gitwinhlguu'l.",
+      "reference": "They hurriedly measured out the tiny reserve that the Indian Agent gave Kitwancool.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Indian Agent, who was in charge of the Gitwinhlguu’l, said, “Okay, it’s your turn to take the blanket off the stranger.”",
+      "raw": "The Indian Agent, who was in charge of the Gitwinhlguu’l, said, “Okay, it’s your turn to take the blanket off the stranger.”",
+      "extracted": "The Indian Agent, who was in charge of the Gitwinhlguu’l, said, “Okay, it’s your turn to take the blanket off the stranger.”",
+      "raw_span": [
+        0,
+        124
+      ],
+      "extracted_span": [
+        0,
+        124
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 33,
+      "source": "\"One mile by one mile,\" diphiida 'nuu'm.",
+      "reference": "\"It's one mile by one mile,\" we said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "“One mile by one mile,” said the speaker.",
+      "raw": "“One mile by one mile,” said the speaker.",
+      "extracted": "“One mile by one mile,” said the speaker.",
+      "raw_span": [
+        0,
+        41
+      ],
+      "extracted_span": [
+        0,
+        41
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 34,
+      "source": "G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.",
+      "reference": "Because the surveyors were so afraid, the villagers say today that they should not have made a surveyor's reserve.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "The Gitksan sentence:\n\n**G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.**\n\n### Translation:\n**The surveyors, who are from the Gitwinhlguu’l (Gitksan) territory, need to be assigned to the surveyor’s reserve.**\n\n---\n\n### Breakdown and Notes:\n\n- **G̲asg̲oohl** — “surveyors” (plural of *gasg̲oohl*, meaning “those who survey” or “surveyors”)\n- **lax̲bits'iixwhl** — likely a locative or descriptive phrase meaning “from the Gitwinhlguu’l territory” or “of the Gitwinhlguu’l people” — *lax̲bits’iixwhl* may be a locative form indicating origin or affiliation.\n- **ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gy",
+      "raw": "The Gitksan sentence:\n\n**G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.**\n\n### Translation:\n**The surveyors, who are from the Gitwinhlguu’l (Gitksan) territory, need to be assigned to the surveyor’s reserve.**\n\n---\n\n### Breakdown and Notes:\n\n- **G̲asg̲oohl** — “surveyors” (plural of *gasg̲oohl*, meaning “those who survey” or “surveyors”)\n- **lax̲bits'iixwhl** — likely a locative or descriptive phrase meaning “from the Gitwinhlguu’l territory” or “of the Gitwinhlguu’l people” — *lax̲bits’iixwhl* may be a locative form indicating origin or affiliation.\n- **ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gy",
+      "extracted": "The Gitksan sentence:\n\n**G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.**\n\n### Translation:\n**The surveyors, who are from the Gitwinhlguu’l (Gitksan) territory, need to be assigned to the surveyor’s reserve.**\n\n---\n\n### Breakdown and Notes:\n\n- **G̲asg̲oohl** — “surveyors” (plural of *gasg̲oohl*, meaning “those who survey” or “surveyors”)\n- **lax̲bits'iixwhl** — likely a locative or descriptive phrase meaning “from the Gitwinhlguu’l territory” or “of the Gitwinhlguu’l people” — *lax̲bits’iixwhl* may be a locative form indicating origin or affiliation.\n- **ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gy",
+      "raw_span": [
+        0,
+        700
+      ],
+      "extracted_span": [
+        0,
+        700
+      ],
+      "rule": "preserve_unclear_prefix",
+      "ambiguous_extraction": true,
+      "truncation": "unknown",
+      "explanation_heading_count": 1
+    },
+    {
+      "index": 35,
+      "source": "Needii gu ji t'amdiit, diyehl het.",
+      "reference": "They never signed anything, they said.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "A little while later, the stranger took off his big blanket, because it was hot.",
+      "raw": "A little while later, the stranger took off his big blanket, because it was hot.",
+      "extracted": "A little while later, the stranger took off his big blanket, because it was hot.",
+      "raw_span": [
+        0,
+        80
+      ],
+      "extracted_span": [
+        0,
+        80
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    },
+    {
+      "index": 36,
+      "source": "'Nihl g̲abit.",
+      "reference": "That's it.",
+      "status": "ok",
+      "parser_version": "mtob-response-views-1.0.0",
+      "response_field": "initial_response",
+      "original_response": "Okay, it’s your turn.",
+      "raw": "Okay, it’s your turn.",
+      "extracted": "Okay, it’s your turn.",
+      "raw_span": [
+        0,
+        21
+      ],
+      "extracted_span": [
+        0,
+        21
+      ],
+      "rule": "preserve",
+      "ambiguous_extraction": false,
+      "truncation": "unknown",
+      "explanation_heading_count": 0
+    }
+  ]
+}
