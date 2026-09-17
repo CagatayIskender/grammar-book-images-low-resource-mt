@@ -1,0 +1,12 @@
+{
+  "qwen3_context_chain_gloss": {
+    "bleu": 1.1891591072021055,
+    "chrf": 17.223864565610373,
+    "xcomet": null
+  },
+  "records": 445,
+  "expected_records": 445,
+  "invalid_outputs": 1,
+  "results_sha256": "0bd55027939157c9b43f2c4e97bb0b0a5962195e37ba67c13aeb85d3a6b6985f",
+  "fingerprint": "8462d26e6b1c88f0b180f5698fb39ab3d559d411da71e8c933145fa1bf9ca186"
+}

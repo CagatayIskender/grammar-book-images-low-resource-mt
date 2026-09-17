@@ -1,0 +1,13 @@
+{
+  "excluded_nodes": ["lrz-hgx-h100-015", "lrz-hgx-h100-026"],
+  "tsez_generation_jobs": ["5790319", "5790320", "5790321", "5790322", "5790323", "5790324", "5790325", "5790326"],
+  "baseline_jobs": {"Lezgi":"5790327", "Natugu":"5790328", "Tsez":"5790329"},
+  "significance_job": "5790331",
+  "significance_output": "docs/statistical_significance/2026-09-15_retry",
+  "xcomet_job": "5790332",
+  "dependency": "afterany:5790319:5790320:5790321:5790322:5790323:5790324:5790325:5790326:5790327:5790328:5790329",
+  "gpu_count_per_generation_or_xcomet_job": 1,
+  "generation_dtype": "float32",
+  "images_changed": false,
+  "reason": "Retry zero-output jobs on different nodes; retain generation-error outputs and existing reports."
+}

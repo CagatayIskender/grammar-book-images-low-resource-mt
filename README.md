@@ -1,6 +1,23 @@
 # GRAMMAMT Experiments
 
-Start with [the experiment catalog](docs/experiment_catalog.tsv). It lists exact
+**Final thesis starting point:** [Thesis guide, decisions and limitations](THESIS_GUIDE.md).
+The guide links the visual experiment matrix and current queue/condition status.
+
+As verified on 2026-09-17, the primary `matched_v1` matrix is complete:
+Qwen3, Qwen3.5 and Gemini each have 117/117 conditions, with validated basic
+metrics, XCOMET-XL and paired significance analyses. Luna is excluded from the
+primary thesis comparison; its historical artifacts are retained, not deleted.
+See the [final completion audit](docs/matched_v1/completion_audit_2026-09-17.md).
+
+For the current thesis comparisons, start with the
+[matched-ablation protocol](docs/matched_v1/README.md) and its
+[live condition catalog](docs/matched_v1/experiment_catalog.tsv).
+Tsez uses 445 examples for Qwen3/Qwen3.5 and the same first 99 for Gemini/Luna;
+cross-model analysis uses the common 99. Luna's campaign budget is 4 USD.
+The matched family fixes prompts and decoding across materials within each
+model/method, and never repairs a prompt based on a failed response.
+
+The earlier [experiment catalog](docs/experiment_catalog.tsv) lists exact
 materials, model, language, condition, dataset count, job, result and metric paths.
 Machine-readable configurations live in `configs/experiments/`.
 
@@ -12,7 +29,10 @@ Machine-readable configurations live in `configs/experiments/`.
 | `materials/legacy` | Earlier screenshots and summaries |
 | `materials/curated_v1` | Frozen new-materials collection, including Cyrillic |
 | `runners/{baseline,qwen3,qwen35,openrouter}` | Model-specific legacy code and API code |
-| `runners/run_audited_context.py` | Current validated Qwen generation entry point |
+| `runners/run_audited_context.py` | Earlier repair runner and shared backend |
+| `runners/matched` | Frozen matched baseline/material generation and analysis |
+| `configs/matched_v1` | Matched cohorts, policies, hashes and job groups |
+| `docs/matched_v1` | Matched protocol, status, submissions and significance results |
 | `scripts/jobs/<model>` | Individual Slurm generation and preflight jobs |
 | `scripts/submit/{curated_v1,chain_gloss_v2,legacy}` | Separate experiment-family submissions |
 | `scripts/scoring` | GPU scoring, separate from generation |
@@ -36,7 +56,7 @@ Gitksan sources are `pdf1_brown` and `pdf2_rigsby`; other sources are `grammar`.
 Variants are `original` and `cyrillic`. Selected PDF images are unchanged:
 Gitksan PDF1=9, PDF2=6, Lezgi=9, Natugu=9, Tsez=9.
 
-## List, Validate, Submit
+## Earlier Repair Campaign
 
 Run from the GRAMMAMT directory. Listing does not call Slurm or a paid API.
 
@@ -47,8 +67,8 @@ python3 -m unittest discover -s tests -v
 python3 runners/score_verified.py --targets configs/lezgi_missing_xcomet.json --dry-run
 ```
 
-Every GPU job requests **one H100 only**. Current Qwen generation is FP32,
-batch size one, greedy, maximum 512 generated tokens, thinking disabled, with no
+Every GPU job requests **one H100 only**. The original audited repair setup used FP32,
+batch size one, greedy decoding, maximum 512 generated tokens, thinking disabled, with no
 CPU offload or quantization. Preflight jobs request one hour. Generation requests
 four hours, or ten for Tsez; scoring requests five hours.
 
@@ -62,9 +82,10 @@ sbatch scripts/scoring/run_lezgi_missing_xcomet.sh
 
 Language wrappers also exist for Lezgi, Tsez, Lezgi Cyrillic, Gitksan PDF1 and
 Gitksan PDF2. Ordinary curated jobs and corrected chain jobs are intentionally
-separate. The current repair campaign comprises **70 chain conditions + 5 output
-repairs**, not all 210 catalog entries. Successful Shot/ModelGloss experiments
-do not need another generation run.
+separate. The earlier repair campaign comprised **70 chain conditions + 5 output
+repairs**, not all 210 catalog entries. Historical successful Shot/ModelGloss
+outputs are preserved. The newer matched family may require fresh controls
+and material runs when the earlier prompts/settings do not form matched pairs.
 
 Full submissions require a successful, current single-H100 FP32 preflight.
 Unsupported attention kernels and CUDA OOM fail visibly; they do not trigger

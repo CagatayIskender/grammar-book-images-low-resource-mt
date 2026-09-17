@@ -123,6 +123,8 @@ def build_prompt(
             f"\nHere is a grammar reference summary for {language}. "
             f"Use it as supporting context:\n{grammar_text}\n"
         )
+    elif context_kind == "none":
+        context = ""
     else:
         context = "\nThe attached images are pages from a grammar reference for this language.\n"
 
@@ -133,7 +135,8 @@ def build_prompt(
     user = (
         f"Here are some examples of {language} sentences and their corresponding English translations:\n"
         f"{shots}{context}\n"
-        "Use the grammar reference as supporting context.\n"
+        + ("Use the grammar reference as supporting context.\n" if context_kind != "none" else "")
+        +
         f"{OUTPUT_INSTRUCTION}\n\n"
         f"{language} sentence: {source}\n"
         f"{gloss_context}{FINAL_PREFIX}"
@@ -366,6 +369,8 @@ def experiment_fingerprint(args: argparse.Namespace, image_paths: list[str]) -> 
         "max_tokens": args.max_tokens,
         "reasoning_effort": args.reasoning_effort,
     }
+    if getattr(args, "baseline", False):
+        payload["baseline"] = True
     encoded = json.dumps(payload, sort_keys=True).encode("utf-8")
     return hashlib.sha256(encoded).hexdigest()
 
@@ -379,6 +384,7 @@ def main() -> None:
     parser.add_argument("--test_n", type=int, required=True)
     parser.add_argument("--grammar_text_file", default="")
     parser.add_argument("--grammar_image_dir", default="")
+    parser.add_argument("--baseline", action="store_true", help="No grammar context; retain support examples and optional ModelGloss.")
     parser.add_argument("--model_gloss", action="store_true")
     parser.add_argument("--max_tokens", type=int, default=512)
     parser.add_argument("--temperature", type=float, default=0.0)
@@ -406,8 +412,8 @@ def main() -> None:
     if args.omit_temperature:
         args.temperature = None
 
-    if bool(args.grammar_text_file) == bool(args.grammar_image_dir):
-        raise ValueError("Set exactly one of --grammar_text_file or --grammar_image_dir")
+    if sum(map(bool, (args.baseline, args.grammar_text_file, args.grammar_image_dir))) != 1:
+        raise ValueError("Set exactly one of --baseline, --grammar_text_file or --grammar_image_dir")
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
         raise RuntimeError("OPENROUTER_API_KEY is not set")
@@ -421,7 +427,7 @@ def main() -> None:
     if len(test) != args.test_n:
         raise ValueError(f"Requested {args.test_n} tests but found {len(test)}")
 
-    context_kind = "text" if args.grammar_text_file else "image"
+    context_kind = "none" if args.baseline else ("text" if args.grammar_text_file else "image")
     grammar_text = load_context_text(args.grammar_text_file)
     image_paths, image_data_urls = load_image_data_urls(args.grammar_image_dir)
     predicted_glosses = None

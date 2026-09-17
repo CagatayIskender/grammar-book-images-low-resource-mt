@@ -1,0 +1,22 @@
+{
+  "gemini25flashlite": {
+    "bleu": 16.970846602725697,
+    "chrf": 36.95131889747486,
+    "xcomet": null
+  },
+  "model": "google/gemini-2.5-flash-lite",
+  "reasoning_effort": "none",
+  "temperature": 0.0,
+  "seed": 42,
+  "support_n": 21,
+  "test_n": 87,
+  "usage": {
+    "prompt_tokens": 117424,
+    "completion_tokens": 1076,
+    "total_tokens": 118500,
+    "cost": 0.012172800000000001
+  },
+  "comet_model_used": null,
+  "result_jsonl": "results/baseline/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_baseline.jsonl",
+  "runtime_seconds_this_invocation": 42.45829248428345
+}

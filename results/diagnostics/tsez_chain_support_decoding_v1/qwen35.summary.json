@@ -1,0 +1,40 @@
+{
+  "manifest_sha256": "54fdf10b553ac01819e323932d46d85d9b3a3fb2d66b40b6fdd28045989622db",
+  "arms": {
+    "covered_greedy": {
+      "records": 8,
+      "invalid": 3,
+      "truncated": 3,
+      "repetition_warnings": 3,
+      "gloss_chrf": 3.4262740931845457,
+      "chrf": 8.938965723317242
+    },
+    "uncovered_greedy": {
+      "records": 8,
+      "invalid": 4,
+      "truncated": 4,
+      "repetition_warnings": 3,
+      "gloss_chrf": 10.054772448419149,
+      "chrf": 7.119358353587944
+    },
+    "covered_sample": {
+      "records": 8,
+      "invalid": 0,
+      "truncated": 0,
+      "repetition_warnings": 0,
+      "gloss_chrf": 8.231930263784205,
+      "chrf": 13.397592420142374
+    },
+    "uncovered_sample": {
+      "records": 8,
+      "invalid": 1,
+      "truncated": 1,
+      "repetition_warnings": 0,
+      "gloss_chrf": 20.673819892870142,
+      "chrf": 14.864918217505032
+    }
+  },
+  "status": "diagnostic_complete",
+  "production_approved": false,
+  "peak_gpu_bytes": 45926507520
+}

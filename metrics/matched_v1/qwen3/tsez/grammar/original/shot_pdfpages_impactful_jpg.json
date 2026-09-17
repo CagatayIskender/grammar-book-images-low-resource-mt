@@ -1,0 +1,20 @@
+{
+  "translation": {
+    "bleu": 1.6201287750650313,
+    "chrf": 17.180390686212412,
+    "xcomet": 0.24005204546317627
+  },
+  "records": 445,
+  "errors": 0,
+  "empty": 0,
+  "missing_gloss": 0,
+  "fingerprint": "a713709d35b7a3665e6b3d927e9f078b769e6a7a71dcfe9a5e2b2c51a14fd616",
+  "results_sha256": "b0fce06e1a23ca1f9c5d6f3d91a6b670a5ee65212933504cc5d0453ceb230e0d",
+  "xcomet_provenance": {
+    "model": "Unbabel/XCOMET-XL",
+    "results_sha256": "b0fce06e1a23ca1f9c5d6f3d91a6b670a5ee65212933504cc5d0453ceb230e0d",
+    "records": 445,
+    "runtime_seconds": 51.480228662490845
+  },
+  "comet_model_used": "Unbabel/XCOMET-XL"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "qwen3_natugu_grammar_original_shot_pdfpages_impactful_jpg",
+    "job_id": "5780306",
+    "script": "scripts/jobs/qwen3/natugu/grammar/original/curated_v1/run_shot_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen3_natugu_grammar_original_modelgloss_pdfpages_impactful_jpg",
+    "job_id": "5780307",
+    "script": "scripts/jobs/qwen3/natugu/grammar/original/curated_v1/run_modelgloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_shot_pdfpages_impactful_jpg",
+    "status": "blocked_preflight"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg",
+    "job_id": "5780308",
+    "script": "scripts/jobs/qwen3/tsez/grammar/original/curated_v1/run_modelgloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg",
+    "job_id": "5780309",
+    "script": "scripts/jobs/qwen35/tsez/grammar/original/curated_v1/run_modelgloss_pdfpages_impactful_jpg.sh"
+  }
+]

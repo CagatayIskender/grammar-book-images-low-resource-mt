@@ -1,0 +1,116 @@
+{
+  "reason": "zero-record model-load OOM with other-process memory; retry on different node",
+  "excluded_nodes": "lrz-hgx-h100-026",
+  "files": [
+    {
+      "old": "results/preflight/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "3c5342819b2686ab7b01c50a5b41dff9595629e3b93ca8372c8df86ab66d7410"
+    },
+    {
+      "old": "results/preflight/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "f7a179a19f1aa29be2228482763cd50d622024de1e90e027d199a566861cbfbf"
+    },
+    {
+      "old": "results/preflight/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "6cbc3a9a1763e462149b6d0843199a58726ccd1dc0b85ac1e9604afb18157f8d"
+    },
+    {
+      "old": "results/preflight/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "8bb65cfab76d2bf9dd7d4671f3056b9501bf178c8aed11da9e17e3d54f714101"
+    },
+    {
+      "old": "results/preflight/qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "28f7e960ac6e82492d7dcef7d5cd6aded75a694b648ffa97d713aaeb4dc3e31d"
+    },
+    {
+      "old": "results/preflight/qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "d4aaad2793fe88fc6ca0e8fba3ece8f3207f237a8d94cb4aa0023033d747e48e"
+    },
+    {
+      "old": "results/preflight/qwen35_natugu_grammar_original_chain_gloss_cheatsheet_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_natugu_grammar_original_chain_gloss_cheatsheet_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "634203010b561c19c4fccc2dec0a9cb875f41eefd904a43fc2fa04d41ba6f38d"
+    },
+    {
+      "old": "results/preflight/qwen35_natugu_grammar_original_chain_gloss_cheatsheet_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_natugu_grammar_original_chain_gloss_cheatsheet_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "d532dc6d3470c42548f518b3c91c2b304f31a8c090f7a1323b1fe5281dec77f4"
+    },
+    {
+      "old": "results/preflight/qwen35_natugu_grammar_original_chain_gloss_cheatsheet_jpg_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_natugu_grammar_original_chain_gloss_cheatsheet_jpg_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "40d19b42967e0944e2df7f4229b11be11747e85db939a8c6d5411d3ebd585d5b"
+    },
+    {
+      "old": "results/preflight/qwen35_natugu_grammar_original_chain_gloss_cheatsheet_jpg_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_natugu_grammar_original_chain_gloss_cheatsheet_jpg_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "f297ac847c658dc7beaa9ddff08809d44e90de8324c13805fec75a5f43f013bc"
+    },
+    {
+      "old": "results/preflight/qwen35_natugu_grammar_original_chain_gloss_summary_tables_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_natugu_grammar_original_chain_gloss_summary_tables_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "4a16e448846df53d543aafd222db8468d57b9232bbb59b687cd80a8f806e6f37"
+    },
+    {
+      "old": "results/preflight/qwen35_natugu_grammar_original_chain_gloss_summary_tables_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_natugu_grammar_original_chain_gloss_summary_tables_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "687aed96cf143313acfcb5acc1950a84b639d2caa712ac04cdd46e56f5a6ad83"
+    },
+    {
+      "old": "results/preflight/qwen35_natugu_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_natugu_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "02a8931bb9403e16fd7f2401c96a52d7d92c9edfcaec9d3f7f37c46542594f3f"
+    },
+    {
+      "old": "results/preflight/qwen35_natugu_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_natugu_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "9a2a41f8c11cc22fbcf744c4b77595de5fb258483989373cf4aa600255838133"
+    },
+    {
+      "old": "results/preflight/qwen35_natugu_grammar_original_chain_gloss_summary_text_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_natugu_grammar_original_chain_gloss_summary_text_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "327b179bf29569e889364572b991c7e36c95d5bdb1d80f4f01bcd56b882a2683"
+    },
+    {
+      "old": "results/preflight/qwen35_natugu_grammar_original_chain_gloss_summary_text_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_natugu_grammar_original_chain_gloss_summary_text_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "98367009e25b838a617dcb9a2194e3f8e0c22e4c0b1a0814ae37a4d043a10010"
+    },
+    {
+      "old": "results/preflight/qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "685c3d384af1c77772c62cd347f4ba18ba0856d925976849f00510b4db2dbd72"
+    },
+    {
+      "old": "results/preflight/qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "84b13b7cb42a99b4ac2c7e41622c5472cefa59a8ef3401bcc0f6fd257175f41d"
+    },
+    {
+      "old": "results/preflight/qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "ff8fb1be09842d0050235a66aa48db7495c5cd1eea042dc6c27c7f5c48d94392"
+    },
+    {
+      "old": "results/preflight/qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "d49c6fdc69cd82b7e7b3482752ad4bd97d1b5a8dc7e625dc098b3870f3d675ba"
+    },
+    {
+      "old": "results/preflight/qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.status.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.status.json",
+      "sha256": "c9fcf4ffa8cc0ce07ea95c0516531d34acc444909c54195116cb4c2e6f173a6c"
+    },
+    {
+      "old": "results/preflight/qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.provenance.json",
+      "new": "archive/model_load_oom_1789336055790076124/qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg_efficient_gqa_v1_sampled_v1.provenance.json",
+      "sha256": "6b5945582f779be53eb9f62ecf3405792defd5185bc9cf2b322ef29349889e30"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "timestamp_utc": "2026-09-15T10:46:26.465191+00:00",
+  "plan": [
+    {
+      "old_job_id": "5790398",
+      "name": "matched_qwen35_gitksan_modelgloss",
+      "script": "scripts/jobs/matched_v1/qwen35_gitksan_modelgloss.sh",
+      "old_time": "10:00:00",
+      "new_time": "04:00:00",
+      "deadline_seconds": 12600,
+      "cancelled": true,
+      "new_job_id": "5790929"
+    },
+    {
+      "old_job_id": "5790399",
+      "name": "matched_qwen35_gitksan_shot",
+      "script": "scripts/jobs/matched_v1/qwen35_gitksan_shot.sh",
+      "old_time": "10:00:00",
+      "new_time": "04:00:00",
+      "deadline_seconds": 12600,
+      "cancelled": true,
+      "new_job_id": "5790930"
+    },
+    {
+      "old_job_id": "5790400",
+      "name": "matched_qwen35_lezgi_chain_gloss",
+      "script": "scripts/jobs/matched_v1/qwen35_lezgi_chain_gloss.sh",
+      "old_time": "10:00:00",
+      "new_time": "01:00:00",
+      "deadline_seconds": 3000,
+      "cancelled": true,
+      "new_job_id": "5790931"
+    },
+    {
+      "old_job_id": "5790401",
+      "name": "matched_qwen35_lezgi_modelgloss",
+      "script": "scripts/jobs/matched_v1/qwen35_lezgi_modelgloss.sh",
+      "old_time": "10:00:00",
+      "new_time": "06:00:00",
+      "deadline_seconds": 19800,
+      "cancelled": true,
+      "new_job_id": "5790932"
+    },
+    {
+      "old_job_id": "5790402",
+      "name": "matched_qwen35_lezgi_shot",
+      "script": "scripts/jobs/matched_v1/qwen35_lezgi_shot.sh",
+      "old_time": "10:00:00",
+      "new_time": "06:00:00",
+      "deadline_seconds": 19800,
+      "cancelled": true,
+      "new_job_id": "5790933"
+    },
+    {
+      "old_job_id": "5790403",
+      "name": "matched_qwen35_natugu_modelgloss",
+      "script": "scripts/jobs/matched_v1/qwen35_natugu_modelgloss.sh",
+      "old_time": "10:00:00",
+      "new_time": "06:00:00",
+      "deadline_seconds": 19800,
+      "cancelled": true,
+      "new_job_id": "5790934"
+    },
+    {
+      "old_job_id": "5790404",
+      "name": "matched_qwen35_natugu_shot",
+      "script": "scripts/jobs/matched_v1/qwen35_natugu_shot.sh",
+      "old_time": "10:00:00",
+      "new_time": "06:00:00",
+      "deadline_seconds": 19800,
+      "cancelled": true,
+      "new_job_id": "5790935"
+    },
+    {
+      "old_job_id": "5790408",
+      "name": "matched_qwen3_gitksan_chain_gloss",
+      "script": "scripts/jobs/matched_v1/qwen3_gitksan_chain_gloss.sh",
+      "old_time": "10:00:00",
+      "new_time": "01:00:00",
+      "deadline_seconds": 3000,
+      "cancelled": true,
+      "new_job_id": "5790936"
+    },
+    {
+      "old_job_id": "5790409",
+      "name": "matched_qwen3_gitksan_modelgloss",
+      "script": "scripts/jobs/matched_v1/qwen3_gitksan_modelgloss.sh",
+      "old_time": "10:00:00",
+      "new_time": "04:00:00",
+      "deadline_seconds": 12600,
+      "cancelled": true,
+      "new_job_id": "5790937"
+    },
+    {
+      "old_job_id": "5790410",
+      "name": "matched_qwen3_gitksan_shot",
+      "script": "scripts/jobs/matched_v1/qwen3_gitksan_shot.sh",
+      "old_time": "10:00:00",
+      "new_time": "04:00:00",
+      "deadline_seconds": 12600,
+      "cancelled": true,
+      "new_job_id": "5790938"
+    },
+    {
+      "old_job_id": "5790411",
+      "name": "matched_qwen3_lezgi_chain_gloss",
+      "script": "scripts/jobs/matched_v1/qwen3_lezgi_chain_gloss.sh",
+      "old_time": "10:00:00",
+      "new_time": "01:00:00",
+      "deadline_seconds": 3000,
+      "cancelled": true,
+      "new_job_id": "5790939"
+    },
+    {
+      "old_job_id": "5790412",
+      "name": "matched_qwen3_lezgi_modelgloss",
+      "script": "scripts/jobs/matched_v1/qwen3_lezgi_modelgloss.sh",
+      "old_time": "10:00:00",
+      "new_time": "06:00:00",
+      "deadline_seconds": 19800,
+      "cancelled": true,
+      "new_job_id": "5790940"
+    },
+    {
+      "old_job_id": "5790413",
+      "name": "matched_qwen3_lezgi_shot",
+      "script": "scripts/jobs/matched_v1/qwen3_lezgi_shot.sh",
+      "old_time": "10:00:00",
+      "new_time": "06:00:00",
+      "deadline_seconds": 19800,
+      "cancelled": true,
+      "new_job_id": "5790941"
+    },
+    {
+      "old_job_id": "5790414",
+      "name": "matched_qwen3_natugu_chain_gloss",
+      "script": "scripts/jobs/matched_v1/qwen3_natugu_chain_gloss.sh",
+      "old_time": "10:00:00",
+      "new_time": "01:00:00",
+      "deadline_seconds": 3000,
+      "cancelled": true,
+      "new_job_id": "5790942"
+    },
+    {
+      "old_job_id": "5790415",
+      "name": "matched_qwen3_natugu_modelgloss",
+      "script": "scripts/jobs/matched_v1/qwen3_natugu_modelgloss.sh",
+      "old_time": "10:00:00",
+      "new_time": "06:00:00",
+      "deadline_seconds": 19800,
+      "cancelled": true,
+      "new_job_id": "5790943"
+    },
+    {
+      "old_job_id": "5790416",
+      "name": "matched_qwen3_natugu_shot",
+      "script": "scripts/jobs/matched_v1/qwen3_natugu_shot.sh",
+      "old_time": "10:00:00",
+      "new_time": "06:00:00",
+      "deadline_seconds": 19800,
+      "cancelled": true,
+      "new_job_id": "5790944"
+    },
+    {
+      "old_job_id": "5790425",
+      "name": "matched_qwen3_tsez_shot_batch3",
+      "script": "scripts/jobs/matched_v1/qwen3_tsez_shot_batch3.sh",
+      "old_time": "10:00:00",
+      "new_time": "03:00:00",
+      "deadline_seconds": 9000,
+      "cancelled": true,
+      "new_job_id": "5790945"
+    },
+    {
+      "old_job_id": "5790430",
+      "name": "matched_qwen3_tsez_modelgloss_batch3",
+      "script": "scripts/jobs/matched_v1/qwen3_tsez_modelgloss_batch3.sh",
+      "old_time": "10:00:00",
+      "new_time": "03:00:00",
+      "deadline_seconds": 9000,
+      "cancelled": true,
+      "new_job_id": "5790946"
+    },
+    {
+      "old_job_id": "5790433",
+      "name": "matched_qwen35_tsez_shot_batch3",
+      "script": "scripts/jobs/matched_v1/qwen35_tsez_shot_batch3.sh",
+      "old_time": "10:00:00",
+      "new_time": "03:00:00",
+      "deadline_seconds": 9000,
+      "cancelled": true,
+      "new_job_id": "5790947"
+    },
+    {
+      "old_job_id": "5790438",
+      "name": "matched_qwen35_tsez_modelgloss_batch3",
+      "script": "scripts/jobs/matched_v1/qwen35_tsez_modelgloss_batch3.sh",
+      "old_time": "10:00:00",
+      "new_time": "03:00:00",
+      "deadline_seconds": 9000,
+      "cancelled": true,
+      "new_job_id": "5790948"
+    }
+  ],
+  "evaluation_job_ids": [
+    "5790450",
+    "5790449",
+    "5790448"
+  ],
+  "status": "complete",
+  "new_dependencies": [
+    "5790423",
+    "5790424",
+    "5790426",
+    "5790427",
+    "5790428",
+    "5790429",
+    "5790431",
+    "5790432",
+    "5790434",
+    "5790435",
+    "5790436",
+    "5790437",
+    "5790948",
+    "5790947",
+    "5790946",
+    "5790945",
+    "5790944",
+    "5790943",
+    "5790942",
+    "5790941",
+    "5790940",
+    "5790939",
+    "5790938",
+    "5790937",
+    "5790936",
+    "5790935",
+    "5790934",
+    "5790933",
+    "5790932",
+    "5790931",
+    "5790930",
+    "5790929"
+  ]
+}

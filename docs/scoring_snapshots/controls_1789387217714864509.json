@@ -1,0 +1,337 @@
+{
+  "targets": [
+    {
+      "language": "Gitksan",
+      "results": "results/baseline/qwen35/gitksan/grammar/original/chain_gloss_sampled_v1.jsonl",
+      "metrics": "metrics/baseline/qwen35/gitksan/grammar/original/chain_gloss_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/baseline/qwen35/gitksan/grammar/original/modelgloss_greedy.jsonl",
+      "metrics": "metrics/baseline/qwen35/gitksan/grammar/original/modelgloss_greedy.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/baseline/qwen35/gitksan/grammar/original/modelgloss_sampled_v1.jsonl",
+      "metrics": "metrics/baseline/qwen35/gitksan/grammar/original/modelgloss_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/baseline/qwen35/gitksan/grammar/original/shot_greedy.jsonl",
+      "metrics": "metrics/baseline/qwen35/gitksan/grammar/original/shot_greedy.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/baseline/qwen35/gitksan/grammar/original/shot_sampled_v1.jsonl",
+      "metrics": "metrics/baseline/qwen35/gitksan/grammar/original/shot_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen3/lezgi/grammar/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/lezgi/grammar/original/chain_gloss_cheatsheet_txt_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen3/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen3/lezgi/grammar/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/lezgi/grammar/original/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Natugu",
+      "results": "results/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_cheatsheet_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Natugu",
+      "results": "results/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_cheatsheet_txt_sampled_v1.json"
+    },
+    {
+      "language": "Natugu",
+      "results": "results/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_summary_tables_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Natugu",
+      "results": "results/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_summary_tables_txt_sampled_v1.json"
+    },
+    {
+      "language": "Natugu",
+      "results": "results/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Tsez",
+      "results": "results/chain_gloss_v2/qwen3/tsez/grammar/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen3/tsez/grammar/original/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt_sampled_v1.json"
+    },
+    {
+      "language": "Gitksan",
+      "results": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_cheatsheet_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_cheatsheet_txt_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_tables_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_tables_txt_sampled_v1.json"
+    },
+    {
+      "language": "Lezgi",
+      "results": "results/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Natugu",
+      "results": "results/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_cheatsheet_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Natugu",
+      "results": "results/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_cheatsheet_txt_sampled_v1.json"
+    },
+    {
+      "language": "Natugu",
+      "results": "results/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_summary_tables_jpg_sampled_v1.json"
+    },
+    {
+      "language": "Natugu",
+      "results": "results/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_summary_tables_txt_sampled_v1.json"
+    },
+    {
+      "language": "Natugu",
+      "results": "results/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Tsez",
+      "results": "results/chain_gloss_v2/qwen35/tsez/grammar/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "metrics": "metrics/chain_gloss_v2/qwen35/tsez/grammar/original/chain_gloss_summary_text_txt_sampled_v1.json"
+    },
+    {
+      "language": "Tsez",
+      "results": "results/curated_v1/qwen3/tsez/grammar/original/shot_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "metrics": "metrics/curated_v1/qwen3/tsez/grammar/original/shot_pdfpages_impactful_jpg_sampled_v1.json"
+    }
+  ],
+  "excluded": [
+    {
+      "path": "results/baseline/qwen35/gitksan/grammar/original/chain_gloss_greedy.jsonl",
+      "reason": "Incomplete, error-marked or unverified output"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen3/lezgi/grammar/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "reason": "Incomplete, error-marked or unverified output"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen3/lezgi/grammar/original/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "reason": "Incomplete, error-marked or unverified output"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen3/lezgi/grammar/original/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "reason": "Incomplete, error-marked or unverified output"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "reason": "Incomplete, error-marked or unverified output"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen3/tsez/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "reason": "Incomplete, error-marked or unverified output"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "reason": "Incomplete, error-marked or unverified output"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "reason": "Incomplete, error-marked or unverified output"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "reason": "Incomplete, error-marked or unverified output"
+    }
+  ]
+}

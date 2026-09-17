@@ -95,7 +95,7 @@ whole language. No further prompt/decoding change was made in this continuation.
 Other languages and the separate Shot/ModelGloss repairs have independent
 preflights; their validation can proceed without assuming Tsez chain succeeded.
 
-## Latest Submission Snapshot
+## Historical Submission Snapshot
 
 | Jobs | Purpose | GPUs per job | Requested time |
 | --- | --- | --- | --- |
@@ -122,12 +122,12 @@ and greedy/manufacturer sampling on eight disjoint development examples.
 They are one-H100 FP32 diagnostics, not full experiments or automatic production
 approval. Pending jobs and existing prompt/decoding defaults were not changed.
 
-Full generation has NOT been submitted, and the five missing outputs are NOT
-yet complete. The new submit tool will block production where the corresponding
+At that snapshot full generation had NOT been submitted, and the five missing
+outputs were not complete. The submit tool blocks production where the corresponding
 current FP32 preflight has not passed. Do not infer full-test results from the
 three-sentence preflight files.
 
-Once successful preflights exist:
+Historical greedy-runner commands (not the new sampled candidate):
 
 ```bash
 python3 scripts/submit_jobs.py --family chain_gloss_v2 --model qwen3 --group natugu --submit
@@ -140,3 +140,86 @@ stay within the Slurm submission limit. After all required outputs are complete,
 submit scripts/scoring/run_repair_xcomet.sh. Failed one-GPU FP32 preflights must
 be investigated; no automatic GPU-count, image-resolution or precision fallback
 is permitted. No API generation or GitHub push was performed.
+
+## Continuation After Diagnostic Completion
+
+See `docs/sampled_decoding_validation.md` for the measured four-arm comparison,
+the separate `sampled_v1` runner and the current submission list. The frozen
+greedy runner and diagnostic files were not edited.
+
+Four independently verified full repairs were submitted as 5780306-5780309.
+The failed Tsez Qwen3 Shot repair was correctly blocked by its original gate.
+Thirteen sampled preflights were submitted as 5780321-5780333, each requesting
+one H100 for one hour. Full sampled Chain generation remains blocked pending
+successful exact-condition validation. These are submission records, not claims
+that full outputs or final metrics have completed.
+
+## Continuation (2026-09-11)
+
+- Sampled preflights: 12/13 passed with current provenance and result hashes.
+  Qwen3.5 Tsez selected-page Chain failed: the longest source repeats gloss
+  fragments until 512 tokens in both attempts. This is not CUDA OOM.
+- Full ModelGloss repairs completed with matched dataset order and no recorded
+  output errors: Natugu Qwen3 99/99, Tsez Qwen3 445/445, Tsez Qwen3.5 445/445.
+- Natugu Qwen3 Shot wrote 99 records but two have truncated, repeated translations.
+  It is not an error-free result. Its failure cancelled dependent scorer 5780342.
+- Scoring was separated: 5784430 now scores only the three complete ModelGloss
+  outputs, requesting one H100 for five hours. No generation rerun for these.
+- Submitted 5784390-5784429: 39 Chain conditions plus the Tsez Qwen3 Shot repair.
+  Twelve already passed sampled validation; 28 must first pass their exact
+  condition's preflight in the job, then the runner independently checks that
+  gate before full generation. `set -e` stops failed validations.
+- Thirty additional Chain conditions remain unsubmitted for the next bounded
+  batch. The Qwen3.5 Tsez selected-page Chain is separately blocked and is not
+  silently retried. Natugu Shot's two failed greedy outputs are preserved;
+  no mixed-decoding row replacement was performed.
+
+Use `python3 scripts/submit_sampled_campaign.py --validate-first --max-jobs 20`
+to list the next batch. Add `--submit` only when queue capacity is available.
+The tool skips queued/completed conditions and blocks failed preflights or
+full outputs with errors. All jobs remain one H100, FP32, unchanged images;
+Tsez requests ten hours, other generation jobs four hours. New results use
+`_sampled_v1`. Generated shell scripts passed `bash -n`; sampled runner tests
+and campaign gate checks passed. No model runner was changed in this continuation.
+
+Successful operational checks do not establish gloss correctness. Keep the
+documented decoding confound when comparing sampled Chain to old greedy Shot.
+
+## September 13 Continuation and Baselines
+
+The 40-job batch produced 24 error-free full outputs and five full outputs with
+recorded generation failures. Eleven jobs stopped with zero records at model
+load on `lrz-hgx-h100-026`. Logs identify other processes 866820/866821 occupying
+approximately 76 GiB. This is distinct from an intrinsic context attention OOM;
+the process owner/cause has not been established. Scorer 5784430 completed in
+3:37 and filled the three previous ModelGloss repairs.
+
+The 11 zero-record load failures were archived with a hash manifest under
+`archive/model_load_oom_1789336055790076124/`. Their retry excludes that node,
+without changing FP32, image content or decoding. Jobs 5788166-5788206 comprise
+these 11 retries and the 30 previously unsubmitted conditions. The five recorded
+full-generation failures and the failed Tsez Qwen3.5 selected-page preflight
+remain blocked, not silently regenerated or replaced.
+
+At the user's additional request, four Qwen3.5 baseline suites were submitted:
+5788224 (Gitksan), 5788225 (Lezgi), 5788226 (Natugu), 5788227 (Tsez). Each suite
+contains Shot/ModelGloss/explicit Chain under greedy and sampled decoding, with
+no grammar context. Exactly one H100 per suite, sequential model reuse, FP32.
+Every condition needs its own initial preflight. See
+`docs/qwen35_baseline_significance.md` and the submission JSON for provenance.
+
+After those suites terminate, CPU job 5788229 applies paired sacreBLEU bootstrap
+tests to available same-model/same-policy Qwen3.5 pairs (and the Qwen3 snapshot),
+and one-H100 job 5788230 scores complete error-free baseline/sampled outputs with
+XCOMET. Partial baselines and failed outputs remain explicit exclusions. The
+analysis reports baseline coverage, not just successful tests. Latest queue
+check: all 47 submitted/dependent jobs were pending; no new baseline outputs
+existed yet. These are not claims of finished baseline metrics.
+
+The initial Qwen3 analysis completed: 326 metric comparisons, 10,000 paired
+bootstrap resamples, BLEU and chrF++, raw and Holm-adjusted p-values. Twenty-one
+positive differences have unadjusted p < .05, but zero positive differences
+survive the declared broad Holm correction. One negative difference survives.
+Do not equate a non-significant test with equivalence or proof of no effect.
+The report, raw tables and input hashes are under
+`docs/statistical_significance/2026-09-13/`.

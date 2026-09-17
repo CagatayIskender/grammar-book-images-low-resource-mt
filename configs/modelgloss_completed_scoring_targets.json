@@ -1,0 +1,17 @@
+[
+  {
+    "language": "Natugu",
+    "results": "results/curated_v1/qwen3/natugu/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen3/natugu/grammar/original/modelgloss_pdfpages_impactful_jpg.json"
+  },
+  {
+    "language": "Tsez",
+    "results": "results/curated_v1/qwen3/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen3/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.json"
+  },
+  {
+    "language": "Tsez",
+    "results": "results/curated_v1/qwen35/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/curated_v1/qwen35/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.json"
+  }
+]

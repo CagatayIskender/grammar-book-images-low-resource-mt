@@ -1,0 +1,12 @@
+{
+  "qwen35_context_modelgloss": {
+    "bleu": 14.529977490711172,
+    "chrf": 37.73950510526579,
+    "xcomet": null
+  },
+  "records": 99,
+  "expected_records": 99,
+  "invalid_outputs": 0,
+  "fingerprint": "c0edf1d8c19546477faaca90c23aecf072a05a0181d314c8083929f85882dfa8",
+  "results_sha256": "70d334d02f182d4a0b118b53abe03b5088b068a03f79d3ace52177aa3d52834f"
+}

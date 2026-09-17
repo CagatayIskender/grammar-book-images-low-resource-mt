@@ -1,0 +1,22 @@
+{
+  "gemini25flashlite_modelgloss": {
+    "bleu": 15.969531145186911,
+    "chrf": 39.55090997299129,
+    "xcomet": null
+  },
+  "model": "google/gemini-2.5-flash-lite",
+  "reasoning_effort": "none",
+  "temperature": 0.0,
+  "seed": 42,
+  "support_n": 21,
+  "test_n": 99,
+  "usage": {
+    "prompt_tokens": 137675,
+    "completion_tokens": 1550,
+    "total_tokens": 139225,
+    "cost": 0.014387500000000004
+  },
+  "comet_model_used": null,
+  "result_jsonl": "results/baseline/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_modelgloss_baseline.jsonl",
+  "runtime_seconds_this_invocation": 58.90994334220886
+}

@@ -1,0 +1,10 @@
+{
+  "generation": [
+    {"job_id":"5788224", "language":"Gitksan", "script":"scripts/jobs/qwen35/baseline/run_gitksan.sh", "conditions":6, "time_limit":"04:00:00"},
+    {"job_id":"5788225", "language":"Lezgi", "script":"scripts/jobs/qwen35/baseline/run_lezgi.sh", "conditions":6, "time_limit":"04:00:00"},
+    {"job_id":"5788226", "language":"Natugu", "script":"scripts/jobs/qwen35/baseline/run_natugu.sh", "conditions":6, "time_limit":"04:00:00"},
+    {"job_id":"5788227", "language":"Tsez", "script":"scripts/jobs/qwen35/baseline/run_tsez.sh", "conditions":6, "time_limit":"10:00:00"}
+  ],
+  "significance": {"job_id":"5788229", "script":"scripts/scoring/run_baseline_significance.sh", "dependency":"afterany:5788224:5788225:5788226:5788227", "gpu_count":0, "time_limit":"01:00:00"},
+  "xcomet": {"job_id":"5788230", "script":"scripts/scoring/run_completed_controls_xcomet.sh", "dependency":"afterany:5788224:5788225:5788226:5788227", "gpu_count":1, "time_limit":"05:00:00"}
+}

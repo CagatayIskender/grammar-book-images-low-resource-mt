@@ -1,0 +1,360 @@
+{
+  "model": "Qwen/Qwen3.5-9B",
+  "language": "Gitksan",
+  "condition": "modelgloss",
+  "policy": "greedy",
+  "test": [
+    {
+      "source": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.",
+      "gloss": "PROSP tell-T-TR-1SG.II MANR LVB-CN COMP in toward come.PL-CN PL-white-ATTR person LOC-CN inhabitants-1PL.II Kitwancool long.ago",
+      "reference": "I will tell about when the white men first came to Kitwancool long ago."
+    },
+    {
+      "source": "Ha'ondii 'nakw hlidaa bakwhl gyet dipun, ii sag̲aytg̲oodindiithl hli gyedihl Gitwinhlguu'l.",
+      "gloss": "not.yet-FOC long PART-SPT come.PL-CN person ASSOC-DEM.PROX CCNJ together-heart-CAUS2-3PL.II-CN PART person-T-CN Kitwancool",
+      "reference": "Not long after these people arrived, they gathered together the people of Kitwancool."
+    },
+    {
+      "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+      "gloss": "desire-3PL.II PROSP tell-3PL.II COMP INCEP PROSP new INS-on-dwell-3.II LOC-CN COMP sit-CN village-CN Kitwancool",
+      "reference": "They wanted to tell about the new place where the village of Kitwancool is to be."
+    },
+    {
+      "source": "'Nit sag̲ootxwhl government siwetdiit, ii dim 'nii wenhl dim jok̲hl aluugigyet g̲o'ohl lax̲ reserve siwetdiit.",
+      "gloss": "3.III CAUS1-heart-PASS-CN government CAUS1-name-T-3PL.II CCNJ PROSP on sit.PL-CN PROSP live-CN plainly-PL-people LOC-CN on reserve CAUS1-name-T-3PL.II",
+      "reference": "The plan of the so-called government was that they will have Indian people live on a so-called reserve."
+    },
+    {
+      "source": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"",
+      "gloss": "what REAS-be/do-3.II QUOT.3SG-CN PART people-T-CN Gitwinhlguu'l PREP-CN on dwell-1PL.II LOC-CN land-1PL.II LOC-PN-DEM.PROX",
+      "reference": "\"Why?\" the people of Kitwancool asked. \"We live on our land, here.\""
+    },
+    {
+      "source": "Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.",
+      "gloss": "CCNJ hear-3PL.II COMP PROSP come.PL-CN CAUS1-name-T-3PL.II PREP-CN surveyors",
+      "reference": "They heard that what they call surveyors were coming."
+    },
+    {
+      "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+      "gloss": "so PROSP-FOC measure-3PL.II-CN DISTR-long-SX-CN perimeter PROSP COMP leave-CN reserve CAUS1-name-PASS-QUDD",
+      "reference": "They will measure out the length of the perimeter of what is called the reserve."
+    },
+    {
+      "source": "Ii aam win ky'ax̲ hehl Gitwinhlguu'l dim 'wiit'is, dim wag̲ayt jog̲o daa'whl g̲o'ohl k'i'yhl sg̲a'nist, dim ii lok̲'on daa'whl g̲o'ohl k'i'yhl aks, g̲o'ohl Ksen, 'nii g̲a'wayit k̲'ali daa'whl g̲o'ohl Meji'aadin. 'Nithl hasak̲diithl reserve.",
+      "gloss": "CCNJ good COMP unanimously say-CN Kitwancool PROSP big-large PROSP completely across leave LOC-CN one-CN mountain PROSP CCNJ into.low.plane leave LOC-CN one-CN river LOC-CN Skeena.river on DISTR-find-SX upstream leave LOC-CN Mejiaadin 3.III-CN want-3PL.II-CN reserve",
+      "reference": "The people agreed that they wanted a big reserve which would encompass mountains starting from the Skeena all the way up to Meji'aadin. They wanted that for a reserve."
+    },
+    {
+      "source": "Way ii needii hehl Indian Agendima'a, siwetxwit ehl Indian Agent, ent sag̲aytg̲oodinhl gyet, sag̲aytwendiit.",
+      "gloss": "so CCNJ NEG-FOC say-CN Indian Agent-EPIS CAUS1-name-PASS-SX PREP-CN Indian Agent AX-3.I together-heart-CAUS2-CN people together-sit.PL-3PL.II",
+      "reference": "The Indian Agent disagreed, the so-called Indian Agent who gathered the people together for the meeting."
+    },
+    {
+      "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+      "gloss": "CCNJ on COMP say-CN PART person-T-CN Kitwancool IRR-SPT NEG-IRR LVB-2PL.II so CCNJ NEG-PROSP-FOC want-1PL.II PREP-CN only small-little-CN land-CN PROSP in make-TR-2PL.II",
+      "reference": "And the people of the village Kitwancool said, \"If you don't do that, then we don't want you to carve out a very small reserve.\""
+    },
+    {
+      "source": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+      "gloss": "so though LBV-3.II-like-CN say-CN Kitwancool CCNJ NEG-FOC want-3PL.II PREP-CN reserve NEG-FOC want-1PL.II PROSP 1PL.I away give-CN territory-1PL.II QUOT.3PL",
+      "reference": "And now even though the people of Kitwancool said they did not want the little reserve; \"We don't want to give away our land,\" they said."
+    },
+    {
+      "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+      "gloss": "CCNJ say-3PL.II-REPORT PREP-CN Indian Agent PROSP-3.I stop-CAUS2-CN surveyors PROSP away flee-CAUS2-3PL.II-CN surveyors",
+      "reference": "And they told the Indian Agent to stop the surveyors; they will chase away the surveyors."
+    },
+    {
+      "source": "Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.",
+      "gloss": "so though LVB-3.II-like-CN say-CN Gitwinhlguu'l CCNJ NEG-FOC want-3PL.II-CN reserve CCNJ just-again come.PL-3.II-REPORT-CN surveyors",
+      "reference": "Even though Kitwancool said they did not want the reserve, the surveyors (apparently) came back."
+    },
+    {
+      "source": "Ii sit'aa'mam depdiithl hlidaaxhl hlgu lax̲ ha'niijok̲.",
+      "gloss": "CCNJ CAUS1-sit-1PL.II-ATTR measure-3PL.II-CN circumference-CN little on INS-on-live",
+      "reference": "They started measuring out the little settlement."
+    },
+    {
+      "source": "Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.\"",
+      "gloss": "CCNJ PL-watch-3.II-REPORT-CN person PFV say-3PL.II PREP-CN surveyors NEG-2.I-FOC right PROSP LVB-2PL.II IRR-SPT CAUS1-sit-DETR-2PL.II",
+      "reference": "So they stood by and watched after they told the surveyors, \"It will not be right that you start.\""
+    },
+    {
+      "source": "Ii k̲'ap g̲aniwila yukwhl surveyors.",
+      "gloss": "CCNJ VER continually-MANR do-CN surveyors",
+      "reference": "But the surveyors continued."
+    },
+    {
+      "source": "Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"",
+      "gloss": "so CCNJ together-heart-CAUS2-CN one.HUM-CN chief PART person-T-CN Kitwancool CCNJ say-3PL.II PROSP block.way-lie-PASS-TR-1PL.II PROSP away run.away-CAUS2-1PL.II 3PL.III",
+      "reference": "One chief gathered together some people of the village, and they said \"We will oppose (them) and we will chase them away.\""
+    },
+    {
+      "source": "\"Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.\"",
+      "gloss": "CCNJ want-1PL.II PROSP near stand-PASS-CN still grow-ATTR man PROSP AX-3.I help-1PL.II",
+      "reference": "\"We will want the support of young men to help us.\""
+    },
+    {
+      "source": "Way 'nithl wildiit.",
+      "gloss": "so 3.III-CN LVB-3PL.II",
+      "reference": "And that's what they did."
+    },
+    {
+      "source": "Iit hapdiithl surveyors.",
+      "gloss": "CCNJ-3.I swarm-3PL.II-CN surveyors",
+      "reference": "They mobbed the surveyors."
+    },
+    {
+      "source": "Iit dok̲diithl andeba'a, tape dip siwedit.",
+      "gloss": "CCNJ-3.I take.PL-3PL.II-CN NMLZ-measure-DETR tape 1PL.I CAUS1-name-T-3.II",
+      "reference": "They took the measuring tape (what we call tape in English)."
+    },
+    {
+      "source": "Dok̲diithl anooya'a, surveyors equipment siwedihl anooya'ahl surveyors.",
+      "gloss": "take.PL-3PL.II-CN NMLZ-use-DETR surveyors equipment CAUS1-name-T-CN NMLZ-use-DETR-CN surveyors",
+      "reference": "They took the tools, surveyors' equipment, what the surveyors' tools were called."
+    },
+    {
+      "source": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.",
+      "gloss": "CCNJ-3.I truly all.over PL-chop-3PL.II PREP-CN axe",
+      "reference": "And they completely chopped it up with axes."
+    },
+    {
+      "source": "Iit huudindiithl surveyors.",
+      "gloss": "CCNJ-3.I run.away-CAUS2-3PL.II-CN surveyors",
+      "reference": "And they chased away the surveyors."
+    },
+    {
+      "source": "Needii 'nakwt ii bakwhl police.",
+      "gloss": "NEG-FOC long-3.II CCNJ come.PL-CN police",
+      "reference": "Not long after, the police came."
+    },
+    {
+      "source": "Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.",
+      "gloss": "stop.in.motion-take.PL-3PL.II-CN who-CN CNTR thought-3PL.II accompany-ANTIP-SX PREP-CN COMP truly all.over PL-empty-CAUS2-3PL.II-CN NMLZ-use-DETR-CN surveyors",
+      "reference": "They arrested people who they thought were around there when they destroyed the surveyors' tools."
+    },
+    {
+      "source": "Iit luuwendindiit.",
+      "gloss": "CCNJ-3.I in-sit.PL-CAUS2-3PL.II",
+      "reference": "And they jailed them."
+    },
+    {
+      "source": "Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.",
+      "gloss": "PFV-3.I COM-leave.PL-CN police-CN people AX-3.I truly completely PL-chop-CN NMLZ-use-DETR-CN surveyors CCNJ continually 3.III-CN say-CN PART person-T-CN Kitwancool",
+      "reference": "After the police took away the men who destroyed the surveyors' tools, the Kitwancool people still objected."
+    },
+    {
+      "source": "\"K̲'ap dim sg̲asgitxu'm.\"",
+      "gloss": "VER PROSP block-lie.on-PASS-TR-1PL.II",
+      "reference": "\"We will absolutely oppose it.\""
+    },
+    {
+      "source": "Ii luuwenhl ligi gwilunima'ahl simgigyet g̲o'ohl Oakalla Prison siwetxwsit.",
+      "gloss": "CCNJ in-sit.PL-CN DWID three.HUM-EPIS-CN true-PL-person LOC-CN Oakalla Prison CAUS1-name-PASS-QUDD",
+      "reference": "And there were maybe three chiefs who were jailed at what was known as Oakalla Prison."
+    },
+    {
+      "source": "Ligi t'imisima'ahl k'uuhl luuwendiit.",
+      "gloss": "DWID write-EPIS-CN year in-sit.PL-3PL.II",
+      "reference": "It wasn't recorded how many years they were incarcerated."
+    },
+    {
+      "source": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.",
+      "gloss": "so CCNJ IPFV-CN in-sit.PL-CN true-PL-person ASSOC-DEM.PROX CCNJ just-again come.PL-CN surveyors",
+      "reference": "While these chiefs were in prison, the surveyors returned."
+    },
+    {
+      "source": "Way ii sim dit'e'lt iit depdiithl hlguts'uusxhl lax̲ ha'niiyip gi'namihl Indian Agent tun ehl hli gyedihl Gitwinhlguu'l.",
+      "gloss": "so CCNJ truly DUR-hurry-3PL.II CCNJ-3.I measure-3PL.II-CN small-little-CN on INS-on-earth give-TR-CN Indian Agent DM-DEM.PROX PREP-CN PART person-T-CN Kitwancool",
+      "reference": "They hurriedly measured out the tiny reserve that the Indian Agent gave Kitwancool."
+    },
+    {
+      "source": "\"One mile by one mile,\" diphiida 'nuu'm.",
+      "gloss": "one mile by one mile QUOT.1PL 1PL.III",
+      "reference": "\"It's one mile by one mile,\" we said."
+    },
+    {
+      "source": "G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.",
+      "gloss": "MS.AMT-CN afraid.PL-CN surveyors CCNJ VER 3.III-CN REAS-COMP-CN say-CN Kitwancool now NEG-FOC CIRC.NECC-PROSP-FOC around sit-T-CN surveyors reserve",
+      "reference": "Because the surveyors were so afraid, the villagers say today that they should not have made a surveyor's reserve."
+    },
+    {
+      "source": "Needii gu ji t'amdiit, diyehl het.",
+      "gloss": "NEG-FOC what IRR mark-3PL.II QUOT.3SG-CN say-3.II",
+      "reference": "They never signed anything, they said."
+    },
+    {
+      "source": "'Nihl g̲abit.",
+      "gloss": "3.III-CN CNT.AMT-3.II",
+      "reference": "That's it."
+    }
+  ],
+  "support": [
+    {
+      "source": "'Nakwhl hlidaa 'wihl wili'y g̲oohl wag̲ayt andoosda wil jok̲hl amxsiwaa.",
+      "gloss": "",
+      "reference": "A long time ago, I lived overseas where the white people lived."
+    },
+    {
+      "source": "Ii na 'wahl anhahla'lst g̲oohl Stockholm sawatdiit.",
+      "gloss": "",
+      "reference": "And I found work in Stockholm, that's what they call it."
+    },
+    {
+      "source": "Ii hahla'lsdi'y g̲oohl IBM.",
+      "gloss": "",
+      "reference": "And I worked for IBM."
+    },
+    {
+      "source": "Ii hlaa k'i'yhl k'uuhl ii na sdilhl ansiip'insxwi'y g̲anhl nakst g̲oohl wag̲ayt Spain 'wayi'm.",
+      "gloss": "",
+      "reference": "After one year, my friend and her husband and I traveled all the way to Spain."
+    },
+    {
+      "source": "Ii hlaa guxws luu yaltxu'm ii basax̲xu'm g̲oohl Denmark.",
+      "gloss": "",
+      "reference": "And on the way back we separated in Denmark."
+    },
+    {
+      "source": "Ii na yuxwhl train ii yee'y g̲oohl Stockholm.",
+      "gloss": "",
+      "reference": "And I took the train and I went to Stockholm."
+    },
+    {
+      "source": "Ii hlaa bagu'm g̲oohl Stockholm ii ha'wi'y.",
+      "gloss": "",
+      "reference": "And we arrived in Stockholm and I went home."
+    },
+    {
+      "source": "Ii 'nakwhl 'wihl wili'm, gwila'lhl g̲anuutxw, g̲an wihl needii lax̲'nisxwi'y g̲oohl Gigeenix.",
+      "gloss": "",
+      "reference": "And we were away a long time, three weeks, and that's why I didn't hear from Gigeenix."
+    },
+    {
+      "source": "Ii yee'y g̲oohl anhahla'lsdi'y.",
+      "gloss": "",
+      "reference": "And I went to my work."
+    },
+    {
+      "source": "Ap yukwhl ha'niisgwaa'ytxw.",
+      "gloss": "",
+      "reference": "But it was Sunday."
+    },
+    {
+      "source": "Ii neediit naa dim 'witxwit.",
+      "gloss": "",
+      "reference": "And no one would be there."
+    },
+    {
+      "source": "Ii yee'y loot nii dok̲hl mail'y.",
+      "gloss": "",
+      "reference": "And I went there and I got my mail."
+    },
+    {
+      "source": "Ii hlag̲ook̲ dim ha'wi'y ii ky'aa isxwi'y g̲oohl wilp xseek̲.",
+      "gloss": "",
+      "reference": "And before I went home I had a short pee in the bathroom."
+    },
+    {
+      "source": "Ii daayimaahl wili'y g̲an wina sg̲at'akwhl aats'ip.",
+      "gloss": "",
+      "reference": "And I don't know why I locked the door."
+    },
+    {
+      "source": "Ii hlaa yukwhl dim xsawi'y ii needii 'nim k̲'ak̲hl aats'ip.",
+      "gloss": "",
+      "reference": "And I was going to go out but the door didn't want to open."
+    },
+    {
+      "source": "Ii xsi hlguxwsxwi'y, ii lip ligi agwihl bag̲a'y, ii ap neet.",
+      "gloss": "",
+      "reference": "And I couldn't get out, and whatever I tried I couldn't get out."
+    },
+    {
+      "source": "Ii k̲'aa 'nii giihli'y lax̲ ha'niiwan.",
+      "gloss": "",
+      "reference": "And I laid on the floor for a while."
+    },
+    {
+      "source": "Ak̲hl ligi 'wihl he'y.",
+      "gloss": "",
+      "reference": "I didn't know what to think."
+    },
+    {
+      "source": "Ii 'nii yatshl pipe-- nii gya'a wil sgihl pipe aloohl ha'niiyo'oxsxw.",
+      "gloss": "",
+      "reference": "And I hit the pipe-- I saw there was a pipe on the sink."
+    },
+    {
+      "source": "Nii xhlii guut iin yatshl pole loot, upja ligi 'wihl wihl ligit naa.",
+      "gloss": "",
+      "reference": "And I took it apart, and I hit the pole with the pipe in case anybody was around."
+    },
+    {
+      "source": "Ii neediit naa ji 'witxwit.",
+      "gloss": "",
+      "reference": "But no one came."
+    }
+  ],
+  "grammar_context": null,
+  "dtype": "float32",
+  "gpu_count": 1,
+  "attention": "efficient_gqa_v1",
+  "enable_thinking": false,
+  "max_new_tokens": 512,
+  "max_attempts": 2,
+  "seed": 20260910,
+  "sampling": {
+    "do_sample": false
+  },
+  "code_hashes": {
+    "runners/run_qwen35_baselines.py": "793d1c2a6ef8e015a33cf5ca2df827bf557e45985fad3bd8d879e8cd9329964b",
+    "runners/run_sampled_context.py": "12b97c6beeb42ae304236b0ebcba2b6278bb20570dadadfdde712fe64d05cbe4",
+    "runners/run_audited_context.py": "1aedf2f7b360dfbf2d30de47d3c10c088106d1bf2e496ac6a6bcc001716418df",
+    "runners/experiment_io.py": "ed7f7ac349f291b36a4aaa2f88cdb0e3690266d71f99c774f7641498f3345fc9",
+    "runners/fp32_attention.py": "6fdff7bf95d9061ebed0b72f719c80593eec9bab5d101fba4ccf96caf1f51e8c",
+    "runners/diagnose_tsez_chain.py": "c036270d6fadcad21f5d83a2d41b980dfc5152a9a8c69deda538094eced808a4",
+    "runners/qwen35/run_grammamt_Qwen35_context.py": "795d910ced575b1d247a82b4ef76a105c0527ca51677b714d3752c752bb881fa",
+    "runners/baseline/run_grammamt_ModelGloss.py": "37b22c2c91d72050ca57d8d8be25ff9951ae29ef537350d4ec332af184ec78d3"
+  },
+  "predicted_glosses": [
+    "tell-T-1SG.II COMP LVB-CN COMP-1 first white.man-PL first-CN white.man-PL go-3.II LOC-CN one.III-PL Kitwancool long.ago",
+    "INTR-NEG long PART-SPT arrive-CN people together CCNJ gather-together-TR-3PL.II-CN CONN person-CN Kitwancool",
+    "want-3PL.II PROSP tell-3PL.II COMP PROSP PROSP COMP INS-on-marked-3.II LOC-CN COMP go.out-CN village-CN Kitwancool",
+    "3SG.II plan-CN government so-TR CCNJ PROSP 3.I-CN FUT-CN PROSP exist-CN Indian LOC-CN in-CN reserve so-try-TR",
+    "what for-3 say-CN CN war-CN Kitwancool CN 1.I live-1PL.II LOC-CN land-1PL.II LOC-PN-DEM.PROX",
+    "CCNJ hear-TR-3PL.II REL PROSP arrive-CN say-TR-3PL.II CN surveyors",
+    "because PROSP-FUT-3PL.I measure-CN long-CN perimeter PROSP REL say-CN reserve COMP-name-3PL.II",
+    "CCNJ people COMP want COMP big-reserve PROSP encompass-3PL.II PROSP PROSP mountain-CN mountain PROSP CCNJ encompass-3PL.II mountain all.the.way PROSP Skeena 3PL.I-IRR want-3PL.II on PROSP PROSP Meji'aadin 3PL.III-CN want-3PL.II-CN reserve",
+    "because CCNJ NEG-FOC DM Indian Agent receive-3PL.II CN Indian Agent REL gather-PASS-CN people PURP meeting",
+    "CCNJ DEM.PL COMP say-CN CN village-CN Kitwancool if NEG-IMP do-2PL.II because CCNJ NEG-PROSP want-1PL.II CN reserve in-INDEF.III-CN house-CN PROSP be.small-2PL.II",
+    "because even though DEM Kitwancool CCNJ NEG-FOC want-TR-3 CN reserve NEG-FOC want-1PL.II PROSP give.away land-1PL.II HRS-PL-3PL.II say-3PL.II",
+    "CCNJ say-3PL.II CN Indian Agent PROSP stop-3PL.II-CN surveyor-PL PROSP run hold-3PL.II-CN surveyor-PL",
+    "or if say-TR-3PL.II-CN DEM Kitwancool CCNJ NEG-FOC want-ANTIP-CN reserve CCNJ have.arrived surveyor-PAUC-CN surveyors",
+    "CCNJ start-3PL.II measure-CN out-CN that-CN outside of settlement",
+    "CCNJ stand.by-PASS-CN watch-3PL.II PROSP-3PL.II say-3PL.II CN surveyors NEG-FUT-FOC right PROSP say-2PL.II IRR start-2PL.II",
+    "CCNJ VER remain-PASS PROG-CN surveyors",
+    "and CCNJ gather-together-1PL.INCL-CN one-CN person-3.II PREP village-CN CCNJ say-3PL.II PROSP oppose-1PL.INCL-PROSP PROSP follow-1PL.INCL-FUT chase-1PL.INCL-FUT",
+    "CCNJ want-1PL.II PROSP want-1PL.II toward-CN young.man to.help COMP PROSP help-1PL.II PRON.1PL.II",
+    "and DEM-CN do-TR-3PL.II",
+    "PST mob-TR-3PL.II-CN surveyor-PL",
+    "CCNJ take-ANTIP-CN tape tape REL call-NMLZ",
+    "take-TR-3PL.II-CN tool surveyors equipment COMP-name-PASS-CN tool-CN surveyors",
+    "CONJ REAS DUR-3.I chop-TR-3.II CN axe",
+    "CCNJ chase-TR-3PL.II-CN surveyors",
+    "NEG-FOC long.after-3.II CCNJ arrive-CN police",
+    "1-TR-arrest-TR-3PL.II-CN who COMP think-3PL.II around-there CN COMP COMP destroy-3PL.II-CN tool-CN surveyors",
+    "CCNJ jail-ANTIP-3PL.INDP",
+    "after take.away-CN police be-3.II still REL DWID-CN destroy-CN man-CN surveyors CCNJ still DWID-CN DWID CN person-CN Kitwancool",
+    "INS FUT oppose-1PL.II",
+    "CCNJ three-CN DWID chief jail-3PL.II LOC-CN Oakalla Prison COMP-know-3PL.II",
+    "DWID record-TR-PASS-CN how.many-CN incarcerated-3PL.II",
+    "while CCNJ IPFV-CN chief return-3PL.II prison CCNJ return-3PL.II back-CN surveyors",
+    "because CCNJ REAS FUT-3.I CCNJ measure-TR-3PL.II CN-tiny only INS-one reach-CN Indian Agent DWID CN CN give-CN Kitwancool",
+    "one mile by one mile divide we",
+    "because-CN afraid-3PL.II-CN surveyors CCNJ say-VAL-CN today CN villager today NEG-FOC make-TR-3PL.II in.order.to one-CN surveyor's reserve",
+    "NEG-FOC IRR IRR sign-3PL.II TELL-CN say-3.II",
+    "DEM-CN person"
+  ]
+}

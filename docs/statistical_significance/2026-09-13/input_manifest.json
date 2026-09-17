@@ -1,0 +1,966 @@
+{
+  "files": {
+    "results/baseline/qwen3/gitksan/grammar/original/results_gitksan_ModelGloss_Qwen.jsonl": "1edd486685a3b5c5742b8ff1e639b36f6305e5ceb1b566bd6b5f907696234f44",
+    "results/baseline/qwen3/gitksan/grammar/original/results_gitksan_Qwen.jsonl": "ac36f5ec61f86446bc300967216290dc95ed55454ddf877de7cdace2c6aef2bc",
+    "results/baseline/qwen3/lezgi/grammar/original/results_lezgi_ModelGloss_Qwen.jsonl": "8a3dff3cdd4f6ffb59cce0eff93ceb2575740eaae282fefd6c707a095c12037d",
+    "results/baseline/qwen3/lezgi/grammar/original/results_lezgi_Qwen.jsonl": "54992ac31612160665f7de940b6bc35a24626007d39785b9130b34b84983bd87",
+    "results/baseline/qwen3/natugu/grammar/original/results_natugu_ModelGloss_Qwen.jsonl": "d6c7bdec2638c67bf2731ac9cc7f6167c0fc9ff872b5f9b1b2a3136efbc26088",
+    "results/baseline/qwen3/natugu/grammar/original/results_natugu_Qwen.jsonl": "a437cb1ed610a2a10a707755b256527fc76e50e5e268d675389ae83dbd40c40c",
+    "results/baseline/qwen3/tsez/grammar/original/results_tsez_ModelGloss_Qwen.jsonl": "0fe0767acafed1e632a61483ec2603c0163a7a26e5bebb2411cabd726148ef99",
+    "results/baseline/qwen3/tsez/grammar/original/results_tsez_Qwen.jsonl": "d0609c6f20c8e8d5f7f9785016392e3ea54dbdfbfeebb910e12b71c54a7a5ac7",
+    "results/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl": "89a1e25ae2313b03880cf66703d9c93a1bbee862868a1bf0410db8897ddcffe8",
+    "results/chain_gloss_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl": "e5e14df79eb86893719c2a541c118b344ae3b3bd6318404aad26fe9da6112b06",
+    "results/chain_gloss_v2/qwen3/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl": "8a50f11c7606c4d26b197723121460276a8325f2cc1385c16775dccec3d66992",
+    "results/chain_gloss_v2/qwen3/natugu/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl": "02d3d1b7dd2fdb708bfc543ce35b77826c0b3c587129e7e1721b5d78fb646faf",
+    "results/chain_gloss_v2/qwen3/tsez/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl": "0bd55027939157c9b43f2c4e97bb0b0a5962195e37ba67c13aeb85d3a6b6985f",
+    "results/chain_gloss_v2/qwen3/tsez/grammar/original/chain_gloss_summary_text_txt_sampled_v1.jsonl": "04a37a14e35408cccad99dfcf424c38e06714a97629bac0650d6736c18d2a61a",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_ModelGloss_pdf1_brown_curated_v1_cheatsheet_jpg.jsonl": "32bc2b8ac04c543c48fd4284ed8d62c3edb44e6e8b71af99b91dc9928bec5bed",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_ModelGloss_pdf1_brown_curated_v1_cheatsheet_txt.jsonl": "f70e3680fc7acdc1c96bf2dcdc7489f8bbc4a81cee8a51bdcd573480ae4c4276",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_ModelGloss_pdf1_brown_curated_v1_pdfpages_impactful_jpg.jsonl": "2ea9240b5c99998bde309109bdc0f6f2e3dcd6e59bea3562b5d9979c81914754",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_ModelGloss_pdf1_brown_curated_v1_summary_tables_jpg.jsonl": "3ca3bc1b47ade7dcaf48d2d97519a7f519268f602d1652f7c5b66c820ffdba83",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_ModelGloss_pdf1_brown_curated_v1_summary_tables_txt.jsonl": "1c449d8b4f39caee5d672343d40b573c8faa456e8a57997bfcc6ba660a61b3d5",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_ModelGloss_pdf1_brown_curated_v1_summary_text_txt.jsonl": "8c02e59eb27b0f48abcd177be30abbb9c904c7487d9a56184a6405062cd44df8",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_pdf1_brown_curated_v1_cheatsheet_jpg.jsonl": "4a5c0bdb2f0e5b8949c8fb7b2b218594ecdc89b8eb9a45beb90830bf5466b803",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_pdf1_brown_curated_v1_cheatsheet_txt.jsonl": "5678ebc4958f42fdf5c9b835362990010c6aa48635f9e3abe4f82dfa46d4974a",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_pdf1_brown_curated_v1_pdfpages_impactful_jpg.jsonl": "92e9e5d533bc99f160b202f5624fc8838b2c8b5d81593ca0104380d32f6fafcc",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_pdf1_brown_curated_v1_summary_tables_jpg.jsonl": "f0414fb44dd963935dfca68f369e40a783a2805290aacb8eadb7adcc5c3079a2",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_pdf1_brown_curated_v1_summary_tables_txt.jsonl": "34bee3ad3705305b6478fc7c10c703cd695f0d00bf9c20d6854f14add93bb9ff",
+    "results/curated_v1/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_pdf1_brown_curated_v1_summary_text_txt.jsonl": "b946ea275f1c7b65f3fe04f898492b5c9e8d4af10ea2fc77bd31dc4aff7d5aef",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_ModelGloss_pdf2_rigsby_curated_v1_cheatsheet_jpg.jsonl": "ecc192c3d021e51e4739957546577f229991a6410fa964d41b06cc85a26fd11e",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_ModelGloss_pdf2_rigsby_curated_v1_cheatsheet_txt.jsonl": "80c4639a83c3f65f5222f7bcb41c26aa9684dc89ffba264538adff0034bd5f33",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_ModelGloss_pdf2_rigsby_curated_v1_pdfpages_impactful_jpg.jsonl": "a6b7bf98261d93998ae9cf821f5dbd775d385c6dd59462e71e51de17266e5ad9",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_ModelGloss_pdf2_rigsby_curated_v1_summary_tables_jpg.jsonl": "0e3388a793ab522a6911481dc113b7acde967ca34ee6c9370322d5590e1e0924",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_ModelGloss_pdf2_rigsby_curated_v1_summary_tables_txt.jsonl": "a40f600ce08e6102f3f00b3d83e18a3da272eb10778fce2f9aee8e0ffaeb1733",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_ModelGloss_pdf2_rigsby_curated_v1_summary_text_txt.jsonl": "3485ce367ea73c5c933958d431d4f48cc33b1dee98a16a4b11198003f5c0afdc",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_pdf2_rigsby_curated_v1_cheatsheet_jpg.jsonl": "bdc6f377e357fdee293d731946086af4f089adc443f4b479fe3420462d6256a2",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_pdf2_rigsby_curated_v1_cheatsheet_txt.jsonl": "40f8fcd675e7e9a7a79b01674429b1bf63661f4df7161d65ecda00ed3eea7762",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_pdf2_rigsby_curated_v1_pdfpages_impactful_jpg.jsonl": "53d4da44a793ce4a3165bb9129e516129212a2d210087aef5a69d06b52499dc2",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_pdf2_rigsby_curated_v1_summary_tables_jpg.jsonl": "6135ba7ddf1743edac0c233ad32837023061f77744c83bd9ce66fe3f501a2d27",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_pdf2_rigsby_curated_v1_summary_tables_txt.jsonl": "3225902ba8ad2f1f760d917e4481396b570a97eae9476af5a72e6da24e145330",
+    "results/curated_v1/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_pdf2_rigsby_curated_v1_summary_text_txt.jsonl": "7dd7cf0b50a1ce51790728ea13627cecb0d8b009cd638b98590ec8451785bb1b",
+    "results/curated_v1/qwen3/lezgi/grammar/cyrillic/results_lezgi_Qwen_ModelGloss_curated_v1_cyrillic_cheatsheet_jpg.jsonl": "2f6b9e21395fdad06a106d5f6e768f8e1c757acfdc6659ed939b1e9720bdd575",
+    "results/curated_v1/qwen3/lezgi/grammar/cyrillic/results_lezgi_Qwen_ModelGloss_curated_v1_cyrillic_cheatsheet_txt.jsonl": "7aa7f03c36bd86592ce0c0560ae56e650674fc601d342542362dcb2015f271c1",
+    "results/curated_v1/qwen3/lezgi/grammar/cyrillic/results_lezgi_Qwen_ModelGloss_curated_v1_cyrillic_summary_tables_jpg.jsonl": "7fd26ec3c9162604c0c55ea0a74e5ec57195d40d9d742cc0bf901a077cef01e9",
+    "results/curated_v1/qwen3/lezgi/grammar/cyrillic/results_lezgi_Qwen_ModelGloss_curated_v1_cyrillic_summary_tables_txt.jsonl": "4d295e2642975d5ab005d51ef0c27b15f9c1c56a470b931c0fedefc3e99e4a82",
+    "results/curated_v1/qwen3/lezgi/grammar/cyrillic/results_lezgi_Qwen_ModelGloss_curated_v1_cyrillic_summary_text_txt.jsonl": "b0b3e0d6f30bdff0e113f13489e45e2aab926a36b6b00fb645d1f1caf8fade20",
+    "results/curated_v1/qwen3/lezgi/grammar/cyrillic/results_lezgi_Qwen_curated_v1_cyrillic_cheatsheet_jpg.jsonl": "0f649eed93aa798eeaa32f9e82c378324d8b038370835ffac896169673738019",
+    "results/curated_v1/qwen3/lezgi/grammar/cyrillic/results_lezgi_Qwen_curated_v1_cyrillic_cheatsheet_txt.jsonl": "9cb2751f194067ffaf06f7dfb7b195fb61cfa2e2b17866ec600cef4fc5ed173b",
+    "results/curated_v1/qwen3/lezgi/grammar/cyrillic/results_lezgi_Qwen_curated_v1_cyrillic_summary_tables_jpg.jsonl": "1c5ff9aefabcf9bf9b60e7614049bb2379df6837c0c9c1725d599f2a4bc4e293",
+    "results/curated_v1/qwen3/lezgi/grammar/cyrillic/results_lezgi_Qwen_curated_v1_cyrillic_summary_tables_txt.jsonl": "2cbf78aa8a0582dfecf0efa6263e2c70caeb9acf2be25ad6d588b7d6229103e3",
+    "results/curated_v1/qwen3/lezgi/grammar/cyrillic/results_lezgi_Qwen_curated_v1_cyrillic_summary_text_txt.jsonl": "c43275656714dcee50bea2dc1ed224cee23331c79a80f06b9ff86a5d6e6fdb71",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_curated_v1_cheatsheet_jpg.jsonl": "3df35c70b3ee971e5fd0667bd324ace8d4be4fae699c98a2cb613dc26823f188",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_curated_v1_cheatsheet_txt.jsonl": "08b5fe1221087d1960762745bb2b7d51d3a268c4a3957b10b570b15f4f4d1f1d",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_curated_v1_pdfpages_impactful_jpg.jsonl": "1e8d54b2c94fa96e05668898181be0c7c73b42f6ff2c22b619801a56c3f806e2",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_curated_v1_summary_tables_jpg.jsonl": "2b1f4482c1a4f46bd624c8c1c8babffc221aa53cd340c7d19d2c39dabd4df640",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_curated_v1_summary_tables_txt.jsonl": "1bdbdf8a96da640d48583a5e2690cd466dbe8c86c64fbf18880733c32a2b6ea0",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_curated_v1_summary_text_txt.jsonl": "0cabd8cf12d4341cd3740fdd7e39ca2f3475da9a965bd2ee11f179593fee4eb1",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_curated_v1_cheatsheet_jpg.jsonl": "8053ddb2d85cc2ba419334a067201de7ed940a1997d3f7d8c88ed312c6b93c86",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_curated_v1_cheatsheet_txt.jsonl": "1636c6f97e373905f225c92812c4d0a096ba06b4724c403f04dcfcbdba3c3f85",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_curated_v1_pdfpages_impactful_jpg.jsonl": "b68e5bd1869427c0f3de5b4bd8318f7de00aa9e6368c3c60c0d03250453c3f74",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_curated_v1_summary_tables_jpg.jsonl": "b850bdc0f3ebbf033dfc2f5962f34009706e5628054310e4f12a2c1475bb7ed5",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_curated_v1_summary_tables_txt.jsonl": "be1b9b19a5697498ad5e063c9fc8f2b772702f49c1d5175d75cf968b73551723",
+    "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_curated_v1_summary_text_txt.jsonl": "006dce312c667004a058068995279f2bbb0036a570cb3243b321baee1024e611",
+    "results/curated_v1/qwen3/natugu/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl": "fa5a7255ca8e5851f3ebb470874e4925a06752201f905507711fef3b3768b671",
+    "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_curated_v1_cheatsheet_jpg.jsonl": "487a183609f1bff00d576c8b378609f5c3b12976bc0612d469b26b9b22d9f37c",
+    "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_curated_v1_cheatsheet_txt.jsonl": "00269d296069457e0a36ed813183ddba2b1f8403b190f93978e138fae17647fa",
+    "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_curated_v1_summary_tables_jpg.jsonl": "7e2bfdb2ce7bc2dda8a98a6e0fa60e1ea2e9db01f49dc5840dc354a55bdadb23",
+    "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_curated_v1_summary_tables_txt.jsonl": "e980083edae102dad6ab9bddd8ac49275f9eea34ec6fe61bc259f55e47fb5916",
+    "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_curated_v1_summary_text_txt.jsonl": "bef71f76e82b262fcdc59b9946fa9579a0939b52ddc21c61844d5ce45eead778",
+    "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_curated_v1_cheatsheet_jpg.jsonl": "0131bdf22d074877ab988d775acfd29c11bd96c4ee8141a883df4279e412cd2b",
+    "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_curated_v1_cheatsheet_txt.jsonl": "a8d548280d55b310ec0d4f4f1521ca47468faec55252cc27cee0bfcab9771bc4",
+    "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_curated_v1_summary_tables_jpg.jsonl": "5af960afe25931a09f79fcfc27c0424de561a4759ffe42b9d41f5249b8ea12c4",
+    "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_curated_v1_summary_tables_txt.jsonl": "30b21cb1acce1f9311a7877235e49478df9c1f831f361412d8c4b3d9909b28b8",
+    "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_curated_v1_summary_text_txt.jsonl": "3608b17852d1649efd77981fc40cc210134c6190de26d8066585644e19bfd062",
+    "results/curated_v1/qwen3/natugu/grammar/original/shot_pdfpages_impactful_jpg.jsonl": "0932726a3cb008353dacedd6274ca626729d39364db5b034e47821581bb44a0d",
+    "results/curated_v1/qwen3/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl": "44fc594c15ebc628110108f39b1937a8ef8050b70251a4798a30df27c0992976",
+    "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_ModelGloss_curated_v1_cheatsheet_jpg.jsonl": "8e832e22ef6b1e97697b3d383a8ddc8971155655e671dd0129f5b57ca5378e17",
+    "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_ModelGloss_curated_v1_cheatsheet_txt.jsonl": "5fa0c8b0c6fbf520be3a78de35aec40f8d356384736d4988638a6b8ee3da6e32",
+    "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_ModelGloss_curated_v1_summary_tables_jpg.jsonl": "464d79b3c78dd8e2de639edc545c45e1e1818b2fddc238b5741e74250db4d2f0",
+    "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_ModelGloss_curated_v1_summary_tables_txt.jsonl": "745d3a23d1d9caaf67140cd8ecdda905777bec7dcd06b1f07ea1306f4b9316ff",
+    "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_ModelGloss_curated_v1_summary_text_txt.jsonl": "5cdf8ddeb256ba9185fdd747d956dac79463d71fd1b1dfe33adbfde7445b793b",
+    "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_curated_v1_cheatsheet_jpg.jsonl": "2b676136b3066882acf329399e6c06df4ec8de79572d4ec5713a860c972a61c3",
+    "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_curated_v1_cheatsheet_txt.jsonl": "d0693e316d26aed8fc913b635ed1f4c30cfe8fd147886cbea1c6a1308252c1e2",
+    "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_curated_v1_summary_tables_jpg.jsonl": "50c4203868cb06f6e7bfcb7761e1c2a90d66d4bfc1845b511532d7355857f36c",
+    "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_curated_v1_summary_tables_txt.jsonl": "e34531439c7364e67b475bbad76944f5d6868bba33e77447fb8654d587208fb0",
+    "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_curated_v1_summary_text_txt.jsonl": "b3748449cce6275ee03eb89746a105fdb624cc6e1024794bef6d6fb08a1e3555",
+    "results/curated_v1/qwen3/tsez/grammar/original/shot_pdfpages_impactful_jpg_sampled_v1.jsonl": "19cb462d200ae4916cfdb01ccb0569de90cbee267e234cbc91e0fdff1cc6288a",
+    "results/legacy/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_ModelGloss_pdf1_brown_cheatsheet.jsonl": "b85ca9c13c28f67e5fa1cd9b42ec6820b4ae07e0897ad16026becd97a2f315c8",
+    "results/legacy/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_ModelGloss_pdf1_brown_pdfpages_all_jpg.jsonl": "9ded2e690a16e10c557da39997dc0f5461b31efef3959a4d2145ce12322cfd2a",
+    "results/legacy/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_ModelGloss_pdf1_brown_summary_tables.jsonl": "4179e7e3839ce7d46247c9a2496deac6688d189d6df0e263e6b379680f9dbae0",
+    "results/legacy/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_ModelGloss_pdf1_brown_summary_text.jsonl": "ee4550bde6db5bb70e38b7825dd16ce2a1281a2564d5ee2bc0a539d8d17c17b9",
+    "results/legacy/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_pdf1_brown_cheatsheet.jsonl": "5bbadd285dd127dde093bf2177c3ba7efa278e5456fe0b59289c74ead8cce89d",
+    "results/legacy/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_pdf1_brown_pdfpages_all_jpg.jsonl": "48180c6f94b834fc3d2124948dba7c88457f8c7f375ae88b580849626b9b37ea",
+    "results/legacy/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_pdf1_brown_summary_tables.jsonl": "6e7cb9386b81174c4ba97bd79e7c03a3205d774f1e5055198e90b490dafb2fb4",
+    "results/legacy/qwen3/gitksan/pdf1_brown/original/results_gitksan_Qwen_pdf1_brown_summary_text.jsonl": "e5913aa0f9b67b79808df49a8c312e5a1431c90837381702cb400cac77852b22",
+    "results/legacy/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_ModelGloss_pdf2_rigsby_cheatsheet.jsonl": "0ba96d37ca64c51548c673db83a629bc895f6aec9a8c523b9c7e82bd62c1749a",
+    "results/legacy/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_ModelGloss_pdf2_rigsby_pdfpages_all_jpg.jsonl": "098d0d0b75cd6a2d14bd09c5c522e037f2509ea38ea9fe4e3e66c4e1e1ef7cda",
+    "results/legacy/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_ModelGloss_pdf2_rigsby_summary_tables.jsonl": "52c6c666665286a556a68c50465bbaf5fcd3c33f7507fe3b468eec89852aef10",
+    "results/legacy/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_ModelGloss_pdf2_rigsby_summary_text.jsonl": "c66fdea23409f0e05711cfa879caaba5c52e5b8ebe807cc338a12a9bc90550b6",
+    "results/legacy/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_pdf2_rigsby_cheatsheet.jsonl": "17486d9243e7528ac7f7d57ba3e32dfaa9ce0fa5637c34573c8530e47274f0ef",
+    "results/legacy/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_pdf2_rigsby_pdfpages_all_jpg.jsonl": "4516bb32939c04eedce7f8ff93d721e5f2837110f32a2352138dc9ccb08adfc2",
+    "results/legacy/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_pdf2_rigsby_summary_tables.jsonl": "f1039a9cbab7e36269aeab81097193a8ce96c25b621b2cfc880dab7d47818ea1",
+    "results/legacy/qwen3/gitksan/pdf2_rigsby/original/results_gitksan_Qwen_pdf2_rigsby_summary_text.jsonl": "9ce4da46970ebf7a4fd482652bfe83e7ec21cebe3f442d96ec67352ead84b8bf",
+    "results/legacy/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_grammar_cheatsheet.jsonl": "ffcb441b4488eb9f9c6a4d61fc2b137e75f952a0c778b0e20e918e91c92bbbee",
+    "results/legacy/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_grammar_pdfpages_impactful_jpg.jsonl": "fa32d236b040cf67e53dbbeda7061f301558f49d2a04e0f4949e53681e5ef410",
+    "results/legacy/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_grammar_summary_tables.jsonl": "ef29773b6358c110d9ef74bd4a1d07c24e0f5cd90ed5f90362ba3b159c3896c9",
+    "results/legacy/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_grammar_summary_text.jsonl": "4c8dc43e4ab6e5931ff63b51f36d8f35cfe1e31b1e76132fa5957206ed37efef",
+    "results/legacy/qwen3/lezgi/grammar/original/results_lezgi_Qwen_grammar_cheatsheet.jsonl": "e3844453f391cb09c7663b99a5cd9d8c846826b7ff09e6ec873f1c020dfe3967",
+    "results/legacy/qwen3/lezgi/grammar/original/results_lezgi_Qwen_grammar_pdfpages_impactful_jpg.jsonl": "5adc3a8f438ff311447dcc9a98ad200aa31c4d562f6e8884577ede6893d8cbb3",
+    "results/legacy/qwen3/lezgi/grammar/original/results_lezgi_Qwen_grammar_summary_tables.jsonl": "60eebf7edd9833bdbb910ef591e9e91aa0169ebb0beb1ecc68ce7d6b8c783e8d",
+    "results/legacy/qwen3/lezgi/grammar/original/results_lezgi_Qwen_grammar_summary_text.jsonl": "06b543acd5ec31b5b70a7dfbd58aae3153de25fb0544acbaafe70cc3ea574073",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_cheatsheet.jsonl": "34446cf1b18d18201ccda44bf5768326c99a280d5f2ed2a5b8a6c5e916b6e314",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_pdfpages.jsonl": "d1242555d3fd8ce7b47884300ba089c6e8b282198ed643b1c14d9d558a1b9560",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_pdfpages_modelinput_all.jsonl": "06daf83459d99b78b9c730679101c8b75bd360eca3bae69227310f6349175587",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_summary.jsonl": "6efdb6da01517e21831f752e1eb543ccbba3bd9607937423e3270de3e738e6f3",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_summary_modelinput_all.jsonl": "38a6a1de628862c9a42a906395962202cbc1ac9052a9aa759e7fb6d210d78240",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_summary_text.jsonl": "5984247deb38af2fd6aede329f4ab20167ddd2e49077a4dc7fd545f386ea47b5",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_cheatsheet.jsonl": "006bc02a3d5bf7fe8b9b153bb49b0b377e50bf701aed27fede0c34f8c60f978e",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_pdfpages.jsonl": "aad2c96b27362b974263dc6facae27583ee208058842759e63d9b9c839e51d08",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_pdfpages_modelinput_all.jsonl": "2271a3d21ebd800e80a2a3ce35161a2af25153c098f1637da625f908279a8a79",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_summary.jsonl": "6b100b75e93f20013653a13edd2174e3049e3c53a5dc6b9839ec32880541495f",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_summary_modelinput_all.jsonl": "165effe792827296505e46bb7862e8f21a4f0700b9cb99e366e2398e347aa3b7",
+    "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_summary_text.jsonl": "ef8d9c7fb69d9bc8843c5d2a60039162e165804bd91047f3514ca12931525638"
+  },
+  "excluded": [
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_cheatsheet_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_cheatsheet_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/natugu/grammar/original/chain_gloss_pdfpages_impactful_jpg_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/chain_gloss_v2/qwen35/tsez/grammar/original/chain_gloss_summary_text_txt_sampled_v1.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_modelgloss_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_modelgloss_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_modelgloss_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_modelgloss_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_modelgloss_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_modelgloss_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf1_brown/original/results_gemini25flashlite_gitksan_pdf1_brown_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_modelgloss_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_modelgloss_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_modelgloss_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_modelgloss_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_modelgloss_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_modelgloss_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/gitksan/pdf2_rigsby/original/results_gemini25flashlite_gitksan_pdf2_rigsby_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_modelgloss_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_modelgloss_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_modelgloss_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_modelgloss_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_modelgloss_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_modelgloss_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/lezgi/grammar/original/results_gemini25flashlite_lezgi_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_modelgloss_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_modelgloss_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_modelgloss_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_modelgloss_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_modelgloss_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_modelgloss_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/natugu/grammar/original/results_gemini25flashlite_natugu_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_modelgloss_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_modelgloss_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_modelgloss_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_modelgloss_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_modelgloss_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_modelgloss_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/gemini25flashlite/tsez/grammar/original/results_gemini25flashlite_tsez_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_curated_v1_cheatsheet_md.jsonl",
+      "reason": "deprecated Markdown counterpart; TXT retained"
+    },
+    {
+      "path": "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_curated_v1_summary_tables_md.jsonl",
+      "reason": "deprecated Markdown counterpart; TXT retained"
+    },
+    {
+      "path": "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_curated_v1_summary_text_md.jsonl",
+      "reason": "deprecated Markdown counterpart; TXT retained"
+    },
+    {
+      "path": "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_curated_v1_cheatsheet_md.jsonl",
+      "reason": "deprecated Markdown counterpart; TXT retained"
+    },
+    {
+      "path": "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_curated_v1_summary_tables_md.jsonl",
+      "reason": "deprecated Markdown counterpart; TXT retained"
+    },
+    {
+      "path": "results/curated_v1/qwen3/lezgi/grammar/original/results_lezgi_Qwen_curated_v1_summary_text_md.jsonl",
+      "reason": "deprecated Markdown counterpart; TXT retained"
+    },
+    {
+      "path": "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "Incomplete or oversized output: 0/99"
+    },
+    {
+      "path": "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_curated_v1_summary_tables_md.jsonl",
+      "reason": "deprecated Markdown counterpart; TXT retained"
+    },
+    {
+      "path": "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_curated_v1_summary_text_md.jsonl",
+      "reason": "deprecated Markdown counterpart; TXT retained"
+    },
+    {
+      "path": "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "Incomplete or oversized output: 0/99"
+    },
+    {
+      "path": "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_curated_v1_summary_tables_md.jsonl",
+      "reason": "deprecated Markdown counterpart; TXT retained"
+    },
+    {
+      "path": "results/curated_v1/qwen3/natugu/grammar/original/results_natugu_Qwen_curated_v1_summary_text_md.jsonl",
+      "reason": "deprecated Markdown counterpart; TXT retained"
+    },
+    {
+      "path": "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_ModelGloss_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "Incomplete or oversized output: 0/445"
+    },
+    {
+      "path": "results/curated_v1/qwen3/tsez/grammar/original/results_tsez_Qwen_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "Incomplete or oversized output: 0/445"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_ModelGloss_pdf1_brown_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_ModelGloss_pdf1_brown_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_ModelGloss_pdf1_brown_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_ModelGloss_pdf1_brown_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_ModelGloss_pdf1_brown_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_ModelGloss_pdf1_brown_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_pdf1_brown_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_pdf1_brown_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_pdf1_brown_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_pdf1_brown_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_pdf1_brown_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_pdf1_brown_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_pdf2_rigsby_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_pdf2_rigsby_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_pdf2_rigsby_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_pdf2_rigsby_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_pdf2_rigsby_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_pdf2_rigsby_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_ModelGloss_curated_v1_cyrillic_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_curated_v1_cyrillic_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_curated_v1_cyrillic_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_curated_v1_cyrillic_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_curated_v1_cyrillic_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/cyrillic/results_lezgi_Qwen35_curated_v1_cyrillic_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_cheatsheet_md.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_summary_tables_md.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_summary_text_md.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_cheatsheet_md.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_summary_tables_md.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_summary_text_md.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_ModelGloss_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_ModelGloss_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_ModelGloss_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_ModelGloss_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_ModelGloss_curated_v1_summary_tables_md.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_ModelGloss_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_ModelGloss_curated_v1_summary_text_md.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_ModelGloss_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_curated_v1_summary_tables_md.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_curated_v1_summary_text_md.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/natugu/grammar/original/results_natugu_Qwen35_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_ModelGloss_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_ModelGloss_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_ModelGloss_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_ModelGloss_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_ModelGloss_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_ModelGloss_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_curated_v1_cheatsheet_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_curated_v1_cheatsheet_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_curated_v1_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_curated_v1_summary_tables_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_curated_v1_summary_tables_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/curated_v1/qwen35/tsez/grammar/original/results_tsez_Qwen35_curated_v1_summary_text_txt.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen3/lezgi/grammar/original/results_lezgi_Qwen_ModelGloss_grammar_pdfpages_all_jpg.jsonl",
+      "reason": "Incomplete or oversized output: 0/87"
+    },
+    {
+      "path": "results/legacy/qwen3/lezgi/grammar/original/results_lezgi_Qwen_grammar_pdfpages_all_jpg.jsonl",
+      "reason": "Incomplete or oversized output: 0/87"
+    },
+    {
+      "path": "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_pdfpages_original_all_2gpu.jsonl",
+      "reason": "Incomplete or oversized output: 0/99"
+    },
+    {
+      "path": "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_summary_combined_image.jsonl",
+      "reason": "Incomplete or oversized output: 0/99"
+    },
+    {
+      "path": "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_ModelGloss_summary_original_all_2gpu.jsonl",
+      "reason": "Incomplete or oversized output: 0/99"
+    },
+    {
+      "path": "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_pdfpages_original_all_2gpu.jsonl",
+      "reason": "Incomplete or oversized output: 0/99"
+    },
+    {
+      "path": "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_summary_combined_image.jsonl",
+      "reason": "Incomplete or oversized output: 0/99"
+    },
+    {
+      "path": "results/legacy/qwen3/natugu/grammar/original/results_natugu_Qwen_summary_original_all_2gpu.jsonl",
+      "reason": "Incomplete or oversized output: 0/99"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_ModelGloss_pdf1_brown_cheatsheet.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_ModelGloss_pdf1_brown_pdfpages_all_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_ModelGloss_pdf1_brown_summary_tables.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_ModelGloss_pdf1_brown_summary_text.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_pdf1_brown_cheatsheet.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_pdf1_brown_pdfpages_all_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_pdf1_brown_summary_tables.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf1_brown/original/results_gitksan_Qwen35_pdf1_brown_summary_text.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_cheatsheet.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_pdfpages_all_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_summary_tables.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_ModelGloss_pdf2_rigsby_summary_text.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_pdf2_rigsby_cheatsheet.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_pdf2_rigsby_pdfpages_all_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_pdf2_rigsby_summary_tables.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/gitksan/pdf2_rigsby/original/results_gitksan_Qwen35_pdf2_rigsby_summary_text.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_grammar_cheatsheet.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_grammar_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_grammar_summary_tables.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_ModelGloss_grammar_summary_text.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_grammar_cheatsheet.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_grammar_pdfpages_all_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_grammar_pdfpages_impactful_jpg.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_grammar_summary_tables.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    },
+    {
+      "path": "results/legacy/qwen35/lezgi/grammar/original/results_lezgi_Qwen35_grammar_summary_text.jsonl",
+      "reason": "no same-model baseline in this analysis"
+    }
+  ]
+}

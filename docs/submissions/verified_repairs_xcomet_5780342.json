@@ -1,0 +1,9 @@
+{
+  "job_id": "5780342",
+  "script": "scripts/scoring/run_verified_repairs_xcomet.sh",
+  "targets": "configs/verified_repair_scoring_targets.json",
+  "dependency": "afterok:5780306:5780307:5780308:5780309",
+  "kill_on_invalid_dep": true,
+  "gpu_count": 1,
+  "time_limit": "05:00:00"
+}

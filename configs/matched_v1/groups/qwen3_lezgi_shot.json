@@ -1,0 +1,14 @@
+[
+  "configs/matched_v1/qwen3_lezgi_grammar_original_shot_baseline.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_jpg.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_txt.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_cyrillic_shot_summary_tables_jpg.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_cyrillic_shot_summary_tables_txt.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_cyrillic_shot_summary_text_txt.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_original_shot_cheatsheet_jpg.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_original_shot_cheatsheet_txt.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_original_shot_pdfpages_impactful_jpg.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_original_shot_summary_tables_jpg.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_original_shot_summary_tables_txt.json",
+  "configs/matched_v1/qwen3_lezgi_grammar_original_shot_summary_text_txt.json"
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "job_id": "5790319",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "b44bbd5831f5ce2a4a2d46c86b1f4dafe1c3da3cf8f14829232a7e8f448379cb"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "job_id": "5790320",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "fac6e6f69ae791a38e1d7d5481cf52f18e126e02d2e93cd4c265bcbedf29fecc"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "job_id": "5790321",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "ea959e37f1516ca04d8026fff503976c746288f98f891298d248d199c2220e3b"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_txt",
+    "job_id": "5790322",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_tsez_grammar_original_chain_gloss_summary_tables_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "9103e9730557dfdeb3887f7d3a6a3223ba8f1fc8d56151d03b653144a0c93960"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "job_id": "5790323",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_tsez_grammar_original_chain_gloss_cheatsheet_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "46a575102d10cd46a35d7577751c2e35891759b00dd052f7ec73fd260740a755"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "job_id": "5790324",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_tsez_grammar_original_chain_gloss_cheatsheet_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "4a1c8031c802c0d139a6a2e93b387c26c5b2a2130aec2009722d7a570917ff8d"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "job_id": "5790325",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_tsez_grammar_original_chain_gloss_summary_tables_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "1608f38499b6735cde29b82eec527cfbaafc4523addb5bceff56d969e0304e89"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_txt",
+    "job_id": "5790326",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_tsez_grammar_original_chain_gloss_summary_tables_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "4fd3ebdd030ad1bd0e94ba75404564a8fb101b567b279e1927200b01bfdca1ea"
+  }
+]

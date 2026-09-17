@@ -1,0 +1,9 @@
+{
+  "job_id": "5784430",
+  "script": "scripts/scoring/run_modelgloss_completed_xcomet.sh",
+  "targets": "configs/modelgloss_completed_scoring_targets.json",
+  "generation_jobs_verified": ["5780307", "5780308", "5780309"],
+  "records": [99, 445, 445],
+  "gpu_count": 1,
+  "time_limit": "05:00:00"
+}

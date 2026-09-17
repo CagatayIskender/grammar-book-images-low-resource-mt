@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "records": 3,
+  "expected": 3,
+  "invalid_outputs": 0,
+  "fingerprint": "aaf8cbf86e278ff99961cfb232d477a0af95b5f2ba000218bffe79aa7a7950f0",
+  "results_sha256": "4a61b4a610d4be6eeaeda0a2929b6c1f461904bd178581f31ee77469b85870f9",
+  "runtime_seconds": 0.00024047913029789925
+}

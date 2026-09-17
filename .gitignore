@@ -41,6 +41,10 @@ slurm_outputs/
 *.lock
 *.tmp
 
+# Local API spending/reservation ledgers (not experimental configurations)
+docs/matched_v1/*_budget.json
+docs/matched_v1/*_budget.model.json
+
 # Editor and operating-system files
 .DS_Store
 .idea/

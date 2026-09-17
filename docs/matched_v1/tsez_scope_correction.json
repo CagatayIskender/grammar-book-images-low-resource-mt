@@ -1,0 +1,254 @@
+[
+  {
+    "id": "qwen3_tsez_grammar_original_shot_cheatsheet_jpg",
+    "old_fingerprint": "0d01d62cee1b02365c2cec8d4f2a221352e254ca4764449b20a6b76cc6e0ca24",
+    "new_fingerprint": "094c38905c8e1c63eae92f15b55beb2b23b5cb12db41fc68f78a7d8f39f8d784",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "old_fingerprint": "83f6f57f254653d62abc14bad83d2b04f46468524b86064e3083b2fad78b283b",
+    "new_fingerprint": "80d8f821a89999fc369519f332998bc109d7c814ab5c7889c379e0b282e5ea30",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_modelgloss_cheatsheet_jpg",
+    "old_fingerprint": "6d81ec5d437c3853e7d6ca201347b4651626ca584bd2f396e9ae901b5a98ab01",
+    "new_fingerprint": "7081cb5409022dfdcc05df0d894341af3ca37956c07b093966174a2e812fce6e",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_shot_cheatsheet_txt",
+    "old_fingerprint": "4ef55796ecb5d3f58fc97e58f762d91b468f0ee032ecdc47fe2208b290ead56f",
+    "new_fingerprint": "22b77cd3dc6b844c0f997390bbffcc281d376e3b546f3f49aadd0f49494ed199",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "old_fingerprint": "e71a5c3ddce0360d0222f7f70dba2df0309a5d824295667ea9843c2391261630",
+    "new_fingerprint": "71394e8ab33cf17682ba6b6bf80759bbae0157598237d27368958d50daddaf7a",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_modelgloss_cheatsheet_txt",
+    "old_fingerprint": "725d71590ffec1b460005c258dd9d5ab09d5ffcf9b7da9d894c81b23eca3b177",
+    "new_fingerprint": "8c2bbf398ee7dd19ddfa9a747b59cda7f28bf3474a157d0de83e983e4229226b",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_shot_pdfpages_impactful_jpg",
+    "old_fingerprint": "4c9bf739a8a2a70cc147039ac1cad00ff6be9e7a7cb65b5dc23557b32ca15cac",
+    "new_fingerprint": "a713709d35b7a3665e6b3d927e9f078b769e6a7a71dcfe9a5e2b2c51a14fd616",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "old_fingerprint": "dcf6287778d488fcdb02343d453eb7401e7f62e06dd9b4c6afccb015221d2e09",
+    "new_fingerprint": "6eec3709dfc214717aca8fd41152e8a6cd7a4b1ac5d0954f398e89b1056825e3",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg",
+    "old_fingerprint": "b3aeddc6a0329b3caca4355c329706e02a6785887538912282e0d443d0f1b9f9",
+    "new_fingerprint": "5ab57eea8007481a47d09fa3ca8519e5b992d85527226fb53acf665f696157ba",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_shot_summary_tables_jpg",
+    "old_fingerprint": "763aeda7458e87749cc8ae50104d15aec0f881372fcd12e43ab7a28771cc473e",
+    "new_fingerprint": "6c391e8c3588fc190e19fd2e59a005938119321f7670a854d5ba7c39aadc05d6",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "old_fingerprint": "c856ee7dbd129830796df9c971ee8481d63daf9c727a0bdd97cfcc971da46eff",
+    "new_fingerprint": "be8491f49a96f2b28eb34fb04bcae421db89e417b6635906e06e3164bc4848ac",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_modelgloss_summary_tables_jpg",
+    "old_fingerprint": "b0b574258d1a6daf04c53b61fab6d4f35e6d557d5ab2dc4e0a973834af53a9ee",
+    "new_fingerprint": "8e0796dc7274825a88dc5bc891826d60ebb990e60c9b772708dbc16ee1d75cf7",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_shot_summary_tables_txt",
+    "old_fingerprint": "b788f587856ea456eb068332b9e953d327c0607bbf10a784cd6fceefdde8c252",
+    "new_fingerprint": "4accfa4a8b805ac0c7e123279260a2c69921fd5c3df0201a1a3f3a09d51440f0",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_txt",
+    "old_fingerprint": "b482a8e3705c8f913b98c0e7a7c74b1f66344ad38f3d9129aa85c52c9499dfca",
+    "new_fingerprint": "f342cb8fc887f8670ff88b7fd25eaaec7329634d9871a1bca5b57bf168b5e18b",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_modelgloss_summary_tables_txt",
+    "old_fingerprint": "f6aa02b16ae5606a389c15b0f604916297c4e9f52de2d687b6dbcd1a0c994bee",
+    "new_fingerprint": "10fe9c26a9f492eeed8ea3ef1fa0336b20db60e1f16f1c5079fd03bfbefed566",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_shot_summary_text_txt",
+    "old_fingerprint": "be493752ed7e66a0f2f2d84bcd0e3f373663c68ef014bd49c53410fd73f0a43d",
+    "new_fingerprint": "d25b92403ed5a29a7b48670c5aa1b80660063f507e4cd2c466d5c65ec250cf66",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "old_fingerprint": "ccd40226e3b935ff8878390f30cb4ccce32e05f13fe7c856cda7ec2272a3619a",
+    "new_fingerprint": "287f36e15755ef62c397168b91984a2daec1e0c0352def6c32ced82b26512acd",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_modelgloss_summary_text_txt",
+    "old_fingerprint": "63d3edb67e6311be8d94cbfae2957e25b0133338dafbcd73129639ef7f76f290",
+    "new_fingerprint": "89301fc3c6d750883d91d70f277337daca512606c4da0e5484b4a6dcae043900",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_shot_baseline",
+    "old_fingerprint": "b84feba2a991f11c2a7ae96140387d6319fc8ef0a20b01fda0c3b1b7a5ec9d45",
+    "new_fingerprint": "a49c1081f09bc8e26adacb15364fc9a4b0a0c0aaf07aab9692955794a252cda7",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_baseline",
+    "old_fingerprint": "70007f7915268dab01508ca4f827d507c29ae47d7bf4b60b6fb75d53d422f84e",
+    "new_fingerprint": "bf5dcbf58856d31bc30063dccf49aa8c6391a2511c36e7a183feadcb6bd14866",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_modelgloss_baseline",
+    "old_fingerprint": "04727aef910d50072fccebad8ea32a5096edeb02a9123cb7a3cb0de9b817b951",
+    "new_fingerprint": "07a3f3125d9069af86eae3f787983f1a84208ff393c03935edb01fde58c5249e",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_shot_cheatsheet_jpg",
+    "old_fingerprint": "bb233ce39db61f45d556fbd3800e484d526978b6de53c9f939f233bd90e342f6",
+    "new_fingerprint": "d56409f425c033c9ae94b14dcfa4cd494d3f266ea551ec1946fb667dcc2592b0",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "old_fingerprint": "0fe6a7c9476a464f4853c205efa40730bfb5c6f2e889eec42ecab1ad5b48770e",
+    "new_fingerprint": "35ad922bea603125548d891f96855335028e8c2e4a7cc7c32e6a5dda56d83588",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_modelgloss_cheatsheet_jpg",
+    "old_fingerprint": "92d542dd3522da8d060a505538787044d0aa616663f6131a243d9bcb0337376d",
+    "new_fingerprint": "fdca0cb87b6a3e4c2a54b9fe72ba84375768ac8f808b0f504a2b467edba96e74",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_shot_cheatsheet_txt",
+    "old_fingerprint": "b47fc1b275b85c4356b50891057d0f25ffec0cfce14b40d6a6f808b226570b75",
+    "new_fingerprint": "db7f9ad45ac7b031dd89b1ed67470cfb3e24cca0b35841e36933277e8240c4d7",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "old_fingerprint": "3fdb2e543d35ea596a3aa05e58c9413e9750aea797758920c829146d8970935e",
+    "new_fingerprint": "cf9f05bd4a00c64e29ca16d90e67fbfa9249236270933518658f09de9604e7d0",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_modelgloss_cheatsheet_txt",
+    "old_fingerprint": "c754442d1b439f453d57cb1dc83c92b2f207f81722177fd621e685d697750063",
+    "new_fingerprint": "7887c27b332b629651344cf02ad71a3a128dd2466b46dd55f1e309a41181baa0",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_shot_pdfpages_impactful_jpg",
+    "old_fingerprint": "5ebdc29aef555d51f70a56e7db508402c22b313e421c3ccc5ddf02d265bb5da8",
+    "new_fingerprint": "680d98e1b80608ce85ae10dee0d52c1393c4501c985abb98ca1405100464ba27",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "old_fingerprint": "ed5258a218e4f0c967ef9425ea8c4afe56c4c9f6be36010a649defab275997eb",
+    "new_fingerprint": "d17dcec8a5176534247d4d4450ed73bdc9aac872b624ae3bc3a75ded4579c9b2",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg",
+    "old_fingerprint": "f69cbe46fc0c5f1d06dfc6dca8d34ebccc3a6c3c0900641802a71879752daa1a",
+    "new_fingerprint": "2c6b2dae2ecb10f5eda7c8e49e9e344e7d171b09e44adbf91d56a5c225ba6b46",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_shot_summary_tables_jpg",
+    "old_fingerprint": "afd5452162adc3b34d57dd0532e352a7f78f71bc23bd8486f10533dcb44685ba",
+    "new_fingerprint": "db87780afa3673a5115c822c2b679c54b89eff46e1456bd396c28001a62b7b31",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "old_fingerprint": "cdfec4ab0070d4531eba26613d582635297baa8adde75271154f31234552f513",
+    "new_fingerprint": "85bf921c0dbd21bfe88301dd1997680bf4ed3f5e9976129dfa5a366a61d00c7e",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_modelgloss_summary_tables_jpg",
+    "old_fingerprint": "db9fc5fc4838aea29009ae3ee46ff9f5769f459997ce7c1250be31dea22d6ccf",
+    "new_fingerprint": "2c464f484b9e7a5042786acf6424d7bf2412dd8f3836f60b5ffe287f080758e7",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_shot_summary_tables_txt",
+    "old_fingerprint": "58c23d2274db6936e30029343728fb5a4e9522bcef6567a6693ebf5ad8f417e2",
+    "new_fingerprint": "eccf1aa804da5de46d5d422a73fe3d2ea16cffe84f84528bbd47fe39238dcdf8",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_txt",
+    "old_fingerprint": "df308ffdfd5b592a0f71b55871825b53ab36d151e3d40867e9020475919939d1",
+    "new_fingerprint": "f2dddde536727c370fb41dfb7b66fb83e5a9c5d247e8df0b6bb2f6f4ad6ea596",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_modelgloss_summary_tables_txt",
+    "old_fingerprint": "be18877bd7ff6f1cc110bdedc6991d69d91436808db58bc7482f5afa9bab4524",
+    "new_fingerprint": "66e1cbe3fd6919a2301476a158137efb7353bf4d6c26516d6803fbfc84593242",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_shot_summary_text_txt",
+    "old_fingerprint": "da47d910d067ad6b99bae20767996e7988b399468200eabe391c0f58c293f996",
+    "new_fingerprint": "cc33db081f939f29c6fcb1e69c0ee285088cec35b4bdc47688f362b5d3dc36b9",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "old_fingerprint": "ea1cb0d5aaac991e3bcdcdc3719d4426f5a1bdf4ec9ff621033c902a84105cb2",
+    "new_fingerprint": "c24da518d978a00e279384e7c3aa1ac3598fce5a8527d38ed5d8a0e09114234d",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_modelgloss_summary_text_txt",
+    "old_fingerprint": "c45a3b8b2f8d42e1c83c8d00377752022672de7701400d0288389f3d7e7cc089",
+    "new_fingerprint": "2be1f0cf0015617c634bbba2b9e051822b6c9504afba938e4f5154cba3e8c13c",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_shot_baseline",
+    "old_fingerprint": "8ba8e9959ed851933f26fddd7b6311209a27c8ccb1fba5fb85edad1a461f79aa",
+    "new_fingerprint": "429a373618433e5eee35d3405885f52e786588942612e901728ac636008736de",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_baseline",
+    "old_fingerprint": "49d0a0271fb78be0e794760f2403ef28d7340cc699059b9a88170443a22c33dd",
+    "new_fingerprint": "f0201f14ee94195e73266895ee8e285911d31d25a8b205850e2845cd8be404e9",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_modelgloss_baseline",
+    "old_fingerprint": "dfb985ba7155056700ac142ba10cc4218a6642dcc986b7f6b243d8f8823f2c8f",
+    "new_fingerprint": "163d9739f1f130d6e8c70ec71dc76415a1768a8432dc5ac4468cfccbc3c74801",
+    "reason": "User clarified: only API Tsez is 99; local Qwen uses full 445"
+  }
+]

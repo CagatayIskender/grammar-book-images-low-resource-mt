@@ -1,0 +1,282 @@
+[
+  {
+    "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5784390",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg.sh",
+    "initial_state": "ready",
+    "script_sha256": "186dbd40076569114bae12d7b3cbf47bcaba2cfcf352e2c2e76af566a61b195d"
+  },
+  {
+    "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5784391",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg.sh",
+    "initial_state": "ready",
+    "script_sha256": "c347378e38f6baae702412807002f14945601d80cd7236d62636a21ff7e285c3"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5784392",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh",
+    "initial_state": "ready",
+    "script_sha256": "2e02bc398f46a42dce75068b330f720b9cd02b013ab9defc765b9f50a7fd342c"
+  },
+  {
+    "id": "qwen35_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5784393",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh",
+    "initial_state": "ready",
+    "script_sha256": "bb6ab16522728d1b43c8137b39c24928593a921e967d38ab248a98bf53eaccbd"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "job_id": "5784394",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_tsez_grammar_original_chain_gloss_summary_text_txt.sh",
+    "initial_state": "ready",
+    "script_sha256": "8addd1ad131b604efba0f70e4a4c7fd11de62c2e07b59bc66016af785c8cd389"
+  },
+  {
+    "id": "qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5784395",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg.sh",
+    "initial_state": "ready",
+    "script_sha256": "c229274d1d434b1bbf4bd25e8b54712c4f5867b711f1704358e8e9d4ede086f7"
+  },
+  {
+    "id": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5784396",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg.sh",
+    "initial_state": "ready",
+    "script_sha256": "1c37823c72ff60dcad0f33d00586077603be953c9d003d67bdfcc2c82767aa13"
+  },
+  {
+    "id": "qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5784397",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh",
+    "initial_state": "ready",
+    "script_sha256": "617c6b72eac24ff2a0ef9204655759d9e8043b161563b21dc7ab79714ef5f54b"
+  },
+  {
+    "id": "qwen3_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5784398",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh",
+    "initial_state": "ready",
+    "script_sha256": "36ec646407b3b41bba6074fd5b947e931e50b021a15b3c027a7e9c3dc454ec22"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5784399",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh",
+    "initial_state": "ready",
+    "script_sha256": "06de752bfc22f70d6cab341f2868d6e2b48907a692c18c4c6ab0c7a61f3fd401"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "job_id": "5784400",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_tsez_grammar_original_chain_gloss_summary_text_txt.sh",
+    "initial_state": "ready",
+    "script_sha256": "848dead8a3c11652ddc5f9fe257cf5675d68d5cd2e3a278a45c18e40bef5e55e"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_shot_pdfpages_impactful_jpg",
+    "job_id": "5784401",
+    "script": "scripts/jobs/qwen3/sampled_v1/run_qwen3_tsez_grammar_original_shot_pdfpages_impactful_jpg.sh",
+    "initial_state": "ready",
+    "script_sha256": "e9cb06b98bb55a6cfc1593fd535613c584e8361679bb6797c13b3330e4763c13"
+  },
+  {
+    "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg",
+    "job_id": "5784402",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "bda23102da2410cd4f465de57440914ba801ef6ed5ac349e9074abefa79aa401"
+  },
+  {
+    "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt",
+    "job_id": "5784403",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "64d3c6dafb3381022912fd80a1ef957943c0bb0d8aaec6c229f986ae4d624745"
+  },
+  {
+    "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg",
+    "job_id": "5784404",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "adfa96dd139310503366178dd9f8964df4458a8aa278ad40e037f715da9a0158"
+  },
+  {
+    "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+    "job_id": "5784405",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "e1f99b14c336df86eaefc6ff62106fed593e0c3ba7e8cacdd032d5adfd630963"
+  },
+  {
+    "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+    "job_id": "5784406",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "32abb5dd383ed27343010181fcb555bc6d9fcdf2d85973a4ce9007b53d7f92f4"
+  },
+  {
+    "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg",
+    "job_id": "5784407",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "1c77824cc134982c3b3624b008169ba6b06718d6f1f65e68184cbbe5b066fef3"
+  },
+  {
+    "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt",
+    "job_id": "5784408",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "739c73ba437558be391bd51808e1b9d2114335c73a52491726a9b790a4c90879"
+  },
+  {
+    "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg",
+    "job_id": "5784409",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "73324539519e82a4a73d29c1cdfae7b6de48893e28ca7b5e585a1117a1927dc0"
+  },
+  {
+    "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+    "job_id": "5784410",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "2103666f73b047efbc0e1a99da9ec8345a6ddd5a9b8a5703fbf7633c9a02ffd3"
+  },
+  {
+    "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+    "job_id": "5784411",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "749ea68f8290c403cdf00856f26db8a06a060db7d9076195118f8fac197cbc61"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg",
+    "job_id": "5784412",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "54047561b102357b3ace8dbed9d6b95417e4c669a064dd80f0bfcd41e1c8bf13"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt",
+    "job_id": "5784413",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "c7e1ac934bee6263e93aabc1c1254947d5e8cbf5e36a509247b128bc65d1b4c5"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+    "job_id": "5784414",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "ec441487a92a52caf8624a20aad778376def408201da834a80468a269f0889d3"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt",
+    "job_id": "5784415",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "1189e111a544e3a5b7bb32a03b410f340ecd038c5589915864997bf2276ddf49"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+    "job_id": "5784416",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "0469d82eac46e91eff757919c52a01f713227dbe7320fe59339a2512777e345d"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_jpg",
+    "job_id": "5784417",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "7ba870323040844550c0740f2718c3ae6c780ddfe4f341ab1b578a918c01c77c"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt",
+    "job_id": "5784418",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "fa5a8e62f7fd8f9d4992fb6442d1539a98fc3935af2619aa2cda8bdf1dbc3745"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+    "job_id": "5784419",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "b4f1cf6b8a5e877156627708a26ac6ac80cc6eb57d83cb61c88c4eb3e09edbf0"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt",
+    "job_id": "5784420",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "49f8bb5b913eebaa18d802d9eb1ba82f171cf5b9034a46184802affde6e233f9"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt",
+    "job_id": "5784421",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "758c147e815a155c8a5d6450bb19d2e2572a67eeb06bd1c2cca0a339e6c19577"
+  },
+  {
+    "id": "qwen35_natugu_grammar_original_chain_gloss_cheatsheet_jpg",
+    "job_id": "5784422",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_natugu_grammar_original_chain_gloss_cheatsheet_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "1cd44b0ec8716744391e937b9616343410f9bea4f53e89dea32e38599836168b"
+  },
+  {
+    "id": "qwen35_natugu_grammar_original_chain_gloss_cheatsheet_txt",
+    "job_id": "5784423",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_natugu_grammar_original_chain_gloss_cheatsheet_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "ed661e22c9d9d2c420a91c28b9b94a7ae96f12eb1f8233ce9dfe366c94c763ba"
+  },
+  {
+    "id": "qwen35_natugu_grammar_original_chain_gloss_summary_tables_jpg",
+    "job_id": "5784424",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_natugu_grammar_original_chain_gloss_summary_tables_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "41c6fbf3576386b6c4c579dabf8c90009dcc279194d1af0a98d81f1ed3516205"
+  },
+  {
+    "id": "qwen35_natugu_grammar_original_chain_gloss_summary_tables_txt",
+    "job_id": "5784425",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_natugu_grammar_original_chain_gloss_summary_tables_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "1a091129a223615d183f4f25b05aff14ef748cb1ec4119f2120ad157b9d2902b"
+  },
+  {
+    "id": "qwen35_natugu_grammar_original_chain_gloss_summary_text_txt",
+    "job_id": "5784426",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_natugu_grammar_original_chain_gloss_summary_text_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "ebcf44154e01b9d673edc905c127f74d5d78bef699e91e52e486777550383357"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "job_id": "5784427",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "0a079d9d95b7e59fd1dbb5b2b8ed3122dc4b07518793dec95804e1916263facd"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "job_id": "5784428",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "11064c047caf6624109b3bc434d57ac3369500e929b1f47d36b01aaf39097dd8"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "job_id": "5784429",
+    "script": "scripts/jobs/qwen35/sampled_v1/run_qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg.sh",
+    "initial_state": "needs_preflight",
+    "script_sha256": "427df9beb00777fe346c0f04a3fbea8c1e044eb584a4fc10bc99da6261e31312"
+  }
+]

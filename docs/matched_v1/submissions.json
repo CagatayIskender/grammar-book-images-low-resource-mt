@@ -1,0 +1,467 @@
+[
+  {
+    "job_id": "5790392",
+    "name": "gemini25flashlite_gitksan_chain_gloss",
+    "model": "gemini25flashlite",
+    "language": "gitksan",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_gitksan_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_gitksan_chain_gloss.json"
+  },
+  {
+    "job_id": "5790393",
+    "name": "gemini25flashlite_lezgi_chain_gloss",
+    "model": "gemini25flashlite",
+    "language": "lezgi",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_lezgi_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_lezgi_chain_gloss.json"
+  },
+  {
+    "job_id": "5790394",
+    "name": "gemini25flashlite_lezgi_modelgloss",
+    "model": "gemini25flashlite",
+    "language": "lezgi",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_lezgi_modelgloss.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_lezgi_modelgloss.json"
+  },
+  {
+    "job_id": "5790395",
+    "name": "gemini25flashlite_lezgi_shot",
+    "model": "gemini25flashlite",
+    "language": "lezgi",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_lezgi_shot.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_lezgi_shot.json"
+  },
+  {
+    "job_id": "5790396",
+    "name": "gemini25flashlite_natugu_chain_gloss",
+    "model": "gemini25flashlite",
+    "language": "natugu",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_natugu_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_natugu_chain_gloss.json"
+  },
+  {
+    "job_id": "5790397",
+    "name": "gemini25flashlite_tsez_chain_gloss",
+    "model": "gemini25flashlite",
+    "language": "tsez",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_tsez_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_tsez_chain_gloss.json"
+  },
+  {
+    "job_id": "5790398",
+    "name": "qwen35_gitksan_modelgloss",
+    "model": "qwen35",
+    "language": "gitksan",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen35_gitksan_modelgloss.sh",
+    "group": "configs/matched_v1/groups/qwen35_gitksan_modelgloss.json"
+  },
+  {
+    "job_id": "5790399",
+    "name": "qwen35_gitksan_shot",
+    "model": "qwen35",
+    "language": "gitksan",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen35_gitksan_shot.sh",
+    "group": "configs/matched_v1/groups/qwen35_gitksan_shot.json"
+  },
+  {
+    "job_id": "5790400",
+    "name": "qwen35_lezgi_chain_gloss",
+    "model": "qwen35",
+    "language": "lezgi",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/qwen35_lezgi_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/qwen35_lezgi_chain_gloss.json"
+  },
+  {
+    "job_id": "5790401",
+    "name": "qwen35_lezgi_modelgloss",
+    "model": "qwen35",
+    "language": "lezgi",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen35_lezgi_modelgloss.sh",
+    "group": "configs/matched_v1/groups/qwen35_lezgi_modelgloss.json"
+  },
+  {
+    "job_id": "5790402",
+    "name": "qwen35_lezgi_shot",
+    "model": "qwen35",
+    "language": "lezgi",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen35_lezgi_shot.sh",
+    "group": "configs/matched_v1/groups/qwen35_lezgi_shot.json"
+  },
+  {
+    "job_id": "5790403",
+    "name": "qwen35_natugu_modelgloss",
+    "model": "qwen35",
+    "language": "natugu",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen35_natugu_modelgloss.sh",
+    "group": "configs/matched_v1/groups/qwen35_natugu_modelgloss.json"
+  },
+  {
+    "job_id": "5790404",
+    "name": "qwen35_natugu_shot",
+    "model": "qwen35",
+    "language": "natugu",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen35_natugu_shot.sh",
+    "group": "configs/matched_v1/groups/qwen35_natugu_shot.json"
+  },
+  {
+    "job_id": "5790405",
+    "name": "qwen35_tsez_chain_gloss",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_chain_gloss.json"
+  },
+  {
+    "job_id": "5790406",
+    "name": "qwen35_tsez_modelgloss",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_modelgloss.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_modelgloss.json"
+  },
+  {
+    "job_id": "5790407",
+    "name": "qwen35_tsez_shot",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_shot.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_shot.json"
+  },
+  {
+    "job_id": "5790408",
+    "name": "qwen3_gitksan_chain_gloss",
+    "model": "qwen3",
+    "language": "gitksan",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/qwen3_gitksan_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/qwen3_gitksan_chain_gloss.json"
+  },
+  {
+    "job_id": "5790409",
+    "name": "qwen3_gitksan_modelgloss",
+    "model": "qwen3",
+    "language": "gitksan",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen3_gitksan_modelgloss.sh",
+    "group": "configs/matched_v1/groups/qwen3_gitksan_modelgloss.json"
+  },
+  {
+    "job_id": "5790410",
+    "name": "qwen3_gitksan_shot",
+    "model": "qwen3",
+    "language": "gitksan",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen3_gitksan_shot.sh",
+    "group": "configs/matched_v1/groups/qwen3_gitksan_shot.json"
+  },
+  {
+    "job_id": "5790411",
+    "name": "qwen3_lezgi_chain_gloss",
+    "model": "qwen3",
+    "language": "lezgi",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/qwen3_lezgi_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/qwen3_lezgi_chain_gloss.json"
+  },
+  {
+    "job_id": "5790412",
+    "name": "qwen3_lezgi_modelgloss",
+    "model": "qwen3",
+    "language": "lezgi",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen3_lezgi_modelgloss.sh",
+    "group": "configs/matched_v1/groups/qwen3_lezgi_modelgloss.json"
+  },
+  {
+    "job_id": "5790413",
+    "name": "qwen3_lezgi_shot",
+    "model": "qwen3",
+    "language": "lezgi",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen3_lezgi_shot.sh",
+    "group": "configs/matched_v1/groups/qwen3_lezgi_shot.json"
+  },
+  {
+    "job_id": "5790414",
+    "name": "qwen3_natugu_chain_gloss",
+    "model": "qwen3",
+    "language": "natugu",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/qwen3_natugu_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/qwen3_natugu_chain_gloss.json"
+  },
+  {
+    "job_id": "5790415",
+    "name": "qwen3_natugu_modelgloss",
+    "model": "qwen3",
+    "language": "natugu",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen3_natugu_modelgloss.sh",
+    "group": "configs/matched_v1/groups/qwen3_natugu_modelgloss.json"
+  },
+  {
+    "job_id": "5790416",
+    "name": "qwen3_natugu_shot",
+    "model": "qwen3",
+    "language": "natugu",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen3_natugu_shot.sh",
+    "group": "configs/matched_v1/groups/qwen3_natugu_shot.json"
+  },
+  {
+    "job_id": "5790417",
+    "name": "qwen3_tsez_chain_gloss",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_chain_gloss.json"
+  },
+  {
+    "job_id": "5790418",
+    "name": "qwen3_tsez_modelgloss",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_modelgloss.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_modelgloss.json"
+  },
+  {
+    "job_id": "5790419",
+    "name": "qwen3_tsez_shot",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_shot.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_shot.json"
+  },
+  {
+    "job_id": "5790420",
+    "name": "gpt56luna_budget",
+    "model": "gpt56luna",
+    "language": "all",
+    "method": "all",
+    "job": "scripts/jobs/matched_v1/gpt56luna_budget.sh",
+    "group": "configs/matched_v1/groups/gpt56luna_budget.json"
+  },
+  {
+    "job_id": "5790423",
+    "name": "qwen3_tsez_shot_batch1",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_shot_batch1.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_shot_batch1.json"
+  },
+  {
+    "job_id": "5790424",
+    "name": "qwen3_tsez_shot_batch2",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_shot_batch2.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_shot_batch2.json"
+  },
+  {
+    "job_id": "5790425",
+    "name": "qwen3_tsez_shot_batch3",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_shot_batch3.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_shot_batch3.json"
+  },
+  {
+    "job_id": "5790426",
+    "name": "qwen3_tsez_chain_gloss_batch1",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_chain_gloss_batch1.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_chain_gloss_batch1.json"
+  },
+  {
+    "job_id": "5790427",
+    "name": "qwen3_tsez_chain_gloss_batch2",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_chain_gloss_batch2.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_chain_gloss_batch2.json"
+  },
+  {
+    "job_id": "5790428",
+    "name": "qwen3_tsez_modelgloss_batch1",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_modelgloss_batch1.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_modelgloss_batch1.json"
+  },
+  {
+    "job_id": "5790429",
+    "name": "qwen3_tsez_modelgloss_batch2",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_modelgloss_batch2.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_modelgloss_batch2.json"
+  },
+  {
+    "job_id": "5790430",
+    "name": "qwen3_tsez_modelgloss_batch3",
+    "model": "qwen3",
+    "language": "tsez",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen3_tsez_modelgloss_batch3.sh",
+    "group": "configs/matched_v1/groups/qwen3_tsez_modelgloss_batch3.json"
+  },
+  {
+    "job_id": "5790431",
+    "name": "qwen35_tsez_shot_batch1",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_shot_batch1.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_shot_batch1.json"
+  },
+  {
+    "job_id": "5790432",
+    "name": "qwen35_tsez_shot_batch2",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_shot_batch2.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_shot_batch2.json"
+  },
+  {
+    "job_id": "5790433",
+    "name": "qwen35_tsez_shot_batch3",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_shot_batch3.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_shot_batch3.json"
+  },
+  {
+    "job_id": "5790434",
+    "name": "qwen35_tsez_chain_gloss_batch1",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_chain_gloss_batch1.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_chain_gloss_batch1.json"
+  },
+  {
+    "job_id": "5790435",
+    "name": "qwen35_tsez_chain_gloss_batch2",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_chain_gloss_batch2.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_chain_gloss_batch2.json"
+  },
+  {
+    "job_id": "5790436",
+    "name": "qwen35_tsez_modelgloss_batch1",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_modelgloss_batch1.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_modelgloss_batch1.json"
+  },
+  {
+    "job_id": "5790437",
+    "name": "qwen35_tsez_modelgloss_batch2",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_modelgloss_batch2.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_modelgloss_batch2.json"
+  },
+  {
+    "job_id": "5790438",
+    "name": "qwen35_tsez_modelgloss_batch3",
+    "model": "qwen35",
+    "language": "tsez",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/qwen35_tsez_modelgloss_batch3.sh",
+    "group": "configs/matched_v1/groups/qwen35_tsez_modelgloss_batch3.json"
+  },
+  {
+    "job_id": "5790440",
+    "dependency": [
+      "5790392"
+    ],
+    "name": "gemini25flashlite_lezgi_chain_gloss",
+    "model": "gemini25flashlite",
+    "language": "lezgi",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_lezgi_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_lezgi_chain_gloss.json"
+  },
+  {
+    "job_id": "5790441",
+    "dependency": [
+      "5790440"
+    ],
+    "name": "gemini25flashlite_lezgi_modelgloss",
+    "model": "gemini25flashlite",
+    "language": "lezgi",
+    "method": "modelgloss",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_lezgi_modelgloss.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_lezgi_modelgloss.json"
+  },
+  {
+    "job_id": "5790442",
+    "dependency": [
+      "5790441"
+    ],
+    "name": "gemini25flashlite_lezgi_shot",
+    "model": "gemini25flashlite",
+    "language": "lezgi",
+    "method": "shot",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_lezgi_shot.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_lezgi_shot.json"
+  },
+  {
+    "job_id": "5790443",
+    "dependency": [
+      "5790442"
+    ],
+    "name": "gemini25flashlite_natugu_chain_gloss",
+    "model": "gemini25flashlite",
+    "language": "natugu",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_natugu_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_natugu_chain_gloss.json"
+  },
+  {
+    "job_id": "5790444",
+    "dependency": [
+      "5790443"
+    ],
+    "name": "gemini25flashlite_tsez_chain_gloss",
+    "model": "gemini25flashlite",
+    "language": "tsez",
+    "method": "chain_gloss",
+    "job": "scripts/jobs/matched_v1/gemini25flashlite_tsez_chain_gloss.sh",
+    "group": "configs/matched_v1/groups/gemini25flashlite_tsez_chain_gloss.json"
+  }
+]

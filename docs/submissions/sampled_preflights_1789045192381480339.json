@@ -1,0 +1,67 @@
+[
+  {
+    "id": "qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5780321",
+    "script": "scripts/jobs/qwen3/preflight/sampled_v1/run_qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5780322",
+    "script": "scripts/jobs/qwen3/preflight/sampled_v1/run_qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5780323",
+    "script": "scripts/jobs/qwen3/preflight/sampled_v1/run_qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen3_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5780324",
+    "script": "scripts/jobs/qwen3/preflight/sampled_v1/run_qwen3_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "job_id": "5780325",
+    "script": "scripts/jobs/qwen3/preflight/sampled_v1/run_qwen3_tsez_grammar_original_chain_gloss_summary_text_txt.sh"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_shot_pdfpages_impactful_jpg",
+    "job_id": "5780326",
+    "script": "scripts/jobs/qwen3/preflight/sampled_v1/run_qwen3_tsez_grammar_original_shot_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5780327",
+    "script": "scripts/jobs/qwen3/preflight/sampled_v1/run_qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5780328",
+    "script": "scripts/jobs/qwen35/preflight/sampled_v1/run_qwen35_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5780329",
+    "script": "scripts/jobs/qwen35/preflight/sampled_v1/run_qwen35_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5780330",
+    "script": "scripts/jobs/qwen35/preflight/sampled_v1/run_qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen35_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5780331",
+    "script": "scripts/jobs/qwen35/preflight/sampled_v1/run_qwen35_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "job_id": "5780332",
+    "script": "scripts/jobs/qwen35/preflight/sampled_v1/run_qwen35_tsez_grammar_original_chain_gloss_summary_text_txt.sh"
+  },
+  {
+    "id": "qwen35_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "job_id": "5780333",
+    "script": "scripts/jobs/qwen35/preflight/sampled_v1/run_qwen35_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  }
+]

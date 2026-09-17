@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "records": 37,
+  "expected": 37,
+  "invalid_outputs": 0,
+  "fingerprint": "653c6ba764fbd87a4c44b44a5c6c091722eed639a9c9ea1995c53bb565095b5d",
+  "results_sha256": "6698d50b4670a7b280c286b013bedf956b5a81e2e8b6c19892fdf330a246e465",
+  "runtime_seconds": 263.0249856351875,
+  "peak_gpu_bytes": 40160658944
+}

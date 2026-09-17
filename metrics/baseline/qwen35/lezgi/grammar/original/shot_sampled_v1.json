@@ -1,0 +1,12 @@
+{
+  "qwen35_context_shot": {
+    "bleu": 7.43825942566131,
+    "chrf": 26.985696354374376,
+    "xcomet": null
+  },
+  "records": 87,
+  "expected_records": 87,
+  "invalid_outputs": 0,
+  "fingerprint": "08fe6fb2bd6ea3ae2fa8dea13d7ac5dfa14724793772289bbf8c637048c7abf8",
+  "results_sha256": "439b9e9d61a821fd08061258edd2cc4332dddf915dc5d711036b7dcca3754bbe"
+}
