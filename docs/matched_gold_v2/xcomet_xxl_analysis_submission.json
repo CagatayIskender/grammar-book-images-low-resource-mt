@@ -1,0 +1,16 @@
+{
+  "job_id": "5798146",
+  "submitted_at_cluster_local": "2026-09-19T20:46:39",
+  "dependency": "afterok:5798139",
+  "script": "scripts/scoring/run_matched_gold_v2_xcomet_xxl_analysis.sh",
+  "cpu_count": 1,
+  "gpu_count": 0,
+  "memory": "24G",
+  "time_limit": "01:00:00",
+  "state_at_verification": "PENDING",
+  "reason_at_verification": "Dependency",
+  "bootstrap_samples": 100000,
+  "baseline_holm_family_size_across_cohorts": 630,
+  "material_holm_family_size_across_cohorts": 216,
+  "output_directory": "docs/matched_gold_v2/analysis_xcomet_xxl"
+}

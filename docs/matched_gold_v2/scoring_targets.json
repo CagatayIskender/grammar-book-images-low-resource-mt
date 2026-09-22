@@ -1,0 +1,2108 @@
+[
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/grammar/original/modelgloss_baseline.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/grammar/original/shot_baseline.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/modelgloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf1_brown/original/shot_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/modelgloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/gitksan/pdf2_rigsby/original/shot_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/modelgloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/modelgloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/modelgloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/modelgloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/shot_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/shot_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/shot_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/shot_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/cyrillic/shot_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_baseline.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/modelgloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_baseline.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/lezgi/grammar/original/shot_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/modelgloss_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/natugu/grammar/original/shot_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/shot_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/grammar/original/modelgloss_baseline.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/grammar/original/shot_baseline.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/modelgloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/shot_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/modelgloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf2_rigsby/original/shot_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/modelgloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/modelgloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/modelgloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/modelgloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_baseline.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/modelgloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/shot_baseline.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/shot_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/shot_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/shot_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/shot_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen35/lezgi/grammar/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/original/shot_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/modelgloss_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/shot_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/shot_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/shot_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/shot_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/shot_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen35/natugu/grammar/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/natugu/grammar/original/shot_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_baseline.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/modelgloss_summary_text_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/shot_baseline.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/shot_cheatsheet_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/shot_cheatsheet_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/shot_summary_tables_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/shot_summary_tables_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen35/tsez/grammar/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen35/tsez/grammar/original/shot_summary_text_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/grammar/original/modelgloss_baseline.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/grammar/original/shot_baseline.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/modelgloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf1_brown/original/shot_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/modelgloss_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_cheatsheet_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_cheatsheet_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_summary_tables_jpg.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_summary_tables_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Gitksan",
+    "results": "results/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/gitksan/pdf2_rigsby/original/shot_summary_text_txt.json",
+    "expected_records": 37
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/modelgloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/modelgloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/modelgloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/modelgloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/shot_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/shot_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/shot_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/shot_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/cyrillic/shot_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_baseline.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/modelgloss_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/shot_baseline.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/shot_cheatsheet_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/shot_cheatsheet_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/shot_summary_tables_jpg.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/shot_summary_tables_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Lezgi",
+    "results": "results/matched_gold_v2/qwen3/lezgi/grammar/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/lezgi/grammar/original/shot_summary_text_txt.json",
+    "expected_records": 87
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/modelgloss_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/shot_baseline.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/shot_cheatsheet_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/shot_cheatsheet_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/shot_summary_tables_jpg.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/shot_summary_tables_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Natugu",
+    "results": "results/matched_gold_v2/qwen3/natugu/grammar/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/natugu/grammar/original/shot_summary_text_txt.json",
+    "expected_records": 99
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_baseline.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_cheatsheet_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_cheatsheet_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_summary_tables_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_summary_tables_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/chain_gloss_summary_text_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_baseline.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_cheatsheet_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_cheatsheet_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_summary_tables_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_summary_tables_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/modelgloss_summary_text_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/shot_baseline.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/shot_baseline.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/shot_cheatsheet_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/shot_cheatsheet_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/shot_cheatsheet_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/shot_cheatsheet_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/shot_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/shot_pdfpages_impactful_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/shot_summary_tables_jpg.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/shot_summary_tables_jpg.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/shot_summary_tables_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/shot_summary_tables_txt.json",
+    "expected_records": 445
+  },
+  {
+    "language": "Tsez",
+    "results": "results/matched_gold_v2/qwen3/tsez/grammar/original/shot_summary_text_txt.jsonl",
+    "metrics": "metrics/matched_gold_v2/qwen3/tsez/grammar/original/shot_summary_text_txt.json",
+    "expected_records": 445
+  }
+]

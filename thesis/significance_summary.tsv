@@ -1,0 +1,9 @@
+analysis	family	tests	significant_positive	significant_negative
+native	comparisons	630	1	10
+native	material_pairs	216	1	9
+common99	comparisons	630	0	3
+common99	material_pairs	216	1	4
+xcomet_xl	comparisons	630	0	4
+xcomet_xl	material_pairs	216	2	0
+xcomet_xxl	comparisons	630	0	1
+xcomet_xxl	material_pairs	216	0	1

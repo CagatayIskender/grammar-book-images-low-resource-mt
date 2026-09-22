@@ -1,0 +1,5 @@
+[
+  "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_baseline.json",
+  "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg.json",
+  "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt.json"
+]

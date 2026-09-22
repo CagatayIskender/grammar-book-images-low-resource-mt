@@ -1,68 +1,64 @@
-# Final Thesis Guide
+# Thesis Guide
 
-Verified handover date: **17 September 2026**. Primary experiment family:
-**matched_v1**. Primary models: **Qwen3, Qwen3.5 and Gemini 2.5 Flash Lite**.
-Luna is excluded from primary thesis comparisons; its historical files are retained.
+Updated: **22 September 2026**. Primary family: **matched_gold_v2**.
+Primary models: **Qwen3-VL-8B-Instruct, Qwen3.5-9B and Gemini 2.5 Flash Lite**.
+Luna is excluded. This is an adapted GRAMMAMT study, not an exact replication.
 
-## Executive Status
+## Final Handover
 
-The primary matrix is complete. No additional generation job is needed to fill it.
-Results, basic metrics, XCOMET-XL and paired statistical analyses have been verified.
-This is an implementation/data-integrity assessment, not a guarantee of human
-translation adequacy or academic acceptance of every methodological choice.
+Production, XL/XXL scoring and all planned statistical jobs completed successfully.
+The handover is **ready to share with the explicit limitations below**.
+Complete records do not mean that every model produced a successful translation.
 
-| Model | Conditions | Expected / recorded evaluations | Empty predictions | XCOMET files |
-| --- | ---: | ---: | ---: | ---: |
-| Qwen3 | 117/117 | 15999/15999 | 29 (0.18%) | 117/117 |
-| Qwen3.5 | 117/117 | 15999/15999 | 12 (0.08%) | 117/117 |
-| Gemini 2.5 Flash Lite | 117/117 | 8733/8733 | 268 (3.07%) | 117/117 |
+- [Final handover index](thesis/README.md)
+- [Final completion and comparability audit](thesis/COMPLETION_AUDIT.md)
+- [Overview matrix](thesis/figures/experiment_matrix_overview.jpg)
+- [Detailed matrix, PDF](thesis/figures/experiment_matrix_detailed.pdf)
+- [Print-friendly six-page matrix](thesis/figures/experiment_matrix_appendix.pdf)
+- [Condition catalog and artifact paths](thesis/condition_catalog.tsv)
+- [Recommended thesis score table](thesis/thesis_scores.tsv)
+- [Frozen full-cohort score table](thesis/scores.tsv)
+- [Statistical output summary](thesis/significance_summary.tsv)
+- [Lezgi descriptive sensitivity scores](thesis/lezgi_sensitivity_scores.tsv)
+- [Final input hashes and audit scope](thesis/audit.json)
 
-There are **351 conditions: 36 baselines and 315 grammar-context conditions**.
-The 40731 evaluations count sentence-condition pairs, not unique sentences.
-Empty predictions are present records and remain in the scoring denominator.
+These replace historical matched_v1 completion claims for primary thesis reporting.
+No new translations, changed prompts or paid API calls are needed to read these artifacts.
 
-## Start Here
-
-- [Final completion and comparability audit](docs/matched_v1/completion_audit_2026-09-17.md)
-- [Primary matrix: overview JPG](docs/matched_v1/figures/experiment_matrix_overview.jpg)
-- [Primary matrix: detailed JPG](docs/matched_v1/figures/experiment_matrix_detailed.jpg)
-- [Overview PDF](docs/matched_v1/figures/experiment_matrix_overview.pdf)
-- [Detailed PDF](docs/matched_v1/figures/experiment_matrix_detailed.pdf)
-- [Timestamped condition and queue status](docs/matched_v1/CURRENT_STATUS.md)
-- [Condition catalog, counts and file paths](docs/matched_v1/experiment_catalog.tsv)
-- [Full technical protocol](docs/matched_v1/README.md)
-- [English handover and preservation checks](docs/matched_v1/english_handover_check.md)
-- [Native-cohort statistical report](docs/matched_v1/analysis_native/report.md)
-- [Common99 statistical report](docs/matched_v1/analysis_common99/report.md)
-
-The figures show only the three primary models. The full catalog and original
-analysis artifacts retain Luna for provenance; filter their model column for
-primary thesis tables. Luna's incomplete rows are not gaps in the three-model matrix.
-
-## Research Question and Defensible Claim
+## Research Question and Claim
 
 Suggested framing:
 
 > Under a fixed adaptation of GRAMMAMT's gloss-based prompting strategies, this
-> study measures the incremental effect of grammar-book context on translation,
-> separately by model, prompting method and context material.
+> study measures the incremental effect of grammar-book context on translation
+> within each model and method, and compares text and image context packages.
 
-The primary contrast is **context minus no-book baseline for the same model,
-method and test sentences**. The context and its accompanying instruction are
-added together. This estimates that context package, not an instruction-independent
-effect of linguistic information.
+The intervention includes both the context and its accompanying instruction.
+It is not an instruction-independent estimate of linguistic information.
+The completed results do not establish a consistent general improvement.
+Report positive, negative and nonsignificant effects, with effect sizes and
+adjusted p-values. Nonsignificance does not establish no effect or equivalence.
 
-Cross-model comparisons are secondary and descriptive. The study does not test
-model-by-material interactions or isolate architecture from decoding and provider
-differences. A significant effect in one model and a nonsignificant effect in
-another is not itself a significant difference between models.
+Cross-model comparisons are secondary and descriptive. No model-by-material
+interaction is tested. Significance in one model but not another does not prove
+a difference between models. Architecture, decoding and provider effects are not isolated.
+Do not change the protocol or select additional trials merely to obtain significance.
 
-## Matrix and Data
+## Completed Matrix
 
-Each model has 12 baselines (4 languages x 3 methods) and 105 context conditions
-(35 material/source/variant combinations x 3 methods).
+There are **351 conditions: 36 no-book baselines and 315 grammar-context conditions**.
+Each model has 12 baselines and 105 context conditions.
 
-| Language / source | Qwen test rows | Gemini test rows | Selected PDF images |
+| Model | Completed conditions | Sentence-condition records |
+| --- | ---: | ---: |
+| Qwen3 | 117 | 15999 |
+| Qwen3.5 | 117 | 15999 |
+| Gemini 2.5 Flash Lite | 117 | 8733 |
+| Total | 351 | 40731 |
+
+These are repeated evaluations, not 40,731 distinct sentences.
+
+| Language / source | Qwen rows | Gemini rows | Selected PDF images |
 | --- | ---: | ---: | ---: |
 | Gitksan / Brown PDF1 | 37 | 37 | 9 |
 | Gitksan / Rigsby PDF2 | 37 | 37 | 6 |
@@ -70,269 +66,283 @@ Each model has 12 baselines (4 languages x 3 methods) and 105 context conditions
 | Natugu / grammar | 99 | 99 | 9 |
 | Tsez / grammar | 445 | 99 | 9 |
 
-- Every original source has six contexts: cheat sheet TXT/JPG, summary tables
-  TXT/JPG, summary text TXT and selected PDF-page JPGs.
-- Lezgi adds five Cyrillic contexts; no separate Cyrillic PDF-page condition.
-- Gitksan PDF1/PDF2 share test data and method-specific baselines. They are
-  alternative grammar sources, not independent languages or test sets.
-- The same first 21 glossed support examples are used within each language.
-- Lezgi's 87 rows contain 85 distinct sources and 86 distinct source/reference
-  pairs. Row count is not the number of independent linguistic items.
-- Tsez API evaluation uses the first 99 records, not a random sample.
+Original sources have six contexts: cheat sheet TXT/JPG, summary tables TXT/JPG,
+summary text TXT and selected PDF-page JPG. Lezgi has five additional Cyrillic
+contexts, without a separate Cyrillic selected-page condition.
+Gitksan sources share one language/method baseline; they are not independent test sets.
+Markdown sources are retained, not counted as duplicate TXT experiments.
 
-Use analysis_native for within-model results at each model's full configured
-sample size. Use analysis_common99 for cross-model Tsez comparisons: the same
-first 99 records for all models. These analyses overlap and are not independent
-replications. Other languages already share sample sizes.
+Use native cohorts for within-model full-configured-test analyses.
+Use common99 for descriptive cross-model Tsez comparisons: the same first 99,
+not a random sample. The two cohorts overlap and are not independent replications.
 
-## Methods and Baselines
+## Methods and Gold Glosses
 
-| Method | No-book baseline | Context condition | Interpretation |
-| --- | --- | --- | --- |
-| Gloss-shot (shot) | Glossed support examples, then translation | Same setup plus book context | Additional book-context effect, not all gloss information |
-| Chain-gloss | Explicit gloss followed by translation | Same task plus book context | Gloss and translation saved separately; only translation scored |
-| ModelGloss | Fixed externally predicted input gloss | Same predicted gloss plus book context | Book-context effect conditional on the same external gloss |
+| Method | No-book baseline | Context condition |
+| --- | --- | --- |
+| Gloss-shot, named shot | 21 gold-glossed training supports; translate test source | Same setup plus grammar context |
+| Chain-gloss | Same supports; generate test gloss, then translation | Same task plus context |
+| ModelGloss | Same supports; externally predicted test gloss | Same predicted gloss plus context |
 
-ModelGloss does not use the target test example's gold gloss as input.
-External gloss errors can affect both baseline and context results; gloss quality
-is not independently reassessed here.
+Only the translation is scored. Chain gloss compliance is reported separately.
+No-book does not mean no grammar information: gold support glosses are still present.
+No oracle test-gold-gloss condition is included.
 
-Use **only matched_v1 baseline/material pairs** for primary ablations.
-Historical baseline, legacy, curated_v1, chain_gloss_v2 and MTOB results must not
-be pooled with them without a separate comparability argument. Old Shot/Chain
-outputs produced with the same prompt are not independent Chain evidence.
+The prior matched_v1 family had **21 empty support gloss fields in every one of
+351 conditions**. Earlier statements describing those demonstrations as glossed
+were wrong. The covered training files suppressed the annotations.
+All baselines and context conditions were regenerated in matched_gold_v2; no
+historical predictions were imported to repair this problem.
 
-## Relationship to Original GRAMMAMT
+Gold training annotations are aligned with the original support sources:
+Gitksan uses official SIGMORPHON data_v1 at commit
+190689ac81935359c69a46463c48e25e63e601f7; other languages use local uncovered training files.
+[Support manifests](docs/matched_gold_v2/support/) retain indices and provenance.
+The selections are not claimed to reproduce the paper authors' exact support order.
 
-This is an **adaptation**, not a verbatim replication of Appendix L or its scores.
-Present original and implemented prompt templates in the thesis appendix.
+### Lezgi Support Replacement
 
-- System instructions and output delimiters were adapted. ModelGloss omits the
-  paper's warning that a predicted gloss may be wrong. These are methodological
-  choices, not necessarily unavoidable technical changes.
-- The paper's gloss-free few-shot baseline is not our gloss-shot baseline.
-- Local models and decoding differ from the original setup. Do not claim to
-  reproduce the paper's greedy decoding or untouched model defaults.
-- The **512-new-token cap is our implementation setting**, not a limit established
-  from the paper. It limits output, not grammar input. Chain-gloss shares this
-  budget between gloss and translation, so methods can be constrained differently.
-- We score with **XCOMET-XL**, not the paper's XCOMET-XXL. Do not combine their
-  values in an undifferentiated metric column.
+Before corrected generation, training index 5 (sixth example) was removed because
+its source exactly overlaps the test set. Index 21 (22nd example) replaced it.
+All 108 Lezgi conditions use indices 0-4 and 6-21, retaining 21 supports and 87 test rows.
+Other languages retain their original 21 support source/translation selections.
+There is no exact support-source/test-source match, but this is not a guarantee
+against partial, paraphrastic or book/test overlap.
+
+### Actual Input Evidence
+
+The final audit verifies every saved system/user message against the frozen
+prompt builder and each record's support identity. Each support set contains
+21 aligned, nonempty gold glosses. ModelGloss uses the cached predicted target
+gloss; it does not read the target gold gloss or English reference into the task input.
+
+The [earlier detailed audit](docs/matched_gold_v2/actual_input_audit/report.md)
+also checked planned prompt independence from test gold/reference fields and
+reconstructed API request hashes in its recorded snapshot. Do not present its
+snapshot counts as final coverage. Saved-message validation is not an independent
+reconstruction of Qwen processor-serialized token sequences.
+
+A test string can occur incidentally in training/context text even though its
+test field was not injected. Some external predictions exactly match gold;
+that alone is not evidence of oracle input. Grammar images are hash-bound but
+not independently OCR-audited for test-answer overlap.
+
+## Lezgi Reference-Quality Decision
+
+Three source-dataset references, indices **37, 62 and 81**, are literal **nan**.
+They are not valid English references and are distinct from failed model outputs.
+
+- Preserve the frozen **87-row** results and planned statistics as protocol artifacts.
+- Use the **84-row valid-reference sensitivity** for descriptive Lezgi performance.
+- Also report the **83-row sensitivity**, excluding index **11**, whose reference
+  occurs inside the longer translation of training support index **19**.
+- Apply identical masks to every model/method/baseline/context, irrespective of scores.
+- Retain all model failures among the retained rows. Do not invent references.
+- Recompute lexical scores from the same predictions and average matching XL/XXL
+  sentence scores. No new translation or COMET inference is needed.
+- These are post hoc descriptive sensitivities. **No filtered-cohort p-values
+  were computed; 87-row p-values must not be attached to 84/83-row tables.**
+- Full-cohort Lezgi significance is reference-contaminated and is not confirmatory
+  evidence of grammar improvement. Conclusions about Lezgi should remain descriptive.
+
+The 87-row dataset has 85 distinct sources and 86 distinct source/reference pairs.
+Sentence bootstrap is not cluster-bootstrap; repeated linguistic items are not
+fully independent. Removing one known overlap does not certify leakage-free evaluation.
+
+## Relationship to GRAMMAMT
+
+This is an **adaptation**, not verbatim Appendix L replication or a reproduction
+of published scores. Include the actual prompt templates in the thesis appendix.
+
+- System instructions and output delimiters were adapted.
+- ModelGloss omits the paper's warning that a predicted gloss may be wrong.
+- The paper's gloss-free few-shot baseline is not this gold-support gloss-shot baseline.
+- Models, decoding, seeds and support selection differ.
+- The **512-new-token cap is an implementation choice**, not an established paper limit.
+- XCOMET-XXL was selected for thesis reporting; XCOMET-XL is a separately labelled supplement.
+- Matching the evaluator alone does not make the experiment an exact replication.
+
+These adaptations do not prevent within-model/method matched context comparisons.
+They must remain visible, and published GRAMMAMT scores must not be treated as
+directly matched controls.
 
 ## Frozen Generation and Failure Policy
 
 | Setting | Qwen3 / Qwen3.5 | Gemini |
 | --- | --- | --- |
-| Decoding | Sampling; temperature 0.7, top-p 0.8, top-k 20, min-p 0 | Temperature 0 |
-| Penalties | Presence 1.5; repetition 1.0 | As recorded in frozen API configuration |
+| Decoding | Sampling, temperature 0.7, top-p 0.8, top-k 20, min-p 0 | Temperature 0 |
+| Penalties | Presence 1.5, repetition 1.0 | Frozen API configuration |
 | Seed | 20260910 + 2 x original test index | 42 |
 | Maximum new tokens | 512 | 512 |
 | Thinking | Disabled | Reasoning effort none; violations rejected |
-| Resources | FP32; one H100 per job; no offload or quantization | OpenRouter, recorded Google provider |
+| Resources | FP32, one H100 per job, no offload/quantization | OpenRouter, recorded Google provider |
 
-Settings are fixed within each model/method/material contrast, not identical
-across local/API backends. A fixed seed does not guarantee identical execution
-across hardware, libraries or hidden provider revisions. There is no multi-seed study.
+Settings are fixed within each model/method across materials, not across backends.
+A fixed seed does not eliminate hardware/provider variability; no multi-seed study exists.
+Chain-gloss shares its output budget between gloss and translation.
 
-One semantic attempt is retained per sentence. There are no response-conditioned
-prompt repairs, best-guess retries or changes to rescue low-quality answers.
-Identical transport requests may be retried after API/network failures. A
-recoverable translation can be parsed without changing the prompt. Empty,
-truncated, refused or unextractable responses remain failures in the denominator.
-A malformed/missing gloss does not erase an extractable translation; report
-gloss compliance separately. Explicit task glossing is not hidden model reasoning.
+One persisted semantic attempt per sentence is retained. No response-conditioned
+prompt repairs or best-answer selection are used. Transport retries may repeat an
+identical API request. The frozen parser uses FINAL_TRANSLATION or a permitted
+single-line fallback; it does not guarantee that every recoverable linguistic
+answer is extracted. Truncated outputs are treated as empty by this policy.
+Empty/refused/unextractable/reasoning-violating outputs remain in denominators.
+Missing generated gloss does not erase an otherwise extractable translation.
 
-Compatible historical first attempts are copied with provenance; later prompt-repair
-attempts are not selected as improved predictions. Some historical API records lack
-per-request prompt hashes and finish reasons. Reconstructed settings are weaker
-evidence than original request logs; do not imply perfect historical reconstruction.
+Initial parallel Gemini jobs had shared temporary-file conflicts. Replacement
+groups ran serially, retained saved responses (including failures), and repeated
+unchanged requests only for missing records. Earlier responses lost before
+persistence are unavailable; do not claim an exhaustive API-response history.
 
-## Statistical Significance: Completed
+## Completed Jobs
 
-**Yes, the tests have been run, not merely scheduled.**
-
-| Analysis | Job | Outcome | Runtime |
+| Stage | Job | Actual elapsed time | Outcome |
 | --- | --- | --- | --- |
-| Native-cohort paired tests | 5790449 | Completed, exit 0:0 | 01:38:27 |
-| Common99 paired tests | 5790450 | Completed, exit 0:0 | 01:31:33 |
-| XCOMET-XL scoring | 5790448 | Completed, exit 0:0 | 02:31:04 |
+| XCOMET XL | 5798036 | 02:12:09 | Completed, exit 0:0 |
+| Native/common99 BLEU/chrF++ analyses | 5798037 | 03:04:55 | Completed, exit 0:0 |
+| XCOMET XXL | 5798139 | 05:57:03 | Completed, exit 0:0 |
+| XL analysis | 5798172 | 00:01:54 | Completed, exit 0:0 |
+| XXL analysis | 5798146 | 00:02:05 | Completed, exit 0:0 |
 
-SacreBLEU paired bootstrap uses **100000 resamples**, seed **20260915**, BLEU and
-chrF++ (word_order=2), followed by **Holm multiple-test correction**. Each cohort
-contains all **630 primary metric comparisons**: 315 baseline contrasts x 2 metrics.
-TXT/JPG paired tests are saved separately with their own correction family.
-XCOMET significance was not tested.
+Four 50-minute checkpoint exits were resumed with unchanged prompts and saved records:
+5799942, 5799943, 5799944 and 5799945 all completed. See the
+[resume receipt](docs/matched_gold_v2/resumed_chain_jobs_2026-09-20.md).
+No generation/scoring/analysis job remains queued as of final scheduler verification.
+One GPU per job does not mean that independent jobs could not run concurrently.
+XXL fit and inference were verified by successful production, without a second GPU.
 
-The saved analyses retain the original four-model planned family: **840 planned
-baseline metric tests**, including Luna. Missing planned tests are conservatively
-treated as p=1. Omitting Luna from reporting does not change these adjusted p-values.
-Disclose the preserved family rather than silently choosing a smaller correction
-after seeing results. Material-pair correction counts are also in results.json.
+## Statistical Analyses
 
-All paths below are relative to docs/matched_v1:
+All planned outputs are available under docs/matched_gold_v2.
 
-| Artifact | Purpose |
+| Directory | Scope |
 | --- | --- |
-| analysis_native/scores.tsv | Complete scores at native sample sizes |
-| analysis_native/comparisons.tsv | Context-minus-baseline delta, raw and adjusted p-values |
-| analysis_native/material_pairs.tsv | JPG-minus-TXT comparisons |
-| analysis_common99/scores.tsv | Descriptive cross-model scores on common cohorts |
-| analysis_common99/comparisons.tsv | Same-model contrasts on common cohorts |
-| analysis_common99/material_pairs.tsv | Common-cohort JPG-minus-TXT comparisons |
-| Both results.json files | Input hashes, seeds, signatures, exclusions and correction scope |
+| analysis_native | Full configured cohorts, BLEU and chrF++ |
+| analysis_common99 | Shared first-99 Tsez cohort, BLEU and chrF++ |
+| analysis_xcomet_xl | XL, both cohorts |
+| analysis_xcomet_xxl | XXL, both cohorts |
 
-Per-condition metrics under metrics/matched_v1 include XCOMET and prediction-hash
-provenance. The TSV field chrf means chrF++ with word_order=2, not plain chrF.
-Some significance rows label this metric chrF2++.
+Each has scores.tsv, comparisons.tsv, material_pairs.tsv, results.json and report.md.
+The final handover joins scores without mixing metrics or experimental families.
+The recommended thesis_scores.tsv uses 84 valid-reference rows for Lezgi and
+explicitly marks those rows as descriptive-only. It does not attach 87-row
+p-values to filtered scores. The original scores.tsv remains available separately.
 
-### Main Statistical Finding
+### BLEU and chrF++
 
-Under the preserved Holm correction, the sole positive significant primary metric
-contrast is **Qwen3 / Natugu / ModelGloss / cheat sheet TXT**, approximately
-**+2.98 chrF++**, adjusted p approximately **0.01672** in the native analysis.
-The common99 result is the same contrast with adjusted p approximately 0.01676,
-not independent confirmation. Most contrasts do not establish positive improvement
-after correction. Do not generalize one result to every material, language or model.
-Report negative and nonsignificant effects as well.
+SacreBLEU paired bootstrap uses **100000 resamples**, seed **20260915**.
+chrF uses word_order=2, so it is **chrF++**, sometimes labelled chrF2++ in outputs.
+Each cohort has 630 baseline/context metric tests (315 pairs x 2 metrics), with
+one Holm family; its 216 TXT/JPG metric tests form a separate family.
+The reported system_ci_half_width is an individual-system interval, **not a
+paired-delta interval**. Do not draw it as uncertainty around a difference.
+Metric signatures specify case, tokenizer, smoothing, sample count and version.
 
-Confidence intervals describe **individual system scores**, not paired score
-differences. Sentence bootstrap does not measure generation-seed/API-version
-uncertainty. Nonsignificance is not equivalence; a small p-value is not automatically
-a practically meaningful improvement. No minimum practically important difference
-or human adequacy threshold was established.
+### XL and XXL
 
-## Comparability Audit: Which File to Use
+Each uses 100000 two-sided null-centered paired sentence bootstrap resamples,
+plus-one p-values and deterministic seeds derived from 20260919.
+95% percentile intervals describe paired mean differences and are unadjusted.
+Each metric separately pools both cohorts into 630 baseline/context and 216
+TXT/JPG tests, with separate Holm families. This is not SacreBLEU's test implementation.
 
-**Keep comparability evidence in the handover.** Matching conditions is necessary
-for interpreting effects; significance testing cannot repair unmatched baselines.
-A thesis chapter named "Comparability Audit" is optional, but its checks and
-limitations belong in Methods, Limitations or an appendix.
+The four metrics/cohorts do not share one universal correction family. Do not
+cherry-pick a significant metric and claim overall familywise control.
+Overlapping cohorts and repeated language/source tests are not independent confirmations.
+Neither bootstrap measures generation-seed/provider uncertainty.
+No minimum practically important difference or human adequacy threshold was set.
 
-- **Final evidence:** [completion audit](docs/matched_v1/completion_audit_2026-09-17.md).
-  It verifies 351 conditions, source/reference alignment, input/protocol hashes,
-  metric freshness, XCOMET provenance and statistical-input hashes. BLEU/chrF++
-  were recomputed from every prediction file. All 30254 newly generated prompt
-  hashes match the frozen prompt builder.
-- **Historical evidence:** [earlier audit](docs/comparability_audit/README.md).
-  Its 15 September findings explain the repairs. Missing results described there
-  are not the final status. Preserve it as history, not the final verdict.
-- No new audit job is needed merely to deliver this completed matrix. Changes to
-  predictions, prompts or scoring would require another appropriately scoped check.
+### Reading the Findings
 
-## Required Limitations and Reporting Rules
+Use final/significance_summary.tsv and the original comparison tables, including
+negative results. The full native lexical analysis has one positive adjusted
+metric test for Qwen3.5: Tsez Chain-gloss with cheat sheet TXT has
+**+1.378 chrF++**, Holm-adjusted **p = 0.00630**, on 445 rows.
+Common99 has no positive adjusted baseline test; it is a smaller overlapping
+cohort, not an independent replication.
+XL and XXL do not establish a positive adjusted baseline effect.
+This does not imply every raw score difference is zero or that systems are equivalent.
+Lezgi tests retain their original reference-quality caveat regardless of sign.
 
-| Issue | Required disclosure |
+XXL scores remain on their native scale; multiply by 100 only in explicitly
+labelled percentage-style tables. Never compare an XL baseline with an XXL context.
+Relative improvements are undefined at zero and unstable near zero; prefer absolute deltas.
+
+## Required Limitations
+
+| Issue | Disclosure |
 | --- | --- |
-| Development history | Earlier trials on these data influenced settings. Do not claim an untouched independent development/validation set. |
-| Small datasets | Gitksan, Lezgi and Natugu have 37, 87 and 99 rows. Power and generalization are limited. |
-| Duplicate Lezgi rows | Repeated linguistic examples are not independent. There is no cluster-bootstrap correction. |
-| Support examples | Fixed first 21 examples; no support-selection robustness study. |
-| Book/test overlap | No independent leakage-free guarantee for every book. Avoid claims of entirely unseen examples or information. |
-| TXT/JPG content | Not all pairs are certified content-equivalent. Content, density and layout can affect differences, not just modality. |
-| Source variants | Label Gitksan grammar sources and Lezgi Cyrillic separately. |
-| Context instruction | The added material and its instruction form one intervention; their effects are not isolated. |
-| ModelGloss | Cached gloss quality can affect outcomes; the same gloss is used on both sides. |
-| Output failures | Report empty and gloss-compliance rates. Never drop failed sentences to improve averages. |
-| Output cap | Chain-gloss may be constrained more by the same 512-token limit. Report truncation, not missing-data exclusion. |
-| Native/common99 | Different purposes, overlapping data, not independent replications. |
-| Cross-model inference | Different decoding/provider settings; no causal architecture or interaction claim. |
-| Metrics | Automatic proxies, not human adequacy evaluation. |
-| XCOMET | XL, not XXL. Target low-resource language coverage is not established; do not use it as the sole arbiter. |
-| Multiple comparisons | Report raw and adjusted p-values with the preserved planned family; do not cherry-pick. |
-| Reuse provenance | Incomplete historical API request evidence; distinguish reconstruction from recorded verification. |
-| Resources | FP32 and one H100 per local job; independent jobs can run concurrently. Not a single-GPU campaign-wide claim. |
-| Historical families | Earlier audits/exploratory results are not the final matched comparison. MTOB Ge/Gs/Gl is a separate suite. |
-| Luna exclusion | Outside primary scope; budget-limited partial results are not primary evidence. |
+| Development history | Earlier trials informed settings; no claim of an untouched independent development set |
+| Sample sizes | Small Gitksan/Lezgi/Natugu cohorts limit precision and generalization |
+| Support selection | Fixed 21 examples; no support-selection robustness study |
+| References and overlap | Lezgi 84/83-row sensitivities; no claim of entirely unseen information |
+| TXT/JPG | Not all pairs certified content-equivalent; content/layout may contribute, not just modality |
+| Context intervention | Context and its instruction change together |
+| ModelGloss | External gloss errors are shared within pairs; gloss quality not independently reassessed |
+| Output cap/parser | Failures included; 512-token cap may constrain chain more |
+| Cross-model | Different decoding/providers; no causal architecture or interaction claim |
+| Automatic metrics | Not human adequacy; XCOMET language coverage not established |
+| Duplicates | Lezgi repeated rows not cluster-resampled |
+| Multiplicity | Separate, preserved families; no metric cherry-picking |
+| API provenance | Lost initial responses not recoverable; saved responses retained |
+| Resources | One H100 per local job, FP32; parallel independent jobs permitted |
+| Luna | Excluded; historical budget-limited results not primary evidence |
+| Historical families | No pooling with matched_v1, legacy, curated_v1, chain_gloss_v2 or MTOB |
 
-## Handover and Reproducibility
+Possible explanations for weak gains (context relevance, visual readability,
+long-context use, imperfect glosses, output budget) are hypotheses, not established causes.
 
-Start with this guide, the final audit, English matrix PDFs, the catalog and both
-statistical output folders. Use catalog paths to inspect raw results, generated
-glosses, failures and per-condition scores. Historical documents retain their dates
-and evidence rather than being rewritten as final results.
+## Historical Evidence and MTOB
 
-English documentation does not translate or rename frozen grammar forms, PDFs,
-prompts, references, predictions or provenance paths. Keep credentials, environment
-files, API keys, caches, virtual environments and personal shell configuration out
-of any shareable package. No GitHub push/publication is part of this documentation
-update. Reading the results requires no new generation or API charges.
+Keep comparability evidence in the handover. Statistical significance cannot
+repair unmatched conditions. The [earlier audit](docs/comparability_audit/README.md)
+and [matched_v1 completion audit](docs/matched_v1/completion_audit_2026-09-17.md)
+are historical, not corrected primary evidence. Their empty-support-gloss results
+and significance findings must not be carried forward as matched_gold_v2 findings.
 
-Refresh the catalog and English figures without submitting jobs:
+The separate [MTOB closure](experiments/mtob/evaluation_v1/CLOSURE_REPORT.md)
+covers 30 Qwen Ge/Gs/Gl conditions and 4230 records, not the primary 351 conditions.
+It preserves original outputs and evaluates raw/extracted views, with 120 planned
+BLEU/chrF tests, 100000 resamples and one Holm family. No MTOB grammar-free
+baseline was completed; the proposed extension was cancelled.
+
+The [MTOB/GRAMMAMT comparison](experiments/mtob/grammamt_comparison_v1/COMPARISON_REPORT.md)
+uses **historical matched_v1 baselines with empty support glosses**, not corrected baselines.
+Its completed 360-test family is separate; do not relabel it as a gold-v2 comparison.
+Common evaluation does not remove prompt/support/decoding/retry confounds.
+MTOB uses temperature 0.05 and cap 256 versus matched_v1's 0.7 and cap 512.
+Actual Gl lengths are not uniformly 100K tokens. Four Qwen3.5 records were rerun;
+earlier responses are unavailable. Missing finish metadata means truncation is unknown.
+Read the closure report for extraction ambiguity, ROUGE limits and the CharacTER
+definition. No new MTOB or API experiment is part of this finalization.
+
+## Reproducibility and Final Package
+
+Run from GRAMMAMT:
 
 ```bash
-venv/bin/python scripts/status_matched.py --validate
-venv/bin/python scripts/build_thesis_overview.py
+venv/bin/python scripts/finalize_gold_v2.py
+venv/bin/python scripts/render_gold_v2_appendix.py
+venv/bin/python -m unittest discover -s tests -p 'test_final_gold_v2.py' -v
 ```
 
-Outside Slurm, the second command accepts --without-slurm and makes no live queue
-claim. Optional statistical verification commands (not unfinished work):
+The finalizer is CPU-only and reads frozen inputs. It verifies completed results,
+actual message evidence, fresh XL/XXL scores and statistical input hashes, recomputes
+lexical scores, and writes only final derived artifacts. It does not submit jobs.
+The older scripts/build_thesis_overview.py targets matched_v1, not this final matrix.
 
-```bash
-venv/bin/python runners/matched/analyze.py --samples 100000 --models qwen3 qwen35 gemini25flashlite gpt56luna --cohort native
-venv/bin/python runners/matched/analyze.py --samples 100000 --models qwen3 qwen35 gemini25flashlite gpt56luna --cohort common99
-```
+Keep credentials, environment files, caches, virtual environments and personal
+shell configuration out of the shareable package. No GitHub push is included in
+this update. Do not translate or alter frozen language forms, references or predictions.
 
-These overwrite their derived analysis folders and take substantial CPU time.
-Including Luna reproduces the saved correction family; filter its rows from primary
-reporting. Do not change the model list and describe the result as the same planned
-family. This protocol was fixed for the campaign but is not claimed to have been
-externally preregistered.
-
-## Separate MTOB Supplement
-
-The [MTOB closure protocol](experiments/mtob/evaluation_v1/README.md),
-[live closure report](experiments/mtob/evaluation_v1/CLOSURE_REPORT.md), and
-[30-condition matrix](experiments/mtob/evaluation_v1/condition_matrix.tsv)
-cover the existing Qwen3/Qwen3.5 Ge/Gs/Gl experiments only. This supplement is
-not included in the 351-condition primary matched_v1 matrix above.
-
-Use the closure report's current completion state before citing new MTOB scores
-or significance. Original outputs and historical metrics are preserved. New
-evaluation retains failures in the denominator and provides both raw and
-deterministically extracted translation views. It uses 120 planned paired
-BLEU/chrF tests, 100,000 resamples, and one Holm correction family across views.
-
-The original 30-condition MTOB closure has no matched grammar-free baseline: its
-conclusions concern Ge/Gs/Gl differences, not a benefit from adding grammar. The
-planned source-specific [baseline extension](experiments/mtob/baseline_v1/README.md)
-was cancelled at the researcher's request. Its preparation files are not evidence
-of completed experiments and must not be cited as baseline results.
-
-The separate [cross-protocol comparison](experiments/mtob/grammamt_comparison_v1/README.md)
-uses existing matched_v1 shot, chain_gloss and modelgloss baseline predictions.
-It pairs identical sentences/references and recomputes both setups with one
-evaluator. Consult its [live report](experiments/mtob/grammamt_comparison_v1/COMPARISON_REPORT.md)
-before citing completion or significance. Ninety comparisons, two views and two
-metrics define a separate 360-test Holm family. Neither the primary 351-condition
-matrix nor the original 120-test MTOB closure family is changed.
-
-Completion verified: Slurm job 5795449 finished successfully in 01:17:38.
-All 360 cross-protocol tests completed. Holm correction identifies 217 significant
-differences, all favouring the GRAMMAMT baseline configuration: raw BLEU 39,
-raw chrF 77, extracted BLEU 39 and extracted chrF 62. These are metric-test
-counts across correlated comparisons/views, not 217 independent experiments.
-All 90 comparisons have lower MTOB BLEU and chrF in both views; not every
-difference is statistically significant. Original input hashes remain verified.
-
-These are valid **cross-protocol translation-performance comparisons**, not
-controlled grammar-addition ablations. MTOB uses temperature 0.05 and a 256-token
-output cap; matched_v1 uses temperature 0.7 and a 512-token cap. Prompts, examples,
-gloss information, seeds and retry policies also differ. Common scoring removes
-metric-convention differences, not these experimental confounds. Gitksan PDF1
-and PDF2 share their language baseline/test cohort, so they are not independent
-datasets. Report absolute differences first; relative changes are undefined at
-zero baseline and unstable near zero. Do not mix historical metrics directly.
-
-Actual Gl lengths vary substantially and are not uniformly 100K tokens. Four
-Qwen3.5 records were rerun; earlier-round responses are not retained in their
-final JSONL. Missing finish metadata means truncation is unknown. Read the
-closure report for extraction ambiguities, local ROUGE limitations, CharacTER
-definition and historical-denominator effects. Neither a non-significant result
-nor two equally low scores establishes equivalence.
+Writing can proceed using the final package. Report Lezgi sensitivities descriptively;
+do not attach invalid-reference p-values to cleaned cohorts. A future confirmatory
+filtered-cohort analysis would be a separately versioned extension, not unfinished
+generation or a reason to hide the current findings.
 
 ## References
 
-- [GRAMMAMT paper, including Appendix L](https://aclanthology.org/2025.acl-long.1447.pdf)
-- [SacreBLEU paired significance tests](https://github.com/mjpost/sacrebleu#paired-significance-tests)
-- [XCOMET-XL model card](https://huggingface.co/Unbabel/XCOMET-XL)
-- [XCOMET-XXL model card](https://huggingface.co/Unbabel/XCOMET-XXL)
+- [GRAMMAMT, Appendix L](https://aclanthology.org/2025.acl-long.1447.pdf)
+- [SacreBLEU significance](https://github.com/mjpost/sacrebleu#paired-significance-tests)
+- [XCOMET-XL](https://huggingface.co/Unbabel/XCOMET-XL)
+- [XCOMET-XXL](https://huggingface.co/Unbabel/XCOMET-XXL)

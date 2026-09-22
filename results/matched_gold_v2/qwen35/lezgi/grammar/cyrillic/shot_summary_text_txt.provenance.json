@@ -1,0 +1,633 @@
+{
+  "model": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "language": "Lezgi",
+  "source": "grammar",
+  "variant": "cyrillic",
+  "material": "summary_text_txt",
+  "method": "shot",
+  "context_kind": "text",
+  "context_files": [
+    "materials/curated_v1/lezgi/grammar/cyrillic/summary_text/summary_model_readable.txt"
+  ],
+  "context_hashes": {
+    "materials/curated_v1/lezgi/grammar/cyrillic/summary_text/summary_model_readable.txt": "05f3c9a6cbfa7eebbfb5aae1793c9e7c1db8953862460f3b16b54a5c837b05c0",
+    "docs/matched_gold_v2/support/lezgi.json": "27ac2589bbc70eab3a8768c135cb71d33161abc246a7ed55048682082f274c8e",
+    "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/data/Lezgi/lez-train-track1-uncovered": "4766bcf7d67d3eea1cbefe041473a53ac33fdee956b4108b0569ca3f9ebfadf6"
+  },
+  "grammar_text": "# Lezgi Grammar Summary for Translation\n\n## Source\nPDF: Lezgi Grammar PDF\nPages used: selected from the 59-page PDF excerpt, especially pages 19-20, 24-28, 30-31, 34-35, 43, and 59.\nExtraction notes: embedded PDF text was available. Some transliteration characters in the extracted text look noisy because of PDF font encoding. Such forms were kept as extracted and should be checked against the rendered source page JPGs.\n\n## WORD_ORDER\n| Fact | Translation cue | Source page |\n|---|---|---|\n| Word order patterns are described as overwhelmingly head-final. | Expect dependents before heads. | [PDF p. 25] |\n| Head-final order is obligatory in noun phrases, adjective phrases, and postpositional phrases. | Genitive-noun, adjective-noun, numeral-noun, demonstrative-noun are listed. | [PDF p. 25] |\n| SOV order is preferred for clauses, but other orders are possible, especially in spoken language. | Do not rely only on position; use case/gloss information. | [PDF p. 25] |\n\n## NOUNS_AND_CASE\n| Fact | Translation cue | Source page |\n|---|---|---|\n| Nouns are inflected for number: Singular and Plural. | PL in glosses marks plural. | [PDF p. 24] |\n| Nouns are inflected for case: Absolutive, Ergative, Genitive, Dative, Essive, Elative, Directive. | Case labels indicate clause roles and relations. | [PDF p. 24] |\n| Locative cases Essive, Elative, and Directive occur with localizations Ad, Sub, Post, Super, In. | Local cases can express local relations. | [PDF p. 24] |\n| All cases other than Absolutive are based on an oblique stem. | A period in nouns can separate the stem from the oblique stem suffix. | [PDF p. 24], [PDF p. 34] |\n| Local relations are more often expressed by postpositions; noun inflections tend to express more abstract relations. | Check both case and postposition-like material for English prepositional meanings. | [PDF p. 24] |\n\n### Example nominal paradigm from the PDF: гьуьл 'sea'\n| Case | Singular | Plural | Source page |\n|---|---|---|---|\n| Absolutive | гьуьл | гьуьл-ер | [PDF p. 24] |\n| Ergative | гьуьл-и | гьуьл-ер-и | [PDF p. 24] |\n| Genitive | гьуьл-и-н | гьуьл-ер-и-н | [PDF p. 24] |\n| Dative | гьуьл-и-з | гьуьл-ер-и-з | [PDF p. 24] |\n| Adessive | гьуьл-и-в | гьуьл-ер-и-в | [PDF p. 24] |\n| Adelative | гьуьл-и-вай | гьуьл-ер-и-вай | [PDF p. 24] |\n| Addirective | гьуьл-и-вди | гьуьл-ер-и-вди | [PDF p. 24] |\n| Subessive | гьуьл-и-к | гьуьл-ер-и-к | [PDF p. 24] |\n| Subelative | гьуьл-и-кай | гьуьл-ер-и-кай | [PDF p. 24] |\n| Subdirective | гьуьл-и-кди | гьуьл-ер-и-кди | [PDF p. 24] |\n| Postessive | гьуьл-и-хь | гьуьл-ер-и-хь | [PDF p. 24] |\n| Postelative | гьуьл-и-хьай | гьуьл-ер-и-хьай | [PDF p. 24] |\n| Postdirective | гьуьл-и-хьди | гьуьл-ер-и-хьди | [PDF p. 24] |\n| Superessive | гьуьл-е-л | гьуьл-ер-а-л | [PDF p. 24] |\n| Superelative | гьуьл-е-лай | гьуьл-ер-и-лай | [PDF p. 24] |\n| Superdirective | гьуьл-е-лди | гьуьл-ер-а-лди | [PDF p. 24] |\n| Inessive | гьуьл-е | гьуьл-ер-а | [PDF p. 24] |\n| Inelative | гьуьл-яй | гьуьл-ер-ай | [PDF p. 24] |\n\n## PRONOUNS_AND_DEMONSTRATIVES\n| Fact | Translation cue | Source page |\n|---|---|---|\n| Personal pronouns are normally used if there are no full noun phrase arguments. | Pronouns may supply omitted full NPs. | [PDF p. 26] |\n| Pronouns may be omitted if recoverable from context. | Missing pronouns may still be understood from context. | [PDF p. 26] |\n| Ergative and Absolutive cases of personal pronouns are treated as unanalyzable in the glossing conventions. | Do not over-segment these pronoun forms. | [PDF p. 35] |\n| Third-person pronouns are based on demonstratives, but demonstrative/substantivizer/plural affixes may be ignored in glosses. | Forms like ада and абур.у are glossed economically. | [PDF p. 34], [PDF p. 35] |\n\n## VERB\n| Fact | Translation cue | Source page |\n|---|---|---|\n| Verbs are inflected for tense-aspect, negation, several mood forms, and various non-finite forms. | Verb suffixes carry tense/aspect/mood/negation. | [PDF p. 24] |\n| There are no person-number agreement forms. | Do not infer subject/object person from verb agreement. | [PDF p. 24], [PDF p. 26] |\n| There is no agreement in Lezgian, neither in noun phrases nor on finite verbs. | Use case and NPs/pronouns rather than agreement. | [PDF p. 26] |\n| The causative suffix -(а)р turns intransitive verbs into transitive verbs. | Causative may add a causer/transitive reading. | [PDF p. 25], [PDF p. 26] |\n\n### Verb forms from гун 'give'\n| Category | Non-negated | Negated | Source page |\n|---|---|---|---|\n| Imperfective | гу-зва | гу-зва-ч | [PDF p. 25] |\n| Past Imperfective | гу-зва-й | гу-зва-ч-ир | [PDF p. 25] |\n| Future | гу-да | гу-да-ч | [PDF p. 25] |\n| Past Future | гу-да-й | гу-да-ч-ир | [PDF p. 25] |\n| Aorist | га-на | га-на-ч | [PDF p. 25] |\n| Past Aorist | га-на-й | га-на-ч-ир | [PDF p. 25] |\n| Perfect | га-нва | га-нва-ч | [PDF p. 25] |\n| Past Perfect | га-нва-й | га-нва-ч-ир | [PDF p. 25] |\n| Prohibitive | Not listed | гу-мир | [PDF p. 25] |\n| Optative | гу-рай | та-гу-рай | [PDF p. 25] |\n| Hortative | гу-н | та-гу-н | [PDF p. 25] |\n| Masdar | гу-н | та-гу-н | [PDF p. 25] |\n| Infinitive | гу-з | та-гу-з | [PDF p. 25] |\n| Imperfective participle | гу-зва-й | та-гу-зва-й | [PDF p. 25] |\n| Future participle | гу-да-й | та-гу-да-й | [PDF p. 25] |\n| Perfect participle | га-нва-й | та-га-нва-й | [PDF p. 25] |\n| Aorist participle | га-й | та-га-й | [PDF p. 25] |\n| Aorist converb | га-на | та-га-на | [PDF p. 25] |\n| Posterior converb | гу-далди | Not listed | [PDF p. 25] |\n| Temporal converb | га-йи-ла | та-га-й-ла | [PDF p. 25] |\n\n## NEGATION_AND_QUESTIONS\n| Fact | Translation cue | Source page |\n|---|---|---|\n| Many verb forms are listed with non-negated and negated forms. | Negation can be suffixal or prefixal depending on form. | [PDF p. 25] |\n| Some negated non-finite/mood forms show та- before the verb. | та- in listed forms marks negation for several categories. | [PDF p. 25] |\n| Polar questions are marked by the interrogative verb suffix -ни. | -ни on a verb can signal yes/no question. | [PDF p. 27] |\n| In parametric questions, the interrogative pronoun is normally in situ and no interrogative verb suffix is used. | Wh-word stays in place; no -ни is used in the example. | [PDF p. 28] |\n| Dialects may use different negative/prohibitive forms. | Treat dialectal variants cautiously. | [PDF p. 43] |\n\n## CLAUSE_STRUCTURE\n| Fact | Translation cue | Source page |\n|---|---|---|\n| Clause case-marking is described as uniformly ergative. | Ergative often marks transitive subject; Absolutive marks intransitive subject or object. | [PDF p. 25], [PDF p. 26] |\n| Dative subjects occur with some experiential verbs. | DAT NP can correspond to English experiencer subject. | [PDF p. 26] |\n| Subordinate clauses are normally non-finite and generally precede the superordinate clause. | Translate bracketed/non-finite clause before main clause if appropriate. | [PDF p. 26] |\n| Relative clauses use participles with no inherent orientation. | A participial relative can relativize many constituent roles. | [PDF p. 26] |\n| Complement clauses include Masdar, Infinitival, and participial complements. | Non-finite forms can translate as English infinitive/that clauses depending on context. | [PDF p. 26], [PDF p. 27] |\n| Conjunction ва 'and' exists, but converb constructions are preferred for clause linking. | Converbs may translate as 'and', 'having...', 'when', 'before', or adverbial clauses. | [PDF p. 27] |\n\n## GLOSSING_AND_NOTATION\n| Fact | Translation cue | Source page |\n|---|---|---|\n| Morpheme-by-morpheme glosses use brackets to mark subordinate clauses. | Brackets help identify embedded clauses. | [PDF p. 28], [PDF p. 35] |\n| Categories expressed by zero may be shown in parentheses; categories always expressed by zero are not shown for economy. | Missing ABS or other zero categories may still be present. | [PDF p. 34] |\n| A period in nouns separates the stem from the semantically empty oblique stem suffix. | Period is not a word boundary; it marks oblique stem notation. | [PDF p. 34] |\n| Lezgian text hyphen is rendered by equals sign in glossed examples to avoid confusion with morpheme hyphens. | Equals sign may represent original hyphen/compound. | [PDF p. 35] |\n\n## GLOSSING_ABBREVIATIONS\n| Form | Function | Translation cue | Source page |\n|---|---|---|---|\n| ABS | Absolutive case | case label | [PDF p. 19] |\n| ERG | Ergative case | case label | [PDF p. 19] |\n| GEN | Genitive case | case label | [PDF p. 19] |\n| DAT | Dative case | case label | [PDF p. 19] |\n| ADESS/ADEL/ADDIR | Adessive/Adelative/Addirective case | local case labels | [PDF p. 19] |\n| SBESS/SBEL/SBDIR | Subessive/Subelative/Subdirective case | local case labels | [PDF p. 19] |\n| POESS/POEL/PODIR | Postessive/Postelative/Postdirective case | local case labels | [PDF p. 19] |\n| SRESS/SREL/SRDIR | Superessive/Superelative/Superdirective case | local case labels | [PDF p. 19] |\n| INESS/INEL | Inessive/Inelative case | local case labels | [PDF p. 19] |\n| AOR | Aorist | verb category | [PDF p. 19] |\n| IMPF | Imperfective | verb category | [PDF p. 19] |\n| FUT | Future | verb category | [PDF p. 19] |\n| PRF | Perfect | verb category | [PDF p. 20] |\n| PST | Past | verb category | [PDF p. 19] |\n| NEG | negation | negation label | [PDF p. 19] |\n| Q | question marker | question label | [PDF p. 20] |\n| PTP | participle | non-finite verb label | [PDF p. 19] |\n| INF | Infinitive | non-finite verb label | [PDF p. 19] |\n| MSD | Masdar | non-finite verb label | [PDF p. 19] |\n| AOC | Aorist converb | converb label | [PDF p. 19] |\n| POSTR/TEMP | Posterior/Temporal converb | converb labels | [PDF p. 20] |\n| PT | particle | particle label | [PDF p. 20] |\n| COP | copula | copula label | [PDF p. 19] |\n| PL | plural | number label | [PDF p. 19] |\n\n## TRANSLATION_RELEVANT_EXAMPLES\n| Page | Original / gloss / translation |\n|---|---|\n| [PDF p. 25] | Стха кӀвал.и-з хта-на. / brother(ABS) house-DAT return-AOR / 'The brother came back home.' |\n| [PDF p. 26] | Вах.а стха кӀвал.и-з ракъур-на. / sister(ERG) brother(ABS) house-DAT send-AOR / 'The sister sent the brother home.' |\n| [PDF p. 26] | Вах.а-з стха аку-на. / sister-DAT brother(ABS) see-AOR / 'The sister saw the brother.' |\n| [PDF p. 26] | Ада абур кӀвал.и-з ракъур-на. / she(ERG) they(ABS) house-DAT send-AOR / 'She sent them home.' |\n| [PDF p. 26] | гада кӀвал.и-з ракъур-ай руш / [boy house-DAT send-AOP] girl / 'the girl who sent the boy home.' |\n| [PDF p. 27] | Фарид ата-на-ни? / Farid come-AOR-Q / 'Has Farid come?' |\n| [PDF p. 28] | Фарид мус ата-на? / Farid when come-AOR / 'When did Farid come?' |\n| [PDF p. 28] | Авар чӀал лезги чӀал.а-лай четин я. / Avar language Lezgian language-SREL difficult COP / 'Avar is more difficult than Lezgian.' |\n\n## TRANSLATION_CUES_FOR_QWEN\n- CASE: Because clauses are described as uniformly ergative, use ERG/ABS/DAT labels to infer English subject/object roles rather than relying only on word order. [PDF p. 25-26]\n- WORD_ORDER: Head-final structure means modifiers and genitives commonly precede nouns; clauses prefer SOV order, but other orders can occur. [PDF p. 25]\n- VERB: Verb morphology carries tense-aspect, negation, mood, and non-finite categories; finite verbs do not show person-number agreement. [PDF p. 24], [PDF p. 26]\n- QUESTION: -ни on the verb marks polar questions; parametric questions use an in-situ interrogative pronoun without the question suffix in the example. [PDF p. 27-28]\n- SUBORDINATION: Non-finite subordinate clauses generally precede main clauses and may translate as English relative, complement, temporal, or adverbial clauses. [PDF p. 26-27]\n- NEGATION: Negated forms in the overview include suffixal negative forms and та- prefixed forms; use the specific category table when available. [PDF p. 25]\n\n## NOT_FOUND_OR_LIMITED_IN_THIS_PDF_EXCERPT\n- Full detailed chapters on noun cases, pronouns, postpositions, verbal valence, clause combining, and texts are listed in the contents but are not present in this 59-page PDF excerpt.\n- Full paradigms beyond the overview tables were not available in the extracted PDF pages.\n- Some orthographic/transliteration symbols are noisy in extracted text; inspect selected page JPGs for exact forms.",
+  "support": [
+    {
+      "source": "Фу кайла гум гьатна кӀвала , хтана зу стха Бешир стха хтана акуна .",
+      "gloss": "bread burn-PTP-TEMP smoke enter-AOC house-INESS , return-AOR my brother Beshir brother return-AOC see-AOR .",
+      "reference": "When the bread burned the smoke filled the house, at that moment my brother returned home... My brother Beshir returned and saw it."
+    },
+    {
+      "source": "Къанивилин , мугьубатдин са гаф гудайвал хьуй .",
+      "gloss": "want-ERG-PL-ERG-GEN , love-ERG-GEN one word give.will-ENT-AOP-PURP be-PST .",
+      "reference": "To give a word of love"
+    },
+    {
+      "source": "Бакидиз хъфена",
+      "gloss": "Baku-ERG-DAT go-AOR",
+      "reference": "I went to Baku,"
+    },
+    {
+      "source": "Им и вири цехера акъвенва .",
+      "gloss": "he this all wood.shops-ERG walked-PERF .",
+      "reference": "He has made the round of all wood-working shops."
+    },
+    {
+      "source": "ахпа няни хьана , ксана йифиз ана .",
+      "gloss": "After evening be-AOC , sleep-AOR night-OBL-DAT there .",
+      "reference": "then night fell and I slept that night there."
+    },
+    {
+      "source": "Сарах , сарах зунни Имран тфенгни къачуна фена чун руказ .",
+      "gloss": "once , once 1sg.abs-AND Imran guns-FOC take-AOC go-AOR 1pl.abs forest.to-OBL-DAT .",
+      "reference": "Once me and Imran took guns and went for hunting to the forest."
+    },
+    {
+      "source": "муаллим юлдашари ...",
+      "gloss": "teacher friend-PL-ERG ...",
+      "reference": "Teacher friends"
+    },
+    {
+      "source": "фена зун и Бакуда авай зу аялдин патав",
+      "gloss": "go-AOR 1sg.abs this Baku-INESS is-PTP my child-OBL-GEN to",
+      "reference": "and then I went to visit my child, who lives in Baku"
+    },
+    {
+      "source": "Асеф Мегьманан суварилай къулухъ чун \" Шагьдагъ \" ресторандиз фенай , ацакьна и межлис къейд ийин патакай .",
+      "gloss": "Asef Mehman's-OBL-GEN party's-OBL-SUPER-EL after 1pl.abs \" Shahdag \" restaurant.to-OBL-DAT go-AOR-PTP , sit-AOR this event celebrate do-MSD for .",
+      "reference": "After Asef Mehman's holiday we went to \"Shahdag\" restaurant to celebrate this event."
+    },
+    {
+      "source": "Гьар вич акурла хкаждий , къведий , вичал кьве кӀвачел акъваздай кицӀ , лагьана , гила , лагьана , кьил кьехе туна вилер чуьнуьхарзава вичикай , лагьана .",
+      "gloss": "every himself seen-TEMP up-SBST-PST , come-SBST-PST , himself-ERG-SPSS two leg-INESS-SPSS stop-ENT-PTP dog , say-AOC , now , say-AOR , head neck keep-AOC eye-PL steal-AOP-IMPF himself-ERG-SBSS-EL , say-AOR .",
+      "reference": "The dog which rose every time when saw him, came to him, stood to him with two paws up, now hid his head and eyes from him."
+    },
+    {
+      "source": "За гьабур маса къачуна , вирини за ваз багъишламишзава .",
+      "gloss": "1sg.ERG them other take-AOR , Everything-FOC 1sg.ERG 2sg-DAT present-IMPF .",
+      "reference": "I bought them and I present it to you."
+    },
+    {
+      "source": "« Фена гъваш абур , тахьайтӀа за ви кьил атӀуз гуда исятда ».",
+      "gloss": "« go-AOR bring.IMPV they , if.not.helps-COND 1sg.ERG 2sg.gen head cut-INF give-ENT now-INESS ».",
+      "reference": "\"Go and bring them, or I will give the order to cut of your head now.\""
+    },
+    {
+      "source": "АкӀ жезвай хьи , кӀурцӀулди вичал залай жуваз жувазни чин тийиз зун ктӀан хьана идал .",
+      "gloss": "like.that being-IMPF-PST that , puppy-DIR on.itself 1sg.ERG-SPSS-EL us-ERG-DAT us-ERG-DAT-FOC know-MSD don't-INF 1sg.abs beat be-AOR he.again-SPSS .",
+      "reference": "“It seemed, not knowing myself, I got attached to the dog."
+    },
+    {
+      "source": "Лезгиярни Азербайджанда тазвайди тучир .",
+      "gloss": "Lezgi-PL-FOC Azerbaijan-INESS leave-IMPF-PTP-SBST wasn't .",
+      "reference": "Lezgis also could't stay in Azerbaijan."
+    },
+    {
+      "source": "Анай таможня алай Россиядин",
+      "gloss": "there.from custom.office is.there-PTP Russia-OBL-GEN",
+      "reference": "There was Russian custom office."
+    },
+    {
+      "source": "И балкӀандини лугьуда хьи , « аку », лугьуда , « ваз а руш акунгаз на лагь хьи », лугьуда , « я руш , заз са къапина цвана яд це .",
+      "gloss": "this horse-ERG-FOC say-ENT that , « look », say-ENT , « 2sg-DAT that girl see.like you say.IMP that », say-ENT , « oh girl , 1sg.ERG-DAT one jar-ERG-AOR put.in.AOC-AOR water order.IMPV .",
+      "reference": "The horse said, “Look, when you see the girl you say ‘Give me some water in a jar.’\""
+    },
+    {
+      "source": "сонра чашмиш хьана амукъзава чун ки , тфенг гъилеваз чна чуь ягъайтавур ибур ?",
+      "gloss": "after make.mistakes be-AOR stay-IMPF 1pl.abs that , guns hand-OBL-DAT 1pl.erg your shoot these ?",
+      "reference": "We got mixed up, why we didn't shoot them having guns."
+    },
+    {
+      "source": "икьрар хьайидалай сонра ашукьди лагьана ки , бес , лагьана , ви тӀварчиз са дастан кутуна кӀанда .",
+      "gloss": "decision-PL happened-AOP-FUT-TEMP-PST after ashuq-DIR say-AOC that , but , say-AOC , 2sg.gen name-ERG-DAT one dastan put-AOC want-FUT .",
+      "reference": "After felling in love ahuq decided to write something in her honor"
+    },
+    {
+      "source": "ИкӀ хьана куьтягь хьана чан и махни .",
+      "gloss": "like.this happened-AOR finish.MSD happened-AOR dear this folk.tale .",
+      "reference": "This fairytale is finished like this, dear."
+    },
+    {
+      "source": "« Самур » газет атай береда , « Самур » газетдиз лугьуз жедай ки , къула цай амачир .",
+      "gloss": "« \"Samur\" » newspaper come-PTP time-INESS , « \"Samur\" » newspaper-OBL-DAT say-IMC be-FUT-PTP that , fireplace.in fire still.be,.remain-NEG.PST .",
+      "reference": "When \"Samur\" newspaper came, \"Samur\" newspaper was like extinguished fire."
+    },
+    {
+      "source": "« Ша кван », лугьуда , « гила за ваз гьикӀ куьмекдатӀа .",
+      "gloss": "« come please.do », say-ENT , « now 1sg.ERG 2sg-DAT how help-ENT-COND .",
+      "reference": "\"Let’s see, how I can help you now...\""
+    }
+  ],
+  "test": [
+    {
+      "source": "И гададини гъил вегьена са жуьт къачуда .",
+      "gloss": "this boy-DIR-GEN-ERG hand threw-AOR one pair take-INESS .",
+      "reference": "And the guy picked up one necklace pair."
+    },
+    {
+      "source": "Вични хьанвай къвалахар я .",
+      "gloss": "reflxv-FOC be-PERF-PST work-PL was .",
+      "reference": "and all this were real stories"
+    },
+    {
+      "source": "Яргъал акъатна чун ...",
+      "gloss": "far apperance-AOR 1pl.abs ...",
+      "reference": "We ran far from there..."
+    },
+    {
+      "source": "Ша фин гьуьлуьн къерехдиз » лугьуда .",
+      "gloss": "come go-GEN sea-OBL-GEN bank-ERG-DAT » say-ENT .",
+      "reference": "\"Let’s go to the seaside.\" said the horse."
+    },
+    {
+      "source": "Ахпа отпуска гана заз .",
+      "gloss": "then vacation give-AOR 1sg.ERG-DAT .",
+      "reference": "I was sent on vacation."
+    },
+    {
+      "source": "« Фена », лагьана , « куьне », лагьана , « зи балкӀандин кӀвач галукь тавунвай са чкадлай » лагьана , « заз са тике », лагьана « накьв гъваш » лагьана .",
+      "gloss": "« go-AOR », say-AOR , « you », say-AOR , « 1sg.gen horse-ERG-GEN leg hit not.make.PRF.PTP-PERF-PST one place-ERG-SPSS-EL » say-AOR , « 1sg.ERG-DAT one piece », say-AOR « soil bring.IMPV » say-AOR .",
+      "reference": "\"Go\" he said, \"and bring me some soil from a place where my horse has never walked.\""
+    },
+    {
+      "source": "Лагьана чна , рекъел эвицӀ~хъувуна , рехъ чира ман .",
+      "gloss": "say-AOR 1pl.erg , way,.road-INESS-SPSS CAME.DOWN-AOR , road separated you.know .",
+      "reference": "we asked to show us the road."
+    },
+    {
+      "source": "Берлиндай Франциядиз ,",
+      "gloss": "Berlin-INELAT France-DIR-DAT ,",
+      "reference": "from Berlin to France,"
+    },
+    {
+      "source": "чун рехъ къуна хкверла",
+      "gloss": "1pl.abs road took-AOR return-PL-TEMP",
+      "reference": "when we were returning along the road"
+    },
+    {
+      "source": "Гьабурни кӀвалариз-къариз ахъатна .",
+      "gloss": "them-Q HOUSE-PL-DAT-days-DAT appereance-AOR .",
+      "reference": "They have their homes."
+    },
+    {
+      "source": "Хъсан жи къайгъудик амукьна заз еке тир хъсанвилер къалурна жамаатдин патай .",
+      "gloss": "good our took.care-DIR-SBSS remain-AOR 1sg.ERG-DAT great was favours show-AOR people-DIR-GEN side.on-AOP .",
+      "reference": "They took care of me and were very kind to me."
+    },
+    {
+      "source": "« Самур » газет атай береда . 00 . 20",
+      "gloss": "« \"Samur\" » newspaper come-PTP time-INESS . 00 . 20",
+      "reference": "When \"Samur\" newspaper came"
+    },
+    {
+      "source": "Писвал ийиз кӀанзава хьир гададиз .",
+      "gloss": "evil-PURP make-DAT want-IMPF even boy-DIR-DAT .",
+      "reference": "He wants to do evil to the guy."
+    },
+    {
+      "source": "« За вучин », лугьуда , бес , « аквазвачни », лугьуда , « пачагьдиз завай гила гевгьеррин иеси кӀанзава ».",
+      "gloss": "« 1sg.ERG what-ERG-GEN », say-ENT , but , « to.see-IMPF-NEG-FOC », say-ENT , « king-DIR-DAT 1sg.ERG-AD-EL now pearls-ERG-GEN owner want-IMPF ».",
+      "reference": "“What to do? he said.  \"Did I not see this? Now the king wants from me the owner of the pearls.\""
+    },
+    {
+      "source": "Седакъет ханума вичин кӀалуб туькӀуьрна ва гьа кӀалубдив кутуна и ктаб кхьанва .",
+      "gloss": "Sedaget Ma'am-ERG himself-ERG-GEN form creating.after-AOR and that,.the.same form-DIR-AD put-AOR this book write-PERF .",
+      "reference": "She created a form and wrote a book according this form."
+    },
+    {
+      "source": "« Гьа и луьтквечидини », лагьана , « идани », лагьана « зун », лагьана , « гададивай къакъудна », лагьана , « алцурарна вичин кӀвализ тухузвай тир .",
+      "gloss": "« today this boatman-DIR-FOC », say-AOR , « he.also-FOC », say-AOR « 1sg.abs », say-AOR , « guy.from removing.AOC-AOR », say-AOR , « decieved.ENT-PL-AOR himself-ERG-GEN house-OBL-DAT take.FUT-IMPF-PST was .",
+      "reference": "\"Yes this boatman,\" she said, \"he also took me from the guy, deceiving me and taking me to his home.\""
+    },
+    {
+      "source": "« Ваъ », лугьуда , « зи пӀузаррал хер хьанва » лугьуда , « а ковшда аваз са яд це кван заз ».",
+      "gloss": "« no », say-ENT , « 1sg.gen lips-PL-INESS-SPSS wound happened-PERF » say-ENT , « that mug?-INESS is-DAT one water order.IMPV please.do 1sg.ERG-DAT ».",
+      "reference": "\"No,\" he said, \"There is a wound on my lips. Please, give me some water in that ladel.\""
+    },
+    {
+      "source": "« АкӀ жеш хьи », лугьуда .",
+      "gloss": "« like.that will.not.be that », say-ENT .",
+      "reference": "\"It cannot work this way.\""
+    },
+    {
+      "source": "Чубанди кицӀиз ихьтин гьерекатар ийидай туш .",
+      "gloss": "shepherd-DIR dog-DAT such move-PL make-FUT-PST cop.NEG .",
+      "reference": "Shepherds don’t treat dogs this way."
+    },
+    {
+      "source": "Жи хуьре атана лагьайла , за атана концертни гайди я и хуьре атана .",
+      "gloss": "1pl.gen village-INESS come-AOC say-PST-TEMP , 1sg.ERG come-AOC concert-Q give-PST-SBST was this village.in-INESS come-AOR .",
+      "reference": "he said in our village, and I also gave a concert in this village"
+    },
+    {
+      "source": "Рехъ акваз амукъназ сад~лагьана",
+      "gloss": "road to.see-DAT will.stay-AOR-DAT SUDDENLY-AOR",
+      "reference": "We couldn't even see the road."
+    },
+    {
+      "source": "И кар акур жибури лагьана ки , яда къе вуча ма чав .",
+      "gloss": "this case seen 1pl.gen-ABS.PL-ERG say-AOR that , hey.man today give you.know 1pl.gen-ADESS .",
+      "reference": "Hearing this, our guys asked him to give the cassete that day."
+    },
+    {
+      "source": "Ва гьада , гьикъван гьа терезидин стрелка пара хкаж хьанватӀа , гьам вилик кутунва .",
+      "gloss": "and then , how that,.the.same scale-DIR-GEN arrow very up happened-PERF-COND , that before put-PERF .",
+      "reference": "And she put first that person which is more valuable according to the position of scale arrow."
+    },
+    {
+      "source": "хуьруьн абурун кӀвалар чила ава , асканда пенжер",
+      "gloss": "village-ERG-GEN they-ERG-GEN house-ERG-PL ground.in-ERG cop , low-INESS window",
+      "reference": "houses in that village were small"
+    },
+    {
+      "source": "Идан акъадарна ахпа къагъана чун са шегьердиз .",
+      "gloss": "he.also-GEN mount.ENT-AOR then bring.again-AOR 1pl.abs one city-DIR-DAT .",
+      "reference": "he took us in a city."
+    },
+    {
+      "source": "« Хьуй », лугьуда .",
+      "gloss": "« Let.it.be », say-ENT .",
+      "reference": "\"Yes.\" they said."
+    },
+    {
+      "source": "СтӀурани , квез чидайвал , чи дереда авай виридлайни кьакьан дагъларив мукьвал са хуьр я .",
+      "gloss": "Sudur-ERG-FOC , 2pl-DAT knowing-FUT.PTP-PURP , 1pl.gen valley-INESS is-PST EVERYTHING-INESS-SPSS-EL-FOC high mountain-SPSS-PL-ERG-AD close-SPSS one village.in was .",
+      "reference": "As you know, Sudur is the village close to the highest mountains."
+    },
+    {
+      "source": "АтӀуз гана ибурун кьилерни .",
+      "gloss": "cutting.IMC-DAT give-AOR these-ERG-GEN chapter-PL-FOC .",
+      "reference": "And she gave the order to cut off thier heads."
+    },
+    {
+      "source": "Зу кьилелни пара атайди я .",
+      "gloss": "my chapter-ERG-SPSS-FOC very coming-PST-SBST cop .",
+      "reference": "I went through many things."
+    },
+    {
+      "source": "Кани ярдиз ви рикӀе лугьудай гафар амани ?",
+      "gloss": "want-ERG sweetheart-DIR-DAT 2sg.gen heart-INESS say-FUT-PST word-PL he-Q ?",
+      "reference": "Do you still have words to say to your sweetheart in your heart"
+    },
+    {
+      "source": "Акур шеъер кхьана , сегьне , не , къевиз за атана гьикӀ авунатӀа , и са шеъ ида яратмишна , вичи яратмишна кхьизайди я дастан .",
+      "gloss": "seen things write-AOC , stage , not , today-AD-DAT 1sg.ERG come-AOC how make,.do-AOC-COND , this one thing her created-AOC , himself-ERG created-AOC writing-IMC-AOP-DIR was dastan .",
+      "reference": "he wrote about thing he saw, stage, how i came tonight here, and this thing was done by him, he creates and writes dastan"
+    },
+    {
+      "source": "Заз дуьз кичӀе хьана .",
+      "gloss": "1sg.ERG-DAT great fear be-AOR .",
+      "reference": "I was so scared."
+    },
+    {
+      "source": "Концертар гуз фейла акуртӀа ки , бес гьакъикъетдай , ида вичиз кхьанва дастан .",
+      "gloss": "concert-PL give.will-DAT go-PST-TEMP seen-COND that , but really-INESS-EL , her himself-ERG-DAT write-PERF dastan .",
+      "reference": "And she saw that he really wrote a legend in her honor"
+    },
+    {
+      "source": "заз гила кӀвале са свасни ава .",
+      "gloss": "1sg.ERG-DAT now house-INESS one wife-FOC cop .",
+      "reference": "I have a daughter-in-law at home."
+    },
+    {
+      "source": "Гьадакай регъуьла завай гьейетдални физ жезвач .",
+      "gloss": "she-SBSS-EL ashamed 1sg.ERG-AD-EL yard.in-INESS-SPSS-FOCUS go-IMC be-IMPF-NEG .",
+      "reference": "Because of that I couldn’t enter even his courtyard."
+    },
+    {
+      "source": "« За вучин », лугьуда , бес , « аквазвачни », лугьуда , « пачагьдиз завай гила гевгьеррин иеси кӀанзава ».",
+      "gloss": "« 1sg.ERG what-ERG-GEN », say-ENT , but , « to.see-IMPF-NEG-FOC », say-ENT , « king-DIR-DAT 1sg.ERG-AD-EL now pearls-ERG-GEN owner want-IMPF ».",
+      "reference": "“What to do? he said.  \"Did I not see this? Now the king wants from me the owner of the pearls.\""
+    },
+    {
+      "source": "къажгъанар , къапар , дуьгуьяр , абур гваз фена гьана жаван рушари , и еке рушари ...",
+      "gloss": "pans-PL , dishes-PL , rice-PL , they with go-AOR there young girl-PL-ERG , this great girl-PL-ERG ...",
+      "reference": "young girls used to take pans, dishes, rice and there young girls..."
+    },
+    {
+      "source": "Вичи мад вучда кьван , лагьана .",
+      "gloss": "himself-ERG more what-ENT so.much , say-AOR .",
+      "reference": "nan"
+    },
+    {
+      "source": "Идаз атана лагьанва ки , инал и кӀарасар ви заз маса ча , лагьанва . 06 : 29",
+      "gloss": "he.also-DAT coming-AOR say-PERF that , here this wood-PL 2sg.gen 1sg.ERG-DAT sell give , say-PERF . 06 : 29",
+      "reference": "He came and asked him to sell him the wood, which was there."
+    },
+    {
+      "source": "Кьвед~лагьай гадади лагьана « Зун фида буба », лагьана , « исятда за гъида », лагьана .",
+      "gloss": "SECOND boy-ERG say-AOR « 1sg.abs go-INESS father », say-AOR , « now-INESS 1sg.ERG will.bring-ENT », say-AOR .",
+      "reference": "The second son said: “Now I will go and bring it to you, father.”"
+    },
+    {
+      "source": "Мад са шейни хьанач лагьана за , ун .",
+      "gloss": "more one thing-FOC happened-AOR-NEG say-AOR 1sg.ERG , yes .",
+      "reference": "I said that I'm ok."
+    },
+    {
+      "source": "« Гьуьлуьн кӀануз фин патакайни зун гьуьлуьн шивдихъ галаз ккӀана кӀанзава » лугьуда .",
+      "gloss": "« sea-OBL-GEN want-ERG-DAT a.going.MSD for-INELAT-FOC 1sg.abs sea-OBL-GEN steed-ERG-POESS with-DAT fight.AOC want-IMPF » say-ENT .",
+      "reference": "\"And to go to the bottom of the sea, I must fight with the Sea Steed.”"
+    },
+    {
+      "source": "И рушни пачагь хьана гила башламишда вичин пачагьвализ .",
+      "gloss": "this girl-Q king happened-AOR now started.ENT-INESS himself-ERG-GEN reigned.ENT-ERG-DAT .",
+      "reference": "And the girl became the king and started her own reign."
+    },
+    {
+      "source": "Юлдашари меслят акуна ки , гьава къенин хьиз чими яз ...",
+      "gloss": "friend-PL-ERG advice see-AOR that , weather today-GEN as warm was ...",
+      "reference": "The weather was hot and my friends decided to..."
+    },
+    {
+      "source": "« Твах и зи шикил », лугьуда , « а ,» лугьуда « анавай вилаятдин кьилел алай булахдин кьилел эциг » лугьуда .",
+      "gloss": "« carry.IMPV this 1sg.gen picture », say-ENT , « that ,» say-INESS « there.from-PST country.in-DIR-GEN chapter-INESS-SPSS is.there-PST spring-DIR-GEN chapter-INESS-SPSS put.IMPV » say-ENT .",
+      "reference": "\"Carry this portrait of me,\" she said, “and place it at the top of the spring at the head of the province.\""
+    },
+    {
+      "source": "Чна и объектдилай хкверла",
+      "gloss": "1pl.erg this facility.from-DIR-SPSS-EL return-PL-TEMP",
+      "reference": "and we were returning from the facility"
+    },
+    {
+      "source": "КӀвалин къвалахар вири зал хьана , пуд стхани са вах хьана зун .",
+      "gloss": "house-OBL-GEN work-PL all 1sg.ERG-SPSS happened-AOR , three brother-FOC one sister happened-AOR 1sg.abs .",
+      "reference": "I was doing all housework, we were three brothers and one sister."
+    },
+    {
+      "source": "Ада вучзава .",
+      "gloss": "he what-IMPF .",
+      "reference": "What does he do?"
+    },
+    {
+      "source": "И гъел эцикзавайди Бебир халу хьана .",
+      "gloss": "this plough who.was.putting-IMPF-PST-SBST Bebir uncle happened-AOR .",
+      "reference": "A person who was putting the plough was uncle Bebir."
+    },
+    {
+      "source": "Хтана балкӀан , « Гьаа », лагьана « гила чавай физ жеда » лагьана , « пачагьдин руш гъиз ».",
+      "gloss": "return-AOR horse , « Yes », say-AOR « now help-INELAT go-DAT be-ENT » say-AOR , « king-DIR-GEN girl will.bring-DAT ».",
+      "reference": "The horse came back and said, “Now we can go and get the king’s daughter.”"
+    },
+    {
+      "source": "куьтях хьана ... гьанал чун минометчикар тир , минаяр вегьидай пуд нефер",
+      "gloss": "finish happened-AOR ... there-SPSS 1pl.abs mortar.men was , mine-PL threw.ENT-ENT-PST three person",
+      "reference": ". then it finished... We were mortar men, there were three of us."
+    },
+    {
+      "source": "Высоковольтный линиядинни и жи крандин стреладин арада са икьван са вад санти чка амукьна .",
+      "gloss": "high.voltage line-DIR-GEN-FOC this our crane-DIR-GEN arrow-DIR-GEN between-INESS one so.much one five centimeter place remain-AOR .",
+      "reference": "there was only five centimeters between the crane's tip and the high-voltage line."
+    },
+    {
+      "source": "Ты куда ?»",
+      "gloss": "you where ?»",
+      "reference": "\" Where are you going?\" (Russian)"
+    },
+    {
+      "source": "Аналай инихъ , зегьметдалди къазанмишиз жуваз са кап фу , хъсандик яшамиш хьана .",
+      "gloss": "there-SPSS-EL after , labour-POSTR earning-INF us-ERG-DAT one hadful bread , good-DIR-SBSS live be-AOR .",
+      "reference": "And after that, we  live good live by earning our lives by hard work."
+    },
+    {
+      "source": "Элчиярни ракъузва за , лагьана .»",
+      "gloss": "matchmakers.also-PL-FOC send-IMPF 1sg.ERG , say-AOR .»",
+      "reference": "And I'll send matchmakers"
+    },
+    {
+      "source": "Мектебдин кьарас затӀ игъидай сад тир .",
+      "gloss": "school-DIR-GEN wood thing putting-ENT-PST one was .",
+      "reference": "He was the one who was carring wood and things like this for school"
+    },
+    {
+      "source": "Польшадай аниз , Берлиндиз",
+      "gloss": "Poland-INELAT that-DAT , Berlin-DIR-DAT",
+      "reference": "Then they took us to Berlin from Poland,"
+    },
+    {
+      "source": "Гьуьлуьн шив гьуьлуьн балкӀан .",
+      "gloss": "sea-OBL-GEN steed sea-OBL-GEN horse .",
+      "reference": "The Sea Steed is the Sea Horse."
+    },
+    {
+      "source": "Рак гатана фад ахъайна тамашайтӀа , са кьуьзуь къари баде ава .",
+      "gloss": "door knock-AOC quickly open-AOR look.IMP-PST-COND , one old old.woman grandmother cop .",
+      "reference": "She knocked and quickly opened the door - there is an old woman."
+    },
+    {
+      "source": "Жи диде , бубани амаш , кӀарасар агъана канзава ма чуьлдай .",
+      "gloss": "our mother , grandfather-FOC still.be,.remain-NEG , wood-PL bring-AOC dear-IMPF you.know feild-INESS-PST .",
+      "reference": "Our father was died, and our mother needed to go to the forest to bring wood"
+    },
+    {
+      "source": "Аналай сонра за цӀуд йис къвалахна и сагьеда за домкультурада .",
+      "gloss": "there-SPSS-EL after 1sg.ERG ten year working-AOR this field-INESS 1sg.ERG house.of.culture.in-ERG-INESS .",
+      "reference": "and after that I worked at the culture house for ten years"
+    },
+    {
+      "source": "Абуру ви кьил тӀарарда », лугьуда .",
+      "gloss": "they-ERG 2sg.gen head secured-PL-ENT », say-ENT .",
+      "reference": "\"They will give you a headache.”"
+    },
+    {
+      "source": "05 : Ӏ6",
+      "gloss": "05 : 16",
+      "reference": "nan"
+    },
+    {
+      "source": "тек къари тир ама .",
+      "gloss": "alone old.woman was still.be,.remain .",
+      "reference": "she was lonely."
+    },
+    {
+      "source": "И~арада кьада имни тухуда и кӀвализ .",
+      "gloss": "AT.THIS.MOMENT-INESS bought-ENT he.and take-ENT this house-OBL-DAT .",
+      "reference": "At this moment they caught and took him to this house."
+    },
+    {
+      "source": "Аялни ава .",
+      "gloss": "child-FOC cop .",
+      "reference": "I have a child."
+    },
+    {
+      "source": "Чун къерар сад я .",
+      "gloss": "1pl.abs decision one was .",
+      "reference": "We came into one decision"
+    },
+    {
+      "source": "Гьинай кӀантӀани заз жагъурна гъваш ».",
+      "gloss": "where-PST want.COND.FOC 1sg.ERG-DAT find-AOR bring? ».",
+      "reference": "\"From wherever is needed, find her and bring her to me.”"
+    },
+    {
+      "source": "Чунни инал хтана .",
+      "gloss": "1pl.abs-FOC here-SPSS return-AOR .",
+      "reference": "​We returned there."
+    },
+    {
+      "source": "Гададини лугьуда « я пачагь , за гьинай гъин », лугьуда , « заз чизвач хьир , за ваз вучин , гьикӀ ийин ?»",
+      "gloss": "boy-DIR-GEN-ERG say-ENT « oh king , 1sg.ERG which-INELAT bring.HORT », say-ENT , « 1sg.ERG-DAT know-IMPF-NEG even , 1sg.ERG 2sg-DAT what-ERG-GEN , how make-GEN ?»",
+      "reference": "The guy said, “Oh king, where can I find her? I have no idea. How shall I do this?”"
+    },
+    {
+      "source": "Севастопольда мугьарибе хьана ,",
+      "gloss": "Sevastopol-INESS war happened-AOR ,",
+      "reference": "There was a battle in the Sevastopol,"
+    },
+    {
+      "source": "Акъадарда и пачагь ибуру ламрал , балкӀандал акъадарда , ламрал акъадарда яда , цӀайни ахъайда , им гьи хуьрей агъуз .",
+      "gloss": "mount.ENT this king these-ERG donkey.on , horse-SPSS mount.ENT , donkey.on mount.ENT or , fire.and released.ENT , he this village.out.of down .",
+      "reference": "They mounted this king on a donkey - horse or donkey - lit him on fire, and sent him out of the village."
+    },
+    {
+      "source": "Ибурни амна , хкведа и гадани руш … гадани руш хкведа ибур чпин вилаятдиз .",
+      "gloss": "they.and that.happing.AOC , return-ENT this boy-Q girl … boy-Q girl return-ENT these their.own province.in-ERG-DAT .",
+      "reference": "That happening, the guy and girl returned to their own province."
+    },
+    {
+      "source": "Чун гьада виликди гьеле христиан дин амай вахт тир чаз .",
+      "gloss": "1pl.abs then before still Christian religion be.in.CONT-AOP time was 1pl.gen-DAT .",
+      "reference": "The time before that was when we had Christian religion."
+    },
+    {
+      "source": "Чунни чуьнуьх~хьана къвазна .",
+      "gloss": "1pl.abs-FOC HID-AOR stopped.AOR-AOR .",
+      "reference": "we hid."
+    },
+    {
+      "source": "инани ахпа вахт куьтях хьана ,",
+      "gloss": "here-FOC then time finish happened-AOR ,",
+      "reference": "then the vacation finished,"
+    },
+    {
+      "source": "Но , Рафикан сырой материални , куьне чугай материал гьа сегьнеда , гьамани чаз канда ки , чна комбинироватна са шеъ винел акъудин .",
+      "gloss": "But , Rafik's-OBL-GEN raw material-FOC , 2pl.abs-ERG shooting-AOP material that,.the.same stage-INESS , it.also-FOC 1pl.gen-DAT want-FUT that , 1pl.erg combine.will-AOR one thing over-SPSS take.out-HORT .",
+      "reference": "But we also need a raw material recorded by Rafik on that scene, to combine and create a work."
+    },
+    {
+      "source": "Жаваб я ашукь гада ваз ви кани яр авани ?",
+      "gloss": "answer was ashuq boy 2sg-DAT 2sg.gen want-ERG sweetheart is-Q ?",
+      "reference": "Answer ashuq, if you have a sweetheart"
+    },
+    {
+      "source": "Заз садрахъни гъвечи чӀавалай зун икьван , физ хтанани заз садрахъни ахьтин пепе акунвачир .",
+      "gloss": "1sg.ERG-DAT never-FOC small time-OBL-SUPER-EL 1sg.abs so.much , go-INF return-AOR-FOC 1sg.ERG-DAT never-FOC like.that bug see-PERF-NEG.PST .",
+      "reference": "I had been going there since my childhood, but had never seen such a big bug."
+    },
+    {
+      "source": "Чун гафариз~аламукьнава .",
+      "gloss": "1pl.abs STAYED.TALKING .",
+      "reference": "we stayed there talking."
+    },
+    {
+      "source": "Анай ахпа гваз хтанава чун Советдин уьлкведиз .",
+      "gloss": "there-PST then with return-PERF 1pl.abs Soviet-ERG-GEN country.to-DIR-DAT .",
+      "reference": "And they took us back to soviet country."
+    },
+    {
+      "source": "06 : Ӏ8",
+      "gloss": "06 : 18",
+      "reference": "nan"
+    },
+    {
+      "source": "Хкведа вич гададин патав мадни .",
+      "gloss": "return-INESS himself boy-DIR-GEN to more-FOC .",
+      "reference": "He returned to the young man  again."
+    },
+    {
+      "source": "Заз дуьз кичӀе хьана .",
+      "gloss": "1sg.ERG-DAT great fear be-AOR .",
+      "reference": "I was so afraid."
+    },
+    {
+      "source": "Чун , лугьузва , ахиратдин къал санал жедай~вал .",
+      "gloss": "1pl.abs , say-IMPF , doomsday-DIR-GEN day.till together be-FUT-PST-PURP .",
+      "reference": "We must be together till the end"
+    },
+    {
+      "source": "Бакуда Хырдаланда ава .",
+      "gloss": "Baku-INESS Khyrdalan-INESS cop .",
+      "reference": "he is in Khirdalan, Baku."
+    },
+    {
+      "source": "бес ама чна чидаш гудани , гудашни .",
+      "gloss": "but still.be,.remain 1pl.erg know-ENT-NEG give-FUT-AND , give-FUT-NEG-AND .",
+      "reference": "and we don't know whether to agree or not"
+    }
+  ],
+  "policy": {
+    "name": "development_validated_sampled_v1",
+    "do_sample": true,
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k": 20,
+    "min_p": 0.0,
+    "presence_penalty": 1.5,
+    "repetition_penalty": 1.0,
+    "max_new_tokens": 512,
+    "seed": 20260910,
+    "seed_rule": "base + 2 * test_index",
+    "dtype": "float32",
+    "gpu_count": 1,
+    "enable_thinking": false,
+    "semantic_attempts": 1
+  },
+  "code_hashes": {
+    "runners/matched/protocol.py": "3a7fa1fd37e4676a21583885747ec61a9eaeca42dafb8f1f0e2d9234881c71fc",
+    "runners/matched/prepare.py": "da12b5ab725c48faba04d40069e93abac6bdfce57745aab3cc9256177cd605d5",
+    "runners/matched/run.py": "adc3f06488c6d6c1b8e6e3b0f643cab96d7cb4f5b69548a39c20b396a582d251",
+    "runners/experiment_io.py": "ed7f7ac349f291b36a4aaa2f88cdb0e3690266d71f99c774f7641498f3345fc9",
+    "runners/run_sampled_context.py": "12b97c6beeb42ae304236b0ebcba2b6278bb20570dadadfdde712fe64d05cbe4",
+    "runners/run_audited_context.py": "1aedf2f7b360dfbf2d30de47d3c10c088106d1bf2e496ac6a6bcc001716418df",
+    "runners/fp32_attention.py": "6fdff7bf95d9061ebed0b72f719c80593eec9bab5d101fba4ccf96caf1f51e8c",
+    "runners/diagnose_tsez_chain.py": "c036270d6fadcad21f5d83a2d41b980dfc5152a9a8c69deda538094eced808a4",
+    "runners/openrouter/run_grammamt_openrouter_context.py": "f62dfa0e9a7a29da2ea64d43c0dbc8035e0b099a275b57cfb202b765c296558a",
+    "runners/matched_gold_v2/analyze.py": "7ac7d06093e3a1f31cac62a28dc81b7c67f974a676fd489812848fd50b2c2a79",
+    "runners/matched_gold_v2/prepare.py": "7368e0e72a0da28ae185ad8b1b1fb085b18c8935d37b1b03777c1d1d4ebb2662",
+    "runners/matched_gold_v2/protocol.py": "524dfdd0a0aad5e6b4788b76710c1ce2044aa527ebb37c74bdd2261fc56e7ac7",
+    "runners/matched_gold_v2/run.py": "59b74d7b5b173043a2675035b15ffd263e5d75978ed6654fefaa01c4f3f2a86d",
+    "runners/matched_gold_v2/score.py": "ac6f1114ad5cacae9ef3d4b1222ae4d609108e6885c8e74560e06c304e45297a",
+    "runners/matched_gold_v2/status.py": "c7ecf2b5e04c1ae9da289e4cdf1dee9f08ed10823c1bc36bad3e88e36a288f3d"
+  },
+  "old_config": {
+    "id": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+    "family": "chain_gloss_v2",
+    "model": "qwen3",
+    "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "language": "Lezgi",
+    "source": "grammar",
+    "variant": "cyrillic",
+    "condition": "chain_gloss",
+    "material": "summary_text_txt",
+    "context_kind": "text",
+    "context_files": [
+      "materials/curated_v1/lezgi/grammar/cyrillic/summary_text/summary_model_readable.txt"
+    ],
+    "expected_records": 87,
+    "prediction_key": "qwen3_context_chain_gloss",
+    "dtype": "float32",
+    "gpu_count": 1,
+    "prompt_version": "chain_gloss_v2",
+    "results": "results/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/chain_gloss_v2/qwen3/lezgi/grammar/cyrillic/chain_gloss_summary_text_txt.json",
+    "config": "configs/experiments/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt.json",
+    "job": "scripts/jobs/qwen3/lezgi/grammar/cyrillic/chain_gloss_v2/run_chain_gloss_summary_text_txt.sh",
+    "repair": false,
+    "preflight_job": "scripts/jobs/qwen3/preflight/run_qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt.sh"
+  },
+  "protocol": "matched_gold_v2: same fixed prompts/policy/cohorts; 21 aligned gold TRAIN support glosses; one semantic attempt",
+  "id": "qwen35_lezgi_grammar_cyrillic_shot_summary_text_txt",
+  "results": "results/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_summary_text_txt.jsonl",
+  "metrics": "metrics/matched_gold_v2/qwen35/lezgi/grammar/cyrillic/shot_summary_text_txt.json",
+  "family": "matched_gold_v2",
+  "previous_config": "configs/matched_v1/qwen35_lezgi_grammar_cyrillic_shot_summary_text_txt.json",
+  "previous_config_sha256": "3e18399fb7c683d72eab5c176730a7dfebfe78ff4e44d71d3ffd663ffe669942",
+  "gold_support_manifest": "docs/matched_gold_v2/support/lezgi.json",
+  "gold_support_sha256": "f30ef90f42eab86f299bb6124a7cb15b0671f0210a1adf11e57c501381ef827d",
+  "fingerprint": "6c7b3a7233b679e9421eeb26e1f506c4d43cb0d1841fc6df85a267b78dcf68a5"
+}

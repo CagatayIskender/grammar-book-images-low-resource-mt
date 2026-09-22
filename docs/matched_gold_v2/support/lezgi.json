@@ -1,0 +1,148 @@
+{
+  "language": "Lezgi",
+  "origin": {
+    "kind": "local_authoritative_training_data",
+    "path": "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/data/Lezgi/lez-train-track1-uncovered"
+  },
+  "training_file": "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/data/Lezgi/lez-train-track1-uncovered",
+  "training_sha256": "4766bcf7d67d3eea1cbefe041473a53ac33fdee956b4108b0569ca3f9ebfadf6",
+  "support": [
+    {
+      "source": "Фу кайла гум гьатна кӀвала , хтана зу стха Бешир стха хтана акуна .",
+      "gloss": "bread burn-PTP-TEMP smoke enter-AOC house-INESS , return-AOR my brother Beshir brother return-AOC see-AOR .",
+      "reference": "When the bread burned the smoke filled the house, at that moment my brother returned home... My brother Beshir returned and saw it."
+    },
+    {
+      "source": "Къанивилин , мугьубатдин са гаф гудайвал хьуй .",
+      "gloss": "want-ERG-PL-ERG-GEN , love-ERG-GEN one word give.will-ENT-AOP-PURP be-PST .",
+      "reference": "To give a word of love"
+    },
+    {
+      "source": "Бакидиз хъфена",
+      "gloss": "Baku-ERG-DAT go-AOR",
+      "reference": "I went to Baku,"
+    },
+    {
+      "source": "Им и вири цехера акъвенва .",
+      "gloss": "he this all wood.shops-ERG walked-PERF .",
+      "reference": "He has made the round of all wood-working shops."
+    },
+    {
+      "source": "ахпа няни хьана , ксана йифиз ана .",
+      "gloss": "After evening be-AOC , sleep-AOR night-OBL-DAT there .",
+      "reference": "then night fell and I slept that night there."
+    },
+    {
+      "source": "Сарах , сарах зунни Имран тфенгни къачуна фена чун руказ .",
+      "gloss": "once , once 1sg.abs-AND Imran guns-FOC take-AOC go-AOR 1pl.abs forest.to-OBL-DAT .",
+      "reference": "Once me and Imran took guns and went for hunting to the forest."
+    },
+    {
+      "source": "муаллим юлдашари ...",
+      "gloss": "teacher friend-PL-ERG ...",
+      "reference": "Teacher friends"
+    },
+    {
+      "source": "фена зун и Бакуда авай зу аялдин патав",
+      "gloss": "go-AOR 1sg.abs this Baku-INESS is-PTP my child-OBL-GEN to",
+      "reference": "and then I went to visit my child, who lives in Baku"
+    },
+    {
+      "source": "Асеф Мегьманан суварилай къулухъ чун \" Шагьдагъ \" ресторандиз фенай , ацакьна и межлис къейд ийин патакай .",
+      "gloss": "Asef Mehman's-OBL-GEN party's-OBL-SUPER-EL after 1pl.abs \" Shahdag \" restaurant.to-OBL-DAT go-AOR-PTP , sit-AOR this event celebrate do-MSD for .",
+      "reference": "After Asef Mehman's holiday we went to \"Shahdag\" restaurant to celebrate this event."
+    },
+    {
+      "source": "Гьар вич акурла хкаждий , къведий , вичал кьве кӀвачел акъваздай кицӀ , лагьана , гила , лагьана , кьил кьехе туна вилер чуьнуьхарзава вичикай , лагьана .",
+      "gloss": "every himself seen-TEMP up-SBST-PST , come-SBST-PST , himself-ERG-SPSS two leg-INESS-SPSS stop-ENT-PTP dog , say-AOC , now , say-AOR , head neck keep-AOC eye-PL steal-AOP-IMPF himself-ERG-SBSS-EL , say-AOR .",
+      "reference": "The dog which rose every time when saw him, came to him, stood to him with two paws up, now hid his head and eyes from him."
+    },
+    {
+      "source": "За гьабур маса къачуна , вирини за ваз багъишламишзава .",
+      "gloss": "1sg.ERG them other take-AOR , Everything-FOC 1sg.ERG 2sg-DAT present-IMPF .",
+      "reference": "I bought them and I present it to you."
+    },
+    {
+      "source": "« Фена гъваш абур , тахьайтӀа за ви кьил атӀуз гуда исятда ».",
+      "gloss": "« go-AOR bring.IMPV they , if.not.helps-COND 1sg.ERG 2sg.gen head cut-INF give-ENT now-INESS ».",
+      "reference": "\"Go and bring them, or I will give the order to cut of your head now.\""
+    },
+    {
+      "source": "АкӀ жезвай хьи , кӀурцӀулди вичал залай жуваз жувазни чин тийиз зун ктӀан хьана идал .",
+      "gloss": "like.that being-IMPF-PST that , puppy-DIR on.itself 1sg.ERG-SPSS-EL us-ERG-DAT us-ERG-DAT-FOC know-MSD don't-INF 1sg.abs beat be-AOR he.again-SPSS .",
+      "reference": "“It seemed, not knowing myself, I got attached to the dog."
+    },
+    {
+      "source": "Лезгиярни Азербайджанда тазвайди тучир .",
+      "gloss": "Lezgi-PL-FOC Azerbaijan-INESS leave-IMPF-PTP-SBST wasn't .",
+      "reference": "Lezgis also could't stay in Azerbaijan."
+    },
+    {
+      "source": "Анай таможня алай Россиядин",
+      "gloss": "there.from custom.office is.there-PTP Russia-OBL-GEN",
+      "reference": "There was Russian custom office."
+    },
+    {
+      "source": "И балкӀандини лугьуда хьи , « аку », лугьуда , « ваз а руш акунгаз на лагь хьи », лугьуда , « я руш , заз са къапина цвана яд це .",
+      "gloss": "this horse-ERG-FOC say-ENT that , « look », say-ENT , « 2sg-DAT that girl see.like you say.IMP that », say-ENT , « oh girl , 1sg.ERG-DAT one jar-ERG-AOR put.in.AOC-AOR water order.IMPV .",
+      "reference": "The horse said, “Look, when you see the girl you say ‘Give me some water in a jar.’\""
+    },
+    {
+      "source": "сонра чашмиш хьана амукъзава чун ки , тфенг гъилеваз чна чуь ягъайтавур ибур ?",
+      "gloss": "after make.mistakes be-AOR stay-IMPF 1pl.abs that , guns hand-OBL-DAT 1pl.erg your shoot these ?",
+      "reference": "We got mixed up, why we didn't shoot them having guns."
+    },
+    {
+      "source": "икьрар хьайидалай сонра ашукьди лагьана ки , бес , лагьана , ви тӀварчиз са дастан кутуна кӀанда .",
+      "gloss": "decision-PL happened-AOP-FUT-TEMP-PST after ashuq-DIR say-AOC that , but , say-AOC , 2sg.gen name-ERG-DAT one dastan put-AOC want-FUT .",
+      "reference": "After felling in love ahuq decided to write something in her honor"
+    },
+    {
+      "source": "ИкӀ хьана куьтягь хьана чан и махни .",
+      "gloss": "like.this happened-AOR finish.MSD happened-AOR dear this folk.tale .",
+      "reference": "This fairytale is finished like this, dear."
+    },
+    {
+      "source": "« Самур » газет атай береда , « Самур » газетдиз лугьуз жедай ки , къула цай амачир .",
+      "gloss": "« \"Samur\" » newspaper come-PTP time-INESS , « \"Samur\" » newspaper-OBL-DAT say-IMC be-FUT-PTP that , fireplace.in fire still.be,.remain-NEG.PST .",
+      "reference": "When \"Samur\" newspaper came, \"Samur\" newspaper was like extinguished fire."
+    },
+    {
+      "source": "« Ша кван », лугьуда , « гила за ваз гьикӀ куьмекдатӀа .",
+      "gloss": "« come please.do », say-ENT , « now 1sg.ERG 2sg-DAT how help-ENT-COND .",
+      "reference": "\"Let’s see, how I can help you now...\""
+    }
+  ],
+  "support_sha256": "f30ef90f42eab86f299bb6124a7cb15b0671f0210a1adf11e57c501381ef827d",
+  "alignment": "First 21 covered records match gold training; test-overlapping sources are excluded, then filled in training order",
+  "training_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "removed_original_support_indices": [
+    5
+  ],
+  "added_training_indices": [
+    21
+  ],
+  "excluded_test_sources_sha256": "2f610f13ce5c657e45c0d8ab50db33dae4fad081fad4f314c53181461253dab7"
+}

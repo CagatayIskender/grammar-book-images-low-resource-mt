@@ -1,0 +1,144 @@
+{
+  "language": "Tsez",
+  "origin": {
+    "kind": "local_authoritative_training_data",
+    "path": "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/data/Tsez/ddo-train-track1-uncovered"
+  },
+  "training_file": "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/data/Tsez/ddo-train-track1-uncovered",
+  "training_sha256": "a6869f509bfc0968697f5ac7d2a31fd72805ba4a27ae4ce9f061137784d31c29",
+  "support": [
+    {
+      "source": "Retinäy debex mi yižo, retinäy q’ˤuyzix yegir.",
+      "gloss": "IV-want-CND.CVB you-AD.ESS you II-lead-IMPR IV-want-CND.CVB other-ATTR.OBL-AD.ESS II-send",
+      "reference": "If you want, marry her yourself, or if you want, send her to someone else."
+    },
+    {
+      "source": "Esnazał xizaz ixiw raład boqno.",
+      "gloss": "sister-PL-CONT.ESS behind big sea III-become-PST.UNW",
+      "reference": "And a big sea formed behind the sisters."
+    },
+    {
+      "source": "Neła žaqor beɣetow hibo teƛno.",
+      "gloss": "DEM1.IISG.OBL-ERG boy-POSS.LAT III-small-EMPH stick give-PFV.CVB",
+      "reference": "The eagle gave a small stick to the boy."
+    },
+    {
+      "source": "Bazarganbi guluzaxozo aħozider baynosi, nesiqayn hemedurtow bayan bisno, t’aza ħumukulibin roc’no ik’ix debełi sis uži c’oxinč’aƛin.",
+      "gloss": "merchant-PL horse-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT I.PL-come-ANT.CVB DEM1.ISG.OBL-POSS.ABL-TOP so-EMPH information III-take-PFV.CVB from.here camel-PL-TOP III.PL-drive-PFV.CVB go-IPFV.CVB you-NMLZ one boy meet-NEG.PST.WIT-PST.WIT.INT-QUOT",
+      "reference": "When the merchants came to the shepherd with the horses, they wanted to take his information, if"
+    },
+    {
+      "source": "Nesis ɣˤutku ʕaƛoz č’imäza zown.",
+      "gloss": "DEM1.ISG.OBL-GEN1 house village-GEN2 corner-IN.VERS.DIST be.NPRS-PST.UNW",
+      "reference": "His house was located in the suburb of a village."
+    },
+    {
+      "source": "Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.",
+      "gloss": "Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT",
+      "reference": "When he saw Bilqisdi's beauty, the old man said to her: \"You must come to me!\""
+    },
+    {
+      "source": "Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.",
+      "gloss": "DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW",
+      "reference": "While going to this boy, she met a bandit on her way, who ten years before fell in love with her."
+    },
+    {
+      "source": "Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.",
+      "gloss": "so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT",
+      "reference": "While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'."
+    },
+    {
+      "source": "Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.",
+      "gloss": "next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW",
+      "reference": "After they went to look into the next room, they found 2 Sah (5 kg) of gold there."
+    },
+    {
+      "source": "Harizi boqno ža:",
+      "gloss": "request III-become-TOP DEM1.SG",
+      "reference": "The dragon begged:"
+    },
+    {
+      "source": "Nesis zownƛax sistow sis uži.",
+      "gloss": "DEM1.ISG.OBL-GEN1 be.NPRS-PST.UNW-QUOT one-EMPH one son",
+      "reference": "He had just one single son."
+    },
+    {
+      "source": "Maħor boqnosi, bara xediwq esirno, yedu q’urec’nibin, žedaƛ’ ƛ’irisi q’ayn łasey besanƛin.",
+      "gloss": "outside I.PL-become-ANT.CVB wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT",
+      "reference": "When they went outside, the wife asked her husband: \"Whose might those mules and the wares on them be?\""
+    },
+    {
+      "source": "Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.",
+      "gloss": "fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW",
+      "reference": "The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after."
+    },
+    {
+      "source": "Sasaq qˤašizaƛ’or yiłzaqay rok’łinč’inäy, aždaħä meži rac’ƛin.",
+      "gloss": "in.the.morning set.in-POST.CVB DEM2.IISG.OBL-ZA-POSS.ABL II.PL-escape-NEG.FUT-CND.CVB dragon-ERG you.PL II.PL-eat-QUOT",
+      "reference": "When you don't leave this place before dawn, a dragon will eat you.\""
+    },
+    {
+      "source": "Sidä his xuxix zown, sis ek’anił c’oxno, ɣoq’ˤot’aniza butnin, xaličabin rodin.",
+      "gloss": "one.OBL-ERG spring.wool comb-IPFV.CVB be.NPRS-PFV.CVB one spin-MSD-CONT.ESS hit-PFV.CVB other-DISTR-DEF-PL-ERG burka-and mat-PL-and IV-do-PST.UNW",
+      "reference": "One was combing the wool, one was hitting it to spin, the others made the burka and mats."
+    },
+    {
+      "source": "Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.",
+      "gloss": "one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW",
+      "reference": "One day Bear Ear went to the spring the dragon was covering to get water."
+    },
+    {
+      "source": "Eženi esiya eɣeniq reƛ’a caƛix kumak nesir boyx zown, yedakin ok’ełxanaƛin.",
+      "gloss": "old-DEF brother-ERG young-DEF-POSS.ESS hand throw-IPFV.CVB help DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT",
+      "reference": "The older brother was helping giving his hand to the younger one, so at least he might escape."
+    },
+    {
+      "source": "Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.",
+      "gloss": "one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB",
+      "reference": "After a while two men appeared in the garden carrying the box filled with gold."
+    },
+    {
+      "source": "Nesis łˤono uži zown.",
+      "gloss": "he.OBL-GEN1 three son be.NPRS-PST.UNW",
+      "reference": "He had three sons."
+    },
+    {
+      "source": "Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.",
+      "gloss": "DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW",
+      "reference": "After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage."
+    },
+    {
+      "source": "ʕOƛno ħonno xecin yizi bitaɣor bok’ełno.",
+      "gloss": "seven mountain-TOP go.up-PFV.CVB DEM2.IPL distance-IN.VERS I.PL-escape-PST.UNW",
+      "reference": "They went over seven mountains and escaped into the distance."
+    }
+  ],
+  "support_sha256": "49c788c52a6160bacc44070983012dafe5844d7503824024d88735519558f9a0",
+  "alignment": "First 21 covered records match gold training; test-overlapping sources are excluded, then filled in training order",
+  "training_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "removed_original_support_indices": [],
+  "added_training_indices": [],
+  "excluded_test_sources_sha256": "9bbe12a2e2a649a385d781eed729e1ea31f892e025afbb0a621874e645f180a4"
+}

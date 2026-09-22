@@ -1,0 +1,383 @@
+{
+  "model": "qwen35",
+  "model_id": "Qwen/Qwen3.5-9B",
+  "language": "Gitksan",
+  "source": "pdf1_brown",
+  "variant": "original",
+  "material": "summary_text_txt",
+  "method": "chain_gloss",
+  "context_kind": "text",
+  "context_files": [
+    "materials/curated_v1/gitksan/pdf1_brown/original/summary_text/summary_model_readable.txt"
+  ],
+  "context_hashes": {
+    "materials/curated_v1/gitksan/pdf1_brown/original/summary_text/summary_model_readable.txt": "826eed63a06cc563fdedc38323ad6e41005fb9317c80ca02ba2817846515b45e",
+    "docs/matched_gold_v2/support/gitksan.json": "4ee3a8219b204999ee8902bbe530db13abecd9e1e328b1057020c6a329b85d36",
+    "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/inputs/support_gold_v2/gitksan/git-train-track1-uncovered": "a8132c061f0504cbfb9bd1962c06ec1d5385fda4025318447a3ffa5caa00fd64"
+  },
+  "grammar_text": "# Gitskan (PDF spelling: Gitksan) Grammar Summary for Translation\n\n## Source\nPDF: gitksan Grammar PDF 1\nPages used: selected pages from a 12-page IPA/phonology article, especially pages 1-2 and 5-10.\nExtraction notes: embedded PDF text was available. The PDF is mainly phonetics/phonology plus an interlinear narrative text. It is not a full grammar. Full noun case, tense/aspect paradigms, pronoun paradigms, and full syntax chapters are not found in this PDF.\n\n## LANGUAGE_AND_DIALECT_CONTEXT\n| Fact | Translation cue | Source page |\n|---|---|---|\n| Gitksan is identified as an Interior Tsimshianic language spoken in northwestern British Columbia, Canada. | Language identification only; not a direct translation rule. | [PDF p. 1] |\n| The dialect presented is Eastern Gitksan, spoken in Kispiox, Glen Vowell, and Hazelton. | Forms in this PDF are Eastern Gitksan. | [PDF p. 1] |\n| Eastern and Western dialects differ phonologically by a lexical shift in vowels and stop lenition in Eastern dialects. | Expect dialect-dependent form variation. | [PDF p. 1] |\n\n## WORD_ORDER\n| Fact | Translation cue | Source page |\n|---|---|---|\n| Not found as a general prose rule in this PDF. | Use the interlinear narrative examples rather than an invented rule. | [PDF p. 9-10] |\n| Narrative examples show many clitics and particles attached with = in morpheme breakdowns. | Preserve clitic boundaries and use gloss labels to infer roles. | [PDF p. 9-10] |\n\n## PHONOLOGY_AND_ORTHOGRAPHY\n| Form/fact | Function | Translation cue | Source page |\n|---|---|---|---|\n| Gitksan has glottalized plosives/affricates and glottalized sonorants. | phonological inventory | Preserve apostrophe/glottalization in forms. | [PDF p. 2] |\n| Practical orthography places glottalization after plosives/affricates and before sonorants. | orthographic convention | Forms such as 'mal or ts'al encode glottalization. | [PDF p. 2], [PDF p. 4] |\n| Underlining indicates a uvular consonant in the orthography. | orthographic convention | Uvular contrasts may affect word identity. | [PDF p. 3] |\n| Reduced vowel /ə/ appears in affixes and some function words. | vowel behavior | dim is given as [dIm] and glossed PROSP in the narrative. | [PDF p. 5], [PDF p. 9] |\n| Vowel length is contrastive. | lexical contrast | Preserve vowel length-related orthographic differences when present. | [PDF p. 5] |\n| Stress falls on the rightmost vowel of the root in lexical words. | prosody | Suffixes are stated to be invisible to stress assignment. | [PDF p. 7] |\n\n## MORPHOLOGY_AND_CLITICS\n| Form/label | Function | Translation cue | Source page |\n|---|---|---|---|\n| -t | appears as 3.II or 3.I in narrative glosses depending on context | participant/person-class label in examples | [PDF p. 9-10] |\n| =hl | CN in narrative glosses | connective/clause label; preserve as clitic | [PDF p. 9-10] |\n| dim | PROSP | prospective meaning in narrative examples | [PDF p. 9] |\n| nee | NEG | negation in quoted narrative example | [PDF p. 10] |\n| ap | EMPH | emphatic marker in quoted narrative example | [PDF p. 10] |\n| dii | FOC | focus label in examples such as nee=dii and hlaa=dii | [PDF p. 10] |\n| -diit | 3PL in glossed examples | plural participant label | [PDF p. 9-10] |\n| sa- | CAUS in examples | causative label where present in glosses | [PDF p. 9] |\n| -xw | PASS in examples | pass/passive-like label where present in glosses | [PDF p. 9-10] |\n\n## VERB\n| Fact | Translation cue | Source page |\n|---|---|---|\n| Full tense/aspect/mood paradigms are not found in this PDF. | Use only labels in the narrative glosses. | [PDF p. 9-10] |\n| IPFV appears in yukw=t in the narrative glosses. | imperfective/progressive context in translations such as 'were discussing'. | [PDF p. 9] |\n| PROSP appears as dim in the narrative glosses. | prospective/future-like cue in translations. | [PDF p. 9] |\n| ANTlP/ANTIP appears in bax-asxw 'run-ANTIP'. | morphology label in examples; do not infer beyond PDF. | [PDF p. 9-10] |\n\n## NEGATION\n| Form | Function | Translation cue | Source page |\n|---|---|---|---|\n| nee | NEG | appears in 'I can't do it' example. | [PDF p. 10] |\n| nee=dii | NEG=FOC | negated focus-marked form in narrative example. | [PDF p. 10] |\n\n## QUESTIONS\nNot found as a general grammar section in this PDF.\n\n## SUBORDINATION_AND_CLAUSE_CONNECTION\n| Form/label | Function | Translation cue | Source page |\n|---|---|---|---|\n| =hl | CN | connective/clause connector label in many narrative examples. | [PDF p. 9-10] |\n| CL.CNJ | clausal conjunction label | ii=t appears as CL.CNJ=3.I in narrative glosses. | [PDF p. 9-10] |\n| COMP | complementizer/complement label | wil appears as COMP in narrative examples. | [PDF p. 10-11] |\n\n## GLOSSING_ABBREVIATIONS\n| Form/label | Function from PDF | Translation cue | Source page |\n|---|---|---|---|\n| IPFV | imperfective | appears in narrative gloss yukw=t as IPFV=3.I | PDF p. 9 |\n| PROSP | prospective | dim is glossed PROSP in narrative examples | PDF p. 9 |\n| CN | connective/clause connector label in glosses | appears as =hl or gan=hl in narrative glosses | PDF p. 9 |\n| CL.CNJ | clausal conjunction label | ii=t is glossed CL.CNJ=3.I | PDF p. 9 |\n| 3.I / 3.II / 3PL / 3SG | person/number/class labels in glosses | help identify participants | PDF p. 9-10 |\n| CAUS | causative | sa-goot-xw is glossed CAUS-heart-PASS | PDF p. 9 |\n| PASS | passive/pass-like label in glosses | appears in forms such as strong-PASS | PDF p. 9-10 |\n| ANTIP | antipassive | bax-asxw is glossed run-ANTIP | PDF p. 9-10 |\n| NEG | negation | nee is glossed NEG | PDF p. 10 |\n| EMPH | emphatic | ap is glossed EMPH | PDF p. 10 |\n| FOC | focus | dii is glossed FOC | PDF p. 10 |\n| COMP | complementizer/complement label | wil is glossed COMP | PDF p. 10-11 |\n\n## TRANSLATION_RELEVANT_EXAMPLES\n| Page | Original / gloss / translation |\n|---|---|\n| [PDF p. 9] | Yukwt laseexwhl bahasxw ganhl hloxs / yukw=t laseexw=hl bax-asxw gan=hl hloxs / IPFV=3.I discuss=CN run-ANTIP PH.CNJ=CN sun / 'The wind and the sun were discussing amongst themselves who was the strongest of them.' |\n| [PDF p. 9] | Yukwt laseexwdiit naa dim ky'aa daxgyadit / yukw=t laseexw-diit naa dim ky'aa daxgyat-it / IPFV=3.I discuss-3PL who PROSP most strong-SX / 'They were discussing who was the strongest.' |\n| [PDF p. 9] | dis wihl hagwin 'witxwhl lixsgyadit iit hooxhl 'wii gwila / time COMP=CN toward come=CN different-person-SX CL.CNJ=3.I use=CN big blanket / 'Just then a stranger arrived wearing a big blanket.' |\n| [PDF p. 10] | nee ap hlgu-xw-s-in-'y / NEG EMPH small-PASS-PASS-CAUS-1SG.II / 'I can't do it'. |\n| [PDF p. 10] | Farther narrative examples show nee=dii, hlaa=dii, and COMP wil in context. Exact forms should be checked in the selected JPG. |\n\n## TRANSLATION_CUES_FOR_QWEN\n- TRANSLATION_CUE: Use the interlinear glosses directly. This PDF does not provide a full grammar; do not invent case, pronoun, or tense paradigms.\n- PARTICLE: dim is glossed PROSP in the narrative and should be treated as a prospective cue when seen in comparable contexts. [PDF p. 9]\n- NEGATION: nee is glossed NEG and appears in an English translation with \"can't\". [PDF p. 10]\n- PARTICLE: dii is glossed FOC in nee=dii and hlaa=dii examples. [PDF p. 10]\n- SUBORDINATION: wil is glossed COMP in examples; =hl is glossed CN and appears frequently as a clitic boundary. [PDF p. 9-10]\n- ORTHOGRAPHY: Preserve apostrophes, underlining/uvular marking if visible, and clitic/morpheme boundaries because they distinguish forms. [PDF p. 2-3], [PDF p. 9-10]\n\n## NOT_FOUND_IN_THIS_PDF\n- Full case system: not found in the PDF.\n- Full pronoun paradigm: not found in the PDF.\n- Full tense/aspect/mood paradigm: not found in the PDF.\n- General question formation: not found in the PDF.\n- General word order rule: not found in the PDF.",
+  "support": [
+    {
+      "source": "'Nakwhl hlidaa 'wihl wili'y g̲oohl wag̲ayt andoosda wil jok̲hl amxsiwaa.",
+      "gloss": "long-CN PART-SPT around LVB-1SG.II LOC-CN completely NMLZ-across COMP live-CN white.person",
+      "reference": "A long time ago, I lived overseas where the white people lived."
+    },
+    {
+      "source": "Ii na 'wahl anhahla'lst g̲oohl Stockholm sawatdiit.",
+      "gloss": "CCNJ 1.I find-CN NMLZ-work LOC-CN Stockholm CAUS1-name-T-3PL.II",
+      "reference": "And I found work in Stockholm, that's what they call it."
+    },
+    {
+      "source": "Ii hahla'lsdi'y g̲oohl IBM.",
+      "gloss": "CCNJ work-1SG.II LOC-CN IBM",
+      "reference": "And I worked for IBM."
+    },
+    {
+      "source": "Ii hlaa k'i'yhl k'uuhl ii na sdilhl ansiip'insxwi'y g̲anhl nakst g̲oohl wag̲ayt Spain 'wayi'm.",
+      "gloss": "CCNJ INCEP one-CN year CCNJ 1.I accompany-CN NMLZ-like-CAUS2-ANTIP-1SG.II PCNJ-CN spouse-3.II LOC-CN completely Spain reach-TR-1PL.II",
+      "reference": "After one year, my friend and her husband and I traveled all the way to Spain."
+    },
+    {
+      "source": "Ii hlaa guxws luu yaltxu'm ii basax̲xu'm g̲oohl Denmark.",
+      "gloss": "CCNJ INCEP back in return-PASS-1PL.II CCNJ separate-PASS-1PL.II LOC-CN Denmark",
+      "reference": "And on the way back we separated in Denmark."
+    },
+    {
+      "source": "Ii na yuxwhl train ii yee'y g̲oohl Stockholm.",
+      "gloss": "CCNJ 1.I follow-CN train CCNJ go-1SG.II LOC-CN Stockholm",
+      "reference": "And I took the train and I went to Stockholm."
+    },
+    {
+      "source": "Ii hlaa bagu'm g̲oohl Stockholm ii ha'wi'y.",
+      "gloss": "CCNJ INCEP arrive.PL-1PL.II LOC-CN Stockholm CCNJ go.home-1SG.II",
+      "reference": "And we arrived in Stockholm and I went home."
+    },
+    {
+      "source": "Ii 'nakwhl 'wihl wili'm, gwila'lhl g̲anuutxw, g̲an wihl needii lax̲'nisxwi'y g̲oohl Gigeenix.",
+      "gloss": "CCNJ long-CN around LVB-1PL.II three-CN week REAS COMP-CN NEG-FOC hear-ANTIP-1SG.II LOC-CN place-upriver",
+      "reference": "And we were away a long time, three weeks, and that's why I didn't hear from Gigeenix."
+    },
+    {
+      "source": "Ii yee'y g̲oohl anhahla'lsdi'y.",
+      "gloss": "CCNJ go-1SG.II LOC-CN NMLZ-work-1SG.II",
+      "reference": "And I went to my work."
+    },
+    {
+      "source": "Ap yukwhl ha'niisgwaa'ytxw.",
+      "gloss": "VER IPFV-CN INS-on-rest",
+      "reference": "But it was Sunday."
+    },
+    {
+      "source": "Ii neediit naa dim 'witxwit.",
+      "gloss": "CCNJ NEG-FOC-3.I who PROSP come-SX",
+      "reference": "And no one would be there."
+    },
+    {
+      "source": "Ii yee'y loot nii dok̲hl mail'y.",
+      "gloss": "CCNJ go-1SG.II OBL-3.II 1.I-CCNJ take.PL-CN mail",
+      "reference": "And I went there and I got my mail."
+    },
+    {
+      "source": "Ii hlag̲ook̲ dim ha'wi'y ii ky'aa isxwi'y g̲oohl wilp xseek̲.",
+      "gloss": "CCNJ PART-first PROSP go.home-1SG.II CCNJ short.prepare pee-1SG.II LOC-CN house go.out.PL",
+      "reference": "And before I went home I had a short pee in the bathroom."
+    },
+    {
+      "source": "Ii daayimaahl wili'y g̲an wina sg̲at'akwhl aats'ip.",
+      "gloss": "CCNJ SPT-EPIS-CN LVB-1SG.II REAS COMP-1.I block.way-turn-CN door",
+      "reference": "And I don't know why I locked the door."
+    },
+    {
+      "source": "Ii hlaa yukwhl dim xsawi'y ii needii 'nim k̲'ak̲hl aats'ip.",
+      "gloss": "CCNJ INCEP IPFV-CN PROSP go.out-1SG.II CCNJ NEG-FOC DES open-CN door",
+      "reference": "And I was going to go out but the door didn't want to open."
+    },
+    {
+      "source": "Ii xsi hlguxwsxwi'y, ii lip ligi agwihl bag̲a'y, ii ap neet.",
+      "gloss": "CCNJ out unable.to-PASS-1SG.II CCNJ SELF DWID what-CN try-TR-1SG.II CCNJ VER not.so-3.II",
+      "reference": "And I couldn't get out, and whatever I tried I couldn't get out."
+    },
+    {
+      "source": "Ii k̲'aa 'nii giihli'y lax̲ ha'niiwan.",
+      "gloss": "CCNJ short.time on lay-1SG.II on INS-on-sit.PL",
+      "reference": "And I laid on the floor for a while."
+    },
+    {
+      "source": "Ak̲hl ligi 'wihl he'y.",
+      "gloss": "lack-CN DWID around say-1SG.II",
+      "reference": "I didn't know what to think."
+    },
+    {
+      "source": "Ii 'nii yatshl pipe-- nii gya'a wil sgihl pipe aloohl ha'niiyo'oxsxw.",
+      "gloss": "CCNJ on hit-CN pipe 1.I-CCNJ see COMP lie.on-CN pipe PREP-OBL-CN INS-on-wash-VAL",
+      "reference": "And I hit the pipe-- I saw there was a pipe on the sink."
+    },
+    {
+      "source": "Nii xhlii guut iin yatshl pole loot, upja ligi 'wihl wihl ligit naa.",
+      "gloss": "1.I-CCNJ all.the.way take-3.II CCNJ-1.I hit-CN pole OBL-3.II in.case-IRR DWID around LVB-CN DWID-PN who",
+      "reference": "And I took it apart, and I hit the pole with the pipe in case anybody was around."
+    },
+    {
+      "source": "Ii neediit naa ji 'witxwit.",
+      "gloss": "CCNJ NEG-FOC-DM who IRR come-SX",
+      "reference": "But no one came."
+    }
+  ],
+  "test": [
+    {
+      "source": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.",
+      "gloss": "PROSP tell-T-TR-1SG.II MANR LVB-CN COMP in toward come.PL-CN PL-white-ATTR person LOC-CN inhabitants-1PL.II Kitwancool long.ago",
+      "reference": "I will tell about when the white men first came to Kitwancool long ago."
+    },
+    {
+      "source": "Ha'ondii 'nakw hlidaa bakwhl gyet dipun, ii sag̲aytg̲oodindiithl hli gyedihl Gitwinhlguu'l.",
+      "gloss": "not.yet-FOC long PART-SPT come.PL-CN person ASSOC-DEM.PROX CCNJ together-heart-CAUS2-3PL.II-CN PART person-T-CN Kitwancool",
+      "reference": "Not long after these people arrived, they gathered together the people of Kitwancool."
+    },
+    {
+      "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+      "gloss": "desire-3PL.II PROSP tell-3PL.II COMP INCEP PROSP new INS-on-dwell-3.II LOC-CN COMP sit-CN village-CN Kitwancool",
+      "reference": "They wanted to tell about the new place where the village of Kitwancool is to be."
+    },
+    {
+      "source": "'Nit sag̲ootxwhl government siwetdiit, ii dim 'nii wenhl dim jok̲hl aluugigyet g̲o'ohl lax̲ reserve siwetdiit.",
+      "gloss": "3.III CAUS1-heart-PASS-CN government CAUS1-name-T-3PL.II CCNJ PROSP on sit.PL-CN PROSP live-CN plainly-PL-people LOC-CN on reserve CAUS1-name-T-3PL.II",
+      "reference": "The plan of the so-called government was that they will have Indian people live on a so-called reserve."
+    },
+    {
+      "source": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"",
+      "gloss": "what REAS-be/do-3.II QUOT.3SG-CN PART people-T-CN Gitwinhlguu'l PREP-CN on dwell-1PL.II LOC-CN land-1PL.II LOC-PN-DEM.PROX",
+      "reference": "\"Why?\" the people of Kitwancool asked. \"We live on our land, here.\""
+    },
+    {
+      "source": "Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.",
+      "gloss": "CCNJ hear-3PL.II COMP PROSP come.PL-CN CAUS1-name-T-3PL.II PREP-CN surveyors",
+      "reference": "They heard that what they call surveyors were coming."
+    },
+    {
+      "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+      "gloss": "so PROSP-FOC measure-3PL.II-CN DISTR-long-SX-CN perimeter PROSP COMP leave-CN reserve CAUS1-name-PASS-QUDD",
+      "reference": "They will measure out the length of the perimeter of what is called the reserve."
+    },
+    {
+      "source": "Ii aam win ky'ax̲ hehl Gitwinhlguu'l dim 'wiit'is, dim wag̲ayt jog̲o daa'whl g̲o'ohl k'i'yhl sg̲a'nist, dim ii lok̲'on daa'whl g̲o'ohl k'i'yhl aks, g̲o'ohl Ksen, 'nii g̲a'wayit k̲'ali daa'whl g̲o'ohl Meji'aadin. 'Nithl hasak̲diithl reserve.",
+      "gloss": "CCNJ good COMP unanimously say-CN Kitwancool PROSP big-large PROSP completely across leave LOC-CN one-CN mountain PROSP CCNJ into.low.plane leave LOC-CN one-CN river LOC-CN Skeena.river on DISTR-find-SX upstream leave LOC-CN Mejiaadin 3.III-CN want-3PL.II-CN reserve",
+      "reference": "The people agreed that they wanted a big reserve which would encompass mountains starting from the Skeena all the way up to Meji'aadin. They wanted that for a reserve."
+    },
+    {
+      "source": "Way ii needii hehl Indian Agendima'a, siwetxwit ehl Indian Agent, ent sag̲aytg̲oodinhl gyet, sag̲aytwendiit.",
+      "gloss": "so CCNJ NEG-FOC say-CN Indian Agent-EPIS CAUS1-name-PASS-SX PREP-CN Indian Agent AX-3.I together-heart-CAUS2-CN people together-sit.PL-3PL.II",
+      "reference": "The Indian Agent disagreed, the so-called Indian Agent who gathered the people together for the meeting."
+    },
+    {
+      "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+      "gloss": "CCNJ on COMP say-CN PART person-T-CN Kitwancool IRR-SPT NEG-IRR LVB-2PL.II so CCNJ NEG-PROSP-FOC want-1PL.II PREP-CN only small-little-CN land-CN PROSP in make-TR-2PL.II",
+      "reference": "And the people of the village Kitwancool said, \"If you don't do that, then we don't want you to carve out a very small reserve.\""
+    },
+    {
+      "source": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+      "gloss": "so though LBV-3.II-like-CN say-CN Kitwancool CCNJ NEG-FOC want-3PL.II PREP-CN reserve NEG-FOC want-1PL.II PROSP 1PL.I away give-CN territory-1PL.II QUOT.3PL",
+      "reference": "And now even though the people of Kitwancool said they did not want the little reserve; \"We don't want to give away our land,\" they said."
+    },
+    {
+      "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+      "gloss": "CCNJ say-3PL.II-REPORT PREP-CN Indian Agent PROSP-3.I stop-CAUS2-CN surveyors PROSP away flee-CAUS2-3PL.II-CN surveyors",
+      "reference": "And they told the Indian Agent to stop the surveyors; they will chase away the surveyors."
+    },
+    {
+      "source": "Way, ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diithl reserve, ii hets'imox bakwtg̲athl surveyors.",
+      "gloss": "so though LVB-3.II-like-CN say-CN Gitwinhlguu'l CCNJ NEG-FOC want-3PL.II-CN reserve CCNJ just-again come.PL-3.II-REPORT-CN surveyors",
+      "reference": "Even though Kitwancool said they did not want the reserve, the surveyors (apparently) came back."
+    },
+    {
+      "source": "Ii sit'aa'mam depdiithl hlidaaxhl hlgu lax̲ ha'niijok̲.",
+      "gloss": "CCNJ CAUS1-sit-1PL.II-ATTR measure-3PL.II-CN circumference-CN little on INS-on-live",
+      "reference": "They started measuring out the little settlement."
+    },
+    {
+      "source": "Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.\"",
+      "gloss": "CCNJ PL-watch-3.II-REPORT-CN person PFV say-3PL.II PREP-CN surveyors NEG-2.I-FOC right PROSP LVB-2PL.II IRR-SPT CAUS1-sit-DETR-2PL.II",
+      "reference": "So they stood by and watched after they told the surveyors, \"It will not be right that you start.\""
+    },
+    {
+      "source": "Ii k̲'ap g̲aniwila yukwhl surveyors.",
+      "gloss": "CCNJ VER continually-MANR do-CN surveyors",
+      "reference": "But the surveyors continued."
+    },
+    {
+      "source": "Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"",
+      "gloss": "so CCNJ together-heart-CAUS2-CN one.HUM-CN chief PART person-T-CN Kitwancool CCNJ say-3PL.II PROSP block.way-lie-PASS-TR-1PL.II PROSP away run.away-CAUS2-1PL.II 3PL.III",
+      "reference": "One chief gathered together some people of the village, and they said \"We will oppose (them) and we will chase them away.\""
+    },
+    {
+      "source": "\"Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.\"",
+      "gloss": "CCNJ want-1PL.II PROSP near stand-PASS-CN still grow-ATTR man PROSP AX-3.I help-1PL.II",
+      "reference": "\"We will want the support of young men to help us.\""
+    },
+    {
+      "source": "Way 'nithl wildiit.",
+      "gloss": "so 3.III-CN LVB-3PL.II",
+      "reference": "And that's what they did."
+    },
+    {
+      "source": "Iit hapdiithl surveyors.",
+      "gloss": "CCNJ-3.I swarm-3PL.II-CN surveyors",
+      "reference": "They mobbed the surveyors."
+    },
+    {
+      "source": "Iit dok̲diithl andeba'a, tape dip siwedit.",
+      "gloss": "CCNJ-3.I take.PL-3PL.II-CN NMLZ-measure-DETR tape 1PL.I CAUS1-name-T-3.II",
+      "reference": "They took the measuring tape (what we call tape in English)."
+    },
+    {
+      "source": "Dok̲diithl anooya'a, surveyors equipment siwedihl anooya'ahl surveyors.",
+      "gloss": "take.PL-3PL.II-CN NMLZ-use-DETR surveyors equipment CAUS1-name-T-CN NMLZ-use-DETR-CN surveyors",
+      "reference": "They took the tools, surveyors' equipment, what the surveyors' tools were called."
+    },
+    {
+      "source": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.",
+      "gloss": "CCNJ-3.I truly all.over PL-chop-3PL.II PREP-CN axe",
+      "reference": "And they completely chopped it up with axes."
+    },
+    {
+      "source": "Iit huudindiithl surveyors.",
+      "gloss": "CCNJ-3.I run.away-CAUS2-3PL.II-CN surveyors",
+      "reference": "And they chased away the surveyors."
+    },
+    {
+      "source": "Needii 'nakwt ii bakwhl police.",
+      "gloss": "NEG-FOC long-3.II CCNJ come.PL-CN police",
+      "reference": "Not long after, the police came."
+    },
+    {
+      "source": "Gidiidok̲diithl naahl g̲ay ha'niig̲ootdiit huksxwit ehl win sim kwhlii g̲atg̲oodindiithl anooya'ahl surveyors.",
+      "gloss": "stop.in.motion-take.PL-3PL.II-CN who-CN CNTR thought-3PL.II accompany-ANTIP-SX PREP-CN COMP truly all.over PL-empty-CAUS2-3PL.II-CN NMLZ-use-DETR-CN surveyors",
+      "reference": "They arrested people who they thought were around there when they destroyed the surveyors' tools."
+    },
+    {
+      "source": "Iit luuwendindiit.",
+      "gloss": "CCNJ-3.I in-sit.PL-CAUS2-3PL.II",
+      "reference": "And they jailed them."
+    },
+    {
+      "source": "Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.",
+      "gloss": "PFV-3.I COM-leave.PL-CN police-CN people AX-3.I truly completely PL-chop-CN NMLZ-use-DETR-CN surveyors CCNJ continually 3.III-CN say-CN PART person-T-CN Kitwancool",
+      "reference": "After the police took away the men who destroyed the surveyors' tools, the Kitwancool people still objected."
+    },
+    {
+      "source": "\"K̲'ap dim sg̲asgitxu'm.\"",
+      "gloss": "VER PROSP block-lie.on-PASS-TR-1PL.II",
+      "reference": "\"We will absolutely oppose it.\""
+    },
+    {
+      "source": "Ii luuwenhl ligi gwilunima'ahl simgigyet g̲o'ohl Oakalla Prison siwetxwsit.",
+      "gloss": "CCNJ in-sit.PL-CN DWID three.HUM-EPIS-CN true-PL-person LOC-CN Oakalla Prison CAUS1-name-PASS-QUDD",
+      "reference": "And there were maybe three chiefs who were jailed at what was known as Oakalla Prison."
+    },
+    {
+      "source": "Ligi t'imisima'ahl k'uuhl luuwendiit.",
+      "gloss": "DWID write-EPIS-CN year in-sit.PL-3PL.II",
+      "reference": "It wasn't recorded how many years they were incarcerated."
+    },
+    {
+      "source": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.",
+      "gloss": "so CCNJ IPFV-CN in-sit.PL-CN true-PL-person ASSOC-DEM.PROX CCNJ just-again come.PL-CN surveyors",
+      "reference": "While these chiefs were in prison, the surveyors returned."
+    },
+    {
+      "source": "Way ii sim dit'e'lt iit depdiithl hlguts'uusxhl lax̲ ha'niiyip gi'namihl Indian Agent tun ehl hli gyedihl Gitwinhlguu'l.",
+      "gloss": "so CCNJ truly DUR-hurry-3PL.II CCNJ-3.I measure-3PL.II-CN small-little-CN on INS-on-earth give-TR-CN Indian Agent DM-DEM.PROX PREP-CN PART person-T-CN Kitwancool",
+      "reference": "They hurriedly measured out the tiny reserve that the Indian Agent gave Kitwancool."
+    },
+    {
+      "source": "\"One mile by one mile,\" diphiida 'nuu'm.",
+      "gloss": "one mile by one mile QUOT.1PL 1PL.III",
+      "reference": "\"It's one mile by one mile,\" we said."
+    },
+    {
+      "source": "G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.",
+      "gloss": "MS.AMT-CN afraid.PL-CN surveyors CCNJ VER 3.III-CN REAS-COMP-CN say-CN Kitwancool now NEG-FOC CIRC.NECC-PROSP-FOC around sit-T-CN surveyors reserve",
+      "reference": "Because the surveyors were so afraid, the villagers say today that they should not have made a surveyor's reserve."
+    },
+    {
+      "source": "Needii gu ji t'amdiit, diyehl het.",
+      "gloss": "NEG-FOC what IRR mark-3PL.II QUOT.3SG-CN say-3.II",
+      "reference": "They never signed anything, they said."
+    },
+    {
+      "source": "'Nihl g̲abit.",
+      "gloss": "3.III-CN CNT.AMT-3.II",
+      "reference": "That's it."
+    }
+  ],
+  "policy": {
+    "name": "development_validated_sampled_v1",
+    "do_sample": true,
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k": 20,
+    "min_p": 0.0,
+    "presence_penalty": 1.5,
+    "repetition_penalty": 1.0,
+    "max_new_tokens": 512,
+    "seed": 20260910,
+    "seed_rule": "base + 2 * test_index",
+    "dtype": "float32",
+    "gpu_count": 1,
+    "enable_thinking": false,
+    "semantic_attempts": 1
+  },
+  "code_hashes": {
+    "runners/matched/protocol.py": "3a7fa1fd37e4676a21583885747ec61a9eaeca42dafb8f1f0e2d9234881c71fc",
+    "runners/matched/prepare.py": "da12b5ab725c48faba04d40069e93abac6bdfce57745aab3cc9256177cd605d5",
+    "runners/matched/run.py": "adc3f06488c6d6c1b8e6e3b0f643cab96d7cb4f5b69548a39c20b396a582d251",
+    "runners/experiment_io.py": "ed7f7ac349f291b36a4aaa2f88cdb0e3690266d71f99c774f7641498f3345fc9",
+    "runners/run_sampled_context.py": "12b97c6beeb42ae304236b0ebcba2b6278bb20570dadadfdde712fe64d05cbe4",
+    "runners/run_audited_context.py": "1aedf2f7b360dfbf2d30de47d3c10c088106d1bf2e496ac6a6bcc001716418df",
+    "runners/fp32_attention.py": "6fdff7bf95d9061ebed0b72f719c80593eec9bab5d101fba4ccf96caf1f51e8c",
+    "runners/diagnose_tsez_chain.py": "c036270d6fadcad21f5d83a2d41b980dfc5152a9a8c69deda538094eced808a4",
+    "runners/openrouter/run_grammamt_openrouter_context.py": "f62dfa0e9a7a29da2ea64d43c0dbc8035e0b099a275b57cfb202b765c296558a",
+    "runners/matched_gold_v2/analyze.py": "7ac7d06093e3a1f31cac62a28dc81b7c67f974a676fd489812848fd50b2c2a79",
+    "runners/matched_gold_v2/prepare.py": "7368e0e72a0da28ae185ad8b1b1fb085b18c8935d37b1b03777c1d1d4ebb2662",
+    "runners/matched_gold_v2/protocol.py": "524dfdd0a0aad5e6b4788b76710c1ce2044aa527ebb37c74bdd2261fc56e7ac7",
+    "runners/matched_gold_v2/run.py": "59b74d7b5b173043a2675035b15ffd263e5d75978ed6654fefaa01c4f3f2a86d",
+    "runners/matched_gold_v2/score.py": "ac6f1114ad5cacae9ef3d4b1222ae4d609108e6885c8e74560e06c304e45297a",
+    "runners/matched_gold_v2/status.py": "c7ecf2b5e04c1ae9da289e4cdf1dee9f08ed10823c1bc36bad3e88e36a288f3d"
+  },
+  "old_config": {
+    "id": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+    "family": "chain_gloss_v2",
+    "model": "qwen3",
+    "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "language": "Gitksan",
+    "source": "pdf1_brown",
+    "variant": "original",
+    "condition": "chain_gloss",
+    "material": "summary_text_txt",
+    "context_kind": "text",
+    "context_files": [
+      "materials/curated_v1/gitksan/pdf1_brown/original/summary_text/summary_model_readable.txt"
+    ],
+    "expected_records": 37,
+    "prediction_key": "qwen3_context_chain_gloss",
+    "dtype": "float32",
+    "gpu_count": 1,
+    "prompt_version": "chain_gloss_v2",
+    "results": "results/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt.jsonl",
+    "metrics": "metrics/chain_gloss_v2/qwen3/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt.json",
+    "config": "configs/experiments/qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt.json",
+    "job": "scripts/jobs/qwen3/gitksan/pdf1_brown/original/chain_gloss_v2/run_chain_gloss_summary_text_txt.sh",
+    "repair": false,
+    "preflight_job": "scripts/jobs/qwen3/preflight/run_qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt.sh"
+  },
+  "protocol": "matched_gold_v2: same fixed prompts/policy/cohorts; 21 aligned gold TRAIN support glosses; one semantic attempt",
+  "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+  "results": "results/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt.jsonl",
+  "metrics": "metrics/matched_gold_v2/qwen35/gitksan/pdf1_brown/original/chain_gloss_summary_text_txt.json",
+  "family": "matched_gold_v2",
+  "previous_config": "configs/matched_v1/qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt.json",
+  "previous_config_sha256": "6f54e7ccdd0d00fd5de084edae52df0da192768e2d478cb775f1fd83a7432c85",
+  "gold_support_manifest": "docs/matched_gold_v2/support/gitksan.json",
+  "gold_support_sha256": "728334f680ae4d5cb11445b9746715b332cad159f28717013d4d5847d96edf53",
+  "fingerprint": "5713fc8e028bf73d7a79ac8f6328211042098e673a368fbdbbef8ff2bbe35e52"
+}

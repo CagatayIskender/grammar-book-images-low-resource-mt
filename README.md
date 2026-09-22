@@ -1,19 +1,39 @@
 # GRAMMAMT Experiments
 
 **Final thesis starting point:** [Thesis guide, decisions and limitations](THESIS_GUIDE.md).
-The guide links the visual experiment matrix and current queue/condition status.
+The guide links the visual experiment matrix and final condition status.
 
-As verified on 2026-09-17, the primary `matched_v1` matrix is complete:
-Qwen3, Qwen3.5 and Gemini each have 117/117 conditions, with validated basic
-metrics, XCOMET-XL and paired significance analyses. Luna is excluded from the
-primary thesis comparison; its historical artifacts are retained, not deleted.
-See the [final completion audit](docs/matched_v1/completion_audit_2026-09-17.md).
+## Start Here
+
+For thesis writing, open **[thesis/](thesis/README.md)**. It contains the final
+tables, figures, completion audit and supervisor summary. Read
+**[THESIS_GUIDE.md](THESIS_GUIDE.md)** for the methods and reporting limitations.
+
+The remaining folders support reproducibility: `configs/` holds settings,
+`results/` model responses, `metrics/` scores, `docs/` technical records,
+and `experiments/mtob/` the separate supplementary study. Technical family
+names are retained there because saved configurations and hashes reference them.
+Do not mix historical `matched_v1` results with the corrected `matched_gold_v2`
+study. You do not need to browse historical folders to find the final tables.
+
+## Main Study
+
+The primary thesis family is **matched_gold_v2**, completed in September 2026:
+Qwen3, Qwen3.5 and Gemini each have 117/117 conditions, with gold-glossed training
+supports, XCOMET-XL/XXL scores and paired statistical analyses. Luna is excluded.
+Use the [final handover](thesis/README.md), including matrices,
+artifact paths and reference-quality qualifications. Complete coverage is not a
+claim of universal improvement or error-free model output.
+
+Historical matched_v1 used empty support glosses. Its results are preserved but
+must not be presented as the corrected study. Lezgi's three invalid references
+are handled in explicitly labelled 84/83-row descriptive sensitivity tables.
 
 For the current thesis comparisons, start with the
-[matched-ablation protocol](docs/matched_v1/README.md) and its
-[live condition catalog](docs/matched_v1/experiment_catalog.tsv).
-Tsez uses 445 examples for Qwen3/Qwen3.5 and the same first 99 for Gemini/Luna;
-cross-model analysis uses the common 99. Luna's campaign budget is 4 USD.
+[corrected protocol](docs/matched_gold_v2/README.md) and its
+[final condition catalog](thesis/condition_catalog.tsv).
+Tsez uses 445 examples for Qwen3/Qwen3.5 and the same first 99 for Gemini;
+cross-model analysis uses the common 99. Luna belongs to historical work only.
 The matched family fixes prompts and decoding across materials within each
 model/method, and never repairs a prompt based on a failed response.
 
@@ -33,6 +53,9 @@ Machine-readable configurations live in `configs/experiments/`.
 | `runners/matched` | Frozen matched baseline/material generation and analysis |
 | `configs/matched_v1` | Matched cohorts, policies, hashes and job groups |
 | `docs/matched_v1` | Matched protocol, status, submissions and significance results |
+| `runners/matched_gold_v2` | Frozen corrected gold-support protocol; do not alter retrospectively |
+| `configs/matched_gold_v2` | Corrected configurations and input hashes |
+| `thesis` | Final audit, joined tables, reference sensitivities and JPG/PDF matrices |
 | `scripts/jobs/<model>` | Individual Slurm generation and preflight jobs |
 | `scripts/submit/{curated_v1,chain_gloss_v2,legacy}` | Separate experiment-family submissions |
 | `scripts/scoring` | GPU scoring, separate from generation |

@@ -1,0 +1,169 @@
+{
+  "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+  "provenance": {
+    "model": "Unbabel/XCOMET-XXL",
+    "checkpoint_sha256": "e760e1f568af69b7a1bf7aeb46d8f3be21f01be7cbda480f8225ee81eb0af27a",
+    "results_sha256": "be6a454378916e7c89e79a29aee98c98fa1b37c2daa28369bd558b1f7500092d",
+    "fingerprint": "72c6b53b8cd4404d32fba4be54c82f1a86321778e147d19067c4c60c581ca64d",
+    "records": 37,
+    "scorer_sha256": "5e7d93eed81aa2d59b998e05519c06775174ecfe5d1b479bb97a2512344de105",
+    "comet_version": "2.2.7",
+    "batch_size": 1,
+    "gpus": 1,
+    "precision": "float32",
+    "failure_policy": "all expected rows, including empty predictions",
+    "scale": "native COMET score; multiply by 100 for percent-scale tables"
+  },
+  "xcomet_xxl": 0.19502180170368505,
+  "segments": [
+    {
+      "idx": 0,
+      "score": 0.10973241180181503
+    },
+    {
+      "idx": 1,
+      "score": 0.1956719309091568
+    },
+    {
+      "idx": 2,
+      "score": 0.09957122802734375
+    },
+    {
+      "idx": 3,
+      "score": 0.12303166836500168
+    },
+    {
+      "idx": 4,
+      "score": 0.17299938201904297
+    },
+    {
+      "idx": 5,
+      "score": 0.1435830295085907
+    },
+    {
+      "idx": 6,
+      "score": 0.11470101773738861
+    },
+    {
+      "idx": 7,
+      "score": 0.21959184110164642
+    },
+    {
+      "idx": 8,
+      "score": 0.23576125502586365
+    },
+    {
+      "idx": 9,
+      "score": 0.1703076958656311
+    },
+    {
+      "idx": 10,
+      "score": 0.17143520712852478
+    },
+    {
+      "idx": 11,
+      "score": 0.3194146752357483
+    },
+    {
+      "idx": 12,
+      "score": 0.21535250544548035
+    },
+    {
+      "idx": 13,
+      "score": 0.110495425760746
+    },
+    {
+      "idx": 14,
+      "score": 0.1916460543870926
+    },
+    {
+      "idx": 15,
+      "score": 0.1900556981563568
+    },
+    {
+      "idx": 16,
+      "score": 0.17343547940254211
+    },
+    {
+      "idx": 17,
+      "score": 0.0829860270023346
+    },
+    {
+      "idx": 18,
+      "score": 0.1082916110754013
+    },
+    {
+      "idx": 19,
+      "score": 0.16662389039993286
+    },
+    {
+      "idx": 20,
+      "score": 0.09859448671340942
+    },
+    {
+      "idx": 21,
+      "score": 0.40313267707824707
+    },
+    {
+      "idx": 22,
+      "score": 0.12310661375522614
+    },
+    {
+      "idx": 23,
+      "score": 0.4272625148296356
+    },
+    {
+      "idx": 24,
+      "score": 0.4333300292491913
+    },
+    {
+      "idx": 25,
+      "score": 0.13518254458904266
+    },
+    {
+      "idx": 26,
+      "score": 0.13329270482063293
+    },
+    {
+      "idx": 27,
+      "score": 0.2182045429944992
+    },
+    {
+      "idx": 28,
+      "score": 0.18410837650299072
+    },
+    {
+      "idx": 29,
+      "score": 0.14250873029232025
+    },
+    {
+      "idx": 30,
+      "score": 0.11220581829547882
+    },
+    {
+      "idx": 31,
+      "score": 0.14059612154960632
+    },
+    {
+      "idx": 32,
+      "score": 0.11788468062877655
+    },
+    {
+      "idx": 33,
+      "score": 0.8123823404312134
+    },
+    {
+      "idx": 34,
+      "score": 0.1667194962501526
+    },
+    {
+      "idx": 35,
+      "score": 0.11117889732122421
+    },
+    {
+      "idx": 36,
+      "score": 0.14142805337905884
+    }
+  ],
+  "runtime_seconds": 45.385550022125244
+}

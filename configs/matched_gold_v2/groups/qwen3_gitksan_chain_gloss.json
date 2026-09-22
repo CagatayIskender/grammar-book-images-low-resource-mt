@@ -1,0 +1,15 @@
+[
+  "configs/matched_gold_v2/qwen3_gitksan_grammar_original_chain_gloss_baseline.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt.json",
+  "configs/matched_gold_v2/qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt.json"
+]

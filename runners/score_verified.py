@@ -1,5 +1,6 @@
 """XCOMET-XL only. Validate full datasets and keep existing metric metadata."""
 import argparse
+import importlib.metadata
 import json
 import math
 from pathlib import Path
@@ -8,6 +9,21 @@ import time
 from experiment_io import ROOT, atomic_json, dataset, read_records, sha256, validate_records
 
 MODEL = "Unbabel/XCOMET-XL"
+
+
+def valid_segment_scores(metrics, keys, count):
+    for key in keys:
+        segments = metrics.get("xcomet_segments", {}).get(key, [])
+        if len(segments) != count or [s.get("idx") for s in segments] != list(range(count)):
+            return False
+        if not all(isinstance(s.get("score"), (int, float)) and math.isfinite(s["score"]) for s in segments):
+            return False
+        mean = metrics.get(key, {}).get("xcomet")
+        if not isinstance(mean, (int, float)) or not math.isfinite(mean):
+            return False
+        if abs(sum(s["score"] for s in segments) / count - mean) > 1e-12:
+            return False
+    return True
 
 
 def score_targets(targets, dry_run=False):
@@ -29,8 +45,14 @@ def score_targets(targets, dry_run=False):
             metrics = json.loads(metric.read_text()) if metric.exists() else {}
             checksum = sha256(result)
             provenance = metrics.get("xcomet_provenance", {})
+            segments_required = result.resolve().is_relative_to(ROOT / "results/matched_gold_v2")
             if (provenance.get("results_sha256") == checksum and provenance.get("model") == MODEL
                     and provenance.get("records") == len(rows)
+                    and (not segments_required or (
+                        valid_segment_scores(metrics, keys, len(rows))
+                        and provenance.get("scorer_sha256") == sha256(Path(__file__))
+                        and len(provenance.get("checkpoint_sha256", "")) == 64
+                        and provenance.get("comet_version") == importlib.metadata.version("unbabel-comet")))
                     and all(isinstance(metrics.get(k, {}).get("xcomet"), (int,float))
                             and math.isfinite(metrics[k]["xcomet"]) for k in keys)):
                 print(f"[SKIP] {result}")
@@ -50,7 +72,9 @@ def score_targets(targets, dry_run=False):
     if torch.cuda.device_count() != 1 or "H100" not in torch.cuda.get_device_name(0):
         raise RuntimeError("Scoring requires exactly one H100")
     from comet import download_model, load_from_checkpoint
-    model = load_from_checkpoint(download_model(MODEL))
+    checkpoint = Path(download_model(MODEL))
+    checkpoint_hash = sha256(checkpoint)
+    model = load_from_checkpoint(str(checkpoint))
     import sacrebleu
     for target, rows, keys, metrics, checksum in pending:
         start = time.time()
@@ -65,9 +89,15 @@ def score_targets(targets, dry_run=False):
             block.setdefault("bleu", sacrebleu.corpus_bleu(hyps, [refs]).score)
             block.setdefault("chrf", sacrebleu.corpus_chrf(hyps, [refs], word_order=2).score)
             block["xcomet"] = sum(float(x) for x in values) / len(values)
+            if (ROOT / target["results"]).resolve().is_relative_to(ROOT / "results/matched_gold_v2"):
+                metrics.setdefault("xcomet_segments", {})[key] = sorted(
+                    [{"idx": row["idx"], "score": float(value)} for row, value in zip(rows, values)],
+                    key=lambda segment: segment["idx"])
         if sha256(ROOT / target["results"]) != checksum:
             raise RuntimeError("Predictions changed during scoring; refusing metrics write")
-        metrics["xcomet_provenance"] = {"model":MODEL, "results_sha256":checksum, "records":len(rows), "runtime_seconds":time.time()-start}
+        metrics["xcomet_provenance"] = {"model":MODEL, "results_sha256":checksum, "records":len(rows), "runtime_seconds":time.time()-start,
+            "checkpoint_sha256": checkpoint_hash, "scorer_sha256": sha256(Path(__file__)),
+            "comet_version": importlib.metadata.version("unbabel-comet")}
         metrics["comet_model_used"] = MODEL
         atomic_json(ROOT / target["metrics"], metrics)
     if problems:

@@ -1,0 +1,145 @@
+{
+  "language": "Gitksan",
+  "origin": {
+    "kind": "official_sigmorphon_training_data",
+    "url": "https://raw.githubusercontent.com/sigmorphon/2023glossingST/190689ac81935359c69a46463c48e25e63e601f7/data_v1/Gitksan/git-train-track1-uncovered",
+    "commit": "190689ac81935359c69a46463c48e25e63e601f7"
+  },
+  "training_file": "/dss/dsshome1/07/ge92kun2/grammamt/GRAMMAMT/inputs/support_gold_v2/gitksan/git-train-track1-uncovered",
+  "training_sha256": "a8132c061f0504cbfb9bd1962c06ec1d5385fda4025318447a3ffa5caa00fd64",
+  "support": [
+    {
+      "source": "'Nakwhl hlidaa 'wihl wili'y g̲oohl wag̲ayt andoosda wil jok̲hl amxsiwaa.",
+      "gloss": "long-CN PART-SPT around LVB-1SG.II LOC-CN completely NMLZ-across COMP live-CN white.person",
+      "reference": "A long time ago, I lived overseas where the white people lived."
+    },
+    {
+      "source": "Ii na 'wahl anhahla'lst g̲oohl Stockholm sawatdiit.",
+      "gloss": "CCNJ 1.I find-CN NMLZ-work LOC-CN Stockholm CAUS1-name-T-3PL.II",
+      "reference": "And I found work in Stockholm, that's what they call it."
+    },
+    {
+      "source": "Ii hahla'lsdi'y g̲oohl IBM.",
+      "gloss": "CCNJ work-1SG.II LOC-CN IBM",
+      "reference": "And I worked for IBM."
+    },
+    {
+      "source": "Ii hlaa k'i'yhl k'uuhl ii na sdilhl ansiip'insxwi'y g̲anhl nakst g̲oohl wag̲ayt Spain 'wayi'm.",
+      "gloss": "CCNJ INCEP one-CN year CCNJ 1.I accompany-CN NMLZ-like-CAUS2-ANTIP-1SG.II PCNJ-CN spouse-3.II LOC-CN completely Spain reach-TR-1PL.II",
+      "reference": "After one year, my friend and her husband and I traveled all the way to Spain."
+    },
+    {
+      "source": "Ii hlaa guxws luu yaltxu'm ii basax̲xu'm g̲oohl Denmark.",
+      "gloss": "CCNJ INCEP back in return-PASS-1PL.II CCNJ separate-PASS-1PL.II LOC-CN Denmark",
+      "reference": "And on the way back we separated in Denmark."
+    },
+    {
+      "source": "Ii na yuxwhl train ii yee'y g̲oohl Stockholm.",
+      "gloss": "CCNJ 1.I follow-CN train CCNJ go-1SG.II LOC-CN Stockholm",
+      "reference": "And I took the train and I went to Stockholm."
+    },
+    {
+      "source": "Ii hlaa bagu'm g̲oohl Stockholm ii ha'wi'y.",
+      "gloss": "CCNJ INCEP arrive.PL-1PL.II LOC-CN Stockholm CCNJ go.home-1SG.II",
+      "reference": "And we arrived in Stockholm and I went home."
+    },
+    {
+      "source": "Ii 'nakwhl 'wihl wili'm, gwila'lhl g̲anuutxw, g̲an wihl needii lax̲'nisxwi'y g̲oohl Gigeenix.",
+      "gloss": "CCNJ long-CN around LVB-1PL.II three-CN week REAS COMP-CN NEG-FOC hear-ANTIP-1SG.II LOC-CN place-upriver",
+      "reference": "And we were away a long time, three weeks, and that's why I didn't hear from Gigeenix."
+    },
+    {
+      "source": "Ii yee'y g̲oohl anhahla'lsdi'y.",
+      "gloss": "CCNJ go-1SG.II LOC-CN NMLZ-work-1SG.II",
+      "reference": "And I went to my work."
+    },
+    {
+      "source": "Ap yukwhl ha'niisgwaa'ytxw.",
+      "gloss": "VER IPFV-CN INS-on-rest",
+      "reference": "But it was Sunday."
+    },
+    {
+      "source": "Ii neediit naa dim 'witxwit.",
+      "gloss": "CCNJ NEG-FOC-3.I who PROSP come-SX",
+      "reference": "And no one would be there."
+    },
+    {
+      "source": "Ii yee'y loot nii dok̲hl mail'y.",
+      "gloss": "CCNJ go-1SG.II OBL-3.II 1.I-CCNJ take.PL-CN mail",
+      "reference": "And I went there and I got my mail."
+    },
+    {
+      "source": "Ii hlag̲ook̲ dim ha'wi'y ii ky'aa isxwi'y g̲oohl wilp xseek̲.",
+      "gloss": "CCNJ PART-first PROSP go.home-1SG.II CCNJ short.prepare pee-1SG.II LOC-CN house go.out.PL",
+      "reference": "And before I went home I had a short pee in the bathroom."
+    },
+    {
+      "source": "Ii daayimaahl wili'y g̲an wina sg̲at'akwhl aats'ip.",
+      "gloss": "CCNJ SPT-EPIS-CN LVB-1SG.II REAS COMP-1.I block.way-turn-CN door",
+      "reference": "And I don't know why I locked the door."
+    },
+    {
+      "source": "Ii hlaa yukwhl dim xsawi'y ii needii 'nim k̲'ak̲hl aats'ip.",
+      "gloss": "CCNJ INCEP IPFV-CN PROSP go.out-1SG.II CCNJ NEG-FOC DES open-CN door",
+      "reference": "And I was going to go out but the door didn't want to open."
+    },
+    {
+      "source": "Ii xsi hlguxwsxwi'y, ii lip ligi agwihl bag̲a'y, ii ap neet.",
+      "gloss": "CCNJ out unable.to-PASS-1SG.II CCNJ SELF DWID what-CN try-TR-1SG.II CCNJ VER not.so-3.II",
+      "reference": "And I couldn't get out, and whatever I tried I couldn't get out."
+    },
+    {
+      "source": "Ii k̲'aa 'nii giihli'y lax̲ ha'niiwan.",
+      "gloss": "CCNJ short.time on lay-1SG.II on INS-on-sit.PL",
+      "reference": "And I laid on the floor for a while."
+    },
+    {
+      "source": "Ak̲hl ligi 'wihl he'y.",
+      "gloss": "lack-CN DWID around say-1SG.II",
+      "reference": "I didn't know what to think."
+    },
+    {
+      "source": "Ii 'nii yatshl pipe-- nii gya'a wil sgihl pipe aloohl ha'niiyo'oxsxw.",
+      "gloss": "CCNJ on hit-CN pipe 1.I-CCNJ see COMP lie.on-CN pipe PREP-OBL-CN INS-on-wash-VAL",
+      "reference": "And I hit the pipe-- I saw there was a pipe on the sink."
+    },
+    {
+      "source": "Nii xhlii guut iin yatshl pole loot, upja ligi 'wihl wihl ligit naa.",
+      "gloss": "1.I-CCNJ all.the.way take-3.II CCNJ-1.I hit-CN pole OBL-3.II in.case-IRR DWID around LVB-CN DWID-PN who",
+      "reference": "And I took it apart, and I hit the pole with the pipe in case anybody was around."
+    },
+    {
+      "source": "Ii neediit naa ji 'witxwit.",
+      "gloss": "CCNJ NEG-FOC-DM who IRR come-SX",
+      "reference": "But no one came."
+    }
+  ],
+  "support_sha256": "728334f680ae4d5cb11445b9746715b332cad159f28717013d4d5847d96edf53",
+  "alignment": "First 21 covered records match gold training; test-overlapping sources are excluded, then filled in training order",
+  "training_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "removed_original_support_indices": [],
+  "added_training_indices": [],
+  "excluded_test_sources_sha256": "70daf32eb8084e9500c70fa1bcf187c68a88df0b1cfd7fc3feded084e6024572"
+}

@@ -1,0 +1,19 @@
+{
+  "job_id": "5798139",
+  "submitted_at_cluster_local": "2026-09-19T20:29:29",
+  "model": "Unbabel/XCOMET-XXL",
+  "dependency": "afterok:5798036",
+  "dependency_reason": "Wait for full generation and successful existing XL scoring/completeness validation",
+  "time_limit": "14:00:00",
+  "gpu_count": 1,
+  "gpu_partition": "lrz-hgx-h100-94x4",
+  "host_memory": "144G",
+  "script": "scripts/scoring/run_matched_gold_v2_xcomet_xxl.sh",
+  "script_sha256": "f58c28e8173d51e914218edcfc9acbcb6761c12be6a50944fbbc55fa5d5df414",
+  "scorer": "runners/scoring/score_gold_v2_xcomet_xxl.py",
+  "scorer_sha256": "5e7d93eed81aa2d59b998e05519c06775174ecfe5d1b479bb97a2512344de105",
+  "output_root": "metrics/matched_gold_v2_xcomet_xxl",
+  "state_at_verification": "PENDING",
+  "reason_at_verification": "Dependency",
+  "existing_generation_scoring_analysis_jobs_changed": false
+}

@@ -1,0 +1,809 @@
+{
+  "model": "gemini25flashlite",
+  "model_id": "google/gemini-2.5-flash-lite",
+  "language": "Tsez",
+  "source": "grammar",
+  "variant": "original",
+  "material": "pdfpages_impactful_jpg",
+  "method": "modelgloss",
+  "context_kind": "image",
+  "context_files": [
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_008.jpg",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_009.jpg",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_010.jpg",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_012.jpg",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_015.jpg",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_016.jpg",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_020.jpg",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_021.jpg",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_025.jpg"
+  ],
+  "context_hashes": {
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_008.jpg": "0f6c70da999b1dffb72443c354256c0777dd047e1d8af214134e9302d0d3e8c8",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_009.jpg": "7cd7d12a9acaee59cc9fa84d63c009187b7cc582b2e3409cc83cd801ff21b454",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_010.jpg": "e3d05ff6bcacb64c790273e4c3fc39d0b1746da75ed47f5c29dae2b103061b53",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_012.jpg": "381c5db39a6c38cb1aeea4c4de0cc8ce218cbd2327c4d246bd905b1a0378990d",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_015.jpg": "8ad3a5f436298520bda2e322b65205a15cbdf2ecec37be3c14dedcf37825893b",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_016.jpg": "79fd4877bdab2febbb536daedf8132b96c510b579a03550405ef58d3504e58a6",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_020.jpg": "131ddb75a15374c16281b35c6fae357947ba6e32d62c85b8c4e4a46142af460c",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_021.jpg": "7e2cd3cd38344f47f666a1f1bbd18f19597fc2589211775b462f16bc331716a3",
+    "materials/curated_v1/tsez/grammar/original/selected_pages/page_025.jpg": "d1969f152935fdd8b35112f70cb24d255abe4958cb0c2573ed4d19ed4ac5ce7e",
+    "docs/matched_gold_v2/support/tsez.json": "2a98473b66f68f9459875fcedb351633c119e0446004daba28dbd93ec927cfa7",
+    "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/data/Tsez/ddo-train-track1-uncovered": "a6869f509bfc0968697f5ac7d2a31fd72805ba4a27ae4ce9f061137784d31c29"
+  },
+  "grammar_text": "",
+  "support": [
+    {
+      "source": "Retinäy debex mi yižo, retinäy q’ˤuyzix yegir.",
+      "gloss": "IV-want-CND.CVB you-AD.ESS you II-lead-IMPR IV-want-CND.CVB other-ATTR.OBL-AD.ESS II-send",
+      "reference": "If you want, marry her yourself, or if you want, send her to someone else."
+    },
+    {
+      "source": "Esnazał xizaz ixiw raład boqno.",
+      "gloss": "sister-PL-CONT.ESS behind big sea III-become-PST.UNW",
+      "reference": "And a big sea formed behind the sisters."
+    },
+    {
+      "source": "Neła žaqor beɣetow hibo teƛno.",
+      "gloss": "DEM1.IISG.OBL-ERG boy-POSS.LAT III-small-EMPH stick give-PFV.CVB",
+      "reference": "The eagle gave a small stick to the boy."
+    },
+    {
+      "source": "Bazarganbi guluzaxozo aħozider baynosi, nesiqayn hemedurtow bayan bisno, t’aza ħumukulibin roc’no ik’ix debełi sis uži c’oxinč’aƛin.",
+      "gloss": "merchant-PL horse-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT I.PL-come-ANT.CVB DEM1.ISG.OBL-POSS.ABL-TOP so-EMPH information III-take-PFV.CVB from.here camel-PL-TOP III.PL-drive-PFV.CVB go-IPFV.CVB you-NMLZ one boy meet-NEG.PST.WIT-PST.WIT.INT-QUOT",
+      "reference": "When the merchants came to the shepherd with the horses, they wanted to take his information, if"
+    },
+    {
+      "source": "Nesis ɣˤutku ʕaƛoz č’imäza zown.",
+      "gloss": "DEM1.ISG.OBL-GEN1 house village-GEN2 corner-IN.VERS.DIST be.NPRS-PST.UNW",
+      "reference": "His house was located in the suburb of a village."
+    },
+    {
+      "source": "Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.",
+      "gloss": "Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT",
+      "reference": "When he saw Bilqisdi's beauty, the old man said to her: \"You must come to me!\""
+    },
+    {
+      "source": "Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.",
+      "gloss": "DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW",
+      "reference": "While going to this boy, she met a bandit on her way, who ten years before fell in love with her."
+    },
+    {
+      "source": "Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.",
+      "gloss": "so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT",
+      "reference": "While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'."
+    },
+    {
+      "source": "Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.",
+      "gloss": "next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW",
+      "reference": "After they went to look into the next room, they found 2 Sah (5 kg) of gold there."
+    },
+    {
+      "source": "Harizi boqno ža:",
+      "gloss": "request III-become-TOP DEM1.SG",
+      "reference": "The dragon begged:"
+    },
+    {
+      "source": "Nesis zownƛax sistow sis uži.",
+      "gloss": "DEM1.ISG.OBL-GEN1 be.NPRS-PST.UNW-QUOT one-EMPH one son",
+      "reference": "He had just one single son."
+    },
+    {
+      "source": "Maħor boqnosi, bara xediwq esirno, yedu q’urec’nibin, žedaƛ’ ƛ’irisi q’ayn łasey besanƛin.",
+      "gloss": "outside I.PL-become-ANT.CVB wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT",
+      "reference": "When they went outside, the wife asked her husband: \"Whose might those mules and the wares on them be?\""
+    },
+    {
+      "source": "Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.",
+      "gloss": "fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW",
+      "reference": "The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after."
+    },
+    {
+      "source": "Sasaq qˤašizaƛ’or yiłzaqay rok’łinč’inäy, aždaħä meži rac’ƛin.",
+      "gloss": "in.the.morning set.in-POST.CVB DEM2.IISG.OBL-ZA-POSS.ABL II.PL-escape-NEG.FUT-CND.CVB dragon-ERG you.PL II.PL-eat-QUOT",
+      "reference": "When you don't leave this place before dawn, a dragon will eat you.\""
+    },
+    {
+      "source": "Sidä his xuxix zown, sis ek’anił c’oxno, ɣoq’ˤot’aniza butnin, xaličabin rodin.",
+      "gloss": "one.OBL-ERG spring.wool comb-IPFV.CVB be.NPRS-PFV.CVB one spin-MSD-CONT.ESS hit-PFV.CVB other-DISTR-DEF-PL-ERG burka-and mat-PL-and IV-do-PST.UNW",
+      "reference": "One was combing the wool, one was hitting it to spin, the others made the burka and mats."
+    },
+    {
+      "source": "Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.",
+      "gloss": "one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW",
+      "reference": "One day Bear Ear went to the spring the dragon was covering to get water."
+    },
+    {
+      "source": "Eženi esiya eɣeniq reƛ’a caƛix kumak nesir boyx zown, yedakin ok’ełxanaƛin.",
+      "gloss": "old-DEF brother-ERG young-DEF-POSS.ESS hand throw-IPFV.CVB help DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT",
+      "reference": "The older brother was helping giving his hand to the younger one, so at least he might escape."
+    },
+    {
+      "source": "Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.",
+      "gloss": "one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB",
+      "reference": "After a while two men appeared in the garden carrying the box filled with gold."
+    },
+    {
+      "source": "Nesis łˤono uži zown.",
+      "gloss": "he.OBL-GEN1 three son be.NPRS-PST.UNW",
+      "reference": "He had three sons."
+    },
+    {
+      "source": "Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.",
+      "gloss": "DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW",
+      "reference": "After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage."
+    },
+    {
+      "source": "ʕOƛno ħonno xecin yizi bitaɣor bok’ełno.",
+      "gloss": "seven mountain-TOP go.up-PFV.CVB DEM2.IPL distance-IN.VERS I.PL-escape-PST.UNW",
+      "reference": "They went over seven mountains and escaped into the distance."
+    }
+  ],
+  "test": [
+    {
+      "source": "Raq’ˤu ɣˤutkubin rodin, žedałxortow kinaw idu yałru maʕišatno bik’in łiyn.",
+      "gloss": "IV.PL-many house-PL-TOP IV.PL-do-PFV.CVB DEM1.IIPL.OBL-CONT.VERS-EMPH entire home be-PST.PRT fortune-TOP III-go-PFV.CVB end-PST.UNW",
+      "reference": "He built many houses and the entire fortune that was in his home went away through them."
+    },
+    {
+      "source": "Žeda ža sidaɣ łˤebozał ƛ’iriɣor hut’-mˤalin roƛik’no uqˤno.",
+      "gloss": "DEM1.IPL-ERG DEM1.SG in.one.place leaf-PL-CONT.ESS on-IN.ALL front.part.of.the.face-TOP IV-push.out-PFV.CVB hide-PST.UNW",
+      "reference": "They hid him somewhere with only his face out of the leaves."
+    },
+    {
+      "source": "Sida q’orolays mamalay zown ɣudes šudaƛ’orno bik’in akbar roɣxo bičixosi.",
+      "gloss": "one.OBL widow-GEN1 rooster be.NPRS-PFV.CVB daily graveyard-SUPER.LAT-TOP III-go-PFV.CVB call.for.prayer IV-take.away-IPFV.CVB III-be-PRS.PRT",
+      "reference": "A widow had a rooster, who went to the graveyard every day to crow."
+    },
+    {
+      "source": "Riyxƛin, eƛin kidbä, ža yoł insanes rok’u.",
+      "gloss": "IV-know-PRS-QUOT say-PST.UNW daughter-ERG DEM1.SG be human-GEN1 heart",
+      "reference": "\"I know it,\" said his daughter, \"it is the human heart.\""
+    },
+    {
+      "source": "Xanä neła aɣeł xizay baq’ˤu nukarbi begirno, hudun didurnokin žeduq ža biqin anu.",
+      "gloss": "khan-ERG DEM1.IISG.OBL bird-CONT.ESS behind III-many henchman-PL I.PL-send-PFV.CVB nevertheless how-TOP-even DEM1.IPL.OBL-POSS.ESS DEM1.SG III-get-PST.UNW be.NEG",
+      "reference": "The king sent many henchman after that bird they didn't get the bird in any way."
+    },
+    {
+      "source": "Sis ħon xecix, q’ano xecix, łˤono äƛiru xecinosi sida sasiw ciqor nišiw huni yałza mečoƛ’or ayn.",
+      "gloss": "one mountain leave-IPFV.CVB two leave-IPFV.CVB three say-PST.PRT leave-ANT.CVB one.OBL gloomy forest-POSS.LAT narrow way be-LCV place-SUPER.LAT come-PST.UNW",
+      "reference": "Passing one mountain, passing two, and when he was passing the third one, he came to a place where there was a narrow way into a gloomy forest."
+    },
+    {
+      "source": "Šebi hudu nesir saɣyatyor retinƛin, esirno qˤayä.",
+      "gloss": "what so DEM1.ISG.OBL-LAT present-LAT IV-want-PST.UNW-QUOT ask-PST.UNW hare-ERG",
+      "reference": "\"So what present does he want?\" asked the rabbit."
+    },
+    {
+      "source": "Žek’uz raƛ’ma xanłi royzaƛ’or, q’ˤimez raƛ’ma laɣłun di ičan.",
+      "gloss": "man-GEN2 land-IN.ESS khanship IV-do-POST.CVB oneself-GEN2 land-IN.ESS slave-LHUN me live-FUT.DEF",
+      "reference": "Before I become king in someone else's country, I'll live as a slave in my own country."
+    },
+    {
+      "source": "Hunixgon yiłar ħonƛ’aɣortow ik’ixosi aħo keze oqno.",
+      "gloss": "way-AD.ESS-CNTR DEM2.IISG.OBL-LAT mountain-SUPER.VERS-EMPH go-PRS.PRT shepherd meet become-PST.UNW",
+      "reference": "On her way she met a shepherd who was also going to the mountain."
+    },
+    {
+      "source": "Kidbä mołin nesiq, žeda k’eneč’yozałäy raɣruni xexoybi t’or rownäy, mekoyn räxuƛin, eƛo mi xanqor, ele enza ɣˤulaz zarbazałäygon mi žedar teƛanix muhubi rodo, rišerno ruħno bayrno xizyo rowan di žedu t’orƛin.",
+      "gloss": "daughter-ERG teach-PST.UNW DEM1.ISG.OBL-POSS.ESS DEM1.IIPL.OBL egg-PL-CONT.ABL IV-hatch-PST.PRT-DEF young.animal-PL here-LAT III.PL-bring-CND.CVB be.hungry-PFV.CVB IV-die-QUOT say-IMPR you khan-POSS.LAT there DEM3b.IIPL.OBL stone-GEN2 crushed.stone-PL-CONT.ABL-CNTR you DEM1.IIPL.OBL-LAT give-MSD-AD.ESS granule-PL IV-do-IMPR IV-eat-CAUS-PFV.CVB power-TOP III-bring-PFV.CVB afterwards IV-bring-FUT.DEF me DEM1.IIPL.OBL here-LAT-QUOT",
+      "reference": "His daughter explained to him: \"'Because I brought these young animals here, which hatched from the eggs, they will die of hunger.', tell this to the king, 'make grain out of these crushed stones to give it to me, I'll feed it and it will bring power to them, afterwards I will bring them here.'\""
+    },
+    {
+      "source": "Dahawgon užä hibo begirno xecin, nesis gugu žek’anix.",
+      "gloss": "a.little-CNTR boy-ERG stick III-let-PFV.CVB leave-PFV.CVB DEM1.ISG.OBL-GEN1 back beat-PURP.CVB",
+      "reference": "The boy let the stick still beat a little on his back."
+    },
+    {
+      "source": "Neła qułtow nesi eɣeni esiws nełaƛ’ ozuri c’oxnoƛax.",
+      "gloss": "DEM1.IISG.OBL day-CONT.ESS-EMPH DEM1.ISG.OBL young-DEF sister-GEN1 DEM1.IISG.OBL-SUPER.ESS eye meet-PST.UNW-QUOT",
+      "reference": "That very day it caught the younger sister's eye."
+    },
+    {
+      "source": "Nedur yeda ukaynosi, kidbä šebi roqäƛin esirno.",
+      "gloss": "so DEM2.ISG see-ANT.CVB girl-ERG what IV-happen-PST.WIT.INT-QUOT ask-PST.UNW",
+      "reference": "When she saw him like that, the girl asked: \"What happened?\""
+    },
+    {
+      "source": "Boƛƛo baq’ˤu zaman bik’izaƛ’ortow, ža uži žeduqay et’un.",
+      "gloss": "III-middle III-much time III-go-POST.CVB-EMPH DEM1.SG boy DEM1.IPL.OBL-POSS.ABL part-PST.UNW",
+      "reference": "After a while, the boy seperated from them."
+    },
+    {
+      "source": "Łu mi nediw bodäƛin?”, - esirno mamalayä.",
+      "gloss": "who.ERG you such III-do-PST.WIT.INT-QUOT - ask-PST.UNW rooster-ERG",
+      "reference": "\"Who did this to you?\", asked the rooster."
+    },
+    {
+      "source": "Kaɣatno caxno, ʕaƛatow łet’in sis zap’ana gulun biqirno, Tawadider bertenyołer goƛ’anix žek’u egirxo.",
+      "gloss": "letter-TOP write-PFV.CVB village-IN.ESS-EMPH pick-PFV.CVB one strong horse-TOP III-find-PFV.CVB Tavadi-APUD.LAT marriage-CONT.LAT invite-MSD-AD.ESS man send-PRS",
+      "reference": "He wrote a letter, picked a strong horse in the village and sent a man to Tavadi in order to invite him to the marriage."
+    },
+    {
+      "source": "Howži xan yiziz daʕbaƛ’or utiłno.",
+      "gloss": "now khan DEM2.IPL.OBL-GEN2 dispute-SUPER.LAT turn.back-POT-PST.UNW",
+      "reference": "Now the king could return to their dispute."
+    },
+    {
+      "source": "Elo dey beže esiw yoł, neła debeq esär, esiw xʷasar badirus šebi deber di neƛanƛin.",
+      "gloss": "there me-GEN1 III-old brother be DEM1.IISG.OBL-ERG you-POSS.ESS ask brother rescue III-do-PST.PRT-GEN1 what you-LAT me give-FUT.DEF-QUOT",
+      "reference": "\"There is my elder brother, he will ask you: 'What shall I give to you for saving my brother?'"
+    },
+    {
+      "source": "Nediw ža habihanes bečełin rukayn, yisix xanes kidno nexno.",
+      "gloss": "such DEM1.SG miller-GEN1 riches-TOP IV-see-PFV.CVB DEM2.ISG.OBL-AD.ESS khan-GEN1 daughter-TOP come-PST.UNW",
+      "reference": "When she saw that the miller had so much riches, the princess married him."
+    },
+    {
+      "source": "Xanes zer rok’u regin, žoyä däqay xanłi raɣƛin.",
+      "gloss": "khan-GEN1 shuddering heart IV-go.through-PST.UNW son-ERG me-POSS.ABL khanship IV-take.away-QUOT",
+      "reference": "Shuddering went through the king's heart: \"My son is going to take away my throne?\""
+    },
+    {
+      "source": "Xanä nesiq esirno, šida mi išxanuƛin.",
+      "gloss": "khan-ERG DEM1.ISG.OBL-POSS.ESS ask-PFV.CVB why you eat-IPFV.CVB-NEG-QUOT",
+      "reference": "The khan asked, \"Why don't you eat?\""
+    },
+    {
+      "source": "Yiła čantakin ana rac’anix šebinƛin, rok’ƛ’orno rayn, nełas iƛ’u yizirno.",
+      "gloss": "DEM2.IISG.OBL-IN.ESS pocket-even be.NEG-Q IV-eat-MSD-AD.ESS thing-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB DEM1.IISG.OBL-GEN1 lid II-lift-PST.UNW",
+      "reference": "\"Isn't there anything to eat in this pocket?\", he thought and lifted its lid."
+    },
+    {
+      "source": "Sasaqgon yizin nesił xizay yeɣeni esiw yoƛixnosi, yisä gagaruni ɣˤul kurno.",
+      "gloss": "in.the.morning-CNTR II-get.up-PFV.CVB DEM1.ISG.OBL-CONT.ESS behind II-young-DEF sister II-appear-ANT.CVB he-ERG smooth-DEF stone throw-PST.UNW",
+      "reference": "When it got morning and his younger sister appeared behind him, he threw the smooth stone."
+    },
+    {
+      "source": "Xizyo Kusa žeduqor eƛin, xexbi riqirna riqirno ana nełaƛin riyranix, xanez kidbeder ɣˤanabi yegirƛin.",
+      "gloss": "afterwards Kusa-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW child III.PL-catch-PFV.CVB-Q III.PL-catch-PFV.CVB be.NEG-Q DEM1.IISG.OBL-ERG-QUOT IV-find.out-MSD-AD.ESS khan-GEN2 daughter-APUD.LAT woman II-send-QUOT",
+      "reference": "Afterwards Kusa said to them: \"Send a woman to the king's daughter to find out if she is pregnant or not.\""
+    },
+    {
+      "source": "Ɣʷˤadir sida ɣunoz ariƛ’ heqäsi cey bukayn.",
+      "gloss": "crow-LAT one.OBL tree-GEN2 branch-SUPER.ESS sit.down-RES.PRT eagle III-see-PST.UNW",
+      "reference": "The crow saw an eagle sitting on a branch of a tree."
+    },
+    {
+      "source": "Gap yäsu yisä yoyxƛin, yizä nesä äƛiruxor acno ħišin, rekarbi yisiqor teƛno.",
+      "gloss": "merriment II-exist DEM2.ISG.OBL-ERG II-do-PRS-QUOT DEM2.IIPL.OBL-ERG DEM1.ISG.OBL-ERG say-PST.PRT-AD.LAT door-TOP lock-PFV.CVB key-PL DEM2.ISG.OBL-POSS.LAT give-PST.UNW",
+      "reference": "\"He must be joking!\" [they thought], as he said they locked the door and gave him the keys."
+    },
+    {
+      "source": "Elorno nexno, mi siskin lamus oqinč’ey eƛo, yedu dey baħaray meža xedyox šida yegirxoƛin.",
+      "gloss": "there-LAT-TOP come-PFV.CVB you any shame become-NEG.PST.CVB say-IMPR DEM2.IISG me-GEN1 fiancée you(I).PL.OBL-ERG husband-AD.ESS why II-send-PRS-QUOT",
+      "reference": "Go there and without any shame say: 'Why are you marrying off my fiancée to some other husband?'"
+    },
+    {
+      "source": "Neła qalameƛ waħo sasiw ɣutku yoł.",
+      "gloss": "DEM1.IISG.OBL fortress-SUB.ESS below gloomy house be",
+      "reference": "Below the fortress, there is a gloomy house."
+    },
+    {
+      "source": "Nucos bic’äsi q’ilima tełer keze aqru žek’u maħorno oqäłinč’i, hemedur ža c’ohorno mi iqärƛin.",
+      "gloss": "honey-GEN1 III-fill-RES.PRT qili-IN.ESS into meet become-PST.PRT man outside-TOP become-POT-NEG.FUT.CVB so DEM1.SG thief-TOP you catch-QUOT",
+      "reference": "The man who falls into the pot filled with honey won't come outside, so you will catch the thief."
+    },
+    {
+      "source": "Hay i wele, howži oxi mi t’ay, dey xediw aynäy, exar nesä mi.",
+      "gloss": "so.then and look.out.IMP now run.away you from.here me-GEN1 husband come-CND.CVB kill DEM1.ISG.OBL-ERG you",
+      "reference": "\"So then, now run away from here, when my husband comes home, he will kill you!"
+    },
+    {
+      "source": "Beqes ʕUneyzateł xizay di oqäsi yołƛin, esin yisä.",
+      "gloss": "sun-GEN1 Uneyzat-CONT.ESS behind me become-RES.PRT be-QUOT tell-PST.UNW DEM2.ISG.OBL-ERG",
+      "reference": "\"I am looking for Sun's Uneyzat,\" he said."
+    },
+    {
+      "source": "Zownƛax zown anuƛax sis ečru ʕomoy.",
+      "gloss": "be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB be.NEG-QUOT one old donkey",
+      "reference": "Once upon a time there was an old donkey."
+    },
+    {
+      "source": "Łäħor tungi bic’a baru yäk’irun, xediya hečk’erno izin xizaɣorsi reƛis karu met’rin axay yoɣno, boboru qiqos ħuk’no ric’no, etixozoz haqa et’no.",
+      "gloss": "water-AD.LAT copper.jug III-fill-INF wife II-go-IMM.ANT.CVB husband-ERG upright-TOP get.up-PFV.CVB finally-ATTR meat-GEN1 throw-PST.PRT piece.of.meat-and belly-IN.ABL II-take.away-PFV.CVB hot bouillon-GEN1 scoop-and IV-fill-PFV.CVB lover-GEN2 mouth-IN.ESS pour-PST.UNW",
+      "reference": "Just when the wife went to the water to fill a jug, the husband got up, took the last piece of meat and filled a scoop with hot soup and poured it into the lover's mouth."
+    },
+    {
+      "source": "Ža xabarno esin q’orolayn yik’in elay.",
+      "gloss": "DEM1.SG story-TOP tell-PFV.CVB widow-TOP II-go-PST.UNW there-IN.ABL",
+      "reference": "Having told this, the widow went away."
+    },
+    {
+      "source": "Ža bihayaw šebin yołƛin, eƛin kidbä.",
+      "gloss": "DEM1.SG easy thing be-QUOT say-PST.UNW daughter-ERG",
+      "reference": "\"It's an easy thing.\", said his daughter."
+    },
+    {
+      "source": "Howža xabarno boyn, boƛƛo baq’ˤu zaman bik’izaƛ’ortow, yizir taqˤo iłe dandir nexxo žek’u ukayn.",
+      "gloss": "DEM4.SG story-TOP III-do-PFV.CVB III-middle III-much time III-go-POST.CVB-EMPH DEM2.IPL.OBL-LAT over.there as towards come-IPFV.CVB man see-PST.UNW",
+      "reference": "Not much later after that conversation, they saw a man coming towards them."
+    },
+    {
+      "source": "Sida quł tusnaq’är žader q’ʷaridno yoqno xanes kid yayn, šebi roqnoƛin nesä bayan bisnosi, yiłä nełäz babiwƛ’or bayru q’ʷariłiłäy esin.",
+      "gloss": "one.OBL day-CONT.ESS prison-IN.LAT boy-APUD.LAT sadness-TOP II-become-PFV.CVB khan-GEN1 daughter II-come-PFV.CVB what IV-happen-PST.UNW-QUOT DEM1.ISG.OBL-ERG information III-take-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL-IN.ESS.DIST father-SUPER.LAT III-come-PST.PRT sadness-CONT.ABL tell-PST.UNW",
+      "reference": "One day, the sad princess came to the boy into the prison and when he wanted to know what had happened, she told about the sadness that came upon her father."
+    },
+    {
+      "source": "Hič’č’a eɣenä eƛin:",
+      "gloss": "the.most young-DEF-ERG say-PST.UNW",
+      "reference": "The youngest one said:"
+    },
+    {
+      "source": "Yik’ičo, dey kid, ƛ’ˤuƛ’ˤor yezu šebi elo yołƛin” - eniya kid ƛ’ˤuƛ’ˤor yeza yegirno.",
+      "gloss": "II-go-INT me-GEN1 daughter roof-SUPER.LAT II-look what there be-QUOT - mother-ERG daughter roof-SUPER.LAT II-look-INF II-send-PST.UNW",
+      "reference": "Go, my daughter, look what is on the roof.\" - [thus] the mother sent the daughter to look on the roof."
+    },
+    {
+      "source": "Yedu där ħažat roqxosiƛin, q’ˤidayn risno yeženi esiya qˤirič’ k’emot’ya šeƛ’ureł teł eqerno.",
+      "gloss": "DEM2.IISG me-LAT necessity IV-become-PRS.PRT-QUOT down-IN.ABL-TOP IV-take-PFV.CVB II-old-DEF sister-ERG scissors wooden.case-IN.ESS clothing-CONT.ESS inside put-PST.UNW",
+      "reference": "\"This is what I need!\", the older sister said, took up the scissors and put them to the clothings in her wardrobe."
+    },
+    {
+      "source": "Zirus musno žimä teł eqerno, bełiqus uži nesä nesiz hunix oqno ik’in.",
+      "gloss": "fox-GEN1 hair-TOP pocket-IN.ESS inside put-PFV.CVB hunter-GEN1 son DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 way-AD.ESS become-PFV.CVB go-PST.UNW",
+      "reference": "Having put the fox's hair into his pocket, the hunter's son went on his own way."
+    },
+    {
+      "source": "Xediwä, k’ačaɣˤä, etixosiyäƛin?”",
+      "gloss": "husband-Q bandit-Q lover-Q-QUOT",
+      "reference": "The husband, the bandit or the lover?\""
+    },
+    {
+      "source": "Žeda kidbeqor kurno lel yayrno.",
+      "gloss": "DEM1.IIPL.OBL-ERG girl-POSS.LAT throw-PFV.CVB wing II-lead-PST.UNW",
+      "reference": "They threw their wings up to the girl."
+    },
+    {
+      "source": "Hawaƛ’ k’oƛin guluzaƛ’ biłe nexxoƛax yiził xizay beron becin č’agu baqruni žek’ubi.",
+      "gloss": "air-SUPER.ESS run-PFV.CVB horse-PL-SUPER.ESS I.PL-as come-PRS-QUOT DEM2.IPL.OBL-CONT.ESS behind ice-TOP III-thaw-PFV.CVB alive I.PL-become-PST.PRT-DEF man-PL",
+      "reference": "Like on a horse the men who became alive after the ice thawed came behind them."
+    },
+    {
+      "source": "Izin yeda, eženi žek’a bukaruni mečoƛ’or di ik’ixƛin yiziqorno eƛin, hunix oqno.",
+      "gloss": "get.up-PFV.CVB DEM2.ISG old-DEF man-ERG III-show-PST.PRT-DEF place-SUPER.LAT me go-PRS-QUOT DEM2.IPL-POSS.LAT-TOP say-PFV.CVB way-AD.ESS become-PST.UNW",
+      "reference": "He got up and said to them: \"I am going to the place that the old man had shown.\", and went on his way."
+    },
+    {
+      "source": "Hemełƛ’o xizyo babiya yisiqor eƛin, howži mi teƛinč’ey ičin ok’äłinč’i, ža aɣin bisno mi xanderno ik’i nesiqor eƛo, debez roƛik’a xanłiƛ neƛan deber aɣiƛin.",
+      "gloss": "DEM4.IISG.OBL-SUPER.ESS after father-ERG DEM2.ISG.OBL-POSS.LAT say-PST.UNW now you give-NEG.PST.CVB be-PFV.CVB escape-NEG.FUT DEM1.SG bird-TOP III-take-PFV.CVB you khan-APUD.LAT-TOP go DEM1.ISG.OBL-POSS.LAT say-IMPR you-GEN2 IV-half khanate-SUB.ESS sell-FUT.DEF you-LAT bird-QUOT",
+      "reference": "After that the father said to him, \"Now you cannot avoid giving it to him. Take the bird, go to the king and say to him, 'I will sell you the bird for half the kingdom'.\""
+    },
+    {
+      "source": "Sosi bok’ek’no, k’ox bok’ek’no xanes bečełi yizä ragixtow rižix zown.",
+      "gloss": "at.first III-steal-PFV.CVB twice III-steal-PFV.CVB khan-GEN1 riches DEM2.IPL.OBL-ERG IV-lick-IPFV.CVB-EMPH IV-carry-IPFV.CVB be.NPRS-PST.UNW",
+      "reference": "They stole once, they stole twice, and the king's riches they were \"licking\" and carrying away."
+    },
+    {
+      "source": "Cin nesiƛ’ Musaƛin zown.",
+      "gloss": "name-TOP DEM1.ISG.OBL-SUPER.ESS Musa-QUOT be.NPRS-PST.UNW",
+      "reference": "And his name was Musa."
+    },
+    {
+      "source": "Aždaħä łi ħaƛuraniƛ, sist’a žek’u ac’anix žamaʕatyoqay oɣxo zown.",
+      "gloss": "dragon-ERG water drink-LAT-MSD-SUB.ESS one.at.a.time man eat-MSD-AD.ESS population-POSS.ABL take.away-IPFV.CVB be.NPRS-PST.UNW",
+      "reference": "The dragon took away one man at a time from the population to eat them, in exchange for letting them drink from the water."
+    },
+    {
+      "source": "Xizyo iduɣorno nexno yisä yeɣeni esiwq esin kinaw eženi esiwr raqru łinałayn.",
+      "gloss": "afterwards home-IN.ALL-TOP come-PFV.CVB DEM2.ISG.OBL-ERG II-young-DEF sister-POSS.ESS tell-PST.UNW entire old-DEF brother-LAT IV-happen-PST.PRT what.OBL-CONT.ABL-TOP",
+      "reference": "Afterwards he came home and told his younger sister everything that had happened to their older brother."
+    },
+    {
+      "source": "Nedur resunäyƛin, eƛin babiya, moƛ’oqˤoys baha łeno bišom ɣˤuruš yołƛin.",
+      "gloss": "so IV-exist-CND.CVB-QUOT say-PST.UNW dad-ERG bridle-GEN1 price five hundred ruble be-QUOT",
+      "reference": "\"If that's the case,\" said the father, \"the bridle's price is 500 rubles.\""
+    },
+    {
+      "source": "Roƛik’u huni bežet’ani esnazaq xizor ƛexuzaƛ’ortow, yeda xizayn ayn biqirno žedu, hudun yizir yeda iynanuƛax.",
+      "gloss": "IV-half way I.PL-old-DISTR-DEF brother-PL-POSS.ESS back remain-POST.CVB-EMPH DEM2.ISG from.behind-TOP come-PFV.CVB I.PL-catch-PFV.CVB DEM1.IPL nevertheless DEM2.IPL.OBL-LAT DEM2.ISG know-PFV.CVB-NEG-QUOT",
+      "reference": "Before half the way remained for the older brothers, he came from behind and overtook them, nevertheless they didn't recognize him."
+    },
+    {
+      "source": "Užä ot’ bisno ičin, mi šebigon rodiłin äsinč’iƛin.",
+      "gloss": "son-ERG rejection III-take-PFV.CVB be-PFV.CVB you what-CNTR IV-do-CNC.CVB tell-NEG.FUT-QUOT",
+      "reference": "The son was rejecting, \"Whatever you do, I won't tell.\""
+    },
+    {
+      "source": "Hemedur raziłi zahir rodin kidbez babiya.",
+      "gloss": "so consent express IV-do-PST.UNW girl-GEN2 dad-ERG",
+      "reference": "So the father expressed his agreement."
+    },
+    {
+      "source": "Žan bac’nogon yiziri kecno.",
+      "gloss": "DEM1.SG-TOP III-eat-PFV.CVB-CNTR they sleep-PST.UNW",
+      "reference": "After having eaten it, they went to sleep."
+    },
+    {
+      "source": "Žedu bukada ik’anix dey saɣłikin roqač’ineyƛin, mušin kurno eƛin xanä.",
+      "gloss": "DEM1.IPL I.PL-see-INF go-MSD-AD.ESS me-GEN1 health-even IV-happen-NEG.FUT.DEF-DUB-QUOT breath-TOP exhale-PFV.CVB say-PST.UNW khan-ERG",
+      "reference": "\"I wonder if I won't get healthy again, in order to go see them,\" the king said and breathed heavily."
+    },
+    {
+      "source": "Dey ruħ łiyäsi yoł, hudunon nesi baħarčis ela murad t’ubazi boda bay.",
+      "gloss": "me-GEN1 power end-RES.PRT be nevertheless-TOP DEM1.ISG.OBL brave.young.man-GEN1 we(I).OBL-ERG wish fulfill III-do-INF I.PL-must",
+      "reference": "\"My power has ended, so we must fulfill this brave young man's wish."
+    },
+    {
+      "source": "Xizyogon ħurženya eƛuk’no eqerno, hečk’er izin.",
+      "gloss": "then bag-IN.ESS leather.sack-TOP put-PFV.CVB upright get.up-PST.UNW",
+      "reference": "Then he put the leather sack into the bag and got up."
+    },
+    {
+      "source": "Nesiz resmozax rizin zawru q’ˤutno pˤoƛin, yeda uži saɣ oqno.",
+      "gloss": "DEM1.ISG.OBL-GEN2 throat-PL-AD.ESS IV.PL-get-PFV.CVB be.NPRS-PST.PRT abscess-TOP explode-PFV.CVB DEM2.ISG boy cure become-PST.UNW",
+      "reference": "The abscess that had gotten onto his throat exploded and the boy got cured."
+    },
+    {
+      "source": "Eynoyxosi gurow žek’u išxosi anuƛin.",
+      "gloss": "work-PRS.PRT except man eat-PRS.PRT be.NEG-QUOT",
+      "reference": "Only someone who works will eat."
+    },
+    {
+      "source": "Elor sis qˤaba k’et’u k’oƛin bayn, bisno yiłar magalu kurnosi, howlortow bexun ža.",
+      "gloss": "there-LAT one black cat run-PFV.CVB III-come-PFV.CVB III-take-PFV.CVB DEM2.IISG.OBL-LAT bread throw-ANT.CVB there-LAT-EMPH III-die-PST.UNW DEM1.SG",
+      "reference": "A black cat came running there, and after she took a [piece of] bread and threw it to the cat, it immediately died."
+    },
+    {
+      "source": "Mi elo ƛ’irir iziranix elus resno, maħalno anu.",
+      "gloss": "you there above-LAT lift-MSD-AD.ESS we(I).OBL-GEN1 possibility-TOP might-TOP be.NEG",
+      "reference": "\"We do not have the ability and might to lift you up there."
+    },
+    {
+      "source": "Guluƛ’ay et’un q’ˤidarno k’oƛin, madax žan bicin, harihun ezux-ʕoƛ’ux ɣˤutka tełxor oqnosi, nesir elo ža kid yesun.",
+      "gloss": "horse-SUPER.ABL come.off-PFV.CVB down-LAT-TOP jump-PFV.CVB gate-AD.ESS DEM1.SG-TOP III-tie-PFV.CVB slowly examine-IPFV.CVB house-IN.ESS inside-AD.LAT become-ANT.CVB DEM1.ISG.OBL-LAT there DEM1.SG girl II-find-PST.UNW",
+      "reference": "He jumped down from his horse, tied it to the gate, and when he went into the house examining slowly, he found the girl there."
+    },
+    {
+      "source": "\"Behizi roqnäy, däq baša atinƛin di debeq harizi royx.",
+      "gloss": "permit IV-become-CND.CVB me-POSS.ESS finger touch-PROHIB-QUOT me you-POSS.ESS request IV-do-PRS",
+      "reference": "'If it's possible, don't touch me!"
+    },
+    {
+      "source": "Žeda bexurxozo xabaryoqor aħyan kurno aɣˤuz mogola tełerno oqno ozatawni žek’un ičäsi zown.",
+      "gloss": "DEM1.IIPL-ERG III-kill-PRS.PRT.OBL story-POSS.LAT ear-TOP spread.out-PFV.CVB mill-GEN2 granary-IN.ESS into-PFV.CVB become-PFV.CVB eye-without-DEF man-TOP wait-RES.PRT be.NPRS-PST.UNW",
+      "reference": "After they finished talking(?), the blind man perked up his ears, got into the mill's granary and waited."
+    },
+    {
+      "source": "Šomon ɣudi hunixno roɣno, yizi sida yeže gogaƛ’or bayn.",
+      "gloss": "how.many-TOP day way-AD.ESS-TOP IV-spend.time-PFV.CVB DEM2.IPL one.OBL II-big meadow-SUPER.LAT I.PL-come-PST.UNW",
+      "reference": "They spent many days on their way, then they came to a big meadow."
+    },
+    {
+      "source": "Xizyogon mekʷa c’oxno iguni halmaɣä žukaniq bišʷa esirnosi, q’ˤano äƛirugon ozuri roɣno nesir teƛzaƛ’or išernoanu ža žukani halmaɣä.",
+      "gloss": "again hunger meet-PFV.CVB good-DEF friend-ERG worse-MSD-POSS.ESS food ask-ANT.CVB two ORD-CNTR eye IV-take.away-PFV.CVB DEM1.ISG.OBL-LAT give-POST.CVB eat-CAUS-PFV.CVB-NEG DEM1.SG worse-MSD friend-ERG",
+      "reference": "Again, the good friend became hungry and asked the bad one for food, and the bad friend didn't let him eat before he didn't take away his second eye and gave it to him."
+    },
+    {
+      "source": "Yoqno yik’isƛax xizyo ʕArabuzan Ismaʕilełno, xanez kidbełno xizay.",
+      "gloss": "II-become-PST.UNW II-go-PST.WIT-QUOT afterwards Arabuzan Ismail-CONT.ESS-and khan-GEN2 daughter-CONT.ESS-and behind",
+      "reference": "And afterwards Arabuzan came behind Ismail and the king's daughter."
+    },
+    {
+      "source": "Sasaq qaħłiƛ’aɣor best’alawni kid ƛ’ˤuƛ’or yizin.",
+      "gloss": "in.the.morning dawn-SUPER.VERS step-DEF girl roof-SUPER.LAT II-get.up-PST.UNW",
+      "reference": "The next morning after dawn, the stepdaughter got onto the roof."
+    },
+    {
+      "source": "Di ža ɣamas bercinaw yodan, ƛ’iri mesedyos łin regirno, nełas baq’ˤu micxirno esan, xanqo taraw neƛełxanuce.",
+      "gloss": "me DEM1.SG box beautiful II-do-FUT.DEF above gold-GEN1 water-TOP IV-let-PFV.CVB DEM1.IISG.OBL-GEN1 III-much money-TOP appear-FUT.CVB khan-POSS.ESS except.for sell-POT-IPFV.CVB-NEG-TERM",
+      "reference": "I will make this box so beautiful, and I'll put liquid gold on it, so that its worth will appear so much that it could not be sold to anyone besides the king."
+    },
+    {
+      "source": "Žas babiw gulun bižin bazaryaɣor äk’irun, Okä ayn esirno nesiq, yedu gulu teƛxosi ana, šebi yiłas bahaƛin.",
+      "gloss": "boy-GEN1 father horse-TOP III-lead-PFV.CVB bazar-IN.VERS go-IMM.ANT.CVB Oku-ERG come-PFV.CVB ask-PST.UNW DEM1.ISG.OBL-POSS.ESS DEM2.IISG horse sell-PRS.PRT be.NEG-Q what DEM2.IISG.OBL-GEN1 price-QUOT",
+      "reference": "Just as the boy's father had lead the horse to the market, Oku came and asked him: \"Won't you sell this horse, what is its price?\""
+    },
+    {
+      "source": "Yedugon šebi t’o roqxoƛin tamaša oqno ƛexun ža.",
+      "gloss": "DEM2.IISG-CNTR what here IV-happen-PRS-QUOT astonished become-PFV.CVB remain-PFV.CVB DEM1.SG",
+      "reference": "\"What's happening here?\", he stood there astonished."
+    },
+    {
+      "source": "Nełƛ’ay soder yiłade idu yig, ʕaƛoz xalq’imor teƛanircennan yaq’ˤu ɣˤay yičix zown.",
+      "gloss": "DEM1.IISG.OBL-SUPER.ABL after DEM2.IISG.OBL-APUD.ESS home II-much village-GEN2 people-LAT give-MSD-LAT-TERM-TOP-INT II-many milk II-be-IPFV.CVB be.NPRS-PST.UNW",
+      "reference": "After that, she had so much milk at home that she could give it away to the villagers."
+    },
+    {
+      "source": "Yedu baru dey anu, yedu q’ˤuya ɣˤanabi yäsuƛin”.",
+      "gloss": "DEM2.IISG wife me-GEN1 be.NEG DEM2.IISG other woman II-appear-QUOT",
+      "reference": "This is not my wife, she seems to be another woman."
+    },
+    {
+      "source": "Xediw maħor oqno ɣudbi rik’inosi, nesis esiya diwanbegderno ik’in ʕarza boɣno, Bilq’isdä neširuxayt’a idur ʕoloqbin butirno sasaqor elay suħmat kamirxanuƛin.",
+      "gloss": "husband outside become-PFV.CVB day-PL IV.PL-go-ANT.CVB DEM1.ISG.OBL-GEN1 brother-ERG judge-APUD.LAT-TOP go-PFV.CVB complaint III-hatch-PFV.CVB Bilqisdi-ERG at.night-AD.ABL-DISTR home-LAT young.person-PL-TOP I.PL-gather-PFV.CVB in.the.morning-POSS.LAT there-IN.ABL celebration lose-PRS-NEG-QUOT",
+      "reference": "After some days that the husband had been gone, his brother went to the judge and complained that Bilqisdi would gather young men in her home at night and wouldn't losen the celebration until the morning."
+    },
+    {
+      "source": "Akiłzaƛ’ di eƛisƛin, Ħasanä žawab teƛno.",
+      "gloss": "get.tired-CSL.CVB me say-PST.WIT-QUOT Hassan-ERG answer give-PST.UNW",
+      "reference": "\"I said it, because I got tired.\", answered Hassan."
+    },
+    {
+      "source": "Tupin teƛno uži egirnosi, neširur bełin č’aq’ˤirno xizor utin ayn.",
+      "gloss": "rifle-TOP give-PFV.CVB son send-ANT.CVB evening-LAT deer-TOP kill-PFV.CVB back return-PFV.CVB come-PST.UNW",
+      "reference": "After he gave his son the rifle and sent him away, the son came back in the evening with the deer he had killed."
+    },
+    {
+      "source": "Esnaza nełas nece t’alam boyzaƛ’, baruzar ža yetix zown anu.",
+      "gloss": "brother-PL-ERG DEM1.IISG.OBL-GEN1 so.much care III-do-CSL.CVB wife-PL-LAT DEM1.SG II-like-IPFV.CVB be.NPRS-PFV.CVB be.NEG",
+      "reference": "Because the brothers cared so much for her, their wives didn't like her."
+    },
+    {
+      "source": "Xaner žan bukaynč’ey, meži šida bišxanuƛin esirno.",
+      "gloss": "khan-LAT DEM1.SG-TOP III-see-NEG.PST.CVB you.PL why III-eat-PRS-NEG-QUOT ask-PST.UNW",
+      "reference": "The king didn't see that and asked: \"Why aren't you eating?\""
+    },
+    {
+      "source": "ʕUraw rigu qˤiči roqno nesiz mečoł.",
+      "gloss": "very IV-good harvest IV-become-PST.UNW DEM1.ISG.OBL-GEN2 field-CONT.ESS",
+      "reference": "A very good harvest became of his field."
+    },
+    {
+      "source": "Dicegon mekoyx oqłin sis ya geni, ya heneš elay bet’uranix ʕuƛ’no ža.",
+      "gloss": "how.much-CNTR be.hungry-IPFV.CVB become-CNC.CVB one either pear either apple there-IN.ABL III-pull.out-MSD-AD.ESS be.afraid-PST.UNW DEM1.SG",
+      "reference": "But no matter how hungry he was, he was afraid to pluck either a pear or an apple."
+    },
+    {
+      "source": "Yedukin bexurinč’ey xecač’inƛin, bełiqanä nełƛ’aɣor c’eruc’a rutirno.",
+      "gloss": "DEM2.IISG-even III-kill-NEG.PST.CVB leave-NEG.FUT.DEF-QUOT hunter-ERG DEM1.IISG.OBL-SUPER.VERS bow IV-turn-PST.UNW",
+      "reference": "\"I won't leave without killing him\", the hunter [thought and] turned his bow unto it."
+    },
+    {
+      "source": "Ciqez č’imä sida osiw ɣunƛ’o ƛ’iri bičäsi yisir cey bukayn.",
+      "gloss": "forest-GEN2 corner-IN.ESS one.OBL high tree-SUPER.ESS on III-sit-RES.PRT DEM2.ISG.OBL-LAT eagle III-see-PST.UNW",
+      "reference": "At the edge of the forest he saw an eagle sitting on a high tree."
+    },
+    {
+      "source": "Žan yisir ʕuraw isałno, oqno aɣˤuxaɣor ik’in.",
+      "gloss": "DEM1.SG-TOP DEM2.ISG.OBL-LAT very be.difficult-TOP become-PFV.CVB mill-AD.VERS go-PST.UNW",
+      "reference": "That was very hard for him and he went back to the mill."
+    },
+    {
+      "source": "Qˤašinosi ža žek’u izin mogolay q’ˤidarno oqno, harihun łiłiroxsi łiłiroxno ik’in, zira äƛiruni ɣun resurno.",
+      "gloss": "dawn-ANT.CVB DEM1.SG man get.up-PFV.CVB granary-IN.ABL down-LAT-and become-PFV.CVB slowly ditch-AD.ESS-ATTR ditch-AD.ESS-TOP go-PFV.CVB fox-ERG say-PST.PRT-DEF tree IV-find-PST.UNW",
+      "reference": "When it dawned, the man got up and down from the granary, and slowly went to the ditch's ditch(?) and found the tree the fox has talked about"
+    },
+    {
+      "source": "Šidaƛin, esirno neła.",
+      "gloss": "why-QUOT ask-PST.UNW DEM1.IISG.OBL-ERG",
+      "reference": "\"Why?\", she asked."
+    },
+    {
+      "source": "Elor sasaqor ɣudi qˤaširaniƛ’or ħukmu bik’in yisi.",
+      "gloss": "there-LAT in.the.morning-POSS.LAT day dawn-MSD-SUPER.LAT decision III-go-PST.UNW DEM2.ISG.OBL",
+      "reference": "He decided to go there until the days would dawn in the morning."
+    },
+    {
+      "source": "Bayn ʕoƛiran esnaza esirno, na debi uži yoł, ukayxanuwa yedaƛin.",
+      "gloss": "I.PL-come-PFV.CVB seven.OBL-TOP brother-PL-ERG ask-PST.UNW where you-GEN1 son be see-IPFV.CVB-NEG-Q DEM2.ISG-QUOT",
+      "reference": "The seven brothers came and asked: \"Where is your son? [Why] Didn't we see him?\""
+    },
+    {
+      "source": "Aħmadä esirsiƛin nesiq, esin babiya, eƛ’isiyä, žiƛbosiyä yedu riƛu riƛixƛin.",
+      "gloss": "Akhmed-ERG ask-PST.WIT-QUOT DEM1.ISG.OBL-POSS.ESS tell-PST.UNW dad-ERG last.year-ATTR-Q this.year-ATTR-Q DEM2.IISG field IV-plough-PRS-QUOT",
+      "reference": "Akhmed asked him,\" said the father, \"if he was ploughing last year's or this year's field.\""
+    },
+    {
+      "source": "Ričiƛƛin pikrun bodin, nesä nesistow boɣa iħun.",
+      "gloss": "IV-be-OPT-QUOT idea-TOP III-do-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1-EMPH III-take.away-INF begin-PST.UNW",
+      "reference": "\"So be it!\", he thought and began to take it out himself."
+    },
+    {
+      "source": "Ža reɣeni xaličan, beɣeni magalun bäqiru nukar yołi xanä wazirłunno oyn, kidno yegirno nesix, barun žanon req’ezi boqno.",
+      "gloss": "DEM1.SG IV-small-DEF mat-and III-small-DEF bread-and III-get-PST.PRT henchman however khan-ERG vizier-LHUN-TOP do-PFV.CVB daughter-TOP II-send-PFV.CVB DEM1.ISG.OBL-AD.ESS wife-and DEM1.SG-and-TOP come.to.terms I.PL-become-PST.UNW",
+      "reference": "The henchman who got the small mat and the small bread, however, the king made a vizier and married off his daughter to him, while he and his wife came to terms."
+    },
+    {
+      "source": "Yizi boržizi boqno bik’in osaxor bizinosi, žeduł adäzasi ħon yaɣˤiłno yik’in.",
+      "gloss": "DEM2.IPL fly I.PL-become-PFV.CVB I.PL-go-PFV.CVB height-AD.LAT I.PL-get.up-ANT.CVB DEM1.IPL.OBL-CONT.ESS before-RES.PRT mountain II-open-ITR-PFV.CVB II-go-PST.UNW",
+      "reference": "When they flew up into the height, the mountain opened up in front of them."
+    },
+    {
+      "source": "Sida quł xanderno yayn neła eƛin, hay i wele, däq ža reƛ’a rukarƛin.",
+      "gloss": "one.OBL day-CONT.ESS khan-APUD.LAT-TOP II-come-PFV.CVB DEM1.IISG.OBL-ERG say-PST.UNW so.then and look.out.IMP me-POSS.ESS DEM1.SG hand IV-show-QUOT",
+      "reference": "One day, she came to the king and said: \"Lo and behold, show me this hand!\""
+    },
+    {
+      "source": "Sidenigon bazarganqor č’arik’no hemedurtow eƛin butnoƛäzay ezunosi, c’idos lapi bukayn.",
+      "gloss": "other-CNTR merchant-POSS.LAT wake.up-PFV.CVB so-EMPH say-PFV.CVB burka-SUB.ABL.DIST look-ANT.CVB fire-GEN1 flare III-see-PST.UNW",
+      "reference": "He woke up another merchant and told him so, and when he looked out of his burka, he saw the flare of a fire."
+    },
+    {
+      "source": "ʕAntawnä dibirqo hudun esin, ukrun, micxirno basadanix betixƛin.",
+      "gloss": "stupid-DEF-ERG mullah-POSS.ESS nevertheless tell-PST.UNW silver-and money-and III-measure-MSD-AD.ESS III-want-PRS-QUOT",
+      "reference": "The stupid one nevertheless told the mullah: \"We want them to measure silver and gold.\""
+    },
+    {
+      "source": "Xizyo q’orolaz maduhalxo žeda beže bertenno boyn sistow sis yałruni esiwn yegirno, žedan q’ˤuya ʕaƛozałäy barubin rown paraxat bičin.",
+      "gloss": "after widow-GEN2 neighbor-AD.ESS DEM1.IPL-ERG III-big marriage-TOP III-do-PFV.CVB one-EMPH one be-PST.PRT-DEF sister-TOP II-send-PFV.CVB DEM1.IIPL.OBL-ERG-TOP other village-DIST-CONT.ABL wife-PL-TOP II.PL-marry-PFV.CVB calm I.PL-be-PST.UNW",
+      "reference": "Afterwards they sent their only sister to a big marriage at the widow's neighbor, and also they married wives from other villages and lived happily ever after."
+    },
+    {
+      "source": "Howt’ay yäk’irun moƛał rukays därƛin eso nesiq, łˤora ɣudƛ’o q’ˤanon t’umibi quqan xecin žedar biša kurnosi, gulučini t’umi šet’u butix bäči, aqugani bišno łiyaceƛin.",
+      "gloss": "from.here II-go-IMM.ANT.CVB dream-CONT.ESS IV-see-PST.WIT me-LAT-QUOT tell-IMPR DEM1.ISG.OBL-POSS.ESS three.OBL day-SUPER.ESS two-TOP pigeon-PL hungry-TOP leave-PFV.CVB DEM1.IIPL.OBL-LAT food throw-ANT.CVB male-DEF pigeon around III-turn-IPFV.CVB III-be female-ATTR-DEF III-eat-PFV.CVB end-TERM-QUOT",
+      "reference": "\"When you go out, - I saw it in a dream -\", he told him(?), \"leave the two pigeons hungry for 3 days, then, after you throw food onto them, the male pigeon will turn around until the female pigeon has finished eating.\""
+    },
+    {
+      "source": "Q’ˤanon bežet’ani esnabi yisir rek’ bodanixƛin urɣizi boqno.",
+      "gloss": "two-TOP I.PL-old-DISTR-DEF brother-PL DEM2.ISG.OBL-LAT trick III-do-MSD-AD.ESS-QUOT thinking I.PL-become-PST.UNW",
+      "reference": "The two older brothers thought about playing a trick on him."
+    },
+    {
+      "source": "C’aq’ c’odoraw kid yäsu ža debi, dey dowqor sis šebin yoł, ža mi ƛ’iri risa rayƛin eƛin Muħamadqor.",
+      "gloss": "very clever daughter II-exist DEM1.SG you-GEN1 me-GEN1 you-POSS.LAT one thing be DEM1.SG you above IV-take-INF IV-must-QUOT say-PST.UNW Muhammad-POSS.LAT",
+      "reference": "\"You seem to have a very clever daughter; I have one thing for you, you have to fulfil it.\", he said to Muhammad."
+    }
+  ],
+  "policy": {
+    "name": "api_fixed_v1",
+    "temperature": 0.0,
+    "max_new_tokens": 512,
+    "seed": 42,
+    "reasoning_effort": "none",
+    "semantic_attempts": 1
+  },
+  "code_hashes": {
+    "runners/matched/protocol.py": "3a7fa1fd37e4676a21583885747ec61a9eaeca42dafb8f1f0e2d9234881c71fc",
+    "runners/matched/prepare.py": "da12b5ab725c48faba04d40069e93abac6bdfce57745aab3cc9256177cd605d5",
+    "runners/matched/run.py": "adc3f06488c6d6c1b8e6e3b0f643cab96d7cb4f5b69548a39c20b396a582d251",
+    "runners/experiment_io.py": "ed7f7ac349f291b36a4aaa2f88cdb0e3690266d71f99c774f7641498f3345fc9",
+    "runners/run_sampled_context.py": "12b97c6beeb42ae304236b0ebcba2b6278bb20570dadadfdde712fe64d05cbe4",
+    "runners/run_audited_context.py": "1aedf2f7b360dfbf2d30de47d3c10c088106d1bf2e496ac6a6bcc001716418df",
+    "runners/fp32_attention.py": "6fdff7bf95d9061ebed0b72f719c80593eec9bab5d101fba4ccf96caf1f51e8c",
+    "runners/diagnose_tsez_chain.py": "c036270d6fadcad21f5d83a2d41b980dfc5152a9a8c69deda538094eced808a4",
+    "runners/openrouter/run_grammamt_openrouter_context.py": "f62dfa0e9a7a29da2ea64d43c0dbc8035e0b099a275b57cfb202b765c296558a",
+    "runners/matched_gold_v2/analyze.py": "7ac7d06093e3a1f31cac62a28dc81b7c67f974a676fd489812848fd50b2c2a79",
+    "runners/matched_gold_v2/prepare.py": "7368e0e72a0da28ae185ad8b1b1fb085b18c8935d37b1b03777c1d1d4ebb2662",
+    "runners/matched_gold_v2/protocol.py": "524dfdd0a0aad5e6b4788b76710c1ce2044aa527ebb37c74bdd2261fc56e7ac7",
+    "runners/matched_gold_v2/run.py": "59b74d7b5b173043a2675035b15ffd263e5d75978ed6654fefaa01c4f3f2a86d",
+    "runners/matched_gold_v2/score.py": "ac6f1114ad5cacae9ef3d4b1222ae4d609108e6885c8e74560e06c304e45297a",
+    "runners/matched_gold_v2/status.py": "c7ecf2b5e04c1ae9da289e4cdf1dee9f08ed10823c1bc36bad3e88e36a288f3d"
+  },
+  "old_config": {
+    "id": "qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "family": "chain_gloss_v2",
+    "model": "qwen3",
+    "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "language": "Tsez",
+    "source": "grammar",
+    "variant": "original",
+    "condition": "chain_gloss",
+    "material": "pdfpages_impactful_jpg",
+    "context_kind": "image",
+    "context_files": [
+      "materials/curated_v1/tsez/grammar/original/selected_pages/page_008.jpg",
+      "materials/curated_v1/tsez/grammar/original/selected_pages/page_009.jpg",
+      "materials/curated_v1/tsez/grammar/original/selected_pages/page_010.jpg",
+      "materials/curated_v1/tsez/grammar/original/selected_pages/page_012.jpg",
+      "materials/curated_v1/tsez/grammar/original/selected_pages/page_015.jpg",
+      "materials/curated_v1/tsez/grammar/original/selected_pages/page_016.jpg",
+      "materials/curated_v1/tsez/grammar/original/selected_pages/page_020.jpg",
+      "materials/curated_v1/tsez/grammar/original/selected_pages/page_021.jpg",
+      "materials/curated_v1/tsez/grammar/original/selected_pages/page_025.jpg"
+    ],
+    "expected_records": 445,
+    "prediction_key": "qwen3_context_chain_gloss",
+    "dtype": "float32",
+    "gpu_count": 1,
+    "prompt_version": "chain_gloss_v2",
+    "results": "results/chain_gloss_v2/qwen3/tsez/grammar/original/chain_gloss_pdfpages_impactful_jpg.jsonl",
+    "metrics": "metrics/chain_gloss_v2/qwen3/tsez/grammar/original/chain_gloss_pdfpages_impactful_jpg.json",
+    "config": "configs/experiments/qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg.json",
+    "job": "scripts/jobs/qwen3/tsez/grammar/original/chain_gloss_v2/run_chain_gloss_pdfpages_impactful_jpg.sh",
+    "repair": false,
+    "preflight_job": "scripts/jobs/qwen3/preflight/run_qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg.sh"
+  },
+  "protocol": "matched_gold_v2: same fixed prompts/policy/cohorts; 21 aligned gold TRAIN support glosses; one semantic attempt",
+  "predicted_glosses": [
+    "IV-many house-PL-TOP IV-do-PFV.CVB DEM1.IIPL.OBL-CONT.VERS-EMPH entire home be-PST.PRT fortune-TOP III-go-PFV.CVB end-PST.UNW",
+    "DEM1.IPL-ERG DEM1.SG in.one.place leaf-PL-CONT.ESS on-IN.ALL front.part.of.the.face-TOP IV-pull.out-PFV.CVB hide-PST.UNW",
+    "one.OBL widow-GEN1 rooster be.NPRS-PST.UNW daily graveyard-SUPER.LAT-TOP III-go-PFV.CVB crow.IV-IN.LAT IV-take.away-IPFV.CVB III-be-PRS.PRT",
+    "IV-know-PRS-QUOT say-PST.UNW daughter-ERG DEM1.SG be human-GEN1 heart",
+    "khan-ERG DEM1.IISG.OBL bird-CONT.ESS behind I.PL-many henchman-PL I.PL-send-PFV.CVB nevertheless how-TOP-even DEM1.IPL.OBL-POSS.ESS DEM1.SG III-get-PST.UNW be.NEG",
+    "one mountain leave-IPFV.CVB two leave-IPFV.CVB three ORD leave-ANT.CVB one.OBL gloomy forest-POSS.LAT narrow way be-LCV place-SUPER.LAT come-PST.UNW",
+    "what so DEM1.ISG.OBL-LAT present-LAT IV-want-PST.UNW-QUOT ask-PST.UNW hare-ERG",
+    "man-GEN2 land-IN.ESS khanship IV-do-POST.CVB oneself-GEN2 land-IN.ESS slave-LHUN me live-FUT.DEF",
+    "way-AD.ESS-CNTR DEM2.IISG.OBL-LAT mountain-SUPER.VERS-EMPH go-PRS.PRT shepherd meet become-PST.UNW",
+    "daughter-ERG teach-PST.UNW DEM1.ISG.OBL-POSS.ESS DEM1.IIPL.OBL egg-PL-CONT.ABL III.PL-hatch-PST.PRT-DEF young.animal-PL here-LAT III.PL-bring-CND.CVB be.hungry-TOP IV-die-QUOT say-IMPR you khan-POSS.LAT here DEM3b.IIPL.OBL stone-GEN2 crush-PL-CONT.ABL-CNTR you DEM1.IIPL.OBL-LAT give-MSD-AD.ESS granule-PL IV.PL-do-IMPR IV-feed-CAUS-PFV.CVB power-TOP III-bring-PFV.CVB afterwards III.PL-bring-FUT.DEF me DEM1.IIPL here-LAT-QUOT",
+    "a.little-CNTR boy-ERG stick III-let-PFV.CVB leave-PST.UNW DEM1.ISG.OBL-GEN1 back beat-MSD-AD.ESS",
+    "DEM1.IISG.OBL day-CONT.ESS-EMPH DEM1.ISG.OBL young-DEF sister-GEN1 DEM1.IISG.OBL-SUPER.ESS eye meet-PST.UNW-QUOT",
+    "so DEM2.ISG see-ANT.CVB girl-ERG what IV-happen-PST.WIT.INT-QUOT ask-PST.UNW",
+    "III-middle III-much time III-go-POST.CVB-EMPH DEM1.SG boy DEM1.IPL.OBL-POSS.ABL seperate-PST.UNW",
+    "who.ERG you such III-do-PST.WIT.INT-QUOT ask-PST.UNW rooster-ERG",
+    "letter-TOP write-PFV.CVB village-IN.ESS-EMPH pick-PFV.CVB one strong horse-TOP III-take.away-PFV.CVB Tavadi-APUD.LAT marriage-CONT.LAT invite-MSD-AD.ESS man send-PRS",
+    "now khan DEM2.IPL.OBL-GEN2 dispute-SUPER.LAT return-POT-PST.UNW",
+    "there me-GEN1 III-big brother be DEM1.IISG.OBL-ERG you-POSS.ESS ask brother rescue III-do-PST.PRT-GEN1 what you-LAT me give-FUT.DEF-QUOT",
+    "such DEM1.SG miller-GEN1 wealth-TOP IV-see-PFV.CVB DEM2.ISG.OBL-AD.ESS khan-GEN1 daughter-TOP come-PST.UNW",
+    "khan-GEN1 shuddering heart IV-go.into-PST.UNW son-ERG me-POSS.ABL khanship IV-take.away-QUOT",
+    "khan-ERG DEM1.ISG.OBL-POSS.ESS ask-PST.UNW why you eat-PRS-NEG-QUOT",
+    "DEM2.IISG.OBL pocket-IN.ESS-even be.NEG-Q IV-eat-MSD-PRS thing-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB DEM1.IISG.OBL-GEN1 lid II-lift-PST.UNW",
+    "in.the.morning-CNTR II-get.up-PFV.CVB DEM1.ISG.OBL-CONT.ESS behind II-young-DEF sister II-appear-ANT.CVB DEM2.ISG.OBL-ERG smooth-DEF stone throw-PST.UNW",
+    "afterwards Kusa-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW children II.PL-take.away-INF II.PL-take.away-PFV.CVB be.NEG-Q DEM1.IISG.OBL-QUOT II.PL-explain-MSD-AD.ESS khan-GEN2 daughter-APUD.LAT woman II-send-QUOT",
+    "crow-LAT one.OBL tree-GEN2 branch-SUPER.ESS sit.down-RES.PRT eagle III-see-PST.UNW",
+    "joke II-find DEM2.ISG.OBL-ERG II-do-PRS-QUOT DEM2.IPL.OBL-ERG DEM1.ISG.OBL-ERG say-PST.PRT-AD.LAT door-TOP lock-PFV.CVB key-PL DEM2.ISG.OBL-POSS.LAT give-PST.UNW",
+    "there-LAT-TOP come-PFV.CVB you any shame become-NEG.PST.CVB say-IMPR DEM2.IISG me-GEN1 fiancée you(I).PL.OBL-ERG husband-AD.ESS why II-send-PRS-QUOT",
+    "DEM1.IISG.OBL fortress-SUB.ESS below gloomy house be",
+    "honey-GEN1 III-fill-RES.PRT qili-IN.ESS into meet become-PST.PRT man outside-TOP become-POT-NEG.FUT so DEM1.SG thief-TOP you catch-QUOT",
+    "so.then but run.IMP now run.away you from.here me-GEN1 husband come-CND.CVB kill DEM1.ISG.OBL-ERG you",
+    "sun-GEN1 Uneyzat-CONT.ESS behind me become-RES.PRT be-QUOT tell-PST.UNW DEM2.ISG.OBL-ERG",
+    "be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB be.NEG-QUOT one old donkey",
+    "water-AD.LAT copper.jug III-fill-INF wife II-go-IMM.ANT.CVB husband-ERG upright-TOP get.up-PFV.CVB finally-ATTR meat-GEN1 throw-PST.PRT piece-TOP belly-IN.ABL II-take.away-PFV.CVB hot soup-GEN1 scoop-TOP IV-fill-PFV.CVB lover-GEN2 mouth-IN.ESS pour-PST.UNW",
+    "DEM1.SG story-TOP tell-PFV.CVB widow-TOP II-go-PST.UNW there-IN.ABL",
+    "DEM1.SG easy thing be-QUOT say-PST.UNW daughter-ERG",
+    "DEM4.SG story-TOP III-do-PFV.CVB III-middle III-much time III-go-POST.CVB-EMPH DEM2.IPL.OBL-LAT over.there as towards come-IPFV.CVB man see-PST.UNW",
+    "one.OBL day-CONT.ESS prison-IN.LAT boy-APUD.LAT sadness-TOP II-become-PFV.CVB khan-GEN1 daughter II-come-PFV.CVB what IV-happen-PST.UNW-QUOT DEM1.ISG.OBL-ERG information III-take-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL-IN.ESS.DIST father-SUPER.LAT III-come-PST.PRT sadness-CONT.ABL tell-PST.UNW",
+    "the.most young-DEF-ERG say-PST.UNW",
+    "II-go-IMPR me-GEN1 daughter roof-SUPER.LAT II-look what there be-QUOT mother-ERG daughter roof-SUPER.LAT II-look-INF II-send-PST.UNW",
+    "DEM2.IISG me-LAT necessity IV-become-PRS.PRT-QUOT down-IN.ABL-TOP IV-take-PFV.CVB II-old-DEF sister-ERG scissors wooden.case-IN.ESS clothing-CONT.ESS inside put-PST.UNW",
+    "fox-GEN1 hair-TOP pocket-IN.ESS inside put-PFV.CVB hunter-GEN1 son DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 way-AD.ESS become-PFV.CVB go-PST.UNW",
+    "husband-Q bandit-Q lover-Q-QUOT",
+    "DEM1.IPL-ERG girl-POSS.LAT throw-PFV.CVB wing II-bring-PST.UNW",
+    "air-SUPER.ESS jump-PFV.CVB horse-PL-SUPER.ESS I.PL-as come-PRS-QUOT DEM2.IPL.OBL-CONT.ESS behind ice-TOP III-thaw-PFV.CVB alive I.PL-become-PST.PRT-DEF man-PL",
+    "get.up-PFV.CVB DEM2.ISG old-DEF man-ERG III-show-PST.PRT-DEF place-SUPER.LAT me go-PRS-QUOT DEM2.IPL.OBL-POSS.LAT-TOP say-PFV.CVB way-AD.ESS become-PST.UNW",
+    "DEM4.IISG.OBL-SUPER.ESS after father-ERG DEM2.ISG.OBL-POSS.LAT say-PST.UNW now you give-NEG.PST.CVB be-PFV.CVB avoid-NEG.FUT.CVB DEM1.SG bird-TOP III-take-PFV.CVB you khan-APUD.LAT-TOP go DEM1.ISG.OBL-POSS.LAT say-IMPR you-GEN2 IV-half-INF khanate-SUB.ESS sell-FUT.DEF you-LAT bird-QUOT",
+    "at.first I.PL-steal-PFV.CVB twice I.PL-steal-PFV.CVB khan-GEN1 riches DEM2.IIPL.OBL-ERG IV-lick-IPFV.CVB-EMPH IV-carry-IPFV.CVB be.NPRS-PST.UNW",
+    "name-TOP DEM1.ISG.OBL-SUPER.ESS Musa-QUOT be.NPRS-PST.UNW",
+    "dragon-ERG water drink-CAUS-MSD-SUB.ESS one.at.a.time man eat-MSD-AD.ESS population-POSS.ABL take.away-IPFV.CVB be.NPRS-PST.UNW",
+    "afterwards home-IN.ALL-TOP come-PFV.CVB DEM2.ISG.OBL-ERG II-young-DEF sister-POSS.ESS tell-PST.UNW entire old-DEF brother-LAT IV-happen-PST.PRT what.OBL-CONT.ABL-TOP",
+    "so IV-exist-CND.CVB-QUOT say-PST.UNW dad-ERG bridle-GEN1 price five hundred ruble be-QUOT",
+    "IV-half way I.PL-old-DISTR-DEF brother-PL-POSS.ESS back remain-POST.CVB-EMPH DEM2.ISG from.behind-TOP come-PFV.CVB I.PL-take.away-PFV.CVB DEM1.IPL nevertheless DEM2.IPL.OBL-LAT DEM2.ISG know-PFV.CVB-NEG-QUOT",
+    "son-ERG rejection III-take-PFV.CVB be-PST.UNW you what-CNTR IV-do-CNC.CVB tell-NEG.FUT-QUOT",
+    "so agreement express IV-do-PST.UNW girl-GEN2 father-ERG",
+    "DEM1.SG-TOP III-eat-PFV.CVB-CNTR DEM2.IPL sleep-PST.UNW",
+    "DEM1.IPL I.PL-see-INF go-MSD-AD.ESS me-GEN1 health-even IV-become-NEG.FUT.CVB-DUB-QUOT breath-TOP exhale-PFV.CVB say-PST.UNW khan-ERG",
+    "me-GEN1 power end-RES.PRT be nevertheless-TOP DEM1.ISG.OBL brave.young.man-GEN1 we(I).OBL-ERG wish fulfill III-do-INF III-must",
+    "then bag-IN.ESS leather.sack-TOP put-PFV.CVB upright get.up-PST.UNW",
+    "DEM1.ISG.OBL-GEN2 throat-PL-AD.ESS IV-get.up-PFV.CVB be.NPRS-PST.PRT abscess-TOP throw-PFV.CVB DEM2.ISG boy cure become-PST.UNW",
+    "work-PRS.PRT except man eat-PRS.PRT be.NEG-QUOT",
+    "there-LAT one black cat run-PFV.CVB III-come-PFV.CVB III-take-PFV.CVB DEM2.IISG.OBL-LAT bread throw-ANT.CVB there-LAT-EMPH III-die-PST.UNW DEM1.SG",
+    "you there above-LAT lift-MSD-AD.ESS we(I).OBL-GEN1 possibility-and fortune-and be.NEG",
+    "horse-SUPER.ABL jump-PFV.CVB down-LAT-TOP jump-PFV.CVB gate-AD.ESS DEM1.SG-TOP III-tie-PFV.CVB slowly look-IPFV.CVB house-IN.ESS inside-AD.LAT become-ANT.CVB DEM1.ISG.OBL-LAT there DEM1.SG girl II-find-PST.UNW",
+    "possibility IV-become-CND.CVB me-POSS.ESS finger touch-PROHIB-QUOT me you-POSS.ESS request IV-do-PRS",
+    "DEM1.IPL.OBL-ERG I.PL-kill-PRS.PRT.OBL story-POSS.LAT ear-and throw-PFV.CVB mill-GEN2 granary-IN.ESS into-TOP become-PFV.CVB eye-without-DEF man-and wait-RES.PRT be.NPRS-PST.UNW",
+    "how.many-TOP day way-AD.ESS-TOP III.PL-spend.time-PFV.CVB DEM2.IPL one.OBL II-big meadow-SUPER.LAT I.PL-come-PST.UNW",
+    "again hunger meet-PFV.CVB good-DEF friend-ERG worse-MSD-POSS.ESS food ask-ANT.CVB two ORD-CNTR eye IV-take.away-PFV.CVB DEM1.ISG.OBL-LAT give-POST.CVB eat-CAUS-PFV.CVB-NEG DEM1.SG worse-MSD friend-ERG",
+    "II-become-PFV.CVB II-go-PST.WIT-QUOT afterwards Arabuzan Ismail-CONT.ESS-and khan-GEN2 daughter-CONT.ESS-and behind",
+    "in.the.morning dawn-SUPER.VERS step-DEF daughter roof-SUPER.LAT II-get.up-PST.UNW",
+    "me DEM1.SG box beautiful II-do-FUT.DEF above gold-GEN1 water-TOP IV-let-PFV.CVB DEM1.IISG.OBL-GEN1 III-much money-TOP tell-FUT.DEF khan-POSS.ESS except.for give-POT-IPFV.CVB-NEG-TERM",
+    "boy-GEN1 father horse-TOP III-lead-PFV.CVB bazar-IN.VERS go-IMM.ANT.CVB Oku-ERG come-PFV.CVB ask-PST.UNW DEM1.ISG.OBL-POSS.ESS DEM2.IISG horse sell-PRS.PRT be.NEG-Q what DEM2.IISG.OBL-GEN1 price-QUOT",
+    "DEM2.IISG-CNTR what here IV-happen-PRS-QUOT be.astonished become-PFV.CVB remain-PST.UNW DEM1.SG",
+    "DEM1.IISG.OBL-SUPER.ABL after DEM2.IISG.OBL-APUD.ESS home II-much village-GEN2 people-LAT give-MSD-LAT-EQU1-INT II-much milk II-be-IPFV.CVB be.NPRS-PST.UNW",
+    "DEM2.IISG wife me-GEN1 be.NEG DEM2.IISG other woman II-find-QUOT",
+    "husband outside become-PFV.CVB day-PL IV.PL-go-ANT.CVB DEM1.ISG.OBL-GEN1 brother-ERG judge-APUD.LAT-TOP go-PFV.CVB complaint III-take.away-PST.UNW Bilqisdi-ERG evening-AD.ABL-DISTR home-LAT young.person-PL-TOP I.PL-gather-PFV.CVB in.the.morning-POSS.LAT there-IN.ABL celebration lose-IPFV.CVB-NEG-QUOT",
+    "get.tired-CSL.CVB me say-PST.WIT-QUOT Hassan-ERG answer give-PST.UNW",
+    "rifle-TOP give-PFV.CVB son send-ANT.CVB evening-LAT deer-TOP kill-PFV.CVB back return-PFV.CVB come-PST.UNW",
+    "brother-PL-ERG DEM1.IISG.OBL-GEN1 so.much care III-do-CSL.CVB wife-PL-LAT DEM1.SG II-love-IPFV.CVB be.NPRS-PST.UNW be.NEG",
+    "khan-LAT DEM1.SG-TOP III-see-NEG.PST.CVB you.PL why I.PL-eat-PRS-NEG-QUOT ask-PST.UNW",
+    "very IV-good harvest IV-become-PST.UNW DEM1.ISG.OBL-GEN2 field-CONT.ESS",
+    "how.much-CNTR be.hungry-IPFV.CVB begin-CNC.CVB one or pear or apple there-IN.ABL III-pull.out-MSD-AD.ESS be.afraid-PST.UNW DEM1.SG",
+    "DEM2.IISG-even III-kill-NEG.PST.CVB leave-NEG.FUT.DEF-QUOT hunter-ERG DEM1.IISG.OBL-SUPER.VERS bow IV-turn-PST.UNW",
+    "forest-GEN2 edge-IN.ESS one.OBL high tree-SUPER.ESS on III-sit-RES.PRT DEM2.ISG.OBL-LAT eagle III-see-PST.UNW",
+    "DEM1.SG-TOP DEM2.ISG.OBL-LAT very trouble-CONT.ESS-TOP become-PFV.CVB mill-AD.VERS go-PST.UNW",
+    "dawn-ANT.CVB DEM1.SG man get.up-PFV.CVB granary-IN.ABL down-LAT-TOP become-PFV.CVB slowly ditch-AD.ESS-ATTR ditch-AD.ESS-TOP go-PFV.CVB fox-ERG say-PST.PRT-DEF tree IV-find-PST.UNW",
+    "why-QUOT ask-PST.UNW DEM1.IISG.OBL-ERG",
+    "there-LAT in.the.morning-POSS.LAT day dawn-MSD-SUPER.LAT decision III-go-PST.UNW DEM2.ISG.OBL",
+    "I.PL-come-PFV.CVB seven.OBL-TOP brother-PL-ERG ask-PST.UNW where you-GEN1 son be see-IPFV.CVB-NEG-Q DEM2.ISG-QUOT",
+    "Akhmed-ERG ask-PST.WIT-QUOT DEM1.ISG.OBL-POSS.ESS tell-PST.UNW dad-ERG last.year-ATTR-Q this.year-ATTR-Q DEM2.IISG field IV-plough-PRS-QUOT",
+    "IV-be-OPT-QUOT idea-TOP III-do-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1-EMPH III-take.away-INF begin-PST.UNW",
+    "DEM1.SG IV-small-DEF mat-and III-small-DEF bread-and III-get-PST.PRT henchman however khan-ERG vizier-LHUN-and do-PFV.CVB daughter-and II-send-PFV.CVB DEM1.ISG.OBL-AD.ESS wife-and DEM1.SG-and approach I.PL-become-PST.UNW",
+    "DEM2.IPL fly I.PL-become-PFV.CVB I.PL-go-PFV.CVB height-AD.LAT I.PL-get.up-ANT.CVB DEM1.IPL.OBL-CONT.ESS before-IN.VERS.DIST-ATTR mountain II-open-POT-PFV.CVB II-go-PST.UNW",
+    "one.OBL day-CONT.ESS khan-APUD.LAT-TOP II-come-PFV.CVB DEM1.IISG.OBL-ERG say-PST.UNW she.go and behold me-POSS.ESS DEM1.SG hand IV-show-QUOT",
+    "other-CNTR merchant-POSS.LAT wake.up-PFV.CVB so-EMPH say-PFV.CVB burka-SUB.ABL.DIST look-ANT.CVB fire-GEN1 rope III-see-PST.UNW",
+    "stupid-DEF-ERG mullah-POSS.ESS nevertheless tell-PST.UNW silver-and gold-and I.PL-measure-MSD-AD.ESS I.PL-want-PRS-QUOT",
+    "afterwards widow-GEN2 neighbor-AD.ESS DEM1.IPL-ERG III-big marriage-TOP III-do-PFV.CVB one-EMPH one be-PST.PRT-DEF sister-TOP II-send-PFV.CVB DEM1.IIPL.OBL-ERG-TOP other village-PL-CONT.ABL wife-PL-TOP II.PL-marry-PFV.CVB calmly I.PL-live-PST.UNW",
+    "from.here II-go-IMM.ANT.CVB dream-CONT.ESS IV-see-PST.WIT me-LAT-QUOT tell-IMPR DEM1.ISG.OBL-POSS.ESS three.OBL day-SUPER.ESS two-TOP pigeon-PL hungry-TOP leave-PFV.CVB DEM1.IIPL.OBL-LAT food throw-ANT.CVB male-DEF pigeon around III-turn-IPFV.CVB III-be female-ATTR-DEF III-eat-PFV.CVB end-TERM-QUOT",
+    "two-TOP I.PL-old-DISTR-DEF brother-PL DEM2.ISG.OBL-LAT trick III-do-MSD-AD.ESS-QUOT thinking I.PL-become-PST.UNW",
+    "very clever daughter II-find DEM1.SG you-GEN1 me-GEN1 you-POSS.LAT one thing be DEM1.SG you above IV-take-INF IV-must-QUOT say-PST.UNW Muhammad-POSS.LAT"
+  ],
+  "id": "gemini25flashlite_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg",
+  "results": "results/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.jsonl",
+  "metrics": "metrics/matched_gold_v2/gemini25flashlite/tsez/grammar/original/modelgloss_pdfpages_impactful_jpg.json",
+  "family": "matched_gold_v2",
+  "previous_config": "configs/matched_v1/gemini25flashlite_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg.json",
+  "previous_config_sha256": "058553ed15280a8550cb957cc6161660637c0996f01cba5b7b31fd943c9970d9",
+  "gold_support_manifest": "docs/matched_gold_v2/support/tsez.json",
+  "gold_support_sha256": "49c788c52a6160bacc44070983012dafe5844d7503824024d88735519558f9a0",
+  "fingerprint": "c27ec918adf6ea788b6bf45c04739e25a1d18b69ac2ca60707249443428e8111"
+}

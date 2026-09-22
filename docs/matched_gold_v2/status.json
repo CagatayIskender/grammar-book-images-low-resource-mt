@@ -1,0 +1,3167 @@
+{
+  "counts": {
+    "complete": 351
+  },
+  "conditions": [
+    {
+      "id": "gemini25flashlite_gitksan_grammar_original_chain_gloss_baseline",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_grammar_original_modelgloss_baseline",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_grammar_original_shot_baseline",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 4,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 6,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_modelgloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_modelgloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_modelgloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_modelgloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_modelgloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_shot_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_shot_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_shot_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_shot_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_shot_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf1_brown_original_shot_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 4,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 4,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 5,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_modelgloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_modelgloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_modelgloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_modelgloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_modelgloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_shot_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_shot_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_shot_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_shot_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_shot_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_gitksan_pdf2_rigsby_original_shot_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 4,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 5,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 4,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 6,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_modelgloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_shot_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_shot_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_shot_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_shot_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_cyrillic_shot_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_chain_gloss_baseline",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 4,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_chain_gloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 4,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_chain_gloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_chain_gloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 4,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_chain_gloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 9,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_modelgloss_baseline",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_modelgloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_modelgloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_modelgloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_modelgloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_modelgloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_shot_baseline",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_shot_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_shot_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_shot_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_shot_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_shot_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_lezgi_grammar_original_shot_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_chain_gloss_baseline",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_chain_gloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_chain_gloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_chain_gloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_chain_gloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_chain_gloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_modelgloss_baseline",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_modelgloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_modelgloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_modelgloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_modelgloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_modelgloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_shot_baseline",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_shot_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_shot_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_shot_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_shot_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_shot_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_natugu_grammar_original_shot_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_chain_gloss_baseline",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 45,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 36,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 29,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 39,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 30,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_chain_gloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 29,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_chain_gloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 32,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_modelgloss_baseline",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_modelgloss_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_modelgloss_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_modelgloss_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_modelgloss_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_modelgloss_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_shot_baseline",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_shot_cheatsheet_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_shot_cheatsheet_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_shot_pdfpages_impactful_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_shot_summary_tables_jpg",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_shot_summary_tables_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "gemini25flashlite_tsez_grammar_original_shot_summary_text_txt",
+      "model": "gemini25flashlite",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_grammar_original_chain_gloss_baseline",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_grammar_original_modelgloss_baseline",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_grammar_original_shot_baseline",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_modelgloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_modelgloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_modelgloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_modelgloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_modelgloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_shot_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_shot_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_shot_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf1_brown_original_shot_summary_text_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_modelgloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_modelgloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_modelgloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_modelgloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_modelgloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_shot_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_shot_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_shot_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_shot_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_shot_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_gitksan_pdf2_rigsby_original_shot_summary_text_txt",
+      "model": "qwen35",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_modelgloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_shot_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_shot_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_shot_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_shot_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_cyrillic_shot_summary_text_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_baseline",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_modelgloss_baseline",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_modelgloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_modelgloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_modelgloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_modelgloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_modelgloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_shot_baseline",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_shot_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_shot_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_shot_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_shot_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_shot_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_lezgi_grammar_original_shot_summary_text_txt",
+      "model": "qwen35",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_chain_gloss_baseline",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_chain_gloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_chain_gloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_chain_gloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_chain_gloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_chain_gloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_modelgloss_baseline",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_modelgloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_modelgloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_modelgloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_modelgloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_shot_baseline",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_shot_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_shot_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_shot_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_shot_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_shot_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_natugu_grammar_original_shot_summary_text_txt",
+      "model": "qwen35",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_chain_gloss_baseline",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 4,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 5,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_modelgloss_baseline",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_modelgloss_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_modelgloss_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_modelgloss_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_modelgloss_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_modelgloss_summary_text_txt",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_shot_baseline",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_shot_cheatsheet_jpg",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_shot_cheatsheet_txt",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_shot_pdfpages_impactful_jpg",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_shot_summary_tables_jpg",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_shot_summary_tables_txt",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen35_tsez_grammar_original_shot_summary_text_txt",
+      "model": "qwen35",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_grammar_original_chain_gloss_baseline",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_grammar_original_modelgloss_baseline",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_grammar_original_shot_baseline",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_modelgloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_modelgloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_modelgloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_modelgloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_modelgloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_summary_text_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_modelgloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_modelgloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_modelgloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_modelgloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_modelgloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_shot_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_shot_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_shot_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_shot_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_shot_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_gitksan_pdf2_rigsby_original_shot_summary_text_txt",
+      "model": "qwen3",
+      "expected": 37,
+      "records": 37,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_modelgloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 5,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_shot_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 5,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_shot_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_cyrillic_shot_summary_text_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_baseline",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_modelgloss_baseline",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_modelgloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_modelgloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_modelgloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_modelgloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_modelgloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_shot_baseline",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_shot_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_shot_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_shot_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 5,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_shot_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_shot_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_lezgi_grammar_original_shot_summary_text_txt",
+      "model": "qwen3",
+      "expected": 87,
+      "records": 87,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_chain_gloss_baseline",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_chain_gloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_chain_gloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_chain_gloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 3,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_chain_gloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_chain_gloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_modelgloss_baseline",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_modelgloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_modelgloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_modelgloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_shot_baseline",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_shot_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 2,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_shot_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_shot_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 4,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_shot_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_shot_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_natugu_grammar_original_shot_summary_text_txt",
+      "model": "qwen3",
+      "expected": 99,
+      "records": 99,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_chain_gloss_baseline",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 35,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 15,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 13,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 19,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 5,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 24,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 22,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_modelgloss_baseline",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_modelgloss_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_modelgloss_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_modelgloss_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_modelgloss_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_modelgloss_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_modelgloss_summary_text_txt",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_shot_baseline",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_shot_cheatsheet_jpg",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_shot_cheatsheet_txt",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_shot_pdfpages_impactful_jpg",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_shot_summary_tables_jpg",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_shot_summary_tables_txt",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 0,
+      "xcomet_verified": true
+    },
+    {
+      "id": "qwen3_tsez_grammar_original_shot_summary_text_txt",
+      "model": "qwen3",
+      "expected": 445,
+      "records": 445,
+      "state": "complete",
+      "empty_predictions": 1,
+      "xcomet_verified": true
+    }
+  ],
+  "historical_hashes_unchanged": true
+}
