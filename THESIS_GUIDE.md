@@ -1,13 +1,13 @@
 # Thesis Guide
 
-Updated: **22 September 2026**. Primary family: **matched_gold_v2**.
+Primary study: **matched_gold_v2**.
 Primary models: **Qwen3-VL-8B-Instruct, Qwen3.5-9B and Gemini 2.5 Flash Lite**.
 Luna is excluded. This is an adapted GRAMMAMT study, not an exact replication.
 
-## Final Handover
+## Study Scope and Sources
 
-Production, XL/XXL scoring and all planned statistical jobs completed successfully.
-The handover is **ready to share with the explicit limitations below**.
+The primary study includes completed predictions, XL/XXL scoring and planned
+statistical analyses. The reporting restrictions below apply to these results.
 Complete records do not mean that every model produced a successful translation.
 
 - [Final handover index](reports/matched_gold_v2/README.md)
@@ -21,24 +21,11 @@ Complete records do not mean that every model produced a successful translation.
 - [Statistical output summary](reports/matched_gold_v2/significance_summary.tsv)
 - [Lezgi descriptive sensitivity scores](reports/matched_gold_v2/lezgi_sensitivity_scores.tsv)
 - [Final input hashes and audit scope](reports/matched_gold_v2/audit.json)
-- [Metric collections: current, historical and pilot studies](metrics/README.md)
-- [Repository structure and version meanings](docs/REPOSITORY_STRUCTURE.md)
+- [Metric collections](metrics/README.md)
 
-Navigation uses one location per artifact. Current derived reports are in
-`reports/matched_gold_v2/`; raw evidence retains its frozen family paths.
-`matched_v1` is the earlier empty-support-gloss study; `matched_gold_v2` is the
-corrected primary study. The removed `gold_gloss_supports` directory was only
-an alias, not another experiment version. Within `metrics/matched_gold_v2/`,
-`lexical_and_xcomet_xl/` and `xcomet_xxl/` score the same corrected predictions.
-The path-only migration preserves original metric JSON bytes, configurations,
-prediction fingerprints and statistical outputs. Recorded old paths are resolved
-by `runners/artifact_layout.py`; `docs/metric_layout_migration.json` records the
-old/new paths, hashes and approved runtime adapters. Original affected production
-code is preserved in `archive/code_before_metric_layout/`. This is not a new
-protocol version or a rerun, and does not change prompts or numerical scoring.
-
-These replace historical matched_v1 completion claims for primary thesis reporting.
-No new translations, changed prompts or paid API calls are needed to read these artifacts.
+Use only matched_gold_v2 for the primary-study findings. Within
+`metrics/matched_gold_v2/`, `lexical_and_xcomet_xl/` and `xcomet_xxl/` evaluate
+the same predictions with different metrics; they are not separate experiments.
 
 ## Research Question and Claim
 
@@ -103,24 +90,19 @@ Only the translation is scored. Chain gloss compliance is reported separately.
 No-book does not mean no grammar information: gold support glosses are still present.
 No oracle test-gold-gloss condition is included.
 
-The prior matched_v1 family had **21 empty support gloss fields in every one of
-351 conditions**. Earlier statements describing those demonstrations as glossed
-were wrong. The covered training files suppressed the annotations.
-All baselines and context conditions were regenerated in matched_gold_v2; no
-historical predictions were imported to repair this problem.
-
 Gold training annotations are aligned with the original support sources:
 Gitksan uses official SIGMORPHON data_v1 at commit
 190689ac81935359c69a46463c48e25e63e601f7; other languages use local uncovered training files.
 [Support manifests](docs/matched_gold_v2/support/) retain indices and provenance.
 The selections are not claimed to reproduce the paper authors' exact support order.
 
-### Lezgi Support Replacement
+### Support Selection
 
-Before corrected generation, training index 5 (sixth example) was removed because
-its source exactly overlaps the test set. Index 21 (22nd example) replaced it.
-All 108 Lezgi conditions use indices 0-4 and 6-21, retaining 21 supports and 87 test rows.
-Other languages retain their original 21 support source/translation selections.
+All 108 Lezgi conditions use training indices 0-4 and 6-21: 21 supports and
+87 test rows. Training index 5 is excluded because its source exactly overlaps
+the test set. Indices are zero-based. Other languages use their fixed first
+21 training supports. The same support set is used across methods and materials
+within each language.
 There is no exact support-source/test-source match, but this is not a guarantee
 against partial, paraphrastic or book/test overlap.
 
@@ -131,10 +113,8 @@ prompt builder and each record's support identity. Each support set contains
 21 aligned, nonempty gold glosses. ModelGloss uses the cached predicted target
 gloss; it does not read the target gold gloss or English reference into the task input.
 
-The [earlier detailed audit](docs/matched_gold_v2/actual_input_audit/report.md)
-also checked planned prompt independence from test gold/reference fields and
-reconstructed API request hashes in its recorded snapshot. Do not present its
-snapshot counts as final coverage. Saved-message validation is not an independent
+Tests check that changing the test gold-gloss or reference fields does not
+change the task prompt. Saved-message validation is not an independent
 reconstruction of Qwen processor-serialized token sequences.
 
 A test string can occur incidentally in training/context text even though its
@@ -204,27 +184,10 @@ answer is extracted. Truncated outputs are treated as empty by this policy.
 Empty/refused/unextractable/reasoning-violating outputs remain in denominators.
 Missing generated gloss does not erase an otherwise extractable translation.
 
-Initial parallel Gemini jobs had shared temporary-file conflicts. Replacement
-groups ran serially, retained saved responses (including failures), and repeated
-unchanged requests only for missing records. Earlier responses lost before
-persistence are unavailable; do not claim an exhaustive API-response history.
-
-## Completed Jobs
-
-| Stage | Job | Actual elapsed time | Outcome |
-| --- | --- | --- | --- |
-| XCOMET XL | 5798036 | 02:12:09 | Completed, exit 0:0 |
-| Native/common99 BLEU/chrF++ analyses | 5798037 | 03:04:55 | Completed, exit 0:0 |
-| XCOMET XXL | 5798139 | 05:57:03 | Completed, exit 0:0 |
-| XL analysis | 5798172 | 00:01:54 | Completed, exit 0:0 |
-| XXL analysis | 5798146 | 00:02:05 | Completed, exit 0:0 |
-
-Four 50-minute checkpoint exits were resumed with unchanged prompts and saved records:
-5799942, 5799943, 5799944 and 5799945 all completed. See the
-[resume receipt](docs/matched_gold_v2/resumed_chain_jobs_2026-09-20.md).
-No generation/scoring/analysis job remains queued as of final scheduler verification.
-One GPU per job does not mean that independent jobs could not run concurrently.
-XXL fit and inference were verified by successful production, without a second GPU.
+Saved Gemini responses, including failures, are retained without answer-based
+selection. Missing records may involve repeated identical requests. Responses
+lost before persistence are unavailable, so the saved dataset is not an
+exhaustive record of every API response received.
 
 ## Statistical Analyses
 
@@ -269,7 +232,8 @@ No minimum practically important difference or human adequacy threshold was set.
 
 ### Reading the Findings
 
-Use final/significance_summary.tsv and the original comparison tables, including
+Use the [statistical summary](reports/matched_gold_v2/significance_summary.tsv)
+and the original comparison tables, including
 negative results. The full native lexical analysis has one positive adjusted
 metric test for Qwen3.5: Tsez Chain-gloss with cheat sheet TXT has
 **+1.378 chrF++**, Holm-adjusted **p = 0.00630**, on 445 rows.
@@ -287,7 +251,7 @@ Relative improvements are undefined at zero and unstable near zero; prefer absol
 
 | Issue | Disclosure |
 | --- | --- |
-| Development history | Earlier trials informed settings; no claim of an untouched independent development set |
+| Development independence | Settings were informed by prior trials; no untouched independent development set is claimed |
 | Sample sizes | Small Gitksan/Lezgi/Natugu cohorts limit precision and generalization |
 | Support selection | Fixed 21 examples; no support-selection robustness study |
 | References and overlap | Lezgi 84/83-row sensitivities; no claim of entirely unseen information |
@@ -299,61 +263,45 @@ Relative improvements are undefined at zero and unstable near zero; prefer absol
 | Automatic metrics | Not human adequacy; XCOMET language coverage not established |
 | Duplicates | Lezgi repeated rows not cluster-resampled |
 | Multiplicity | Separate, preserved families; no metric cherry-picking |
-| API provenance | Lost initial responses not recoverable; saved responses retained |
+| API provenance | Responses lost before persistence are unavailable; saved responses retained |
 | Resources | One H100 per local job, FP32; parallel independent jobs permitted |
-| Luna | Excluded; historical budget-limited results not primary evidence |
-| Historical families | No pooling with matched_v1, legacy, curated_v1, chain_gloss_v2 or MTOB |
+| Study boundaries | Luna and other experiment families are excluded from the primary 351-condition matrix |
 
 Possible explanations for weak gains (context relevance, visual readability,
 long-context use, imperfect glosses, output budget) are hypotheses, not established causes.
 
-## Historical Evidence and MTOB
-
-Keep comparability evidence in the handover. Statistical significance cannot
-repair unmatched conditions. The [earlier audit](docs/comparability_audit/README.md)
-and [matched_v1 completion audit](docs/matched_v1/completion_audit_2026-09-17.md)
-are historical, not corrected primary evidence. Their empty-support-gloss results
-and significance findings must not be carried forward as matched_gold_v2 findings.
+## Supplementary MTOB Study
 
 The separate [MTOB closure](experiments/mtob/evaluation_v1/CLOSURE_REPORT.md)
 covers 30 Qwen Ge/Gs/Gl conditions and 4230 records, not the primary 351 conditions.
 It preserves original outputs and evaluates raw/extracted views, with 120 planned
-BLEU/chrF tests, 100000 resamples and one Holm family. No MTOB grammar-free
-baseline was completed; the proposed extension was cancelled.
+BLEU/chrF tests, 100000 resamples and one Holm family. There is no MTOB-specific
+grammar-free baseline. Ge/Gs/Gl contrasts therefore compare grammar-context
+strategies rather than the effect of adding grammar to a matched no-book control.
 
 The [MTOB/GRAMMAMT comparison](experiments/mtob/grammamt_comparison_v1/COMPARISON_REPORT.md)
 uses **historical matched_v1 baselines with empty support glosses**, not corrected baselines.
 Its completed 360-test family is separate; do not relabel it as a gold-v2 comparison.
 Common evaluation does not remove prompt/support/decoding/retry confounds.
 MTOB uses temperature 0.05 and cap 256 versus matched_v1's 0.7 and cap 512.
-Actual Gl lengths are not uniformly 100K tokens. Four Qwen3.5 records were rerun;
-earlier responses are unavailable. Missing finish metadata means truncation is unknown.
+Actual Gl lengths are not uniformly 100K tokens. Four Qwen3.5 records have a
+prior-attempt provenance gap: only their retained final responses are available.
+Missing finish metadata means truncation is unknown.
 Read the closure report for extraction ambiguity, ROUGE limits and the CharacTER
-definition. No new MTOB or API experiment is part of this finalization.
+definition. MTOB findings must remain separate from the primary study.
 
-## Reproducibility and Final Package
+## Reproducibility Evidence
 
-Run from GRAMMAMT:
+The condition catalog links configurations, recorded predictions and metric
+files. The completion audit verifies saved prompts, support identities, expected
+record counts and prediction-bound XL/XXL scores. Statistical reports identify
+their input hashes, cohorts and test settings.
 
-```bash
-venv/bin/python scripts/finalize_gold_v2.py
-venv/bin/python scripts/render_gold_v2_appendix.py
-venv/bin/python -m unittest discover -s tests -p 'test_final_gold_v2.py' -v
-```
-
-The finalizer is CPU-only and reads frozen inputs. It verifies completed results,
-actual message evidence, fresh XL/XXL scores and statistical input hashes, recomputes
-lexical scores, and writes only final derived artifacts. It does not submit jobs.
-The older scripts/build_thesis_overview.py targets matched_v1, not this final matrix.
-
-Keep credentials, environment files, caches, virtual environments and personal
-shell configuration out of the shareable package. Rebuild commands do not publish
-anything. Do not translate or alter frozen language forms, references or predictions.
-
-Writing can proceed using the final package. Report Lezgi sensitivities descriptively;
-do not attach invalid-reference p-values to cleaned cohorts. A future confirmatory
-filtered-cohort analysis would be a separately versioned extension, not unfinished
-generation or a reason to hide the current findings.
+Use the [file guide](reports/matched_gold_v2/FILE_GUIDE.md) for locating evidence
+and the repository [README](README.md) for environment requirements and rebuild
+commands. Preserve original language forms, references and predictions when
+preparing thesis tables. Lezgi's filtered values remain descriptive; a
+confirmatory filtered-cohort analysis is outside the reported study.
 
 ## References
 
