@@ -66,7 +66,7 @@ def main():
             notes=['All cells have verified XL and XXL scores. Empty outputs remain in evaluation.',
                    'Lezgi generation: 87 rows; report 84/83-row descriptive reference sensitivities.',
                    'Tsez: Qwen 445 rows, Gemini first 99. Gitksan sources share one baseline.',
-                   'Source: grammar_context_evaluation/audit.json. No Luna or MTOB conditions in this matrix.']
+                   'Source: reports/matched_gold_v2/audit.json. No Luna or MTOB conditions in this matrix.']
             for i,line in enumerate(notes):text(d,(35,1830+i*44,1430,38),line,24)
             im.save(OUT/'figures'/f'appendix_matrix_{model}_part{1 if start==0 else 2}.jpg',quality=95,subsampling=0)
             pages.append(im)

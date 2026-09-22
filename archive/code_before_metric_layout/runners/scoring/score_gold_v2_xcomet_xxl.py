@@ -11,14 +11,13 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / "runners/matched_gold_v2"))
 from protocol import validate_rows, verify_inputs
 from experiment_io import atomic_json, read_records, sha256
-from artifact_layout import metric_path, equivalent_scorer
 
 MODEL = "Unbabel/XCOMET-XXL"
-OUTPUT = ROOT / "metrics/matched_gold_v2/xcomet_xxl"
+OUTPUT = ROOT / "metrics/matched_gold_v2_xcomet_xxl"
 
 
 def output_path(cfg):
-    relative = metric_path(ROOT, cfg["metrics"]).relative_to(ROOT / "metrics/matched_gold_v2/lexical_and_xcomet_xl")
+    relative = Path(cfg["metrics"]).relative_to("metrics/matched_gold_v2")
     path = (OUTPUT / relative).resolve()
     if not path.is_relative_to(OUTPUT.resolve()):
         raise ValueError("Output outside isolated XXL directory")
@@ -36,15 +35,9 @@ def provenance(cfg, result_hash, checkpoint_hash):
 
 
 def reusable(saved, expected):
-    identity = dict(saved.get('provenance', {}))
-    if identity.get('scorer_sha256') != expected.get('scorer_sha256'):
-        if not equivalent_scorer(ROOT, 'runners/scoring/score_gold_v2_xcomet_xxl.py',
-                                 identity.get('scorer_sha256'), expected.get('scorer_sha256')):
-            return False
-        identity['scorer_sha256'] = expected['scorer_sha256']
     scores = saved.get("segments", [])
     value = saved.get("xcomet_xxl")
-    return (identity == expected
+    return (saved.get("provenance") == expected
             and len(scores) == expected["records"]
             and [s.get("idx") for s in scores] == list(range(expected["records"]))
             and all(isinstance(s.get("score"), (int, float))

@@ -1,150 +1,83 @@
-# GRAMMAMT Experiments
+# Grammar-Context Translation Experiments
 
-**Final thesis starting point:** [Thesis guide, decisions and limitations](THESIS_GUIDE.md).
-The guide links the visual experiment matrix and final condition status.
+This repository studies how grammar context affects Gloss-shot, Chain-gloss
+and ModelGloss translation. The current primary study is **matched_gold_v2**:
+351 conditions across Qwen3-VL-8B, Qwen3.5-9B and Gemini 2.5 Flash Lite.
 
-## Start Here
+## For Thesis Writing
 
-For thesis writing, open **[grammar_context_evaluation/](grammar_context_evaluation/README.md)**. It contains the final
-tables, figures and completion audit. Read
-**[THESIS_GUIDE.md](THESIS_GUIDE.md)** for the methods and reporting limitations.
-
-The remaining folders support reproducibility: `configs/` holds settings,
-`results/` model responses, `metrics/` scores, `docs/` technical records,
-and `experiments/mtob/` the separate supplementary study. Technical family
-names are retained there because saved configurations and hashes reference them.
-Do not mix historical `matched_v1` results with the corrected `matched_gold_v2`
-study. You do not need to browse historical folders to find the final tables.
-
-## Main Study
-
-The primary thesis family is **matched_gold_v2**, completed in September 2026:
-Qwen3, Qwen3.5 and Gemini each have 117/117 conditions, with gold-glossed training
-supports, XCOMET-XL/XXL scores and paired statistical analyses. Luna is excluded.
-Use the [final handover](grammar_context_evaluation/README.md), including matrices,
-artifact paths and reference-quality qualifications. Complete coverage is not a
-claim of universal improvement or error-free model output.
-
-Historical matched_v1 used empty support glosses. Its results are preserved but
-must not be presented as the corrected study. Lezgi's three invalid references
-are handled in explicitly labelled 84/83-row descriptive sensitivity tables.
-
-For the current thesis comparisons, start with the
-[corrected protocol](docs/matched_gold_v2/README.md) and its
-[final condition catalog](grammar_context_evaluation/condition_catalog.tsv).
-Tsez uses 445 examples for Qwen3/Qwen3.5 and the same first 99 for Gemini;
-cross-model analysis uses the common 99. Luna belongs to historical work only.
-The matched family fixes prompts and decoding across materials within each
-model/method, and never repairs a prompt based on a failed response.
-
-The earlier [experiment catalog](docs/experiment_catalog.tsv) lists exact
-materials, model, language, condition, dataset count, job, result and metric paths.
-Machine-readable configurations live in `configs/experiments/`.
-
-## Directory Guide
-
-For score files, start with [Metric collections](metrics/README.md):
-`metrics/gold_gloss_supports/` contains readable views of the corrected scores;
-`metrics/historical_studies/` and `metrics/pilot_tests/` distinguish earlier work.
-The links preserve frozen paths and hashes; they do not duplicate the data.
-
-| Directory | Purpose |
+| Need | Open |
 | --- | --- |
-| `inputs/grammar_pdfs/<language>/<source>` | Original, unchanged grammar books |
-| `materials/legacy` | Earlier screenshots and summaries |
-| `materials/curated_v1` | Frozen new-materials collection, including Cyrillic |
-| `runners/{baseline,qwen3,qwen35,openrouter}` | Model-specific legacy code and API code |
-| `runners/run_audited_context.py` | Earlier repair runner and shared backend |
-| `runners/matched` | Frozen matched baseline/material generation and analysis |
-| `configs/matched_v1` | Matched cohorts, policies, hashes and job groups |
-| `docs/matched_v1` | Matched protocol, status, submissions and significance results |
-| `runners/matched_gold_v2` | Frozen corrected gold-support protocol; do not alter retrospectively |
-| `configs/matched_gold_v2` | Corrected configurations and input hashes |
-| `thesis` | Final audit, joined tables, reference sensitivities and JPG/PDF matrices |
-| `scripts/jobs/<model>` | Individual Slurm generation and preflight jobs |
-| `scripts/submit/{curated_v1,chain_gloss_v2,legacy}` | Separate experiment-family submissions |
-| `scripts/scoring` | GPU scoring, separate from generation |
-| `scripts/generators` | Material generators and catalog/job generator |
-| `scripts/local` | Local utilities and PowerShell launchers |
-| `results` and `metrics` | Matching family/model/language/source/variant trees |
-| `experiments/mtob` | Isolated Ge/Gs/Gl suite, not part of current reruns |
-| `slurm_outputs` | Flat Slurm log directory for the main suite |
-| `archive` | Superseded launchers, local snapshots and unclassified artifacts |
-| `docs/migration_manifest.tsv` | Original-to-moved paths and before/after hashes |
-| `docs/migration_followup.tsv` | Additional archive/source moves |
+| Methods, intended claims and limitations | [THESIS_GUIDE.md](THESIS_GUIDE.md) |
+| Current tables, figures and completion audit | [reports/matched_gold_v2](reports/matched_gold_v2/README.md) |
+| Recommended score table | [thesis_scores.tsv](reports/matched_gold_v2/thesis_scores.tsv) |
+| Exact evidence paths for all 351 conditions | [condition_catalog.tsv](reports/matched_gold_v2/condition_catalog.tsv) |
+| Folder and version explanations | [Repository structure](docs/REPOSITORY_STRUCTURE.md) |
 
-`curated_v1` replaces the ambiguous historical `newmaterials` label. Existing
-combined Shot/Chain predictions retain their original record contents and metric
-keys. New runs use explicit `shot`, `modelgloss`, and `chain_gloss` filenames.
-`chain_gloss_v2` is the corrected explicit-gloss experiment, not a relabeling of
-the old chain scores. TXT and JPG are distinct contexts; Markdown sources are
-preserved but are not submitted as duplicate text experiments.
+Coverage, scoring and planned analyses are complete. This does **not** mean all
+outputs are valid translations or grammar consistently improves performance.
+Lezgi's 84/83-row reference-quality sensitivities are descriptive; do not attach
+87-row significance tests to those filtered scores. Read the thesis guide first.
 
-Gitksan sources are `pdf1_brown` and `pdf2_rigsby`; other sources are `grammar`.
-Variants are `original` and `cyrillic`. Selected PDF images are unchanged:
-Gitksan PDF1=9, PDF2=6, Lezgi=9, Natugu=9, Tsez=9.
+## Which Version?
 
-## Earlier Repair Campaign
+| Family | Status |
+| --- | --- |
+| **matched_gold_v2** | **Current primary study:** 21 nonempty gold-glossed training supports |
+| matched_v1 | Historical matched study: support gloss fields were empty |
+| curated_v1, chain_gloss_v2, baseline, legacy, smoke | Earlier material, repair, baseline or pilot experiments |
+| experiments/mtob | Separate Ge/Gs/Gl supplementary study, not part of the 351 conditions |
 
-Run from the GRAMMAMT directory. Listing does not call Slurm or a paid API.
+Version numbers are local to an experiment family. In particular, chain_gloss_v2
+is not matched_gold_v2. XCOMET-XXL is an additional evaluator of the same current
+predictions, not another study version. Historical outputs remain available but
+must not be pooled with the current study. Luna is not in the primary matrix.
+
+## Where Are the Files?
+
+| Folder | Purpose |
+| --- | --- |
+| [reports/](reports/README.md) | Reader-facing tables, figures and audits |
+| configs/ | Recorded settings, inputs and fingerprints |
+| [results/](results/README.md) | Saved model responses |
+| [metrics/](metrics/README.md) | Per-condition scores, one real location per collection |
+| docs/ | Protocol details, statistical analyses and provenance |
+| inputs/ and materials/ | Original PDFs and derived grammar contexts |
+| runners/ and scripts/ | Execution, scoring, submission and generation utilities |
+| tests/ | Verification tests |
+| experiments/mtob/ | Self-contained supplementary experiments and reports |
+| archive/ | Superseded or unclassified historical artifacts |
+
+Follow the same family identifier across configs/, results/, metrics/ and docs/.
+Current metrics are grouped under metrics/matched_gold_v2/ in two subdirectories:
+lexical_and_xcomet_xl/ and xcomet_xxl/. There are no extra metric-view folders or
+duplicate aliases. Frozen configurations keep their recorded path strings;
+active tools resolve them through a hash-documented path-only migration.
+The [structure guide](docs/REPOSITORY_STRUCTURE.md) explains the older families.
+
+## Verification and Reproduction
+
+From this directory, in the recorded local environment:
 
 ```bash
-python3 scripts/submit_jobs.py --family chain_gloss_v2 --dry-run
-python3 scripts/submit_jobs.py --repairs --dry-run
-python3 -m unittest discover -s tests -v
-python3 runners/score_verified.py --targets configs/lezgi_missing_xcomet.json --dry-run
+venv/bin/python scripts/finalize_gold_v2.py
+venv/bin/python scripts/render_gold_v2_appendix.py
+venv/bin/python -m unittest discover -s tests -p test_final_gold_v2.py -v
+venv/bin/python -m unittest discover -s tests -p test_repository_layout.py -v
+venv/bin/python -m unittest discover -s tests -p test_artifact_layout.py -v
 ```
 
-Every GPU job requests **one H100 only**. The original audited repair setup used FP32,
-batch size one, greedy decoding, maximum 512 generated tokens, thinking disabled, with no
-CPU offload or quantization. Preflight jobs request one hour. Generation requests
-four hours, or ten for Tsez; scoring requests five hours.
+These commands audit and rebuild the current report. They do not submit jobs,
+load generation models or call paid APIs. See the
+[corrected protocol](docs/matched_gold_v2/README.md) for execution details.
+Do not regenerate frozen configurations or rerun experiments merely to browse
+the published results.
 
-```bash
-python3 scripts/submit_jobs.py --preflight --submit
-bash scripts/submit/chain_gloss_v2/submit_qwen3_natugu.sh
-bash scripts/submit/chain_gloss_v2/submit_qwen35_natugu.sh
-python3 scripts/submit_jobs.py --repairs --submit
-sbatch scripts/scoring/run_lezgi_missing_xcomet.sh
-```
+Reproduction requires the external sibling Database/2023glossingST/data dataset,
+the recorded dependencies and access to the model weights. The repository is not
+a preconfigured cluster environment. Local venv/, caches, credentials and Slurm
+logs are not publication data. No key is required to read the reports.
 
-Language wrappers also exist for Lezgi, Tsez, Lezgi Cyrillic, Gitksan PDF1 and
-Gitksan PDF2. Ordinary curated jobs and corrected chain jobs are intentionally
-separate. The earlier repair campaign comprised **70 chain conditions + 5 output
-repairs**, not all 210 catalog entries. Historical successful Shot/ModelGloss
-outputs are preserved. The newer matched family may require fresh controls
-and material runs when the earlier prompts/settings do not form matched pairs.
-
-Full submissions require a successful, current single-H100 FP32 preflight.
-Unsupported attention kernels and CUDA OOM fail visibly; they do not trigger
-another GPU, reduced images, or lower precision. The efficient SDPA backend is
-explicitly selected; hardware success is not assumed. A failed preflight must
-be investigated before its dependent experiments are submitted.
-
-After generation completes, run `sbatch scripts/scoring/run_repair_xcomet.sh`.
-The scorer validates complete test sets and computes XCOMET-XL only; it has no
-COMET fallback. It preserves other metric values and skips scoring only when
-the result hash, count, model and existing scores agree. Incomplete files are
-reported as rejected, not silently included in complete-test tables.
-
-## Reproducibility and Safety
-
-- Test counts: Gitksan 37, Lezgi 87, Natugu 99, Tsez 445; support count 21.
-- Generation writes each record durably. Resume checks source/reference order,
-  context hashes, prompt/code fingerprints and settings. Invalid JSON or unknown
-  provenance is not appended to.
-- Gloss, raw attempts, final translation and invalid-output reasons are stored
-  separately. Invalid predictions are never silently removed from the denominator.
-- Historical result/metric contents and grammar image bytes are preserved.
-- The old nine-row Tsez ModelGloss result is not a full-test result; see
-  [the audit notes](docs/experiment_audit.md).
-- `venv`, external DSS caches and the sibling `Database` are not relocated.
-- API keys remain in the existing external environment file. Credentials,
-  caches, bytecode and Slurm logs remain ignored by Git.
-- `archive` is reference material, not a supported submission location. Migration
-  utilities are one-time operations, not normal experiment commands.
-- No GitHub push is performed as part of this migration.
-
-Regenerate the active catalog and launchers with
-`python3 scripts/generators/build_catalog.py`. This does not regenerate images,
-alter existing predictions, or submit jobs.
+GPU jobs use one H100 per job; independent jobs may run in parallel. Production
+Qwen precision, prompts, decoding and image inputs are documented in the thesis
+guide. Historical settings must not be mistaken for the corrected study's settings.

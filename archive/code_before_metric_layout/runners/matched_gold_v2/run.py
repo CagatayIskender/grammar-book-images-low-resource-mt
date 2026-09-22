@@ -9,7 +9,6 @@ import sys
 import time
 
 from protocol import ROOT, prompt, result_row, validate_rows, verify_inputs, write_rows, digest
-from artifact_layout import metric_path
 from experiment_io import atomic_json, read_records, sha256
 
 
@@ -18,7 +17,7 @@ def basic_metrics(cfg, rows):
     validate_rows(rows,cfg,complete=True)
     rows=sorted(rows,key=lambda x:x['idx'])
     refs=[[r['reference'] for r in rows]];hyps=[r['translation']['prediction'] for r in rows]
-    atomic_json(metric_path(ROOT, cfg['metrics']),dict(translation=dict(bleu=sacrebleu.corpus_bleu(hyps,refs).score,
+    atomic_json(ROOT/cfg['metrics'],dict(translation=dict(bleu=sacrebleu.corpus_bleu(hyps,refs).score,
         chrf=sacrebleu.corpus_chrf(hyps,refs,word_order=2).score,xcomet=None),records=len(rows),
         errors=sum(bool(r['translation']['error']) for r in rows),empty=sum(not s for s in hyps),
         missing_gloss=sum('missing_gloss' in r['translation']['flags'] for r in rows),
@@ -124,7 +123,7 @@ def run_group(group,deadline_seconds):
             fcntl.flock(lock,fcntl.LOCK_EX|fcntl.LOCK_NB)
             rows=read_records(result);validate_rows(rows,cfg)
             if len(rows)==len(cfg['test']):
-                metric=metric_path(ROOT, cfg['metrics'])
+                metric=ROOT/cfg['metrics']
                 if not metric.exists() or json.loads(metric.read_text()).get('results_sha256')!=sha256(result):basic_metrics(cfg,rows)
                 print('[SKIP complete]',cfg['id'],flush=True);continue
             status_path=result.with_suffix('.status.json')
@@ -184,3 +183,4 @@ def run_group(group,deadline_seconds):
 if __name__=='__main__':
     p=argparse.ArgumentParser();p.add_argument('--group',required=True);p.add_argument('--deadline-seconds',type=int,default=34200)
     a=p.parse_args();sys.exit(run_group(a.group,a.deadline_seconds))
+

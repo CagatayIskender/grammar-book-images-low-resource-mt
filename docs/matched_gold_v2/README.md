@@ -1,8 +1,8 @@
 # Gold Support Correction: matched_gold_v2
 
 Status on 22 September 2026: all 351 conditions and 40,731 records are complete.
-XL/XXL scoring and all planned statistics completed. Use the [final handover](../../grammar_context_evaluation/README.md)
-and [completion/comparability audit](../../grammar_context_evaluation/COMPLETION_AUDIT.md), not old pending-job snapshots.
+XL/XXL scoring and all planned statistics completed. Use the [final handover](../../reports/matched_gold_v2/README.md)
+and [completion/comparability audit](../../reports/matched_gold_v2/COMPLETION_AUDIT.md), not old pending-job snapshots.
 Share with the documented caveats: Lezgi has invalid references and descriptive
 84/83-row sensitivities; complete records do not imply successful translations.
 

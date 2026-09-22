@@ -1,50 +1,44 @@
-# Metric Collections
+# Metrics
 
-## Current Study: Gold-Glossed Supports
+Each score file has one location. There are no alternative directory views or
+symlinks. Follow the same experiment family in configs/, results/ and docs/.
 
-Use these readable local directory views for the corrected 351-condition study:
+## Current Study: Version 2
 
-| Directory | Contents | Canonical files (also browsable on GitHub) |
-| --- | --- | --- |
-| gold_gloss_supports/bleu_chrf_xcomet_xl | BLEU, chrF++ and XCOMET-XL | [matched_gold_v2](matched_gold_v2/) |
-| gold_gloss_supports/xcomet_xxl | Separate XCOMET-XXL scoring | [matched_gold_v2_xcomet_xxl](matched_gold_v2_xcomet_xxl/) |
+| Directory | Contents |
+| --- | --- |
+| [matched_gold_v2/lexical_and_xcomet_xl](matched_gold_v2/lexical_and_xcomet_xl/) | Corrected 351-condition study: BLEU, chrF++ and XCOMET-XL |
+| [matched_gold_v2/xcomet_xxl](matched_gold_v2/xcomet_xxl/) | XCOMET-XXL for those same 351 conditions; not another experiment version |
 
-Subdirectories retain model, language, grammar source and original/Cyrillic
-variant. The current study uses 21 nonempty gold-glossed training supports.
-For writing, use the [recommended score table](../grammar_context_evaluation/thesis_scores.tsv)
-and its [evaluation policy](../grammar_context_evaluation/README.md), not an
-unqualified merge of all JSON files. Lezgi's filtered scores are descriptive.
+Both collections use 21 nonempty gold-glossed training supports. For writing,
+use [reports/matched_gold_v2/thesis_scores.tsv](../reports/matched_gold_v2/thesis_scores.tsv)
+and the [reporting policy](../reports/matched_gold_v2/README.md).
+Lezgi's filtered scores are descriptive, not newly tested significance results.
 
-## Historical and Pilot Studies
+## Earlier Work: Do Not Pool with Version 2
 
-| Readable directory | Canonical files | Status |
-| --- | --- | --- |
-| historical_studies/empty_support_glosses | [matched_v1](matched_v1/) | Earlier matched study with empty support gloss fields; excluded from the primary study |
-| historical_studies/earlier_grammar_materials | [curated_v1](curated_v1/) | Earlier material experiments |
-| historical_studies/earlier_chain_gloss | [chain_gloss_v2](chain_gloss_v2/) | Earlier explicit chain-gloss experiments |
-| historical_studies/earlier_baselines | [baseline](baseline/) | Earlier baseline experiments |
-| historical_studies/legacy_grammar_runs | [legacy](legacy/) | Legacy grammar-context experiments |
-| pilot_tests/api_smoke_tests | [smoke](smoke/) | Pilot tests, not full primary-study conditions |
+| Directory | Meaning |
+| --- | --- |
+| [matched_v1](matched_v1/) | Earlier matched protocol with empty support gloss fields |
+| [chain_gloss_v2](chain_gloss_v2/) | Earlier chain-gloss repair family; its v2 is local to that family, not matched_gold_v2 |
+| [curated_v1](curated_v1/) | Earlier curated-material experiments, not the corrected matched study |
+| [baseline](baseline/) | Earlier baselines; current matched baselines are inside matched_gold_v2 |
+| [legacy](legacy/) | Earlier grammar-context experiments |
+| [smoke](smoke/) | Small API pilot tests, not full test sets |
 
-Historical results are retained for provenance, not pooled with the current study.
-In particular, matched_v1 must not be described as using gold-glossed supports.
-Its MTOB comparison remains a historical, cross-protocol analysis.
+The historical MTOB comparison uses matched_v1. It does not compare against the
+corrected version-2 baselines. Its scores and reports remain under experiments/mtob/.
 
-## Why Canonical Technical Names Remain
+## Naming Rule
 
-The readable directories are relative symbolic links, not duplicate files.
-Frozen configurations and validators bind outputs to their original paths and
-hashes. Moving those physical directories would break validation; rewriting
-the frozen records would change the experimental evidence. The original
-technical names therefore remain as canonical storage paths.
+Names identify an experiment family and, where applicable, its protocol version.
+Do not interpret v1/v2 belonging to different families as a global chronology.
+The subdirectory xcomet_xxl identifies an evaluator, not a new protocol.
+Model/language/source/variant subdirectories retain the saved experimental IDs.
+See [repository structure](../docs/REPOSITORY_STRUCTURE.md) for the full map.
 
-On GitHub, use the canonical links in the tables if a symbolic link is shown as
-a text file. To recreate the views locally, run from the repository root:
-
-```bash
-python3 scripts/organize_metric_views.py
-```
-
-These views do not change scientific results or create new experiments. When
-collecting metrics, do not follow both a canonical directory and its view, or
-the same condition will be counted twice.
+Recorded configurations and historical analysis JSON retain their original
+metric-path strings to preserve their fingerprints and provenance. Active tools
+resolve those strings using runners/artifact_layout.py; the
+[migration manifest](../docs/metric_layout_migration.json) records the 702
+old/new paths and unchanged file hashes. There are no compatibility symlinks.

@@ -10,6 +10,7 @@ from analyze_gold_v2_xcomet_xxl import analyze, ROOT
 from protocol import verify_inputs, validate_rows
 from experiment_io import atomic_json, read_records, sha256
 from score_verified import MODEL, valid_segment_scores
+from artifact_layout import metric_path
 
 OUT = ROOT / "docs/matched_gold_v2/analysis_xcomet_xl"
 
@@ -41,7 +42,7 @@ def main(samples=100000, dry_run=False):
         result_hash = sha256(result)
         rows = read_records(result)
         validate_rows(rows, cfg, complete=True)
-        path = ROOT / cfg["metrics"]
+        path = metric_path(ROOT, cfg["metrics"])
         metric_hash = sha256(path)
         metrics = json.loads(path.read_text())
         checkpoints.add(verify_metric(metrics, cfg, result_hash))

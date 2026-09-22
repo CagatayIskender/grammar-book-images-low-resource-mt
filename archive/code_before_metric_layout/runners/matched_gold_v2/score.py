@@ -4,7 +4,6 @@ import json
 from protocol import ROOT, verify_inputs, validate_rows
 from experiment_io import read_records, atomic_json
 from run import basic_metrics
-from artifact_layout import metric_path
 
 
 def main(xcomet=False):
@@ -17,11 +16,11 @@ def main(xcomet=False):
             verify_inputs(cfg);validate_rows(rows,cfg,complete=True)
         except ValueError as exc:
             missing.append(dict(id=cfg['id'],reason=str(exc)));continue
-        metric=metric_path(ROOT, cfg['metrics'])
+        metric=ROOT/cfg['metrics']
         from experiment_io import sha256
         if not metric.exists() or json.loads(metric.read_text()).get('results_sha256')!=sha256(ROOT/cfg['results']):
             basic_metrics(cfg,rows)
-        targets.append(dict(language=cfg['language'],results=cfg['results'],metrics=str(metric.relative_to(ROOT)),expected_records=len(rows)))
+        targets.append(dict(language=cfg['language'],results=cfg['results'],metrics=cfg['metrics'],expected_records=len(rows)))
     atomic_json(ROOT/'docs/matched_gold_v2/scoring_targets.json',targets)
     atomic_json(ROOT/'docs/matched_gold_v2/incomplete.json',missing)
     print(f'[SUMMARY] complete={len(targets)}, incomplete={len(missing)}',flush=True)
@@ -34,3 +33,4 @@ def main(xcomet=False):
 
 if __name__=='__main__':
     p=argparse.ArgumentParser();p.add_argument('--xcomet',action='store_true');main(p.parse_args().xcomet)
+

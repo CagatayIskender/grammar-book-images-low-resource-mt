@@ -2,7 +2,7 @@
 
 Job **5798172 completed successfully in 00:01:54**, after XL scorer 5798036.
 It used one CPU and no GPU. The BLEU/chrF++ and XXL analyses also completed.
-Use [the final audit](../../grammar_context_evaluation/COMPLETION_AUDIT.md); do not submit a duplicate.
+Use [the final audit](../../reports/matched_gold_v2/COMPLETION_AUDIT.md); do not submit a duplicate.
 
 The XL scorer was still pending when updated to retain sentence scores under
 `xcomet_segments.translation` for matched_gold_v2. Aggregate-only metrics cannot

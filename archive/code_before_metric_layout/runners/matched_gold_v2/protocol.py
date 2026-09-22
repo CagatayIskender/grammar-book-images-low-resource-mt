@@ -8,7 +8,6 @@ ROOT = Path(__file__).resolve().parents[2]
 spec = importlib.util.spec_from_file_location("matched_v1_protocol", ROOT / "runners/matched/protocol.py")
 previous = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(previous)
-from artifact_layout import metric_path, recorded_code_path
 digest = previous.digest
 write_rows = previous.write_rows
 REVISION = "matched_gold_v2"
@@ -28,18 +27,11 @@ def validate_support(cfg):
 
 
 def verify_inputs(cfg):
-    for name, checksum in cfg['code_hashes'].items():
-        recorded_code_path(ROOT, name, checksum)
-    for name, checksum in cfg['context_hashes'].items():
-        if previous.sha256(ROOT / name) != checksum:
-            raise ValueError(f'Frozen input changed: {name}')
-    if digest({k:v for k,v in cfg.items() if k != 'fingerprint'}) != cfg['fingerprint']:
-        raise ValueError('Config fingerprint mismatch')
+    previous.verify_inputs(cfg)
     if cfg.get("family") != REVISION:
         raise ValueError("Wrong experiment family")
     for key in ("results", "metrics"):
-        path = metric_path(ROOT, cfg[key]) if key == 'metrics' else (ROOT / cfg[key]).resolve()
-        if not path.is_relative_to(ROOT / key / REVISION):
+        if not (ROOT / cfg[key]).resolve().is_relative_to(ROOT / key / REVISION):
             raise ValueError("Historical output overwrite rejected")
     validate_support(cfg)
 

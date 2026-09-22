@@ -2,7 +2,7 @@
 
 - **matched_gold_v2/** contains the corrected primary study: 351 conditions with
   21 nonempty gold-glossed training supports. See the
-  [evaluation report](../grammar_context_evaluation/README.md).
+  [evaluation report](../reports/matched_gold_v2/README.md).
 - **matched_v1/** preserves the earlier matched-study outputs whose support
   gloss fields were empty. They have not been deleted. They are not valid
   replacements for the corrected primary-study predictions.
@@ -12,4 +12,5 @@
 The historical MTOB/GRAMMAMT comparison uses matched_v1, not matched_gold_v2.
 Retaining historical predictions preserves that analysis's provenance; it does
 not endorse their use as corrected gold-support results. Neither predictions
-nor their hashes were modified for the readable metric-directory views.
+nor their hashes were modified by the navigation cleanup. There are no alternate
+directory views. See the [structure guide](../docs/REPOSITORY_STRUCTURE.md).

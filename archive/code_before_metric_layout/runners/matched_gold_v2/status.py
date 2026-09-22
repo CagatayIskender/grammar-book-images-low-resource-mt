@@ -4,7 +4,6 @@ from collections import Counter
 from protocol import ROOT, verify_inputs, validate_rows
 from prepare import historical_hashes
 from experiment_io import read_records, sha256, atomic_json
-from artifact_layout import metric_path
 
 
 def main():
@@ -24,7 +23,7 @@ def main():
             entry['state'] = 'complete' if len(rows) == len(cfg['test']) else 'partial' if rows else 'not_started'
             entry['empty_predictions'] = sum(not r['translation']['prediction'].strip() for r in rows)
             entry['xcomet_verified'] = False
-            path = metric_path(ROOT, cfg['metrics'])
+            path = ROOT / cfg['metrics']
             if entry['state'] == 'complete' and path.exists():
                 metrics = json.loads(path.read_text())
                 provenance = metrics.get('xcomet_provenance', {})

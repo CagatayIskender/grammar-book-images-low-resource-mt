@@ -10,18 +10,32 @@ Production, XL/XXL scoring and all planned statistical jobs completed successful
 The handover is **ready to share with the explicit limitations below**.
 Complete records do not mean that every model produced a successful translation.
 
-- [Final handover index](grammar_context_evaluation/README.md)
-- [Final completion and comparability audit](grammar_context_evaluation/COMPLETION_AUDIT.md)
-- [Overview matrix](grammar_context_evaluation/figures/experiment_matrix_overview.jpg)
-- [Detailed matrix, PDF](grammar_context_evaluation/figures/experiment_matrix_detailed.pdf)
-- [Print-friendly six-page matrix](grammar_context_evaluation/figures/experiment_matrix_appendix.pdf)
-- [Condition catalog and artifact paths](grammar_context_evaluation/condition_catalog.tsv)
-- [Recommended thesis score table](grammar_context_evaluation/thesis_scores.tsv)
-- [Frozen full-cohort score table](grammar_context_evaluation/scores.tsv)
-- [Statistical output summary](grammar_context_evaluation/significance_summary.tsv)
-- [Lezgi descriptive sensitivity scores](grammar_context_evaluation/lezgi_sensitivity_scores.tsv)
-- [Final input hashes and audit scope](grammar_context_evaluation/audit.json)
+- [Final handover index](reports/matched_gold_v2/README.md)
+- [Final completion and comparability audit](reports/matched_gold_v2/COMPLETION_AUDIT.md)
+- [Overview matrix](reports/matched_gold_v2/figures/experiment_matrix_overview.jpg)
+- [Detailed matrix, PDF](reports/matched_gold_v2/figures/experiment_matrix_detailed.pdf)
+- [Print-friendly six-page matrix](reports/matched_gold_v2/figures/experiment_matrix_appendix.pdf)
+- [Condition catalog and artifact paths](reports/matched_gold_v2/condition_catalog.tsv)
+- [Recommended thesis score table](reports/matched_gold_v2/thesis_scores.tsv)
+- [Frozen full-cohort score table](reports/matched_gold_v2/scores.tsv)
+- [Statistical output summary](reports/matched_gold_v2/significance_summary.tsv)
+- [Lezgi descriptive sensitivity scores](reports/matched_gold_v2/lezgi_sensitivity_scores.tsv)
+- [Final input hashes and audit scope](reports/matched_gold_v2/audit.json)
 - [Metric collections: current, historical and pilot studies](metrics/README.md)
+- [Repository structure and version meanings](docs/REPOSITORY_STRUCTURE.md)
+
+Navigation uses one location per artifact. Current derived reports are in
+`reports/matched_gold_v2/`; raw evidence retains its frozen family paths.
+`matched_v1` is the earlier empty-support-gloss study; `matched_gold_v2` is the
+corrected primary study. The removed `gold_gloss_supports` directory was only
+an alias, not another experiment version. Within `metrics/matched_gold_v2/`,
+`lexical_and_xcomet_xl/` and `xcomet_xxl/` score the same corrected predictions.
+The path-only migration preserves original metric JSON bytes, configurations,
+prediction fingerprints and statistical outputs. Recorded old paths are resolved
+by `runners/artifact_layout.py`; `docs/metric_layout_migration.json` records the
+old/new paths, hashes and approved runtime adapters. Original affected production
+code is preserved in `archive/code_before_metric_layout/`. This is not a new
+protocol version or a rerun, and does not change prompts or numerical scoring.
 
 These replace historical matched_v1 completion claims for primary thesis reporting.
 No new translations, changed prompts or paid API calls are needed to read these artifacts.

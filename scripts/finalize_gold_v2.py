@@ -18,8 +18,9 @@ from score_gold_v2_xcomet_xxl import output_path, provenance, reusable
 from analyze_gold_v2_xcomet_xl import verify_metric
 from sacrebleu.metrics import BLEU, CHRF
 from PIL import Image, ImageDraw, ImageFont
+from artifact_layout import metric_path, recorded_code_path
 
-OUT = ROOT / 'grammar_context_evaluation'
+OUT = ROOT / 'reports/matched_gold_v2'
 MODELS = ['qwen3', 'qwen35', 'gemini25flashlite']
 NAMES = ['Qwen3-VL-8B', 'Qwen3.5-9B', 'Gemini 2.5 Flash Lite']
 METHODS = ['shot', 'chain_gloss', 'modelgloss']
@@ -28,6 +29,8 @@ HASHES, STATS = {}, {}
 
 def read(path):
     path = Path(path).resolve()
+    if path.is_relative_to(ROOT):
+        path = metric_path(ROOT, path)
     before = path.stat()
     data = path.read_bytes()
     after = path.stat()
@@ -40,7 +43,10 @@ def read(path):
 
 
 def checksum(path):
-    key = os.path.relpath(Path(path).resolve(), ROOT)
+    path = Path(path).resolve()
+    if path.is_relative_to(ROOT):
+        path = metric_path(ROOT, path)
+    key = os.path.relpath(path, ROOT)
     if key not in HASHES:
         read(path)
     return HASHES[key]
@@ -66,6 +72,11 @@ def reference_indices(test, remove_overlap=False):
 
 
 def audit():
+    migration = load(ROOT / 'docs/metric_layout_migration.json')
+    checksum(ROOT / 'runners/artifact_layout.py')
+    for entry in migration['artifacts']:
+        if checksum(ROOT / entry['new_path']) != entry['sha256']:
+            raise ValueError(f'Migrated metric changed: {entry["new_path"]}')
     catalog = load(ROOT / 'configs/matched_gold_v2/catalog.json')
     analyses = {}
     expected_hashes = {}
@@ -97,7 +108,12 @@ def audit():
         cfg = load(ROOT / item['config'])
         if cfg['family'] != 'matched_gold_v2' or p.digest({k:v for k,v in cfg.items() if k != 'fingerprint'}) != cfg['fingerprint']:
             raise ValueError('Invalid configuration identity')
-        for file, h in {**cfg['code_hashes'], **cfg['context_hashes']}.items():
+        for file, h in cfg['code_hashes'].items():
+            snapshot = recorded_code_path(ROOT, file, h)
+            if checksum(snapshot) != h:
+                raise ValueError(f'Frozen code snapshot changed: {file}')
+            checksum(ROOT / file)
+        for file, h in cfg['context_hashes'].items():
             if checksum(ROOT / file) != h:
                 raise ValueError(f'Frozen input changed: {file}')
         p.validate_support(cfg)
@@ -133,7 +149,7 @@ def audit():
             if not math.isclose(value, metrics['translation'][key], abs_tol=1e-8):
                 raise ValueError(f'Basic metric mismatch: {cfg["id"]}/{key}')
         c = {k:cfg[k] for k in ('id','model','language','source','variant','method','material')}
-        c.update(config=item['config'], results=cfg['results'], metrics=cfg['metrics'],
+        c.update(config=item['config'], results=cfg['results'], metrics=str(metric_path(ROOT, cfg['metrics']).relative_to(ROOT)),
                  xxl_metrics=str(output_path(cfg).relative_to(ROOT)), records=len(rows), expected=len(cfg['test']),
                  state='complete', xl_verified=True, xxl_verified=True,
                  empty=sum(not h.strip() for h in hyps),
@@ -228,7 +244,7 @@ def figures(conditions, analyses):
     for i,line in enumerate(('21 gold-glossed training supports in every condition. Test gold gloss is not a target input.',
         'Tsez: Qwen 445 rows; Gemini first 99. Gitksan sources share one baseline per model/method.',
         'Lezgi: 87 generated rows include 3 invalid references; use separately labelled 84/83-row sensitivity tables.',
-        'Source: grammar_context_evaluation/condition_catalog.tsv and grammar_context_evaluation/audit.json. Luna and MTOB are outside this matrix.')):
+        'Source: reports/matched_gold_v2/condition_catalog.tsv and reports/matched_gold_v2/audit.json. Luna and MTOB are outside this matrix.')):
         text(d,(35,y+i*33,2270,32),line,21)
     save_figure(image,directory/'experiment_matrix_detailed')
     image=Image.new('RGB',(1550,740),'white');d=ImageDraw.Draw(image)
@@ -245,7 +261,7 @@ def figures(conditions, analyses):
     for i,line in enumerate(('Complete coverage is not a claim that all model responses are successful.',
         'Full-cohort statistical tests are complete; Lezgi reference-quality limits remain explicit.',
         'No universal performance gain is established. Nonsignificance is not equivalence.',
-        'Source: grammar_context_evaluation/audit.json. English handover; historical studies are not pooled.')):
+        'Source: reports/matched_gold_v2/audit.json. English handover; historical studies are not pooled.')):
         text(d,(35,520+i*42,1465,38),line,23)
     save_figure(image,directory/'experiment_matrix_overview')
 
@@ -291,7 +307,9 @@ def build():
         'All 351 conditions / 40,731 records pass complete-index, source/reference, frozen configuration,',
         '21 gold-support and saved actual system/user-message verification. Both XL and XXL artifacts',
         'match these predictions. Saved analysis input hashes and TSV/JSON contents agree.',
-        'Basic BLEU and chrF++ were recomputed and matched. No model was loaded; no API or generation was run.','',
+        'Basic BLEU and chrF++ were recomputed and matched. No model was loaded; no API or generation was run.',
+        'Metric paths are resolved through docs/metric_layout_migration.json. Original production-code',
+        'snapshots and approved path-only runtime adapters are checked separately; prompt policy is unchanged.','',
         '## Status by Model','', '| Model | Conditions | Records | Empty | Truncated | Missing chain gloss |',
         '| --- | ---: | ---: | ---: | ---: | ---: |']
     for model in MODELS:

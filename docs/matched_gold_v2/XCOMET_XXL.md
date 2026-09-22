@@ -5,7 +5,7 @@ reporting. The separate scorer was submitted as job **5798139** on 19 September
 2026, with dependency `afterok:5798036`. It **completed successfully in 05:57:03**.
 All 351 conditions were scored; subsequent XXL analysis 5798146 also completed.
 Do not label XL scores as XXL. See `xcomet_xxl_submission.json` for the historical
-submission receipt and [the final audit](../../grammar_context_evaluation/COMPLETION_AUDIT.md) for completion.
+submission receipt and [the final audit](../../reports/matched_gold_v2/COMPLETION_AUDIT.md) for completion.
 
 The new scorer reads the frozen `matched_gold_v2` predictions and validates all
 351 conditions, including actual prompt evidence, before loading any model. It
@@ -13,7 +13,7 @@ does not generate translations, call an API, edit configurations, or replace old
 metrics. It requires one H100, uses batch size 1 and FP32, and has no quantization,
 offload, or second-GPU fallback. Successful production verified GPU fit.
 
-Outputs: `metrics/matched_gold_v2_xcomet_xxl/`, preserving the existing model and
+Outputs: `metrics/matched_gold_v2/xcomet_xxl/`, preserving the existing model and
 language subpaths. Artifacts explicitly contain `xcomet_xxl`, segment scores,
 prediction/configuration/scorer/checkpoint hashes, COMET version, and scale.
 Native scores are retained; multiply by 100 only for a clearly labelled table
