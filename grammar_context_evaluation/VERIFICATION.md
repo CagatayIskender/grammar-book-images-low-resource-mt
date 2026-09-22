@@ -11,11 +11,13 @@ Date: 22 September 2026. Scope: the corrected matched_gold_v2 handover.
 - The publication check also passed all 18 tests selected by test_*v2*.py,
   including gold-support identity, target-gloss handling, prompt evidence,
   offline resume and prediction-bound XXL score reuse.
+- The metric-view tests passed: relative links resolve to unchanged canonical
+  directories, recreation is idempotent, existing real directories are protected,
+  and missing source directories fail visibly.
 - The recommended score table has 702 unique condition/cohort rows. All Lezgi
   reporting rows use 84 evaluated references and a descriptive-only inference label.
-- After moving the handover to thesis/, all 74 local links checked across the
-  root README, thesis guide, handover documents and corrected-study documents
-  resolved. The missing supervisor summary was supplied before publication.
+- Local report links are checked after directory changes. Methodological
+  corrections remain documented in THESIS_GUIDE.md.
 - All eight JPGs passed dimension and nonblank-pixel checks. Figure generation
   checks the bounds of every text label and raises an error on overflow.
 - The overview, detailed matrix and a representative appendix page were visually

@@ -1,10 +1,12 @@
-# Final Thesis Handover
+# Grammar-Context Evaluation
 
 Primary study: **matched_gold_v2**, Qwen3, Qwen3.5 and Gemini; Luna excluded.
 All 351 conditions, XL/XXL scores and planned statistical analyses completed.
 Readiness: **share with caveats**, not a claim of universal improvement.
 
 New to the repository? Start with the short [file guide](FILE_GUIDE.md).
+Raw scores are indexed in [Metric collections](../metrics/README.md), with
+separate readable views for the corrected study and historical empty-gloss runs.
 
 ## Reading Order
 
@@ -19,8 +21,8 @@ New to the repository? Start with the short [file guide](FILE_GUIDE.md).
 7. [Statistical summary](significance_summary.tsv): test counts, not independent discoveries.
 8. [Audit manifest](audit.json): SHA256 values and validation boundaries.
 
-See [verification details](VERIFICATION.md) for tests and rendered checks, and
-[the supervisor update](SUPERVISOR_UPDATE.md) for a short English explanation.
+See [verification details](VERIFICATION.md) for tests and rendered checks.
+Methodological corrections are documented in the thesis guide.
 
 The figures display record coverage, not translation accuracy. Empty responses
 are shown explicitly. This is the corrected matrix; historical matched_v1 images
@@ -90,5 +92,5 @@ identities and writes this directory's derived tables, audit and figures.
 Only small verification tests use synthetic data; delivered tables use real results.
 
 Historical MTOB results remain a separate supplement. The existing MTOB/GRAMMAMT
-comparison uses matched_v1, not these corrected baselines. No GitHub push or
-external publication is included. Do not package secrets, environments or caches.
+comparison uses matched_v1, not these corrected baselines. Rebuild commands do
+not publish anything. Do not package secrets, environments or caches.

@@ -5,7 +5,7 @@ reporting. The separate scorer was submitted as job **5798139** on 19 September
 2026, with dependency `afterok:5798036`. It **completed successfully in 05:57:03**.
 All 351 conditions were scored; subsequent XXL analysis 5798146 also completed.
 Do not label XL scores as XXL. See `xcomet_xxl_submission.json` for the historical
-submission receipt and [the final audit](../../thesis/COMPLETION_AUDIT.md) for completion.
+submission receipt and [the final audit](../../grammar_context_evaluation/COMPLETION_AUDIT.md) for completion.
 
 The new scorer reads the frozen `matched_gold_v2` predictions and validates all
 351 conditions, including actual prompt evidence, before loading any model. It

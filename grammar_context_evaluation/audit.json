@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-09-22T17:58:54.178387+00:00",
+  "timestamp_utc": "2026-09-22T18:52:55.735395+00:00",
   "family": "matched_gold_v2",
   "conditions": 351,
   "records": 40731,
@@ -1532,7 +1532,7 @@
     "metrics/matched_gold_v2/qwen3/tsez/grammar/original/shot_summary_text_txt.json": "de46a627d238a354448df68a0aa22372799ba72dd46214dd8a527f39887d12f0",
     "metrics/matched_gold_v2_xcomet_xxl/qwen3/tsez/grammar/original/shot_summary_text_txt.json": "f1355852ed336ded7e1eb6c755ed00258413589dfc04f09865436bf0cbb20bec"
   },
-  "code_sha256": "3f896592b0bbcc171bdabeacbfc161f8bb9a06cb99adb30e2a1c4f3bd98189ab",
+  "code_sha256": "0c7caecd991de108dba64b14af213b87e39ff532be8f2d7fd72528c97af85b18",
   "statistical_summary": [
     {
       "analysis": "native",

@@ -2,7 +2,7 @@
 
 Final status: job **5798146 completed successfully in 00:02:05** after scorer
 5798139. All 351 conditions and 846 planned comparisons are represented.
-See [the final audit](../../thesis/COMPLETION_AUDIT.md). Lezgi 87-row significance remains
+See [the final audit](../../grammar_context_evaluation/COMPLETION_AUDIT.md). Lezgi 87-row significance remains
 reference-contaminated; the final 84/83-row sensitivities are descriptive only.
 
 This analysis uses the existing sentence-level XXL scores. It loads no model,

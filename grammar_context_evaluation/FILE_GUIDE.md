@@ -5,7 +5,7 @@
 | Question | File |
 | --- | --- |
 | What was tested and what can I claim? | [Thesis guide](../THESIS_GUIDE.md) |
-| What changed and why? | [Supervisor update](SUPERVISOR_UPDATE.md) |
+| What corrections were made and why? | [Methods and limitations](../THESIS_GUIDE.md) |
 | Are the main experiments complete? | [Completion audit](COMPLETION_AUDIT.md) |
 | Which scores should I use? | [Recommended scores](thesis_scores.tsv) |
 | Where is each condition's evidence? | [Condition catalog](condition_catalog.tsv) |
@@ -17,7 +17,7 @@
 
 The main study contains 351 conditions. MTOB's 30 conditions are separate.
 Historical experiments and smoke tests are not extra conditions in the main
-matrix. Luna is excluded. Technical folder names outside thesis/ preserve
+matrix. Luna is excluded. Technical folder names outside grammar_context_evaluation/ preserve
 recorded experiment identifiers and paths, not different versions of the final
 score table.
 

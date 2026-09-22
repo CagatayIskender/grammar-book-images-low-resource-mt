@@ -19,7 +19,7 @@ from analyze_gold_v2_xcomet_xl import verify_metric
 from sacrebleu.metrics import BLEU, CHRF
 from PIL import Image, ImageDraw, ImageFont
 
-OUT = ROOT / 'thesis'
+OUT = ROOT / 'grammar_context_evaluation'
 MODELS = ['qwen3', 'qwen35', 'gemini25flashlite']
 NAMES = ['Qwen3-VL-8B', 'Qwen3.5-9B', 'Gemini 2.5 Flash Lite']
 METHODS = ['shot', 'chain_gloss', 'modelgloss']
@@ -228,7 +228,7 @@ def figures(conditions, analyses):
     for i,line in enumerate(('21 gold-glossed training supports in every condition. Test gold gloss is not a target input.',
         'Tsez: Qwen 445 rows; Gemini first 99. Gitksan sources share one baseline per model/method.',
         'Lezgi: 87 generated rows include 3 invalid references; use separately labelled 84/83-row sensitivity tables.',
-        'Source: thesis/condition_catalog.tsv and thesis/audit.json. Luna and MTOB are outside this matrix.')):
+        'Source: grammar_context_evaluation/condition_catalog.tsv and grammar_context_evaluation/audit.json. Luna and MTOB are outside this matrix.')):
         text(d,(35,y+i*33,2270,32),line,21)
     save_figure(image,directory/'experiment_matrix_detailed')
     image=Image.new('RGB',(1550,740),'white');d=ImageDraw.Draw(image)
@@ -245,7 +245,7 @@ def figures(conditions, analyses):
     for i,line in enumerate(('Complete coverage is not a claim that all model responses are successful.',
         'Full-cohort statistical tests are complete; Lezgi reference-quality limits remain explicit.',
         'No universal performance gain is established. Nonsignificance is not equivalence.',
-        'Source: thesis/audit.json. English handover; historical studies are not pooled.')):
+        'Source: grammar_context_evaluation/audit.json. English handover; historical studies are not pooled.')):
         text(d,(35,520+i*42,1465,38),line,23)
     save_figure(image,directory/'experiment_matrix_overview')
 

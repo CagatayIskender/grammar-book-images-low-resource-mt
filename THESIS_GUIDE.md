@@ -10,17 +10,18 @@ Production, XL/XXL scoring and all planned statistical jobs completed successful
 The handover is **ready to share with the explicit limitations below**.
 Complete records do not mean that every model produced a successful translation.
 
-- [Final handover index](thesis/README.md)
-- [Final completion and comparability audit](thesis/COMPLETION_AUDIT.md)
-- [Overview matrix](thesis/figures/experiment_matrix_overview.jpg)
-- [Detailed matrix, PDF](thesis/figures/experiment_matrix_detailed.pdf)
-- [Print-friendly six-page matrix](thesis/figures/experiment_matrix_appendix.pdf)
-- [Condition catalog and artifact paths](thesis/condition_catalog.tsv)
-- [Recommended thesis score table](thesis/thesis_scores.tsv)
-- [Frozen full-cohort score table](thesis/scores.tsv)
-- [Statistical output summary](thesis/significance_summary.tsv)
-- [Lezgi descriptive sensitivity scores](thesis/lezgi_sensitivity_scores.tsv)
-- [Final input hashes and audit scope](thesis/audit.json)
+- [Final handover index](grammar_context_evaluation/README.md)
+- [Final completion and comparability audit](grammar_context_evaluation/COMPLETION_AUDIT.md)
+- [Overview matrix](grammar_context_evaluation/figures/experiment_matrix_overview.jpg)
+- [Detailed matrix, PDF](grammar_context_evaluation/figures/experiment_matrix_detailed.pdf)
+- [Print-friendly six-page matrix](grammar_context_evaluation/figures/experiment_matrix_appendix.pdf)
+- [Condition catalog and artifact paths](grammar_context_evaluation/condition_catalog.tsv)
+- [Recommended thesis score table](grammar_context_evaluation/thesis_scores.tsv)
+- [Frozen full-cohort score table](grammar_context_evaluation/scores.tsv)
+- [Statistical output summary](grammar_context_evaluation/significance_summary.tsv)
+- [Lezgi descriptive sensitivity scores](grammar_context_evaluation/lezgi_sensitivity_scores.tsv)
+- [Final input hashes and audit scope](grammar_context_evaluation/audit.json)
+- [Metric collections: current, historical and pilot studies](metrics/README.md)
 
 These replace historical matched_v1 completion claims for primary thesis reporting.
 No new translations, changed prompts or paid API calls are needed to read these artifacts.
@@ -332,8 +333,8 @@ lexical scores, and writes only final derived artifacts. It does not submit jobs
 The older scripts/build_thesis_overview.py targets matched_v1, not this final matrix.
 
 Keep credentials, environment files, caches, virtual environments and personal
-shell configuration out of the shareable package. No GitHub push is included in
-this update. Do not translate or alter frozen language forms, references or predictions.
+shell configuration out of the shareable package. Rebuild commands do not publish
+anything. Do not translate or alter frozen language forms, references or predictions.
 
 Writing can proceed using the final package. Report Lezgi sensitivities descriptively;
 do not attach invalid-reference p-values to cleaned cohorts. A future confirmatory

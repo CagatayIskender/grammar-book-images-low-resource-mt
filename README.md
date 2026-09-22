@@ -5,8 +5,8 @@ The guide links the visual experiment matrix and final condition status.
 
 ## Start Here
 
-For thesis writing, open **[thesis/](thesis/README.md)**. It contains the final
-tables, figures, completion audit and supervisor summary. Read
+For thesis writing, open **[grammar_context_evaluation/](grammar_context_evaluation/README.md)**. It contains the final
+tables, figures and completion audit. Read
 **[THESIS_GUIDE.md](THESIS_GUIDE.md)** for the methods and reporting limitations.
 
 The remaining folders support reproducibility: `configs/` holds settings,
@@ -21,7 +21,7 @@ study. You do not need to browse historical folders to find the final tables.
 The primary thesis family is **matched_gold_v2**, completed in September 2026:
 Qwen3, Qwen3.5 and Gemini each have 117/117 conditions, with gold-glossed training
 supports, XCOMET-XL/XXL scores and paired statistical analyses. Luna is excluded.
-Use the [final handover](thesis/README.md), including matrices,
+Use the [final handover](grammar_context_evaluation/README.md), including matrices,
 artifact paths and reference-quality qualifications. Complete coverage is not a
 claim of universal improvement or error-free model output.
 
@@ -31,7 +31,7 @@ are handled in explicitly labelled 84/83-row descriptive sensitivity tables.
 
 For the current thesis comparisons, start with the
 [corrected protocol](docs/matched_gold_v2/README.md) and its
-[final condition catalog](thesis/condition_catalog.tsv).
+[final condition catalog](grammar_context_evaluation/condition_catalog.tsv).
 Tsez uses 445 examples for Qwen3/Qwen3.5 and the same first 99 for Gemini;
 cross-model analysis uses the common 99. Luna belongs to historical work only.
 The matched family fixes prompts and decoding across materials within each
@@ -42,6 +42,11 @@ materials, model, language, condition, dataset count, job, result and metric pat
 Machine-readable configurations live in `configs/experiments/`.
 
 ## Directory Guide
+
+For score files, start with [Metric collections](metrics/README.md):
+`metrics/gold_gloss_supports/` contains readable views of the corrected scores;
+`metrics/historical_studies/` and `metrics/pilot_tests/` distinguish earlier work.
+The links preserve frozen paths and hashes; they do not duplicate the data.
 
 | Directory | Purpose |
 | --- | --- |
