@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "conditions": 234,
+  "gold_alignment": true,
+  "original_files": 8153,
+  "lock_sha256": "242745d514a96fff4a902e4f56f84b22befa2c00ee857ace929473b82549bee7",
+  "original_hashes_sha256": "4952f1086444584d2930edfc7b76d589520a6562ceda763063134020c6760e2b"
+}

@@ -13,11 +13,13 @@ and ModelGloss translation. The current primary study is **matched_gold_v2**:
 | Recommended score table | [thesis_scores.tsv](reports/matched_gold_v2/thesis_scores.tsv) |
 | Exact evidence paths for all 351 conditions | [condition_catalog.tsv](reports/matched_gold_v2/condition_catalog.tsv) |
 | Folder and version explanations | [Repository structure](docs/REPOSITORY_STRUCTURE.md) |
+| Retained supplementary diagnostics and masked inference | [Additional-study handoff](experiments/additional_v1/EXPERIMENT_HANDOFF.md) |
 
 Coverage, scoring and planned analyses are complete. This does **not** mean all
 outputs are valid translations or grammar consistently improves performance.
-Lezgi's 84/83-row reference-quality sensitivities are descriptive; do not attach
-87-row significance tests to those filtered scores. Read the thesis guide first.
+The primary Lezgi sensitivity tables are descriptive. Separate post-hoc Qwen-only
+84/83-row cluster-bootstrap tests are in the additional study; do not attach
+87-row significance tests to filtered scores. Read the thesis guide first.
 
 ## Which Version?
 
@@ -27,6 +29,7 @@ Lezgi's 84/83-row reference-quality sensitivities are descriptive; do not attach
 | matched_v1 | Historical matched study: support gloss fields were empty |
 | curated_v1, chain_gloss_v2, baseline, legacy, smoke | Earlier material, repair, baseline or pilot experiments |
 | experiments/mtob | Separate Ge/Gs/Gl supplementary study, not part of the 351 conditions |
+| experiments/additional_v1 | Retained supplement: 37 Qwen3 conditions plus historical Qwen analyses; new Qwen3.5 generation excluded |
 
 Version numbers are local to an experiment family. In particular, chain_gloss_v2
 is not matched_gold_v2. XCOMET-XXL is an additional evaluator of the same current

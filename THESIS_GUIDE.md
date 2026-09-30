@@ -22,6 +22,7 @@ Complete records do not mean that every model produced a successful translation.
 - [Lezgi descriptive sensitivity scores](reports/matched_gold_v2/lezgi_sensitivity_scores.tsv)
 - [Final input hashes and audit scope](reports/matched_gold_v2/audit.json)
 - [Metric collections](metrics/README.md)
+- [Retained post-hoc Qwen diagnostics and masked analyses](experiments/additional_v1/EXPERIMENT_HANDOFF.md)
 
 Use only matched_gold_v2 for the primary-study findings. Within
 `metrics/matched_gold_v2/`, `lexical_and_xcomet_xl/` and `xcomet_xxl/` evaluate
@@ -135,14 +136,41 @@ They are not valid English references and are distinct from failed model outputs
 - Retain all model failures among the retained rows. Do not invent references.
 - Recompute lexical scores from the same predictions and average matching XL/XXL
   sentence scores. No new translation or COMET inference is needed.
-- These are post hoc descriptive sensitivities. **No filtered-cohort p-values
-  were computed; 87-row p-values must not be attached to 84/83-row tables.**
+- The primary delivery contained descriptive sensitivities only. Separate post-hoc
+  Qwen-only filtered tests are now in `experiments/additional_v1/reports/B_comparisons.tsv`,
+  using source-cluster bootstrap and their own Holm families, not the primary
+  sentence-bootstrap procedure. No additional Gemini filtered tests were run.
+  **Never attach 87-row p-values to 84/83-row tables.**
 - Full-cohort Lezgi significance is reference-contaminated and is not confirmatory
-  evidence of grammar improvement. Conclusions about Lezgi should remain descriptive.
+  evidence of grammar improvement. Distinguish descriptive sensitivities from
+  separately labelled post-hoc Qwen inference.
 
 The 87-row dataset has 85 distinct sources and 86 distinct source/reference pairs.
 Sentence bootstrap is not cluster-bootstrap; repeated linguistic items are not
 fully independent. Removing one known overlap does not certify leakage-free evaluation.
+
+## Retained Additional Study
+
+`experiments/additional_v1` is a separate post-hoc supplement, not an expansion of
+the primary 351-condition matrix. Read its
+[handoff](experiments/additional_v1/EXPERIMENT_HANDOFF.md) and
+[verified findings](experiments/additional_v1/publication/FINDINGS.md).
+
+- Retained generation: 37 complete Qwen3 conditions, 6,049 sentence-condition
+  records. All 192 truncated/empty responses remain in scoring denominators.
+- Lexical and XL/XXL scores cover all 37 retained conditions. No XCOMET
+  significance tests were performed.
+- Planned new Qwen3.5 generation failed before producing predictions due to the
+  wrong environment and is excluded. Do not claim a complete two-model supplement.
+- Completed A/B/C analyses of historical Qwen3/Qwen3.5 results remain valid within
+  their stated scope and do not depend on new Qwen3.5 generation.
+- F (512/1024 budget) and G (gold/predicted gloss) remain descriptive: their planned
+  two-model inference families are incomplete and were not reduced after results.
+- I uses three seeds on four selected Qwen3 context/baseline pairs, not the full
+  matrix. Gold oracle is not a guaranteed upper bound. Weak budget effects and
+  mixed oracle effects do not establish universal translation improvements.
+- Original plans disclose planned versus retained scope. Unexecuted human-review,
+  matched-content, Gemini and MTOB extensions are not completed findings.
 
 ## Relationship to GRAMMAMT
 

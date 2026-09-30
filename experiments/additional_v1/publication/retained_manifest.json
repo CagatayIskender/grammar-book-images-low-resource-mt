@@ -1,0 +1,648 @@
+{
+  "status": "validated_retained_scope",
+  "conditions": [
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "cd8cc62f7306ea9e8e63e4edaac8eb778874d52d3c4276770f2a82b4be1e3b85",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "54c3690d88c4d053ce42b590ab08733726d96243a7ede1dc13aab1694600d8cd",
+      "owner_group": "G_qwen3_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "cd8cc62f7306ea9e8e63e4edaac8eb778874d52d3c4276770f2a82b4be1e3b85",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "5f9530ee197f75153154e2e0717c9e5adf2e34b15695498a2751c0f560758e83",
+      "owner_group": "G_qwen3_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "0bbd644b021421be5bae928c105a13b1e61a75a780687ee5c7b1ea3afc40f668",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "92bfa95bf08bdb375c51568d441f9c5788df3048ced59680c1246b83b2d20416",
+      "owner_group": "F_qwen3_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "0bbd644b021421be5bae928c105a13b1e61a75a780687ee5c7b1ea3afc40f668",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "aa802f07dd149a05fdd194914593c0b5213fc9abc219be289368c2efaa28a0fd",
+      "owner_group": "F_qwen3_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "f5604bb163c535330cd23340b606a9a3b63b966f3fe84cd8e3b48893e57ae09b",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "020368e47963091122196a568b5a966fe7b485ea819ace6928b0227aaf48b6ef",
+      "owner_group": "G_qwen3_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "f5604bb163c535330cd23340b606a9a3b63b966f3fe84cd8e3b48893e57ae09b",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "58004b211127fd488e1c9f0043905bb7e5900db3c49229923ac334d522f81f25",
+      "owner_group": "G_qwen3_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "a31db6169329d3d36cc7618e53de5884f51f7be879556dda26e73d46ae713003",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "1daaa5a10547eff9c86dd1c03f319fa1978bbd78be9404a32fbda28c141bf4e3",
+      "owner_group": "F_qwen3_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "a31db6169329d3d36cc7618e53de5884f51f7be879556dda26e73d46ae713003",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "856997218f225de91cd1ebb94baf6baba94e832380d3575b530e340c288b4739",
+      "owner_group": "F_qwen3_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "42a3b2cb0e93da8d945b2fe2b5ce6f75b85e370718a7338c7f936b26341d479a",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "202e36daef7185ed5ea35b583105160a1d95c5a41aa438978013762e3b274729",
+      "owner_group": "G_qwen3_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "42a3b2cb0e93da8d945b2fe2b5ce6f75b85e370718a7338c7f936b26341d479a",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "f7ccea5818808f77e002d49beacc8d92805479ef7e9f02390a572cedf896f948",
+      "owner_group": "G_qwen3_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "96e8c17b75e2f14ff803294692f5d65051528798032d9138dc86a4249a0250a1",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "c24f363fe0c36d34f78c5d9bdde633659b132804df96d7df836e2e481b036a0e",
+      "owner_group": "F_qwen3_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "96e8c17b75e2f14ff803294692f5d65051528798032d9138dc86a4249a0250a1",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "09e96641cc77defd12ee6b160ccf453eb92ac48756384bfd83c54170777d480d",
+      "owner_group": "F_qwen3_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "06573566275bee2e54e99750dc33490bac0fb8ff43c05431490feefef445b481",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "a822a15bae97e5683d544704cd79ca51fc4537b94f15333bb7de566fa648f749",
+      "owner_group": "G_qwen3_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "06573566275bee2e54e99750dc33490bac0fb8ff43c05431490feefef445b481",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "dedcb1001b1cff00a7ff45bfd44fc8015167e4780d6b0502023c5832e11a6564",
+      "owner_group": "G_qwen3_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "5ba4b0396092f3d6175beddab16280cf1f16c00cd593c2baea965a6f8a436d04",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "e66df3d214c2fc1078c82c438034e92d3131ceb50a101645288b62a6deeec63d",
+      "owner_group": "F_qwen3_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "5ba4b0396092f3d6175beddab16280cf1f16c00cd593c2baea965a6f8a436d04",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "5d63090571d5aaab69c36a8b0f11f70736a113029cf613983d3a92f21c42c4c8",
+      "owner_group": "F_qwen3_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_shot_baseline.json",
+      "parent_sha256": "d58994ebe1b8f7f431577d2699cf44f569b0e6fc85a92e487be70524109e2a5b",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_shot_baseline_s20260910_t512",
+      "fingerprint": "1209a0cb93f9b58da5c161d4de4660cf9a7cf1252562192518a63dad152a1eb8",
+      "owner_group": "I_qwen3_gitksan_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt.json",
+      "parent_sha256": "cd305129a614c1f51a7463369d9d81f12fd022d7bc49ca93f8391424617fc1fb",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260910_t512",
+      "fingerprint": "884d30796a52e0674bcce25aa6d5d482ad7e18a1f5103e485679d2a5b6009850",
+      "owner_group": "I_qwen3_gitksan_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_shot_baseline.json",
+      "parent_sha256": "d58994ebe1b8f7f431577d2699cf44f569b0e6fc85a92e487be70524109e2a5b",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_shot_baseline_s20260925_t512",
+      "fingerprint": "cfd8f5bbb54e1d127cb83226950d1a1073266cceb68ab71a733a57f4ef730705",
+      "owner_group": "I_qwen3_gitksan_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt.json",
+      "parent_sha256": "cd305129a614c1f51a7463369d9d81f12fd022d7bc49ca93f8391424617fc1fb",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260925_t512",
+      "fingerprint": "ea93f3ed5e0eb4a643c6d9ba0e70895950e96ecbbdc12231939387d02a8b499f",
+      "owner_group": "I_qwen3_gitksan_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_shot_baseline.json",
+      "parent_sha256": "d58994ebe1b8f7f431577d2699cf44f569b0e6fc85a92e487be70524109e2a5b",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_shot_baseline_s20261001_t512",
+      "fingerprint": "c555ce02bd9e9c0101c472f9940ad34b6b7e447a90fe3734496cd88bc501be52",
+      "owner_group": "I_qwen3_gitksan_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt.json",
+      "parent_sha256": "cd305129a614c1f51a7463369d9d81f12fd022d7bc49ca93f8391424617fc1fb",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20261001_t512",
+      "fingerprint": "0c9dd782807f32313e8205439f6a612c8bfd417b6b831de35dd1b4db21b53124",
+      "owner_group": "I_qwen3_gitksan_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "parent_sha256": "9c4ed8fd620e6584fe8557612226aafce6b750d069c2688671fa68573dce8491",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260910_t512",
+      "fingerprint": "630f5b62e4cc8f867bcfefc739e860e23d21881f7b0a507af546c755e53aee46",
+      "owner_group": "I_qwen3_lezgi_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "a31db6169329d3d36cc7618e53de5884f51f7be879556dda26e73d46ae713003",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260925_t512",
+      "fingerprint": "77dec23fda3bc3692dbf9f3270874a3ba77d033c66b5ecdbe92f514466f008a8",
+      "owner_group": "I_qwen3_lezgi_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "parent_sha256": "9c4ed8fd620e6584fe8557612226aafce6b750d069c2688671fa68573dce8491",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260925_t512",
+      "fingerprint": "343a116eb19ef0ccd45734abc4b5b01b7500fc39c78bf850690323d6d7401c60",
+      "owner_group": "I_qwen3_lezgi_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "a31db6169329d3d36cc7618e53de5884f51f7be879556dda26e73d46ae713003",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20261001_t512",
+      "fingerprint": "4f53cc8f3f88c358da57afde0cb3456b50745c3a44fa97182cbf273168951542",
+      "owner_group": "I_qwen3_lezgi_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "parent_sha256": "9c4ed8fd620e6584fe8557612226aafce6b750d069c2688671fa68573dce8491",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20261001_t512",
+      "fingerprint": "75a43ae854ed20ececa0e3d83cee9039d57623e1de1e0e488f22521c5bb807a6",
+      "owner_group": "I_qwen3_lezgi_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "parent_sha256": "6851ddd788191ddcbf8f5cf43ca718e509dc747af2f9c533235a6d41f95d8709",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260910_t512",
+      "fingerprint": "4bb99148b408d9f63351feea20cea75f82cfaa2db1989ea7e3455975591dc991",
+      "owner_group": "I_qwen3_natugu_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "42a3b2cb0e93da8d945b2fe2b5ce6f75b85e370718a7338c7f936b26341d479a",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_baseline_s20260925_t512",
+      "fingerprint": "4d1b4a854109124ffff2edcb63c3bfcf810044fb459174e5754feb0ec8eaae43",
+      "owner_group": "I_qwen3_natugu_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "parent_sha256": "6851ddd788191ddcbf8f5cf43ca718e509dc747af2f9c533235a6d41f95d8709",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260925_t512",
+      "fingerprint": "5e33a6b9e4528afef5dc3aec693cf46f12914df7e1bcefd4348380022537f33e",
+      "owner_group": "I_qwen3_natugu_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "42a3b2cb0e93da8d945b2fe2b5ce6f75b85e370718a7338c7f936b26341d479a",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_baseline_s20261001_t512",
+      "fingerprint": "d523647a72f83973fca59a8342e210f55a73fa1077bb381ae58d82dafdd3a76b",
+      "owner_group": "I_qwen3_natugu_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "parent_sha256": "6851ddd788191ddcbf8f5cf43ca718e509dc747af2f9c533235a6d41f95d8709",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20261001_t512",
+      "fingerprint": "0f2457e7d43e3594cd1665dcd7ae135c5e3589a3d71f0eb120d5d43c96f4b776",
+      "owner_group": "I_qwen3_natugu_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_summary_text_txt.json",
+      "parent_sha256": "f857b7f37cd2ee4311970aa279908bb8d85c71b532454a3285c34c7157eab0df",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20260910_t512",
+      "fingerprint": "8bd2fc41250559f1866d4bb2c66ffdca0b47e67748299d06fe4ec584e23bc011",
+      "owner_group": "I_qwen3_tsez_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "5ba4b0396092f3d6175beddab16280cf1f16c00cd593c2baea965a6f8a436d04",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260925_t512",
+      "fingerprint": "18e4df826f57aee2ab8220d41fe61c225cdfe4ac89de34faabd15a74b29873a3",
+      "owner_group": "I_qwen3_tsez_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_summary_text_txt.json",
+      "parent_sha256": "f857b7f37cd2ee4311970aa279908bb8d85c71b532454a3285c34c7157eab0df",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20260925_t512",
+      "fingerprint": "e6c2492011604c82fc43f260dfed7f52eb87c047620b252488719c279c7975f2",
+      "owner_group": "I_qwen3_tsez_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "5ba4b0396092f3d6175beddab16280cf1f16c00cd593c2baea965a6f8a436d04",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20261001_t512",
+      "fingerprint": "ca7980f2c937ee4ce10d3f3038af6be9c991009d3b3b6ecfdf94c1d8152511d9",
+      "owner_group": "I_qwen3_tsez_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_summary_text_txt.json",
+      "parent_sha256": "f857b7f37cd2ee4311970aa279908bb8d85c71b532454a3285c34c7157eab0df",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20261001_t512",
+      "fingerprint": "8f0dd8dda1524a64db4c7ee722caace9a546367dd986dae9c53e9b744d989ce6",
+      "owner_group": "I_qwen3_tsez_20261001"
+    }
+  ],
+  "condition_count": 37,
+  "counts": {
+    "records": 6049,
+    "empty": 192,
+    "truncated": 192
+  },
+  "original_scientific_files_verified": 6808,
+  "original_scientific_changes": [],
+  "original_planned_conditions": 74,
+  "excluded_conditions": 37,
+  "exclusion_reason": "All new Qwen3.5 jobs failed before generation because the wrong environment was activated.",
+  "statistical_policy": "Keep completed A/B families; F/G descriptive only with original incomplete families disclosed; I descriptive.",
+  "no_new_generation": true,
+  "no_new_hypothesis_tests": true
+}

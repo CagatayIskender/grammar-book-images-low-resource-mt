@@ -1,0 +1,127 @@
+{
+  "audit": {
+    "path": "experiments/additional_v1/jobs/audit.sh",
+    "gpu_count": 0,
+    "hours": 2
+  },
+  "analysis_A": {
+    "path": "experiments/additional_v1/jobs/analysis_A.sh",
+    "gpu_count": 0,
+    "hours": 5
+  },
+  "analysis_B": {
+    "path": "experiments/additional_v1/jobs/analysis_B.sh",
+    "gpu_count": 0,
+    "hours": 5
+  },
+  "inputs_qwen3": {
+    "path": "experiments/additional_v1/jobs/inputs_qwen3.sh",
+    "gpu_count": 0,
+    "hours": 3
+  },
+  "inputs_qwen35": {
+    "path": "experiments/additional_v1/jobs/inputs_qwen35.sh",
+    "gpu_count": 0,
+    "hours": 3
+  },
+  "G_qwen3_gitksan": {
+    "path": "experiments/additional_v1/jobs/G_qwen3_gitksan.sh",
+    "gpu_count": 1,
+    "hours": 4
+  },
+  "F_qwen3_gitksan": {
+    "path": "experiments/additional_v1/jobs/F_qwen3_gitksan.sh",
+    "gpu_count": 1,
+    "hours": 4
+  },
+  "G_qwen3_lezgi": {
+    "path": "experiments/additional_v1/jobs/G_qwen3_lezgi.sh",
+    "gpu_count": 1,
+    "hours": 6
+  },
+  "F_qwen3_lezgi": {
+    "path": "experiments/additional_v1/jobs/F_qwen3_lezgi.sh",
+    "gpu_count": 1,
+    "hours": 6
+  },
+  "G_qwen3_natugu": {
+    "path": "experiments/additional_v1/jobs/G_qwen3_natugu.sh",
+    "gpu_count": 1,
+    "hours": 6
+  },
+  "F_qwen3_natugu": {
+    "path": "experiments/additional_v1/jobs/F_qwen3_natugu.sh",
+    "gpu_count": 1,
+    "hours": 6
+  },
+  "G_qwen3_tsez": {
+    "path": "experiments/additional_v1/jobs/G_qwen3_tsez.sh",
+    "gpu_count": 1,
+    "hours": 10
+  },
+  "F_qwen3_tsez": {
+    "path": "experiments/additional_v1/jobs/F_qwen3_tsez.sh",
+    "gpu_count": 1,
+    "hours": 10
+  },
+  "I_qwen3_gitksan_20260910": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_gitksan_20260910.sh",
+    "gpu_count": 1,
+    "hours": 4
+  },
+  "I_qwen3_gitksan_20260925": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_gitksan_20260925.sh",
+    "gpu_count": 1,
+    "hours": 4
+  },
+  "I_qwen3_gitksan_20261001": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_gitksan_20261001.sh",
+    "gpu_count": 1,
+    "hours": 4
+  },
+  "I_qwen3_lezgi_20260910": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_lezgi_20260910.sh",
+    "gpu_count": 1,
+    "hours": 6
+  },
+  "I_qwen3_lezgi_20260925": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_lezgi_20260925.sh",
+    "gpu_count": 1,
+    "hours": 6
+  },
+  "I_qwen3_lezgi_20261001": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_lezgi_20261001.sh",
+    "gpu_count": 1,
+    "hours": 6
+  },
+  "I_qwen3_natugu_20260910": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_natugu_20260910.sh",
+    "gpu_count": 1,
+    "hours": 6
+  },
+  "I_qwen3_natugu_20260925": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_natugu_20260925.sh",
+    "gpu_count": 1,
+    "hours": 6
+  },
+  "I_qwen3_natugu_20261001": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_natugu_20261001.sh",
+    "gpu_count": 1,
+    "hours": 6
+  },
+  "I_qwen3_tsez_20260910": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_tsez_20260910.sh",
+    "gpu_count": 1,
+    "hours": 10
+  },
+  "I_qwen3_tsez_20260925": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_tsez_20260925.sh",
+    "gpu_count": 1,
+    "hours": 10
+  },
+  "I_qwen3_tsez_20261001": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_tsez_20261001.sh",
+    "gpu_count": 1,
+    "hours": 10
+  }
+}

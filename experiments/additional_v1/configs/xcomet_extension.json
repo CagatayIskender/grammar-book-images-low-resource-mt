@@ -1,0 +1,33 @@
+{
+  "models": {
+    "xl": {
+      "model": "Unbabel/XCOMET-XL",
+      "revision": "6a123c5e8e6dccab25e5fcffa3c8b417abadb462",
+      "checkpoint": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Unbabel--XCOMET-XL/snapshots/6a123c5e8e6dccab25e5fcffa3c8b417abadb462/checkpoints/model.ckpt"
+    },
+    "xxl": {
+      "model": "Unbabel/XCOMET-XXL",
+      "revision": "873bac1b1c461e410c4a6e379f6790d3d1c7c214",
+      "checkpoint": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Unbabel--XCOMET-XXL/snapshots/873bac1b1c461e410c4a6e379f6790d3d1c7c214/checkpoints/model.ckpt"
+    }
+  },
+  "jobs": {
+    "xl": {
+      "path": "experiments/additional_v1/jobs/score_xcomet_xl.sh",
+      "hours": 5,
+      "gpu_count": 1,
+      "script_sha256": "626683d2ce5a34474e78362e06f3108bc4a5c14640bd540bf7c8520b94e0ec4e"
+    },
+    "xxl": {
+      "path": "experiments/additional_v1/jobs/score_xcomet_xxl.sh",
+      "hours": 5,
+      "gpu_count": 1,
+      "script_sha256": "6ab07c65d7389f3394a0cc49a759a87f889f9aca9997e5401e586103d5d1e35a"
+    }
+  },
+  "plan_sha256": "f11be74deb7fe26b590c43923db1f69ac40578f41bc1ea0a97c53c0bc1e1aa5d",
+  "scorer_sha256": "e10dc04b868b9ac87ffe7ced03cfc2e1066f3a6304f3c6c8299e21374cc1f548",
+  "dependency_policy": "afterany all generation jobs; score only complete validated conditions",
+  "original_suite_unchanged": true,
+  "significance": "No XCOMET significance tests in this extension"
+}

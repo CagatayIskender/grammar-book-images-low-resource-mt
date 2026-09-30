@@ -1,0 +1,202 @@
+{
+  "audit": {
+    "path": "experiments/additional_v1/jobs/audit.sh",
+    "gpu_count": 0,
+    "hours": 2,
+    "job_id": 5810959,
+    "dependency": null,
+    "script_sha256": "1f9c70de7600bdf1ceef70e8a0d370e808b7f2094df068b3dba6f96a4e887139"
+  },
+  "analysis_A": {
+    "path": "experiments/additional_v1/jobs/analysis_A.sh",
+    "gpu_count": 0,
+    "hours": 5,
+    "job_id": 5810960,
+    "dependency": "afterok:5810959",
+    "script_sha256": "686a4673936e4935c76b22240f550e93185c6fb74e068de301cf48fcd8c52614"
+  },
+  "analysis_B": {
+    "path": "experiments/additional_v1/jobs/analysis_B.sh",
+    "gpu_count": 0,
+    "hours": 5,
+    "job_id": 5810961,
+    "dependency": "afterok:5810959",
+    "script_sha256": "56a0595ae67bc5f3b593141d96bad6370a4efe050449c18b2e2596a6b2020400"
+  },
+  "inputs_qwen3": {
+    "path": "experiments/additional_v1/jobs/inputs_qwen3.sh",
+    "gpu_count": 0,
+    "hours": 3,
+    "job_id": 5810962,
+    "dependency": "afterok:5810959",
+    "script_sha256": "b5760590235c25979a594b0e5039a52a6cf1bc51aed1008178806b15c820b6ef"
+  },
+  "inputs_qwen35": {
+    "path": "experiments/additional_v1/jobs/inputs_qwen35.sh",
+    "gpu_count": 0,
+    "hours": 3,
+    "job_id": 5810963,
+    "dependency": "afterok:5810959",
+    "script_sha256": "4aa6edb2acfa329ff51bb375fdad503c9c874178d97e79af03354b0d5b4fd62f"
+  },
+  "G_qwen3_gitksan": {
+    "path": "experiments/additional_v1/jobs/G_qwen3_gitksan.sh",
+    "gpu_count": 1,
+    "hours": 4,
+    "job_id": 5810964,
+    "dependency": "afterok:5810959",
+    "script_sha256": "2ea7ae6059af6593262755465782e3467cd50e02dfad4d08eb152527c992a6bc"
+  },
+  "F_qwen3_gitksan": {
+    "path": "experiments/additional_v1/jobs/F_qwen3_gitksan.sh",
+    "gpu_count": 1,
+    "hours": 4,
+    "job_id": 5810965,
+    "dependency": "afterok:5810959",
+    "script_sha256": "ad872c5de1a753d8413f58e8ff709684fee7764ad4ada6b7b5b4fe24b1ec4f6f"
+  },
+  "G_qwen3_lezgi": {
+    "path": "experiments/additional_v1/jobs/G_qwen3_lezgi.sh",
+    "gpu_count": 1,
+    "hours": 6,
+    "job_id": 5810966,
+    "dependency": "afterok:5810959",
+    "script_sha256": "2d50fb30724a7bfd8eef3cb16e49039e2d14717c35d693c58c6a9217df6f65d5"
+  },
+  "F_qwen3_lezgi": {
+    "path": "experiments/additional_v1/jobs/F_qwen3_lezgi.sh",
+    "gpu_count": 1,
+    "hours": 6,
+    "job_id": 5810967,
+    "dependency": "afterok:5810959",
+    "script_sha256": "2c7e10ba5e34da0e939f10642566c53e8a0a1ee0dcb88cb50f2b23376f40c3a6"
+  },
+  "G_qwen3_natugu": {
+    "path": "experiments/additional_v1/jobs/G_qwen3_natugu.sh",
+    "gpu_count": 1,
+    "hours": 6,
+    "job_id": 5810968,
+    "dependency": "afterok:5810959",
+    "script_sha256": "e3d117ef38597c96a3e88d03f713c0f5510aa5f861251de9e31c6508f9bc31ed"
+  },
+  "F_qwen3_natugu": {
+    "path": "experiments/additional_v1/jobs/F_qwen3_natugu.sh",
+    "gpu_count": 1,
+    "hours": 6,
+    "job_id": 5810969,
+    "dependency": "afterok:5810959",
+    "script_sha256": "53ffb05eb3879042b7df3f52b5c80ab7c7caa958f4f235612dba9823ab9fee0b"
+  },
+  "G_qwen3_tsez": {
+    "path": "experiments/additional_v1/jobs/G_qwen3_tsez.sh",
+    "gpu_count": 1,
+    "hours": 10,
+    "job_id": 5810970,
+    "dependency": "afterok:5810959",
+    "script_sha256": "5994cec55fdc7eff20976ad689d68ec6dba2c31ae0db4f36327d50808d80734f"
+  },
+  "F_qwen3_tsez": {
+    "path": "experiments/additional_v1/jobs/F_qwen3_tsez.sh",
+    "gpu_count": 1,
+    "hours": 10,
+    "job_id": 5810971,
+    "dependency": "afterok:5810959",
+    "script_sha256": "6e390c377991a5262c45485a0ea2bc386ca7eb461de6917f56d257d5b05dd02b"
+  },
+  "I_qwen3_gitksan_20260910": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_gitksan_20260910.sh",
+    "gpu_count": 1,
+    "hours": 4,
+    "job_id": 5810980,
+    "dependency": "afterok:5810959",
+    "script_sha256": "0793e914b7dce07d96b2977465b5990be33552887f3849de22000069d7039bd6"
+  },
+  "I_qwen3_gitksan_20260925": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_gitksan_20260925.sh",
+    "gpu_count": 1,
+    "hours": 4,
+    "job_id": 5810981,
+    "dependency": "afterok:5810959",
+    "script_sha256": "615a78c3e9f29357b8370e78d4400c907f7b76da7b8dd2515bb4cb9583b489f7"
+  },
+  "I_qwen3_gitksan_20261001": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_gitksan_20261001.sh",
+    "gpu_count": 1,
+    "hours": 4,
+    "job_id": 5810982,
+    "dependency": "afterok:5810959",
+    "script_sha256": "50c30abec770cdcb392aa432ba9ed404a23946b4e866a298c229507a808bc1c3"
+  },
+  "I_qwen3_lezgi_20260910": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_lezgi_20260910.sh",
+    "gpu_count": 1,
+    "hours": 6,
+    "job_id": 5810983,
+    "dependency": "afterok:5810959",
+    "script_sha256": "bfa62884e2473d2cebd63768ae99d01ea57dc388c34a74fe39815a6e3a24538c"
+  },
+  "I_qwen3_lezgi_20260925": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_lezgi_20260925.sh",
+    "gpu_count": 1,
+    "hours": 6,
+    "job_id": 5810984,
+    "dependency": "afterok:5810959",
+    "script_sha256": "33f1edd00e73a28c905706c51f5783435ff537131b37f83816ca55b5dd87960a"
+  },
+  "I_qwen3_lezgi_20261001": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_lezgi_20261001.sh",
+    "gpu_count": 1,
+    "hours": 6,
+    "job_id": 5810985,
+    "dependency": "afterok:5810959",
+    "script_sha256": "78e71808345acfe91461d17790e1f434d5eea023dcc028849ecea6c1a2b24f79"
+  },
+  "I_qwen3_natugu_20260910": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_natugu_20260910.sh",
+    "gpu_count": 1,
+    "hours": 6,
+    "job_id": 5810986,
+    "dependency": "afterok:5810959",
+    "script_sha256": "f286ce253ff60df94d14e5f6e7b66e8f2d2190b56e976f879c6c7e91b361a302"
+  },
+  "I_qwen3_natugu_20260925": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_natugu_20260925.sh",
+    "gpu_count": 1,
+    "hours": 6,
+    "job_id": 5810987,
+    "dependency": "afterok:5810959",
+    "script_sha256": "10f7344070d4814a7350de629c493a29c01b9b6d2d735362ebb3305fb34a72e0"
+  },
+  "I_qwen3_natugu_20261001": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_natugu_20261001.sh",
+    "gpu_count": 1,
+    "hours": 6,
+    "job_id": 5810988,
+    "dependency": "afterok:5810959",
+    "script_sha256": "8be7fe535596f27ae64032d068f9af032a020508750a70e8bb598ac2100a025f"
+  },
+  "I_qwen3_tsez_20260910": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_tsez_20260910.sh",
+    "gpu_count": 1,
+    "hours": 10,
+    "job_id": 5810989,
+    "dependency": "afterok:5810959",
+    "script_sha256": "4876a349ac783e6eaa442261baabf10bedd2701c4d59087ec94d54fe338dcb6e"
+  },
+  "I_qwen3_tsez_20260925": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_tsez_20260925.sh",
+    "gpu_count": 1,
+    "hours": 10,
+    "job_id": 5810990,
+    "dependency": "afterok:5810959",
+    "script_sha256": "382c6284c6991474bed424940330bffc8c747eb64555f37e4772543c5ece66e6"
+  },
+  "I_qwen3_tsez_20261001": {
+    "path": "experiments/additional_v1/jobs/I_qwen3_tsez_20261001.sh",
+    "gpu_count": 1,
+    "hours": 10,
+    "job_id": 5810991,
+    "dependency": "afterok:5810959",
+    "script_sha256": "a90eb6cbb84661624924a1024036a67db40e92c0849eadbf32b8ccec835aa7e0"
+  }
+}

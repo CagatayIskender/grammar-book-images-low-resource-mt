@@ -1,0 +1,17 @@
+{
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+  "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+  "versions": {
+    "torch": "2.7.1+cu118",
+    "transformers": "4.57.6"
+  },
+  "dtype": "float32",
+  "gpu_count": 1,
+  "enable_thinking": false,
+  "retries": 0,
+  "support_gold": true,
+  "test_gold_gloss": false,
+  "seed_rule": "base + 2 * original test index",
+  "lock_sha256": "242745d514a96fff4a902e4f56f84b22befa2c00ee857ace929473b82549bee7"
+}

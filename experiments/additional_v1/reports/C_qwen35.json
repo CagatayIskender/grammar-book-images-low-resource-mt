@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "conditions": 117,
+  "model_revision": {
+    "model_id": "Qwen/Qwen3.5-9B",
+    "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+    "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+  },
+  "limitation": "Historical preprocessing package versions may be unavailable; reconstructions cannot replace actual logs."
+}

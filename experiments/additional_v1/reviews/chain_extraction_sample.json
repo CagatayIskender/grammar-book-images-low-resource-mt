@@ -1,0 +1,1874 @@
+[
+  {
+    "condition": "qwen35_gitksan_grammar_original_chain_gloss_baseline",
+    "idx": 2,
+    "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+    "raw": "Gloss: NEG-FOC-3.II OBL-1SG.II good-CN 1.I-INCEP work-TR-1SG.II LOC-CN NEG-FOC-3.II VER-IPFV-CN LOC-CN house LOC-CN Gitksan\nFINAL_TRANSLATION: But I didn't do anything good, and I wasn't working at home in Gitxsan.",
+    "extracted": "NEG-FOC-3.II OBL-1SG.II good-CN 1.I-INCEP work-TR-1SG.II LOC-CN NEG-FOC-3.II VER-IPFV-CN LOC-CN house LOC-CN Gitksan",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_grammar_original_chain_gloss_baseline",
+    "idx": 6,
+    "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+    "raw": "Gloss: LOC-CN NEG-FOC-3.II reserve-CN REAS COMP-CN NEG-FOC-3.II food VER eat\nFINAL_TRANSLATION: But the reservation didn't have any food to eat.",
+    "extracted": "LOC-CN NEG-FOC-3.II reserve-CN REAS COMP-CN NEG-FOC-3.II food VER eat",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_grammar_original_chain_gloss_baseline",
+    "idx": 23,
+    "source": "Iit huudindiithl surveyors.",
+    "raw": "Gloss: CCNJ many-CN surveyor\nFINAL_TRANSLATION: And there were many surveyors.",
+    "extracted": "CCNJ many-CN surveyor",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg",
+    "idx": 18,
+    "source": "Way 'nithl wildiit.",
+    "raw": "Gloss: VER 1.I-CCNJ NEG-FOC hear\nFINAL_TRANSLATION: I didn't hear.",
+    "extracted": "VER 1.I-CCNJ NEG-FOC hear",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg",
+    "idx": 9,
+    "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+    "raw": "Gloss: CCNJ on.IRR win hehl LVB-CN 1SG-IPL-LOC-3.II Gitwinhlguu'l, \"Jidaa NEG-FOC wills-3.II way II NEG-FOC-3.II hasag̲a'm OBL-1SG.II LOC-CN short.time IRR-FOC dim 3SG.II see-1SG.II CNL-1SG.II.\"\nFINAL_TRANSLATION: And when I was at Gitwinhlguu'l, I said to them, \"No one will want me, and no one will see me for a little while.\"",
+    "extracted": "CCNJ on.IRR win hehl LVB-CN 1SG-IPL-LOC-3.II Gitwinhlguu'l, \"Jidaa NEG-FOC wills-3.II way II NEG-FOC-3.II hasag̲a'm OBL-1SG.II LOC-CN short.time IRR-FOC dim 3SG.II see-1SG.II CNL-1SG.II.\"",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg",
+    "idx": 31,
+    "source": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.",
+    "raw": "Gloss: CCNJ VER IPFV-CN LVB-3.II DEM LOC-CN DEM surveyor\nFINAL_TRANSLATION: And there were some surveyors.",
+    "extracted": "CCNJ VER IPFV-CN LVB-3.II DEM LOC-CN DEM surveyor",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt",
+    "idx": 20,
+    "source": "Iit dok̲diithl andeba'a, tape dip siwedit.",
+    "raw": "Gloss: 1.I-CCNJ take-CN andeba'a tape 3.II-DWID see-CN\nFINAL_TRANSLATION: And I took the andeba'a, and I saw it.",
+    "extracted": "1.I-CCNJ take-CN andeba'a tape 3.II-DWID see-CN",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt",
+    "idx": 10,
+    "source": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+    "raw": "Gloss: 1.I-CCNJ big.SX wild-CN around say-1SG.II Gitwinhlguu'l CCNJ NEG-FOC hasak̲-3PL LOC-CN reserve \"NEG-FOC hasak̲-CN PROSP dip all.the.way IRR come-SX\" said-TR.\nFINAL_TRANSLATION: I was saying around Gitwinhlguu'l, \"No one would be coming there,\" and I said it.",
+    "extracted": "1.I-CCNJ big.SX wild-CN around say-1SG.II Gitwinhlguu'l CCNJ NEG-FOC hasak̲-3PL LOC-CN reserve \"NEG-FOC hasak̲-CN PROSP dip all.the.way IRR come-SX\" said-TR.",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt",
+    "idx": 2,
+    "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+    "raw": "Gloss: 1PL-CCNJ PROSP we PROSP two-CN LOC-CN INCEP come-CN OBL-CN 3.II REAS COMP-CN 3.II arrive-CN LOC-CN 3.II name-CN Gitwinhlguu'l\nFINAL_TRANSLATION: And we were coming, two of us, and that's why they arrived at the Gitwinhlguu'l place.",
+    "extracted": "1PL-CCNJ PROSP we PROSP two-CN LOC-CN INCEP come-CN OBL-CN 3.II REAS COMP-CN 3.II arrive-CN LOC-CN 3.II name-CN Gitwinhlguu'l",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 6,
+    "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+    "raw": "Gloss: VER PROSP 3.II-CCNJ LOC-CN DISTR-CNJ say-TR-1SG.II\nFINAL_TRANSLATION: And I said to the reserve manager",
+    "extracted": "VER PROSP 3.II-CCNJ LOC-CN DISTR-CNJ say-TR-1SG.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 2,
+    "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+    "raw": "Gloss: NEG-FOC-3.II PROSP good-CN man INCEP good-CN 1SG.II LOC-CN completely time-INCEP run-ANTIP Gitksan\nFINAL_TRANSLATION: But no one would be good, a good man started to run in Gitksan.",
+    "extracted": "NEG-FOC-3.II PROSP good-CN man INCEP good-CN 1SG.II LOC-CN completely time-INCEP run-ANTIP Gitksan",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 17,
+    "source": "\"Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.\"",
+    "raw": "Gloss: CCNJ INCEP good-CN PROSP toward come-CN different-person-SX DIST COMP CN say-TR-1SG.II\nFINAL_TRANSLATION: And I was going to go towards him, but he said.",
+    "extracted": "CCNJ INCEP good-CN PROSP toward come-CN different-person-SX DIST COMP CN say-TR-1SG.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg",
+    "idx": 11,
+    "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+    "raw": "Gloss: CCNJ SPT-EPIS-CN INS-1.II Indian Agent PROSP DIMT go.out-CN surveyors, PROSP DIMT separate-PASS-1PL.II surveyors\nFINAL_TRANSLATION: And the Indian Agent and the surveyors came out, and we were separated from the surveyors.",
+    "extracted": "CCNJ SPT-EPIS-CN INS-1.II Indian Agent PROSP DIMT go.out-CN surveyors, PROSP DIMT separate-PASS-1PL.II surveyors",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg",
+    "idx": 0,
+    "source": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.",
+    "raw": "Gloss: PROSP-FOC 3.II see-CN COMP-1.I LOC-CN many LOC-CN one LOC-CN LOC-CN LOC-CN LOC-CN LOC-CN\nFINAL_TRANSLATION: And he saw a lot of people there.",
+    "extracted": "PROSP-FOC 3.II see-CN COMP-1.I LOC-CN many LOC-CN one LOC-CN LOC-CN LOC-CN LOC-CN LOC-CN",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg",
+    "idx": 17,
+    "source": "\"Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.\"",
+    "raw": "Gloss: CCNJ INCEP-EPIS-CN PROSP-3.II eat-CN NMLZ-bird 1.I-CCNJ NEG-FOC hear-ANTIP-3.II LOC-CN house\nFINAL_TRANSLATION: And he was going to eat a bird but I didn't hear him in the house.",
+    "extracted": "CCNJ INCEP-EPIS-CN PROSP-3.II eat-CN NMLZ-bird 1.I-CCNJ NEG-FOC hear-ANTIP-3.II LOC-CN house",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+    "idx": 27,
+    "source": "Hlist disekshl policehl gyet ent sim kwhlii hisyetshl anooya'ahl surveyors, ii g̲ani 'nihl hehl hli gyedihl Gitwinhlguu'l.",
+    "raw": "Gloss: LVB-1SG.II PART-SPT police-CN LOC-CN 3.III NEG-FOC search-ANTIP-1PL.II surveyor-CN REAS COMP-1.I look-CN person-CN Gitwinhlguu'l\nFINAL_TRANSLATION: I was around the police, who weren't searching for us and the surveyors, but they were looking at a Gitwinhlguu'l person.",
+    "extracted": "LVB-1SG.II PART-SPT police-CN LOC-CN 3.III NEG-FOC search-ANTIP-1PL.II surveyor-CN REAS COMP-1.I look-CN person-CN Gitwinhlguu'l",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+    "idx": 1,
+    "source": "Ha'ondii 'nakw hlidaa bakwhl gyet dipun, ii sag̲aytg̲oodindiithl hli gyedihl Gitwinhlguu'l.",
+    "raw": "Gloss: VER IPFV-CN long-CN around LVB-1SG.II work-CN COMP LOC-CN PART-first PL-CNJ Gitwinhlguu'l\nFINAL_TRANSLATION: I was working for a long time, and before that I worked at Gitwinhlguu'l.",
+    "extracted": "VER IPFV-CN long-CN around LVB-1SG.II work-CN COMP LOC-CN PART-first PL-CNJ Gitwinhlguu'l",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+    "idx": 10,
+    "source": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+    "raw": "Gloss: LOC-CN river-LOC-CN wild-NMLZ-CAUS2-1SG.II VER-CN Gitwinhlguu'l CCNJ NEG-FOC-3.II eat-ANTIP-3PL.II COMP LOC-CN reserve \"NEG-FOC-3.II eat-TR-1SG.II who IRR say-SX\" say-PASS-3.II\nFINAL_TRANSLATION: Way down the river, we caused Gitwinhlguu'l to come, but they didn't eat the reserve. \"They wouldn't eat it,\" he said.",
+    "extracted": "LOC-CN river-LOC-CN wild-NMLZ-CAUS2-1SG.II VER-CN Gitwinhlguu'l CCNJ NEG-FOC-3.II eat-ANTIP-3PL.II COMP LOC-CN reserve \"NEG-FOC-3.II eat-TR-1SG.II who IRR say-SX\" say-PASS-3.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+    "idx": 2,
+    "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+    "raw": "Gloss: 1PL-3PL PROSP we NEG PROSP win LOC-CN completely LOC-CN tree LOC-CN Gitwina'luu\nFINAL_TRANSLATION: We might not win in the game at Gitwina'luu.",
+    "extracted": "1PL-3PL PROSP we NEG PROSP win LOC-CN completely LOC-CN tree LOC-CN Gitwina'luu",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+    "idx": 22,
+    "source": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.",
+    "raw": "Gloss: CL.CNJ 1.I all the way take-3.PL OBL-CN down-sit-CAUS-3PL\nFINAL_TRANSLATION: And I went all the way there and they sat them down.",
+    "extracted": "CL.CNJ 1.I all the way take-3.PL OBL-CN down-sit-CAUS-3PL",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+    "idx": 0,
+    "source": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.",
+    "raw": "Gloss: PROSP 1.I-CCNJ see-CN COMP LVB-CN one-CN OBL-3.II back-CN completely LOC-CN house CN\nFINAL_TRANSLATION: I will see my friend come all the way back to his house.",
+    "extracted": "PROSP 1.I-CCNJ see-CN COMP LVB-CN one-CN OBL-3.II back-CN completely LOC-CN house CN",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg",
+    "idx": 0,
+    "source": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.",
+    "raw": "Gloss: PROSP NEG-FOC-3.II 1SG.II LOC-CN NMLZ-LOC-CN LOC-CN 1SG.II LOC-CN 3.II LOC-CN 1SG.II LOC-CN\nFINAL_TRANSLATION: I don't think I was there, but I was in my house and he was in his house.",
+    "extracted": "PROSP NEG-FOC-3.II 1SG.II LOC-CN NMLZ-LOC-CN LOC-CN 1SG.II LOC-CN 3.II LOC-CN 1SG.II LOC-CN",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg",
+    "idx": 22,
+    "source": "Iit sim kwhlii hisyetsdiit ehl luuhligyootxw.",
+    "raw": "Gloss: CCNJ 1.II PL-3.II LOC-CN OBL-3.II OBL-3.II\nFINAL_TRANSLATION: And they were there.",
+    "extracted": "CCNJ 1.II PL-3.II LOC-CN OBL-3.II OBL-3.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg",
+    "idx": 17,
+    "source": "\"Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.\"",
+    "raw": "Gloss: CCNJ INCEP-1SG.II PROSP 3.II eat-CN meat LOC-CN 1.I-CCNJ 3.II drink-CN water PROSP 3.II drink-CN beer\nFINAL_TRANSLATION: And I started to eat some meat and I was going to drink some water or maybe beer.",
+    "extracted": "CCNJ INCEP-1SG.II PROSP 3.II eat-CN meat LOC-CN 1.I-CCNJ 3.II drink-CN water PROSP 3.II drink-CN beer",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt",
+    "idx": 16,
+    "source": "Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"",
+    "raw": "Gloss: LOC-CN CCNJ come-TR-1SG.II COMP-CN house-CN big-CN woman-CN Gitwinhlguu'l CCNJ PART-2SG.II \"who NEG-FOC-3.II man-PL II NEG-FOC-3.II child-PL III NEG-FOC-DM\"\nFINAL_TRANSLATION: So I came to the big woman's house at Gitwinhlguu'l, and she said, \"There is no man there, nor any children.\"",
+    "extracted": "LOC-CN CCNJ come-TR-1SG.II COMP-CN house-CN big-CN woman-CN Gitwinhlguu'l CCNJ PART-2SG.II \"who NEG-FOC-3.II man-PL II NEG-FOC-3.II child-PL III NEG-FOC-DM\"",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt",
+    "idx": 11,
+    "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+    "raw": "Gloss: CCNJ NEG-FOC-3.II LOC-CN Indian Agent OBL-3.II PROSP surveyors OBL-3.II work-CN surveyors\nFINAL_TRANSLATION: But the Indian Agent didn't want the surveyors, and he didn't want the surveyors to work.",
+    "extracted": "CCNJ NEG-FOC-3.II LOC-CN Indian Agent OBL-3.II PROSP surveyors OBL-3.II work-CN surveyors",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt",
+    "idx": 9,
+    "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+    "raw": "Gloss: CCNJ on one hehl LVB-CN hit-CN Gitwinhlguu'l, \"Jidaa neejaa LOC-CN white.person-1SG.II, way CCNJ NEG-FOC-3.II house-CN LOC-CN short.time PART-first unable.to-PASS-TR-1SG.II LOC-CN COMP CNTRB-IRR sleep-CN\"\nFINAL_TRANSLATION: And on that day I hit Gitwinhlguu'l saying, \"There is a white person here, but for a while he couldn't get into the house.\"",
+    "extracted": "CCNJ on one hehl LVB-CN hit-CN Gitwinhlguu'l, \"Jidaa neejaa LOC-CN white.person-1SG.II, way CCNJ NEG-FOC-3.II house-CN LOC-CN short.time PART-first unable.to-PASS-TR-1SG.II LOC-CN COMP CNTRB-IRR sleep-CN\"",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 17,
+    "source": "\"Ii hasag̲a'm dim hogwin litxwhl k̲'ay limx̲sim gyet dim ent hlimoo'm.\"",
+    "raw": "Gloss: CCNJ INCEP-1SG.II PROSP 3.II eat-CN NMLZ-meat LOC-CN 3.II NEG-FOC-DM PCNJ-CN NEG-FOC-1SG.II see-CN\nFINAL_TRANSLATION: And I was going to eat some meat, but I didn't see it.",
+    "extracted": "CCNJ INCEP-1SG.II PROSP 3.II eat-CN NMLZ-meat LOC-CN 3.II NEG-FOC-DM PCNJ-CN NEG-FOC-1SG.II see-CN",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 16,
+    "source": "Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"",
+    "raw": "Gloss: CCNJ 1.I NMLZ-look-for-CN NEG-PASS-3PL.II PCNJ-CN LOC-CN Gitksan-COMMUNITY 1.I tell-TR \"NEG come-3PL.II NEG go.3PL.II NEG-FOC-3PL.II\"\nFINAL_TRANSLATION: I looked for the Gitksan community, and I told them, \"They are not coming, they are not going, they will not be there.\"",
+    "extracted": "CCNJ 1.I NMLZ-look-for-CN NEG-PASS-3PL.II PCNJ-CN LOC-CN Gitksan-COMMUNITY 1.I tell-TR \"NEG come-3PL.II NEG go.3PL.II NEG-FOC-3PL.II\"",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 11,
+    "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+    "raw": "Gloss: CCNJ DEM-CN Indian Agent OBL-3.II surveyors, OBL 1SG.II know-PASS-CN surveyors\nFINAL_TRANSLATION: And this Indian Agent knew the surveyors, and I knew the surveyors.",
+    "extracted": "CCNJ DEM-CN Indian Agent OBL-3.II surveyors, OBL 1SG.II know-PASS-CN surveyors",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg",
+    "idx": 14,
+    "source": "Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.\"",
+    "raw": "Gloss: CCNJ VER-3PL.II LOC-CN LOC-CN PL-LOC-CN surveyor COMP-CN NEG-FOC hear-1SG.II LOC-CN completely\nFINAL_TRANSLATION: They were at the surveyors' site and I didn't hear them.",
+    "extracted": "CCNJ VER-3PL.II LOC-CN LOC-CN PL-LOC-CN surveyor COMP-CN NEG-FOC hear-1SG.II LOC-CN completely",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg",
+    "idx": 24,
+    "source": "Needii 'nakwt ii bakwhl police.",
+    "raw": "Gloss: NEG-FOC-DM long-CN PART-3.II police\nFINAL_TRANSLATION: But the police were not there.",
+    "extracted": "NEG-FOC-DM long-CN PART-3.II police",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg",
+    "idx": 7,
+    "source": "Ii aam win ky'ax̲ hehl Gitwinhlguu'l dim 'wiit'is, dim wag̲ayt jog̲o daa'whl g̲o'ohl k'i'yhl sg̲a'nist, dim ii lok̲'on daa'whl g̲o'ohl k'i'yhl aks, g̲o'ohl Ksen, 'nii g̲a'wayit k̲'ali daa'whl g̲o'ohl Meji'aadin. 'Nithl hasak̲diithl reserve.",
+    "raw": "Gloss: CCNJ 1.II LOC-CN 3.II-CCNJ PREP-CN PREP-CN LOC-CN NEG-FOC-3.II PCNJ-CN VER IPFV-CN 1SG-PCNJ 1PL.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN 3.II-LOC-CN 1SG-PCNJ 1PL.II-LOC-CN",
+    "extracted": "",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+    "idx": 9,
+    "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+    "raw": "Gloss: CCNJ on one hehl LVB-CN gyedihl Gitwinhlguu'l VER-1PL.II say-TR-1SG.II NEG-FOC 3.II live-CN white.person COMP 1.I NEG-FOC-DM work-1SG.II OBL-3.II short.prepare hear-ANTIP-1SG.II LOC-CN thing PL-1SG.II\nFINAL_TRANSLATION: On the first day of Gitwina, I said to us, \"No one is living among the white people; I did not hear anything from my work.\"",
+    "extracted": "CCNJ on one hehl LVB-CN gyedihl Gitwinhlguu'l VER-1PL.II say-TR-1SG.II NEG-FOC 3.II live-CN white.person COMP 1.I NEG-FOC-DM work-1SG.II OBL-3.II short.prepare hear-ANTIP-1SG.II LOC-CN thing PL-1SG.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+    "idx": 21,
+    "source": "Dok̲diithl anooya'a, surveyors equipment siwedihl anooya'ahl surveyors.",
+    "raw": "Gloss: surveyor-CM equipment-1SG.II LOC-CN surveyor-CM\nFINAL_TRANSLATION: The surveyors' equipment is theirs.",
+    "extracted": "surveyor-CM equipment-1SG.II LOC-CN surveyor-CM",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+    "idx": 19,
+    "source": "Iit hapdiithl surveyors.",
+    "raw": "Gloss: CCNJ surveyor-1SG.II\nFINAL_TRANSLATION: And I was a surveyor.",
+    "extracted": "CCNJ surveyor-1SG.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+    "idx": 4,
+    "source": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"",
+    "raw": "Gloss: 3.II-CCNJ REAS-CN PART-SPT LVB-1SG.II COMP on LOC-CN NEG-FOC hear-CN\nFINAL_TRANSLATION: \"And because I didn't know,\" he said Gitwinhlguu'l, \"it was not heard by anyone.\"",
+    "extracted": "3.II-CCNJ REAS-CN PART-SPT LVB-1SG.II COMP on LOC-CN NEG-FOC hear-CN",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+    "idx": 15,
+    "source": "Ii k̲'ap g̲aniwila yukwhl surveyors.",
+    "raw": "Gloss: CCNJ short.time LOC-CN INS-on-rest surveyors\nFINAL_TRANSLATION: And I rested for a while at the surveyors'.",
+    "extracted": "CCNJ short.time LOC-CN INS-on-rest surveyors",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+    "idx": 11,
+    "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+    "raw": "Gloss: CCNJ INCEP-1SG.II LOC-CN Indian.Agent NEG-FOC surveyors NEG-FOC surveyors\nFINAL_TRANSLATION: And I wasn't an Indian Agent, nor was I a surveyor.",
+    "extracted": "CCNJ INCEP-1SG.II LOC-CN Indian.Agent NEG-FOC surveyors NEG-FOC surveyors",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg",
+    "idx": 60,
+    "source": "Аналай сонра за цӀуд йис къвалахна и сагьеда за домкультурада .",
+    "raw": "Gloss: there.from after 1sg.abs ten years work-PST this person-DAT 1sg.abs house.culture-DAT .\nFINAL_TRANSLATION: After that, I worked for ten years in the same field of culture.",
+    "extracted": "there.from after 1sg.abs ten years work-PST this person-DAT 1sg.abs house.culture-DAT .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg",
+    "idx": 78,
+    "source": "Заз садрахъни гъвечи чӀавалай зун икьван , физ хтанани заз садрахъни ахьтин пепе акунвачир .",
+    "raw": "Gloss: 1sg.ERG-GEN young small from I stay-AOR , if be.AOC 1sg.ERG-GEN like that put-PST .\nFINAL_TRANSLATION: When I was a small child, if I did something like this...",
+    "extracted": "1sg.ERG-GEN young small from I stay-AOR , if be.AOC 1sg.ERG-GEN like that put-PST .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg",
+    "idx": 2,
+    "source": "Яргъал акъатна чун ...",
+    "raw": "Gloss: yard-ABS take-AOR 1sg.abs ...\nFINAL_TRANSLATION: I took the yard...",
+    "extracted": "yard-ABS take-AOR 1sg.abs ...",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt",
+    "idx": 2,
+    "source": "Яргъал акъатна чун ...",
+    "raw": "Gloss: side-ABS take-AOR forest ...\nFINAL_TRANSLATION: We went into the woods...",
+    "extracted": "side-ABS take-AOR forest ...",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt",
+    "idx": 85,
+    "source": "Бакуда Хырдаланда ава .",
+    "raw": "Gloss: Baku-INESS Khirdalanda-AOC is-there-PTP .\nFINAL_TRANSLATION: There is Khirdalanda in Baku.",
+    "extracted": "Baku-INESS Khirdalanda-AOC is-there-PTP .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt",
+    "idx": 14,
+    "source": "Седакъет ханума вичин кӀалуб туькӀуьрна ва гьа кӀалубдив кутуна и ктаб кхьанва .",
+    "raw": "Gloss: wedding lady her heart break-AOR and that heart-DAT put-AOR this book bring-PERF .\nFINAL_TRANSLATION: The bride's heart broke, and she brought this book to comfort her heart.",
+    "extracted": "wedding lady her heart break-AOR and that heart-DAT put-AOR this book bring-PERF .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+    "idx": 57,
+    "source": "Гьуьлуьн шив гьуьлуьн балкӀан .",
+    "raw": "Gloss: sheep-ERG sheep-lamb .\nFINAL_TRANSLATION: The lamb of the sheep.",
+    "extracted": "sheep-ERG sheep-lamb .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+    "idx": 68,
+    "source": "Чунни инал хтана .",
+    "raw": "Gloss: 1pl.abs this.to go-AOR\nFINAL_TRANSLATION: We went here.",
+    "extracted": "1pl.abs this.to go-AOR",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+    "idx": 77,
+    "source": "Жаваб я ашукь гада ваз ви кани яр авани ?",
+    "raw": "Gloss: answer be-PTP ashuq-DAT 2sg.ERG you can be-AOR-PST ?\nFINAL_TRANSLATION: Did he become a lover of yours?",
+    "extracted": "answer be-PTP ashuq-DAT 2sg.ERG you can be-AOR-PST ?",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt",
+    "idx": 52,
+    "source": "Ты куда ?»",
+    "raw": "Gloss: 2sg-DAT where-INT\nFINAL_TRANSLATION: Where are you going?",
+    "extracted": "2sg-DAT where-INT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt",
+    "idx": 55,
+    "source": "Мектебдин кьарас затӀ игъидай сад тир .",
+    "raw": "Gloss: school-GEN honor thing give.will.ENT-AOR one be-PST .\nFINAL_TRANSLATION: He was the only one who honored the school's dignity/cause.",
+    "extracted": "school-GEN honor thing give.will.ENT-AOR one be-PST .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt",
+    "idx": 59,
+    "source": "Жи диде , бубани амаш , кӀарасар агъана канзава ма чуьлдай .",
+    "raw": "Gloss: 1pl.abs father, mother-PL these , man-INESS enter-AOC want-IMPF 3sg.ERG house-INESS .\nFINAL_TRANSLATION: Our father and mother are here; a man entered the house wanting something from us.",
+    "extracted": "1pl.abs father, mother-PL these , man-INESS enter-AOC want-IMPF 3sg.ERG house-INESS .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+    "idx": 34,
+    "source": "Гьадакай регъуьла завай гьейетдални физ жезвач .",
+    "raw": "Gloss: there.from-INESS people 1sg.abs.ERG 2sg-DAT meet be-Neg.PST .\nFINAL_TRANSLATION: I did not meet anyone there.",
+    "extracted": "there.from-INESS people 1sg.abs.ERG 2sg-DAT meet be-Neg.PST .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+    "idx": 46,
+    "source": "КӀвалин къвалахар вири зал хьана , пуд стхани са вах хьана зун .",
+    "raw": "Gloss: bread-INESS smoke.inhalation-PL all room be-AOR , three brother-ERG one time be-AOR 1sg.abs .\nFINAL_TRANSLATION: All the rooms were filled with smoke, and I was alone with my three brothers for a while.",
+    "extracted": "bread-INESS smoke.inhalation-PL all room be-AOR , three brother-ERG one time be-AOR 1sg.abs .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+    "idx": 20,
+    "source": "Рехъ акваз амукъназ сад~лагьана",
+    "raw": "Gloss: tall walk-AOR self-ERG-SBSS two leg-INESS stop-ENT-PTP .\nFINAL_TRANSLATION: The tall one walked and stood on his two legs.",
+    "extracted": "tall walk-AOR self-ERG-SBSS two leg-INESS stop-ENT-PTP .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_baseline",
+    "idx": 28,
+    "source": "Зу кьилелни пара атайди я .",
+    "raw": "Gloss: 1sg.abs head-ABL-DAT many give-PST is .\nFINAL_TRANSLATION: I am the one who gave many things for my head (or: I have paid a high price for my life).",
+    "extracted": "1sg.abs head-ABL-DAT many give-PST is .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_baseline",
+    "idx": 5,
+    "source": "« Фена », лагьана , « куьне », лагьана , « зи балкӀандин кӀвач галукь тавунвай са чкадлай » лагьана , « заз са тике », лагьана « накьв гъваш » лагьана .",
+    "raw": "Gloss: go-AOR say-AOC , \"now\", say-AOC , \"my horse's leg broken-PTP one place.from\" say-AOC , \"1sg.ERG-DAT one piece\", say-AOC \"take.AOR bring.IMPV\" say-AOC .\nFINAL_TRANSLATION: \"Go,\" he said, \"Now,\" he continued, \"from where my horse's leg was broken,\" he said, \"bring me a piece,\" he commanded, \"take it.\"",
+    "extracted": "go-AOR say-AOC , \"now\", say-AOC , \"my horse's leg broken-PTP one place.from\" say-AOC , \"1sg.ERG-DAT one piece\", say-AOC \"take.AOR bring.IMPV\" say-AOC .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_baseline",
+    "idx": 58,
+    "source": "Рак гатана фад ахъайна тамашайтӀа , са кьуьзуь къари баде ава .",
+    "raw": "Gloss: all burn-PST-PTP now say-AOR if.not , one little house new be-PST .\nFINAL_TRANSLATION: Since everything has burned down and we are saying \"if not,\" there is a small new house.",
+    "extracted": "all burn-PST-PTP now say-AOR if.not , one little house new be-PST .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 51,
+    "source": "Высоковольтный линиядинни и жи крандин стреладин арада са икьван са вад санти чка амукьна .",
+    "raw": "Gloss: high-voltage line-INESS this word crane-GEN arm-INESS between one other one wide centimeter place be-AOR .\nFINAL_TRANSLATION: Between the high-voltage line and the crane's boom there was a gap of about one centimeter.",
+    "extracted": "high-voltage line-INESS this word crane-GEN arm-INESS between one other one wide centimeter place be-AOR .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 49,
+    "source": "Хтана балкӀан , « Гьаа », лагьана « гила чавай физ жеда » лагьана , « пачагьдин руш гъиз ».",
+    "raw": "Gloss: return-AOC horse-ERG , « that », say-AOR , « now 1sg.ERG you-DAT go-INF be-FUT » say-AOR , « child's head cut ».\nFINAL_TRANSLATION: The horse returned, said \"Go,\" then said \"Now I will take you to the doctor,\" and ordered his head to be cut off.",
+    "extracted": "return-AOC horse-ERG , « that », say-AOR , « now 1sg.ERG you-DAT go-INF be-FUT » say-AOR , « child's head cut ».",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 47,
+    "source": "Ада вучзава .",
+    "raw": "Gloss: he-ABS who-know-PST\nFINAL_TRANSLATION: He knows.",
+    "extracted": "he-ABS who-know-PST",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 56,
+    "source": "Польшадай аниз , Берлиндиз",
+    "raw": "Gloss: Poland-DIR go-AOR Berlin-DAT\nFINAL_TRANSLATION: I went to Poland, (and then) to Berlin.",
+    "extracted": "Poland-DIR go-AOR Berlin-DAT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 54,
+    "source": "Элчиярни ракъузва за , лагьана .»",
+    "raw": "Gloss: Lezgi-PL-FOC work-AOR 1sg.ERG , say-AOC .\nFINAL_TRANSLATION: \"The Lezgis are working for me,\" he said.",
+    "extracted": "Lezgi-PL-FOC work-AOR 1sg.ERG , say-AOC .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 57,
+    "source": "Гьуьлуьн шив гьуьлуьн балкӀан .",
+    "raw": "Gloss: sheep-GEN wool sheep belly .\nFINAL_TRANSLATION: The wool of the sheep is on its belly.",
+    "extracted": "sheep-GEN wool sheep belly .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 62,
+    "source": "05 : Ӏ6",
+    "raw": "Gloss: 05-16\nFINAL_TRANSLATION: five sixteen",
+    "extracted": "05-16",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 70,
+    "source": "Севастопольда мугьарибе хьана ,",
+    "raw": "Gloss: Sevastopol-INESS stay-PST ,\nFINAL_TRANSLATION: I stayed in Sevastopol.",
+    "extracted": "Sevastopol-INESS stay-PST ,",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 83,
+    "source": "Заз дуьз кичӀе хьана .",
+    "raw": "Gloss: 1sg.ERG right road walk-AOR .\nFINAL_TRANSLATION: I went straight on.",
+    "extracted": "1sg.ERG right road walk-AOR .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 84,
+    "source": "Чун , лугьузва , ахиратдин къал санал жедай~вал .",
+    "raw": "Gloss: we say-ENT hereafter's world like be-FUT-PTP .\nFINAL_TRANSLATION: We will be in the next world.",
+    "extracted": "we say-ENT hereafter's world like be-FUT-PTP .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 5,
+    "source": "« Фена », лагьана , « куьне », лагьана , « зи балкӀандин кӀвач галукь тавунвай са чкадлай » лагьана , « заз са тике », лагьана « накьв гъваш » лагьана .",
+    "raw": "Gloss: go-AOR say-ENT cow-PL-FOC leg-INESS cut.wound-AOP one place-DAT from 1sg.ERG-DAT one piece-FOC say-ENT neck-INESS cow-PL-FOC say-ENT .\nFINAL_TRANSLATION: \"Go,\" he said, \"the cows' legs were cut at one place,\" he said, \"a piece of the neck,\" he said, \"of the cows.\"",
+    "extracted": "go-AOR say-ENT cow-PL-FOC leg-INESS cut.wound-AOP one place-DAT from 1sg.ERG-DAT one piece-FOC say-ENT neck-INESS cow-PL-FOC say-ENT .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 68,
+    "source": "Чунни инал хтана .",
+    "raw": "Gloss: 1pl.abs this.to go-AOR\nFINAL_TRANSLATION: We went here.",
+    "extracted": "1pl.abs this.to go-AOR",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 62,
+    "source": "05 : Ӏ6",
+    "raw": "Gloss: 5-16\nFINAL_TRANSLATION: 5 to 16",
+    "extracted": "5-16",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 9,
+    "source": "Гьабурни кӀвалариз-къариз ахъатна .",
+    "raw": "Gloss: them-PL buy-to-AOR hear-AOR .\nFINAL_TRANSLATION: We heard that they had bought them.",
+    "extracted": "them-PL buy-to-AOR hear-AOR .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 52,
+    "source": "Ты куда ?»",
+    "raw": "Gloss: 2sg-DAT where-INT\nFINAL_TRANSLATION: Where are you going?",
+    "extracted": "2sg-DAT where-INT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 25,
+    "source": "« Хьуй », лугьуда .",
+    "raw": "Gloss: be-PST , say-ENT .\nFINAL_TRANSLATION: \"It is,\" he said.",
+    "extracted": "be-PST , say-ENT .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 63,
+    "source": "тек къари тир ама .",
+    "raw": "Gloss: text book-ABS be-PST but .\nFINAL_TRANSLATION: The textbook was, but...",
+    "extracted": "text book-ABS be-PST but .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 28,
+    "source": "Зу кьилелни пара атайди я .",
+    "raw": "Gloss: 1sg.ERG head-GEN-PL bring-PST be-AOR .\nFINAL_TRANSLATION: I brought their heads.",
+    "extracted": "1sg.ERG head-GEN-PL bring-PST be-AOR .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_baseline",
+    "idx": 56,
+    "source": "Nzsiklu-krgr yzutrpe a' trvz-zpwxka , murde nzwzngr la tqrlvitxpxbe a' nzsiklungr mrbc-takine .",
+    "raw": "Gloss: MID-say-TR-COS-PDIR.YON-1AUGII canoe break-GDIR.OUT-PDIR.HITHER but people all PFV RL.3AUG-MID-say-COS-PDIR.HITHER-3AUGIA thing only.one be-leeward-GDIR.UP-3MINIA .\nFINAL_TRANSLATION: They said to us that his canoe broke, but everyone agreed that it was the only thing that was upwind of him.",
+    "extracted": "MID-say-TR-COS-PDIR.YON-1AUGII canoe break-GDIR.OUT-PDIR.HITHER but people all PFV RL.3AUG-MID-say-COS-PDIR.HITHER-3AUGIA thing only.one be-leeward-GDIR.UP-3MINIA .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_baseline",
+    "idx": 96,
+    "source": "X Mista Sadrak Sade kx ngi Kxetu r skul lc .",
+    "raw": "Gloss: and TPNYM Mister Sadarq Sade SUBR see-1MINII DEM2.DIST GEN1A house-PCLF.B&G .\nFINAL_TRANSLATION: And Mr. Sadarq Sade saw the people of this house.",
+    "extracted": "and TPNYM Mister Sadarq Sade SUBR see-1MINII DEM2.DIST GEN1A house-PCLF.B&G .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_baseline",
+    "idx": 62,
+    "source": "Rpibz tzsiu Jon bade kx , \" Inyxm vzpem peto delc tqasule dakxnzng lcng ?\"",
+    "raw": "Gloss: MID-say-1MINI Jon DAT.3MINII but SUBR IRR-go-PDIR.HITHER-1MINI PREP priest John lni Lzpli .\nFINAL_TRANSLATION: But he said to me, \"It is good it should come from Father John Ini Lapli.\"",
+    "extracted": "MID-say-1MINI Jon DAT.3MINII but SUBR IRR-go-PDIR.HITHER-1MINI PREP priest John lni Lzpli .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 81,
+    "source": "X yzuo-moukr Uta yrkrpx Pa'lz , x trmctu ka sc tqtulvzpe mz nzwzkr Gari Saemons .",
+    "raw": "Gloss: and be.1MINII PDIR.YON-1AUGI Uta name-PCLF.B&G Pa'lz , and NEG-see DEM2.DIST PFV RL-search-TR-COS-3MINIA PREP day GEN1A Gari Saemons .\nFINAL_TRANSLATION: And I went to Uta Pa’l, but I did not see Gari Saemons that day.",
+    "extracted": "and be.1MINII PDIR.YON-1AUGI Uta name-PCLF.B&G Pa'lz , and NEG-see DEM2.DIST PFV RL-search-TR-COS-3MINIA PREP day GEN1A Gari Saemons .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 65,
+    "source": "Kx krlzbzkr Point Krus , sc tqmcpebzkr lcsu ngr vea kxkqlu nzdwatr-krde Luga , x kzdung sc tzvopxng x kzdu nzvotrpqng , lcsukxlvc sc tzlvcneng .",
+    "raw": "Gloss: SUBR arrive-PDIR.HITHER-1MINI Point Krus PFV RL-take-COS-3MINIA ship GEN1A sea GEN1ADEM2.DIST DEM2.DIST be.1MINII AT.ΦNT.PL be.3ᴀᴜɢII 3AUG-scream-DPV-3AUGIA , ship-XLF sc RL-cut-NMLZ and AT.ΦNT.PL.PL be.3ᴀᴜɢII RL-say-NMLZ .\nFINAL_TRANSLATION: We arrived at Point Cruz, where we took the ship from the sea, and some of us screamed out, \"Cut the ship! Say it!\"",
+    "extracted": "SUBR arrive-PDIR.HITHER-1MINI Point Krus PFV RL-take-COS-3MINIA ship GEN1A sea GEN1ADEM2.DIST DEM2.DIST be.1MINII AT.ΦNT.PL be.3ᴀᴜɢII 3AUG-scream-DPV-3AUGIA , ship-XLF sc RL-cut-NMLZ and AT.ΦNT.PL.PL be.3ᴀᴜɢII RL-say-NMLZ .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 92,
+    "source": "A' mz nibrde sc tzaolvz-atebz kzdung leplz nzlxngiti-krdr Nrpakxmrlz .",
+    "raw": "Gloss: but PREP road-PDIR.HITHER PFV RL-see-GDIR.IN-NMLZ.POSS-PDIR.YON-1MINII place people GEN1A Nrpakxmrlz .\nFINAL_TRANSLATION: But on the way, we saw a man from Nrpakxmrlz.",
+    "extracted": "but PREP road-PDIR.HITHER PFV RL-see-GDIR.IN-NMLZ.POSS-PDIR.YON-1MINII place people GEN1A Nrpakxmrlz .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 17,
+    "source": "Prtrx elr mz Jenwzri 1937 .",
+    "raw": "Gloss: be.3AUGII PFV RL-return-COS-again-1MINI PREP January year 1937 .\nFINAL_TRANSLATION: They returned back to it in January of 1937.",
+    "extracted": "be.3AUGII PFV RL-return-COS-again-1MINI PREP January year 1937 .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 94,
+    "source": "Murde rwz-ngrgr ma kxetuting .",
+    "raw": "Gloss: because day-APPL-PDIR.HITHER-3MINIA SUBR thing-DEM2.DIST be.1MINII .\nFINAL_TRANSLATION: Because it was a day that I was there.",
+    "extracted": "because day-APPL-PDIR.HITHER-3MINIA SUBR thing-DEM2.DIST be.1MINII .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 73,
+    "source": "Kzdq zbq trtenge x Menabz nzabzlr bona kx ncblongr li .",
+    "raw": "Gloss: young day NEG-be.3MINIA and Menabz SUBR be.good-PDIR.HITHER-1AUGI PREP mankind only.one PFV .\nFINAL_TRANSLATION: It was not yet morning when the good man, the only one of his kind, arrived.",
+    "extracted": "young day NEG-be.3MINIA and Menabz SUBR be.good-PDIR.HITHER-1AUGI PREP mankind only.one PFV .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 15,
+    "source": "Nzrpilr nalikr mz kzdonge Sadas Balo .",
+    "raw": "Gloss: NMLZ1-sit-PDIR.HITHER-3MINII like PREP a.TPNYM Sadas Balo .\nFINAL_TRANSLATION: He sat down with Sadas and Balo.",
+    "extracted": "NMLZ1-sit-PDIR.HITHER-3MINII like PREP a.TPNYM Sadas Balo .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 7,
+    "source": "Mcpxle kcng ncblo kx nangi nidr kcmiti nede .",
+    "raw": "Gloss: see-GDIR.out-PDIR.hither those mankind SUBR be.3ᴀᴜɢII DEM2.DIST give-bz(PDIR.YON).o(1MINI)\nFINAL_TRANSLATION: I saw some people, and they gave me it.",
+    "extracted": "see-GDIR.out-PDIR.hither those mankind SUBR be.3ᴀᴜɢII DEM2.DIST give-bz(PDIR.YON).o(1MINI)",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 27,
+    "source": "Mz nzkrlz-krbzkr Paumalepc , sc tqataplxsrpex nidr 40 sents .",
+    "raw": "Gloss: PREP NMLZ1-know-PDIR.YON-3MINII Paumalepc , PFV RL-cut-TR-COS-1MINI and 40 sentence .\nFINAL_TRANSLATION: To Paumalepc, I cut them into forty sentences.",
+    "extracted": "PREP NMLZ1-know-PDIR.YON-3MINII Paumalepc , PFV RL-cut-TR-COS-1MINI and 40 sentence .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 64,
+    "source": "X rpibo bade kx trtingr .",
+    "raw": "Gloss: and go-1MINI but thing NEG .\nFINAL_TRANSLATION: But I didn't go.",
+    "extracted": "and go-1MINI but thing NEG .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 75,
+    "source": "Kzdq kc ncblo drtqde Metalo .",
+    "raw": "Gloss: a child DEM2.DIST PCLF.B&G name-3MINII Metalo .\nFINAL_TRANSLATION: The name of that child is Metalo.",
+    "extracted": "a child DEM2.DIST PCLF.B&G name-3MINII Metalo .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 2,
+    "source": "Kx xlrbz trtenge nzycmnekrbz Tzsiu Jon , sc tqrpipebzle kx , “ Awitxpe Jon , mz nzycmne-krm la .",
+    "raw": "Gloss: DEM2.DIST 3AUG-say-PDIR.HITHER-3MINII Tzsiu Jon , PFV RL-say-COS-PDIR.HITHER-3MINIA SUBR , “ be.1MINI Jon PREP NMLZ1-travel-NMLZ.POSS-PDIR.HITHER PROX .\nFINAL_TRANSLATION: \"Tzsiu Jon said to him, 'Jon, you should come.'\"",
+    "extracted": "DEM2.DIST 3AUG-say-PDIR.HITHER-3MINII Tzsiu Jon , PFV RL-say-COS-PDIR.HITHER-3MINIA SUBR , “ be.1MINI Jon PREP NMLZ1-travel-NMLZ.POSS-PDIR.HITHER PROX .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 74,
+    "source": "63 . Skul Kc Naim Nzglqtrpq Nabzn",
+    "raw": "Gloss: 63 . Skul Kc Naim Nzglqtrpq Nabzn\nFINAL_TRANSLATION: EP 63. Skul, the son of Naim, and Nabzn.",
+    "extracted": "63 . Skul Kc Naim Nzglqtrpq Nabzn",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 92,
+    "source": "A' mz nibrde sc tzaolvz-atebz kzdung leplz nzlxngiti-krdr Nrpakxmrlz .",
+    "raw": "Gloss: but PREP after PFV RL.3AUG-MID-say-CAUS-APPL-PDIR.HITHER-1MINII young people GEN1A-1MINII Nrpakxmrlz .\nFINAL_TRANSLATION: But after that, he told the young men to go with him, Nrpakxmrlz.",
+    "extracted": "but PREP after PFV RL.3AUG-MID-say-CAUS-APPL-PDIR.HITHER-1MINII young people GEN1A-1MINII Nrpakxmrlz .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 2,
+    "source": "Kx xlrbz trtenge nzycmnekrbz Tzsiu Jon , sc tqrpipebzle kx , “ Awitxpe Jon , mz nzycmne-krm la .",
+    "raw": "Gloss: SUBR sleep-PDIR.HITHER-3MINII PFV be.3ᴀᴜɢII-IRR-say-bz(PDIR.YON).o(1MINI) DAT.3AUGII , \" thing-INTS Jon PREP work-NMLZ.POSS-PDIR.HITHER listener/speaker .\nFINAL_TRANSLATION: When they slept, he said to them, \"Jon, it is the listener's (my) work.\"",
+    "extracted": "SUBR sleep-PDIR.HITHER-3MINII PFV be.3ᴀᴜɢII-IRR-say-bz(PDIR.YON).o(1MINI) DAT.3AUGII , \" thing-INTS Jon PREP work-NMLZ.POSS-PDIR.HITHER listener/speaker .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 98,
+    "source": "Volzx mrkc tqxlva-ngrde , ninge kc tqtupex .",
+    "raw": "Gloss: travel-GDIR.OUT-PDIR.YON place.DEM2.DIST PFV RL.3AUG-say-TR-COS-1MINI DEM2.DIST be.1MINII .\nFINAL_TRANSLATION: We went out there, and they told me that I was the one.",
+    "extracted": "travel-GDIR.OUT-PDIR.YON place.DEM2.DIST PFV RL.3AUG-say-TR-COS-1MINI DEM2.DIST be.1MINII .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 97,
+    "source": "A' trkrlzwxu kx nzyzlu-mcpqng , nidr lcng tztavelr naonrx lc e doa kzbleng .”",
+    "raw": "Gloss: but NEG-draw-PDIR.hither-3MINIA SUBR NMLZ1-float-PCLF.drink-pl , and those 3AUGII men PFV RL.3AUG-MID-say-COS-3AUGIA lest drink-GDIR.out=3MINIA thing that .\nFINAL_TRANSLATION: \"But do not draw them, and those men said that they should not drink the floating things.\"",
+    "extracted": "but NEG-draw-PDIR.hither-3MINIA SUBR NMLZ1-float-PCLF.drink-pl , and those 3AUGII men PFV RL.3AUG-MID-say-COS-3AUGIA lest drink-GDIR.out=3MINIA thing that .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_natugu_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 79,
+    "source": "A' nenq kx mnctxde kc mz ulu sc tzmnctx-alopeng Nzlvz .",
+    "raw": "Gloss: but MID-say-PDIR.HITHER-3MINII SUBR day DEM2.DIST PFV RL-turn-COS-PDIR.YON-1AUGI PREP village sc RL-turn-COS-PDIR.HITHER-3MINIA Nzlvz .\nFINAL_TRANSLATION: But he said to him that on that day the villagers turned away from Nzluz.",
+    "extracted": "but MID-say-PDIR.HITHER-3MINII SUBR day DEM2.DIST PFV RL-turn-COS-PDIR.YON-1AUGI PREP village sc RL-turn-COS-PDIR.HITHER-3MINIA Nzlvz .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_baseline",
+    "idx": 68,
+    "source": "Sasaq qaħłiƛ’aɣor best’alawni kid ƛ’ˤuƛ’or yizin.",
+    "raw": "Gloss: in.the.morning get.up-POST.CVB DEM2.IISG.OBL-ZA-POSS.ABL II.PL-sleep-NEG.FUT-CND.CVB\nFINAL_TRANSLATION: When you don't leave this place before dawn, the dragon will eat you.\"",
+    "extracted": "in.the.morning get.up-POST.CVB DEM2.IISG.OBL-ZA-POSS.ABL II.PL-sleep-NEG.FUT-CND.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_baseline",
+    "idx": 178,
+    "source": "Bezunč’ey ziru idurno bik’in, boƛƛäyr riłis q’ut’un bižin xizor butin yałza mečołxor zeydäɣor bik’in.",
+    "raw": "Gloss: I-go-PFV.CVB fox-LAT III-be-PST.UNW three.OBL year-IN.ESS together-ATTR.OBL-IISG.OBL-POSS.LAT house-TOP IV-see-PFV.CVB be.NPRS-PST.PRT\nFINAL_TRANSLATION: After I went, the fox was there for three years; then we saw its house.",
+    "extracted": "I-go-PFV.CVB fox-LAT III-be-PST.UNW three.OBL year-IN.ESS together-ATTR.OBL-IISG.OBL-POSS.LAT house-TOP IV-see-PFV.CVB be.NPRS-PST.PRT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_baseline",
+    "idx": 431,
+    "source": "Šebigon ela royłin yisä ɣˤaɣˤno äči.",
+    "raw": "Gloss: beautiful-DEF man-PL II-kill-PFV.CVB IV-want-CND.CVB you-OBL-GEN1 father\nFINAL_TRANSLATION: If the beautiful men kill you, you will want your father.",
+    "extracted": "beautiful-DEF man-PL II-kill-PFV.CVB IV-want-CND.CVB you-OBL-GEN1 father",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 57,
+    "source": "Xizyogon ħurženya eƛuk’no eqerno, hečk’er izin.",
+    "raw": "Gloss: DEM1.IISG.OBL-ERG sheep-PL-LAT III-be-PST.UNW they.PL\nFINAL_TRANSLATION: The sheep were there.",
+    "extracted": "DEM1.IISG.OBL-ERG sheep-PL-LAT III-be-PST.UNW they.PL",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 223,
+    "source": "Q’orol ɣˤanazar bayru q’ut’imoxor šebinno teƛno yegirno.",
+    "raw": "Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW\nFINAL_TRANSLATION: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.",
+    "extracted": "fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 197,
+    "source": "Magalu boɣa ža aqruntow, migon bisno ħoyaɣortow kuroƛin.",
+    "raw": "Gloss: merchant-PL horse-PL-AD.ESS-ATTR.OBL I-go-PFV.CVB DEM2.IPL-CONT.VERS-POSS.ABL house III-become-PST.UNW\nFINAL_TRANSLATION: When the merchants came with their horses, my house was built for them.",
+    "extracted": "merchant-PL horse-PL-AD.ESS-ATTR.OBL I-go-PFV.CVB DEM2.IPL-CONT.VERS-POSS.ABL house III-become-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 146,
+    "source": "Ža lelno žimäɣor eqerno, xanes eɣeni uži oqno iduɣor ik’in.",
+    "raw": "Gloss: DEM1.SG three son-ABS be.NPRS-PST.UNW house young man-ERG I.PL-go-PFV.CVB\nFINAL_TRANSLATION: He had three sons; the young men went to his house.",
+    "extracted": "DEM1.SG three son-ABS be.NPRS-PST.UNW house young man-ERG I.PL-go-PFV.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 442,
+    "source": "Zira ža neła nełde sadaq iduɣor bižin.",
+    "raw": "Gloss: fox-LAT DEM1.SG DEM1.ISG.OBL boy-APUD.VERS two man III-become-PFV.CVB\nFINAL_TRANSLATION: The fox and this boy became two men.",
+    "extracted": "fox-LAT DEM1.SG DEM1.ISG.OBL boy-APUD.VERS two man III-become-PFV.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 92,
+    "source": "Sida quł xanderno yayn neła eƛin, hay i wele, däq ža reƛ’a rukarƛin.",
+    "raw": "Gloss: one.OBL-ERG day-IN.VERS boy-POSS.LAT-LAT I.PL-come-PFV.CVB so II go away-IMM.ANT.CVB this.SG mountain-TOP III-climb-PST.UNW\nFINAL_TRANSLATION: One day, we came to the boy's house; then, as for this mountain, we climbed it.",
+    "extracted": "one.OBL-ERG day-IN.VERS boy-POSS.LAT-LAT I.PL-come-PFV.CVB so II go away-IMM.ANT.CVB this.SG mountain-TOP III-climb-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 404,
+    "source": "Xizyogon kid esirno bik’inosi, xanä kid yegiranix inkartow bodin.",
+    "raw": "Gloss: garden-PL-IN.VERS girl-ERG I.PL-come-PFV.CVB mountain-PL girl-DISTR bring-PST.UNW\nFINAL_TRANSLATION: The girls came to the garden and brought the mountain girls.",
+    "extracted": "garden-PL-IN.VERS girl-ERG I.PL-come-PFV.CVB mountain-PL girl-DISTR bring-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 76,
+    "source": "Tupin teƛno uži egirnosi, neširur bełin č’aq’ˤirno xizor utin ayn.",
+    "raw": "Gloss: fox-PL boy-POSS.LAT III-become-PFV.CVB evening-APUD.LAT I.PL-say-PST.UNW night-IN.VERS we-GEN1 III-come-PST.UNW\nFINAL_TRANSLATION: The foxes became the boy's wives in the evening, and when it was night, we came from our home.",
+    "extracted": "fox-PL boy-POSS.LAT III-become-PFV.CVB evening-APUD.LAT I.PL-say-PST.UNW night-IN.VERS we-GEN1 III-come-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 186,
+    "source": "Neła nesiq esirno, mi šebi žek’u yoł, nazay, didur mi t’or ayäƛin.",
+    "raw": "Gloss: DEM1.IISG.OBL he-GEN1 husband-POSS.ESS I me what.OBL III-come-PFV.CVB so-EMPH did-OBL you-NMLZ II-say-PFV.CVB\nFINAL_TRANSLATION: When he arrived with his wife, I said to him: \"What have you done?\"",
+    "extracted": "DEM1.IISG.OBL he-GEN1 husband-POSS.ESS I me what.OBL III-come-PFV.CVB so-EMPH did-OBL you-NMLZ II-say-PFV.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 143,
+    "source": "Di yaqˤuł xizor ik’ix, däz meča xanłun yeda užin egirno, di nesis hič’č’a eženi wazirłun oqxoƛin”.",
+    "raw": "Gloss: DEM1.SG request III-become-QUOT I.PL go-PFV.CVB you II-send-IMPR I.PL come-ANT.CVB DEM1.ISG.OBL-GEN1 other-DISTR-DEF-PL-ERG bring-PST.UNW\nFINAL_TRANSLATION: \"I am asking you to go and send us, the others, with him.\"",
+    "extracted": "DEM1.SG request III-become-QUOT I.PL go-PFV.CVB you II-send-IMPR I.PL come-ANT.CVB DEM1.ISG.OBL-GEN1 other-DISTR-DEF-PL-ERG bring-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 200,
+    "source": "Xizyo dandi zira k’et’u maħor begirno.",
+    "raw": "Gloss: sister-PL-CONT.ESS beautiful-TOP house-IN.LAT outside III-become-PST.UNW\nFINAL_TRANSLATION: The sisters were beautiful outside the house.",
+    "extracted": "sister-PL-CONT.ESS beautiful-TOP house-IN.LAT outside III-become-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 78,
+    "source": "Xaner žan bukaynč’ey, meži šida bišxanuƛin esirno.",
+    "raw": "Gloss: DEM1.SG DEM1.IISG.OBL book-PL-ATTR.OBL one.OBL man-ERG woman-POSS.ESS\nFINAL_TRANSLATION: This man, who is a single person and has a wife, took the books.",
+    "extracted": "DEM1.SG DEM1.IISG.OBL book-PL-ATTR.OBL one.OBL man-ERG woman-POSS.ESS",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 191,
+    "source": "Hudayzikon xanä žeduder begirno nukarbi.",
+    "raw": "Gloss: DEM2.IPL-GEN1 room-IN.LAT-TOP so-EMPH I.PL-come-PFV.CVB be.NPRS-PST.PRT\nFINAL_TRANSLATION: When they came into that room, there was nothing.",
+    "extracted": "DEM2.IPL-GEN1 room-IN.LAT-TOP so-EMPH I.PL-come-PFV.CVB be.NPRS-PST.PRT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 159,
+    "source": "Kecno moƛał ʕumru bäk’iru debi,",
+    "raw": "Gloss: man-PL horse-ERG three.OBL year-IN.ESS want-CVB\nFINAL_TRANSLATION: The men wanted three years of horses.",
+    "extracted": "man-PL horse-ERG three.OBL year-IN.ESS want-CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 371,
+    "source": "Mi ʕadalä oqno, neti deber teqä raładyołäy maħor besurobi roqnoƛin?”",
+    "raw": "Gloss: I-PL-ERG DEM2.ISG.OBL-POSS.LAT hand-IN.VERS.DIST III-become-PST.UNW you-AD.ESS shoulder-IN.LAT bear-POSS.GEN1-ATTR.OBL outside III-go-PFV.CVB\nFINAL_TRANSLATION: \"We went out, carrying your shoulders on our hands?\"",
+    "extracted": "I-PL-ERG DEM2.ISG.OBL-POSS.LAT hand-IN.VERS.DIST III-become-PST.UNW you-AD.ESS shoulder-IN.LAT bear-POSS.GEN1-ATTR.OBL outside III-go-PFV.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 233,
+    "source": "Yizä ɣudes sist’a bˤeƛ’es šebin rac’xot’a zown.",
+    "raw": "Gloss: DEM2.IPL go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB\nFINAL_TRANSLATION: After they went away, the girl took off the hide.",
+    "extracted": "DEM2.IPL go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 393,
+    "source": "Ayn yeda sidaɣ bˤeliz ciqłer.",
+    "raw": "Gloss: when.IF two.OBL man-ERG spring-LOC-IN.VERS go-PST.UNW\nFINAL_TRANSLATION: When the two men went to the spring,",
+    "extracted": "when.IF two.OBL man-ERG spring-LOC-IN.VERS go-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 229,
+    "source": "Sasaqosi xan ezu-ʕaƛ’un, nucoz q’ilima teł c’ohortow yołäƛin.",
+    "raw": "Gloss: in.the.morning-ABS boy-ERG village-IN.VERS from.above hide-TOP III-take.away-PFV.CVB two.OBL man come-PFV.CVB\nFINAL_TRANSLATION: In the morning, a boy took off the hide and two men came.",
+    "extracted": "in.the.morning-ABS boy-ERG village-IN.VERS from.above hide-TOP III-take.away-PFV.CVB two.OBL man come-PFV.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_grammar_original_chain_gloss_baseline",
+    "idx": 10,
+    "source": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+    "raw": "Gloss: Way SPT-EPIS-CN wildiihl LVB-3.II hehl LOC-CN Gitwinhlguu'l CCNJ NEG-FOC hasak̲diit ehl reserve. \"NEG-FOC hasag̲a'm PROSP dip suwii gi'namhl lax̲yibi'm,\" dihiida.\nFINAL_TRANSLATION: They were still wild, and they said, “No one was there,” but no one came.",
+    "extracted": "Way SPT-EPIS-CN wildiihl LVB-3.II hehl LOC-CN Gitwinhlguu'l CCNJ NEG-FOC hasak̲diit ehl reserve. \"NEG-FOC hasag̲a'm PROSP dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_grammar_original_chain_gloss_baseline",
+    "idx": 6,
+    "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+    "raw": "Gloss: CCNJ NEG-FOC-3.I who IRR come-SX\nFINAL_TRANSLATION: But no one came.",
+    "extracted": "CCNJ NEG-FOC-3.I who IRR come-SX",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_grammar_original_chain_gloss_baseline",
+    "idx": 16,
+    "source": "Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"",
+    "raw": "Gloss: WAY CCNJ say-TR-3PL.II LOC-CN short.time REAS COMP-1.II say-TR-3SG.II COMP-1.II say-TR-3SG.II LOC-CN Gitwinhlguu'l CCNJ NEG-FOC-3.II \"PROSP go.out-1SG.II PROSP go.out-1SG.II 'nidiit.\"\nFINAL_TRANSLATION: And they said, “It’s a short time, but I’ll tell you what — I’m going to go out, I’m going to go out.”",
+    "extracted": "WAY CCNJ say-TR-3PL.II LOC-CN short.time REAS COMP-1.II say-TR-3SG.II COMP-1.II say-TR-3SG.II LOC-CN Gitwinhlguu'l CCNJ NEG-FOC-3.II \"PROSP go.out-1SG.II PROSP go.out-1SG.II 'nidiit.\"",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg",
+    "idx": 35,
+    "source": "Needii gu ji t'amdiit, diyehl het.",
+    "raw": "Gloss: NEG-FOC 3.I who IRR come-SX, FOC-DIR het\nFINAL_TRANSLATION: But no one came, that's what they say.",
+    "extracted": "NEG-FOC 3.I who IRR come-SX, FOC-DIR het",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg",
+    "idx": 18,
+    "source": "Way 'nithl wildiit.",
+    "raw": "Gloss: VER IPFV-CN INS-on-rest\nFINAL_TRANSLATION: But it was Sunday.",
+    "extracted": "VER IPFV-CN INS-on-rest",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_jpg",
+    "idx": 9,
+    "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+    "raw": "Gloss: CCNJ on lay-1SG.II on INS-on-sit.PL\nFINAL_TRANSLATION: And I laid on the floor for a while.",
+    "extracted": "CCNJ on lay-1SG.II on INS-on-sit.PL",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt",
+    "idx": 3,
+    "source": "'Nit sag̲ootxwhl government siwetdiit, ii dim 'nii wenhl dim jok̲hl aluugigyet g̲o'ohl lax̲ reserve siwetdiit.",
+    "raw": "Gloss: long-CN PART-SPT government CAUS1-name-T-3PL.II CCNJ PROSP on lay-1SG.II PROSP go-1SG.II COMP live-CN place-upriver CAUS1-name-T-3PL.II\nFINAL_TRANSLATION: A long time ago, the government called it that, and I was going to lay down there where the people lived.",
+    "extracted": "long-CN PART-SPT government CAUS1-name-T-3PL.II CCNJ PROSP on lay-1SG.II PROSP go-1SG.II COMP live-CN place-upriver CAUS1-name-T-3PL.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt",
+    "idx": 10,
+    "source": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l ii needii hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+    "raw": "Gloss: Way ts'ax̲ wildiihl hehl Gitwinhlguu'l CCNJ NEG-FOC hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.\nFINAL_TRANSLATION: They were going to the Gitwinhlguu'l reserve, but no one was there. \"No one would be there,\" they said.",
+    "extracted": "Way ts'ax̲ wildiihl hehl Gitwinhlguu'l CCNJ NEG-FOC hasak̲diit ehl reserve. \"Needii hasag̲a'm dim dip suwii gi'namhl lax̲yibi'm,\" dihiida.",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_cheatsheet_txt",
+    "idx": 26,
+    "source": "Iit luuwendindiit.",
+    "raw": "Gloss: CCNJ INCEP return-PASS-3PL.II\nFINAL_TRANSLATION: And they returned.",
+    "extracted": "CCNJ INCEP return-PASS-3PL.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 33,
+    "source": "\"One mile by one mile,\" diphiida 'nuu'm.",
+    "raw": "Gloss: one-mile-1SG.II by one-mile-1SG.II diphiida 'nuu'm\nFINAL_TRANSLATION: One mile by one mile, that's what it is.",
+    "extracted": "one-mile-1SG.II by one-mile-1SG.II diphiida 'nuu'm",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 9,
+    "source": "Ii 'nii win hehl hli gyedihl Gitwinhlguu'l, \"Jidaa neejaa wilsi'm, way ii needimdii hasag̲a'm ehl k̲'am hlguts'uusxhl lax̲yiphl dim ksi jebisi'm.\"",
+    "raw": "Gloss: CCNJ on stay-1SG.II LOC-CN house CCNJ say-1SG.II \"I'm staying in the house, and I said, 'I don't want to go anywhere, I'm just going to stay here.'\"\nFINAL_TRANSLATION: I'm staying in the house, and I said, 'I don't want to go anywhere, I'm just going to stay here.'",
+    "extracted": "CCNJ on stay-1SG.II LOC-CN house CCNJ say-1SG.II \"I'm staying in the house, and I said, 'I don't want to go anywhere, I'm just going to stay here.'\"",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 24,
+    "source": "Needii 'nakwt ii bakwhl police.",
+    "raw": "Gloss: NEG-FOC-3.I who PROSP come-SX\nFINAL_TRANSLATION: But no one came.",
+    "extracted": "NEG-FOC-3.I who PROSP come-SX",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg",
+    "idx": 32,
+    "source": "Way ii sim dit'e'lt iit depdiithl hlguts'uusxhl lax̲ ha'niiyip gi'namihl Indian Agent tun ehl hli gyedihl Gitwinhlguu'l.",
+    "raw": "Gloss: WAY CCNJ SIM 3PL.II-1SG.II-DIST go-TR-3PL.II-1SG.II NMLZ-land-1SG.II REAS COMP-CN NEG-FOC hear-ANTIP-1SG.II LOC-CN place-upriver INS-on-sit.PL\nFINAL_TRANSLATION: And they went to the land, and that's why I didn't hear from the Indian Agent upriver.",
+    "extracted": "WAY CCNJ SIM 3PL.II-1SG.II-DIST go-TR-3PL.II-1SG.II NMLZ-land-1SG.II REAS COMP-CN NEG-FOC hear-ANTIP-1SG.II LOC-CN place-upriver INS-on-sit.PL",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg",
+    "idx": 7,
+    "source": "Ii aam win ky'ax̲ hehl Gitwinhlguu'l dim 'wiit'is, dim wag̲ayt jog̲o daa'whl g̲o'ohl k'i'yhl sg̲a'nist, dim ii lok̲'on daa'whl g̲o'ohl k'i'yhl aks, g̲o'ohl Ksen, 'nii g̲a'wayit k̲'ali daa'whl g̲o'ohl Meji'aadin. 'Nithl hasak̲diithl reserve.",
+    "raw": "Gloss: CCNJ go-1SG.II LOC-CN NMLZ-work-3PL.II LOC-CN completely NMLZ-across COMP live-CN white.person REAS COMP-CN NEG-FOC hear-ANTIP-1SG.II LOC-CN place-upriver\nFINAL_TRANSLATION: And I went to my work, which was across the river from where the white people lived, and that's why I didn't hear from Gigeenix.",
+    "extracted": "CCNJ go-1SG.II LOC-CN NMLZ-work-3PL.II LOC-CN completely NMLZ-across COMP live-CN white.person REAS COMP-CN NEG-FOC hear-ANTIP-1SG.II LOC-CN place-upriver",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_tables_jpg",
+    "idx": 34,
+    "source": "G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.",
+    "raw": "Gloss: LOC-CN place-upriver surveyor-3PL.II CCNJ short.time on lay-1SG.II REAS COMP-CN NEG-FOC hear-ANTIP-1SG.II LOC-CN place-upriver surveyor's reserve\nFINAL_TRANSLATION: And I was lying upriver where the surveyors were, and that's why I didn't hear from the surveyor's reserve.",
+    "extracted": "LOC-CN place-upriver surveyor-3PL.II CCNJ short.time on lay-1SG.II REAS COMP-CN NEG-FOC hear-ANTIP-1SG.II LOC-CN place-upriver surveyor's reserve",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+    "idx": 20,
+    "source": "Iit dok̲diithl andeba'a, tape dip siwedit.",
+    "raw": "Gloss: CCNJ go-1SG.II LOC-CN house CCNJ 1.I-CCNJ take.PL-CN tape CCNJ 1.I-CCNJ put.PL-CN tape\nFINAL_TRANSLATION: And I went to the house and I took the tape and I put the tape.",
+    "extracted": "CCNJ go-1SG.II LOC-CN house CCNJ 1.I-CCNJ take.PL-CN tape CCNJ 1.I-CCNJ put.PL-CN tape",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+    "idx": 34,
+    "source": "G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.",
+    "raw": "Gloss: LOC-CN place-upriver COMP-CN surveyors CCNJ short.time on lay-1SG.II REAS COMP-1.I block.way-turn-CN Gitwinhlguu'l gyuu'n NEG-FOC SGIDIMDII open-CN door\nFINAL_TRANSLATION: And we were upriver where the surveyors were, and that's why I didn't open the door.",
+    "extracted": "LOC-CN place-upriver COMP-CN surveyors CCNJ short.time on lay-1SG.II REAS COMP-1.I block.way-turn-CN Gitwinhlguu'l gyuu'n NEG-FOC SGIDIMDII open-CN door",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_tables_txt",
+    "idx": 21,
+    "source": "Dok̲diithl anooya'a, surveyors equipment siwedihl anooya'ahl surveyors.",
+    "raw": "Gloss: surveyors equipment NMLZ-3PL.II surveyors\nFINAL_TRANSLATION: The surveyors' equipment belongs to the surveyors.",
+    "extracted": "surveyors equipment NMLZ-3PL.II surveyors",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+    "idx": 14,
+    "source": "Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.\"",
+    "raw": "Gloss: CCNJ SPT-EPIS-CN LVB-1SG.II COMP-1.I block.way-turn-CN door\nFINAL_TRANSLATION: And I don't know why I locked the door.",
+    "extracted": "CCNJ SPT-EPIS-CN LVB-1SG.II COMP-1.I block.way-turn-CN door",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+    "idx": 18,
+    "source": "Way 'nithl wildiit.",
+    "raw": "Gloss: VER IPFV-CN INS-on-rest\nFINAL_TRANSLATION: But it was Sunday.",
+    "extracted": "VER IPFV-CN INS-on-rest",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf1_brown_original_chain_gloss_summary_text_txt",
+    "idx": 29,
+    "source": "Ii luuwenhl ligi gwilunima'ahl simgigyet g̲o'ohl Oakalla Prison siwetxwsit.",
+    "raw": "Gloss: CCNJ INCEP-1SG.II DWID what-CN try-TR-1SG.II LOC-CN Oakalla Prison CAUS1-name-T-3PL.II\nFINAL_TRANSLATION: And I tried to find out what they called it, Oakalla Prison.",
+    "extracted": "CCNJ INCEP-1SG.II DWID what-CN try-TR-1SG.II LOC-CN Oakalla Prison CAUS1-name-T-3PL.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg",
+    "idx": 0,
+    "source": "Dim mehldi'y wila wilhl win ksi hogwin bakwhl mismaaxwsxum gyet g̲o'ohl ts'ebi'm Gitwinhlguu'l gik'uuhl.",
+    "raw": "Gloss: PROSP go-1SG.II OBL-3.II 1.I-CCNJ take.PL-CN mail LOC-CN completely NMLZ-work COMP live-CN white.person\nFINAL_TRANSLATION: And I went there and I got my mail where the white people lived.",
+    "extracted": "PROSP go-1SG.II OBL-3.II 1.I-CCNJ take.PL-CN mail LOC-CN completely NMLZ-work COMP live-CN white.person",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg",
+    "idx": 6,
+    "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+    "raw": "Gloss: VER IPFV-CN INS-on-rest\nFINAL_TRANSLATION: But it was Sunday.",
+    "extracted": "VER IPFV-CN INS-on-rest",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_jpg",
+    "idx": 18,
+    "source": "Way 'nithl wildiit.",
+    "raw": "Gloss: VER IPFV-CN INS-on-rest\nFINAL_TRANSLATION: But it was Sunday.",
+    "extracted": "VER IPFV-CN INS-on-rest",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt",
+    "idx": 35,
+    "source": "Needii gu ji t'amdiit, diyehl het.",
+    "raw": "Gloss: NEG-FOC DES go-3.II CCNJ 1.I-CCNJ come.PL-CN house CCNJ-1.I see COMP live-CN person\nFINAL_TRANSLATION: And no one was going to come, I saw the person living there.",
+    "extracted": "NEG-FOC DES go-3.II CCNJ 1.I-CCNJ come.PL-CN house CCNJ-1.I see COMP live-CN person",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt",
+    "idx": 4,
+    "source": "\"Gu g̲anwilt,\" diyehl hli gyedihl Gitwinhlguu'l, \"ehl 'nii jog̲o'm g̲o'ohl lax̲yibi'm g̲o'osun.\"",
+    "raw": "Gloss: VER say-3PL.II CCNJ COMP-CN NEG-FOC go-1SG.II LOC-CN place-upriver LOC-CN place-downriver\nFINAL_TRANSLATION: \"We were going to go upriver,\" said Gitwinhlguu'l, \"but I didn't go upriver or downriver.\"",
+    "extracted": "VER say-3PL.II CCNJ COMP-CN NEG-FOC go-1SG.II LOC-CN place-upriver LOC-CN place-downriver",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_cheatsheet_txt",
+    "idx": 31,
+    "source": "Way ii yukwhl luuwenhl simgigyet dipun, ii hets'imox bakwhl surveyors.",
+    "raw": "Gloss: WAY CCNJ IPFV-CN IN return-PASS-1PL.II CCNJ-1.I go.PL-1SG.II LOC-CN place-3PL.II REAS COMP-3.I block.way-turn-CN door\nFINAL_TRANSLATION: And we went back to the place where they had blocked the door.",
+    "extracted": "WAY CCNJ IPFV-CN IN return-PASS-1PL.II CCNJ-1.I go.PL-1SG.II LOC-CN place-3PL.II REAS COMP-3.I block.way-turn-CN door",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 36,
+    "source": "'Nihl g̲abit.",
+    "raw": "Gloss: VER IPFV-CN INS-on-rest\nFINAL_TRANSLATION: But it was Sunday.",
+    "extracted": "VER IPFV-CN INS-on-rest",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 11,
+    "source": "Ii hediitg̲at ehl Indian Agent dimt ha'widinhl surveyors, dim suwii huudindiithl surveyors.",
+    "raw": "Gloss: CCNJ NEG-FOC-3.I who PROSP come-SX\nFINAL_TRANSLATION: And no one would be there.",
+    "extracted": "CCNJ NEG-FOC-3.I who PROSP come-SX",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 34,
+    "source": "G̲asg̲oohl lax̲bits'iixwhl surveyors, ii k̲'ap 'nihl g̲anwihl hehl Gitwinhlguu'l gyuu'n, needii sgidimdii k'uhl t'aadihl surveyor's reserve.",
+    "raw": "Gloss: LOC-CN surveyor-PL INS-on-work REAS COMP-CN NEG-FOC hear-ANTIP-1SG.II LOC-CN place-upriver needii sgidimdii k'uhl t'aadihl surveyor's reserve\nFINAL_TRANSLATION: The surveyors were working there, and that's why I didn't hear from Gitwinhlguu'l, because the surveyor's reserve was needed.",
+    "extracted": "LOC-CN surveyor-PL INS-on-work REAS COMP-CN NEG-FOC hear-ANTIP-1SG.II LOC-CN place-upriver needii sgidimdii k'uhl t'aadihl surveyor's reserve",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg",
+    "idx": 16,
+    "source": "Way ii sag̲aytg̲oodinhl ky'ulhl sim'oogit hli gyedihl Gitwinhlguu'l, ii hediit, \"Dim sg̲asgitxu'm, dim suwii huudini'm 'nidiit.\"",
+    "raw": "Gloss: Way CCNJ SPT-EPIS-CN LVB-1SG.II REAS COMP-3.II block.way-turn-CN door CCNJ 1.I-CCNJ take.PL-CN mail CCNJ go-1SG.II LOC-CN place-upriver CCNJ VER not.so-3.II\nFINAL_TRANSLATION: And I went there to get my mail and I went upriver, but no one was there.",
+    "extracted": "Way CCNJ SPT-EPIS-CN LVB-1SG.II REAS COMP-3.II block.way-turn-CN door CCNJ 1.I-CCNJ take.PL-CN mail CCNJ go-1SG.II LOC-CN place-upriver CCNJ VER not.so-3.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg",
+    "idx": 14,
+    "source": "Ii al'alg̲altg̲athl gyet hlis hediit ehl surveyors, \"Neemdii hogyax̲ dim wilsi'm jidaa sit'aa'masi'm.\"",
+    "raw": "Gloss: CCNJ 1.I say-CN NMLZ-3PL.II LOC-CN surveyors COMP-3.II NEG-FOC DES come-TR-3.II LOC-CN house go.out.PL\nFINAL_TRANSLATION: And I said to the surveyors, \"No one came out of the house.\"",
+    "extracted": "CCNJ 1.I say-CN NMLZ-3PL.II LOC-CN surveyors COMP-3.II NEG-FOC DES come-TR-3.II LOC-CN house go.out.PL",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_jpg",
+    "idx": 2,
+    "source": "Hasak̲diit dim mehldiit win hlaa dim sii ha'niijok̲t g̲o'ohl win t'aahl g̲alts'ephl Gitwinhlguu'l.",
+    "raw": "Gloss: NEG-FOC-3.II PROSP go.home-1SG.II CCNJ short.prepare pee-1SG.II LOC-CN house go.out.PL\nFINAL_TRANSLATION: And no one would be there.",
+    "extracted": "NEG-FOC-3.II PROSP go.home-1SG.II CCNJ short.prepare pee-1SG.II LOC-CN house go.out.PL",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+    "idx": 36,
+    "source": "'Nihl g̲abit.",
+    "raw": "Gloss: ?-CN PART-1SG.II\nFINAL_TRANSLATION: I was there.",
+    "extracted": "?-CN PART-1SG.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+    "idx": 3,
+    "source": "'Nit sag̲ootxwhl government siwetdiit, ii dim 'nii wenhl dim jok̲hl aluugigyet g̲o'ohl lax̲ reserve siwetdiit.",
+    "raw": "Gloss: long-CN PART-SPT government CAUS1-name-T-3PL.II CCNJ PROSP on lay-1SG.II CCNJ short.prepare pee-1SG.II LOC-CN place-upriver reserve CAUS1-name-T-3PL.II\nFINAL_TRANSLATION: And we were away a long time, three weeks, and that's why I didn't hear from Gigeenix.",
+    "extracted": "long-CN PART-SPT government CAUS1-name-T-3PL.II CCNJ PROSP on lay-1SG.II CCNJ short.prepare pee-1SG.II LOC-CN place-upriver reserve CAUS1-name-T-3PL.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_tables_txt",
+    "idx": 6,
+    "source": "Way dimdii depdiithl g̲a'nagwihl 'naayeja'a dim win daa'whl reserve siwetxwist.",
+    "raw": "Gloss: VER IPFV-CN INS-on-rest\nFINAL_TRANSLATION: But it was Sunday.",
+    "extracted": "VER IPFV-CN INS-on-rest",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+    "idx": 3,
+    "source": "'Nit sag̲ootxwhl government siwetdiit, ii dim 'nii wenhl dim jok̲hl aluugigyet g̲o'ohl lax̲ reserve siwetdiit.",
+    "raw": "Gloss: VER IPFV-CN government CAUS1-name-T-3PL.II CCNJ PROSP go.home-1SG.II CCNJ short.time on lay-1SG.II CCNJ PROSP go.home-1SG.II LOC-CN place-upriver CAUS1-name-T-3PL.II\nFINAL_TRANSLATION: And the government was called that, and I laid there for a while and went home to the reserve where they called it that.",
+    "extracted": "VER IPFV-CN government CAUS1-name-T-3PL.II CCNJ PROSP go.home-1SG.II CCNJ short.time on lay-1SG.II CCNJ PROSP go.home-1SG.II LOC-CN place-upriver CAUS1-name-T-3PL.II",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+    "idx": 20,
+    "source": "Iit dok̲diithl andeba'a, tape dip siwedit.",
+    "raw": "Gloss: CCNJ go-1SG.II LOC-CN NMLZ-work-3.II CCNJ 1.I-CCNJ take.PL-CN mail\nFINAL_TRANSLATION: And I went there and I got my mail.",
+    "extracted": "CCNJ go-1SG.II LOC-CN NMLZ-work-3.II CCNJ 1.I-CCNJ take.PL-CN mail",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_gitksan_pdf2_rigsby_original_chain_gloss_summary_text_txt",
+    "idx": 5,
+    "source": "Ii nax̲'nidiit win dim bakwhl siwetdiit ehl surveyors.",
+    "raw": "Gloss: CCNJ NEG-FOC-3.I who PROSP go-1SG.II LOC-CN back in return-PASS-1PL.II surveyors\nFINAL_TRANSLATION: And no one would be there, the surveyors had already gone back.",
+    "extracted": "CCNJ NEG-FOC-3.I who PROSP go-1SG.II LOC-CN back in return-PASS-1PL.II surveyors",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg",
+    "idx": 76,
+    "source": "Но , Рафикан сырой материални , куьне чугай материал гьа сегьнеда , гьамани чаз канда ки , чна комбинироватна са шеъ винел акъудин .",
+    "raw": "Gloss: No , Raфик-GEN-OBL-GEN raw.material-ERG-GEN , cut-AOR wood.material-ERG-DAT be-PST , machine-GEN-FOC 1sg.abs that , this combine-IMPF-PTP with 1sg.ERG-DAT wine-GEN-AOR make-AOR .\nFINAL_TRANSLATION: No, Raфик's raw material, the cut wood material was, the machine, I combined it with wine to make it.",
+    "extracted": "No , Raфик-GEN-OBL-GEN raw.material-ERG-GEN , cut-AOR wood.material-ERG-DAT be-PST , machine-GEN-FOC 1sg.abs that , this combine-IMPF-PTP with 1sg.ERG-DAT wine-GEN-AOR make-AOR .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg",
+    "idx": 19,
+    "source": "Жи хуьре атана лагьайла , за атана концертни гайди я и хуьре атана .",
+    "raw": "Gloss: 1sg.ERG-DAT this-GEN house-INESS , 1sg.ERG-DAT this-GEN concert-OBL-GEN go-AOR I and this-GEN house-INESS .\nFINAL_TRANSLATION: I went to this house, and I went to this concert.",
+    "extracted": "1sg.ERG-DAT this-GEN house-INESS , 1sg.ERG-DAT this-GEN concert-OBL-GEN go-AOR I and this-GEN house-INESS .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg",
+    "idx": 1,
+    "source": "Вични хьанвай къвалахар я .",
+    "raw": "Gloss: himself-ERG-DAT come-AOR here-INESS\nFINAL_TRANSLATION: He came here himself.",
+    "extracted": "himself-ERG-DAT come-AOR here-INESS",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt",
+    "idx": 19,
+    "source": "Жи хуьре атана лагьайла , за атана концертни гайди я и хуьре атана .",
+    "raw": "Gloss: 1sg.abs this place-INESS be-AOR , 1sg.ERG this concert-FOC go-AOR and this place-INESS .\nFINAL_TRANSLATION: I was at this place, went to this concert, and was at this place.",
+    "extracted": "1sg.abs this place-INESS be-AOR , 1sg.ERG this concert-FOC go-AOR and this place-INESS .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt",
+    "idx": 35,
+    "source": "« За вучин », лугьуда , бес , « аквазвачни », лугьуда , « пачагьдиз завай гила гевгьеррин иеси кӀанзава ».",
+    "raw": "Gloss: « 1sg.ERG this », say-ENT , but , « go-AOR-PST », say-ENT , « 1pl.abs-GEN-EL one jar-ERG-DAT put.in.AOC-AOR water order.IMPV ».\nFINAL_TRANSLATION: \"This,\" he said, \"but I went there,\" he said, \"to put a jar of water in the well.\"",
+    "extracted": "« 1sg.ERG this », say-ENT , but , « go-AOR-PST », say-ENT , « 1pl.abs-GEN-EL one jar-ERG-DAT put.in.AOC-AOR water order.IMPV ».",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt",
+    "idx": 15,
+    "source": "« Гьа и луьтквечидини », лагьана , « идани », лагьана « зун », лагьана , « гададивай къакъудна », лагьана , « алцурарна вичин кӀвализ тухузвай тир .",
+    "raw": "Gloss: « come please.do », say-AOR , « now 1sg.ERG 2sg-DAT how help-ENT-COND , say-AOR , « go-AOR 1sg.abs this Baku-INESS is-PTP my child-OBL-GEN to , say-AOR , « give-AOR this event celebrate do-MSD for , say-AOR .\nFINAL_TRANSLATION: \"Come, let's see how I can help you now... I went to visit my child, who lives in Baku, to celebrate this event.\"",
+    "extracted": "« come please.do », say-AOR , « now 1sg.ERG 2sg-DAT how help-ENT-COND , say-AOR , « go-AOR 1sg.abs this Baku-INESS is-PTP my child-OBL-GEN to , say-AOR , « give-AOR this event celebrate do-MSD for , say-AOR .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+    "idx": 44,
+    "source": "« Твах и зи шикил », лугьуда , « а ,» лугьуда « анавай вилаятдин кьилел алай булахдин кьилел эциг » лугьуда .",
+    "raw": "Gloss: « come please.do », say-ENT , « yes », say-ENT , « 1sg.ERG-DAT this village-OBL-GEN how help-ENT-COND .\nFINAL_TRANSLATION: \"Come, let's do it,\" he said, \"Yes,\" he said, \"How can I help you in this village?\"",
+    "extracted": "« come please.do », say-ENT , « yes », say-ENT , « 1sg.ERG-DAT this village-OBL-GEN how help-ENT-COND .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+    "idx": 62,
+    "source": "05 : Ӏ6",
+    "raw": "Gloss: ?-PTP\nFINAL_TRANSLATION: ?",
+    "extracted": "?-PTP",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg",
+    "idx": 8,
+    "source": "чун рехъ къуна хкверла",
+    "raw": "Gloss: go-AOR 1sg.abs this place-INESS\nFINAL_TRANSLATION: I went to that place.",
+    "extracted": "go-AOR 1sg.abs this place-INESS",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt",
+    "idx": 41,
+    "source": "« Гьуьлуьн кӀануз фин патакайни зун гьуьлуьн шивдихъ галаз ккӀана кӀанзава » лугьуда .",
+    "raw": "Gloss: « \"Gyulun\" 1sg.abs-DAT finish-IMPF-PST party's-OBL-SUPER-EL 1pl.abs \"Gyulun\" 1sg.abs-DAT dance-INF-AOR give-ENT-PTP that , \"Gyulun\" 1sg.abs-DAT dance-INF-AOR give-ENT-PTP that , \"Gyulun\" 1sg.abs-DAT dance-INF-AOR give-ENT-PTP that » say-ENT .\nFINAL_TRANSLATION: \"We finished the 'Gyulun' party, danced and gave it to them,\" he said.",
+    "extracted": "« \"Gyulun\" 1sg.abs-DAT finish-IMPF-PST party's-OBL-SUPER-EL 1pl.abs \"Gyulun\" 1sg.abs-DAT dance-INF-AOR give-ENT-PTP that , \"Gyulun\" 1sg.abs-DAT dance-INF-AOR give-ENT-PTP that , \"Gyulun\" 1sg.abs-DAT dance-INF-AOR give-ENT-PTP that » say-ENT .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt",
+    "idx": 4,
+    "source": "Ахпа отпуска гана заз .",
+    "raw": "Gloss: After evening be-AOC , sleep-AOR night-OBL-DAT there .\nFINAL_TRANSLATION: Then night fell and I slept that night there.",
+    "extracted": "After evening be-AOC , sleep-AOR night-OBL-DAT there .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt",
+    "idx": 24,
+    "source": "Идан акъадарна ахпа къагъана чун са шегьердиз .",
+    "raw": "Gloss: I-ERG this house-INESS go-AOR 1sg.abs this place-OBL-DAT be-PST .\nFINAL_TRANSLATION: I went to this house, and it was this place.",
+    "extracted": "I-ERG this house-INESS go-AOR 1sg.abs this place-OBL-DAT be-PST .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+    "idx": 81,
+    "source": "06 : Ӏ8",
+    "raw": "Gloss: ? ? ?\nFINAL_TRANSLATION: ?",
+    "extracted": "? ? ?",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+    "idx": 24,
+    "source": "Идан акъадарна ахпа къагъана чун са шегьердиз .",
+    "raw": "Gloss: I-ABS this-GEN one-PL-ERG house-DAT go-AOR 1sg.abs that 1sg.ERG-DAT see-IMPF-AOR .\nFINAL_TRANSLATION: I went to that house and saw it.",
+    "extracted": "I-ABS this-GEN one-PL-ERG house-DAT go-AOR 1sg.abs that 1sg.ERG-DAT see-IMPF-AOR .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt",
+    "idx": 72,
+    "source": "Ибурни амна , хкведа и гадани руш … гадани руш хкведа ибур чпин вилаятдиз .",
+    "raw": "Gloss: I-bur-ERG-DAT come-AOR , up-SBST-PST and boy-DAT girl ... boy-DAT girl up-SBST-PST and I-bur-ERG-DAT come-AOR this place-OBL-DAT .\nFINAL_TRANSLATION: I came here, and the boy and girl came... The boy and girl came to this place.",
+    "extracted": "I-bur-ERG-DAT come-AOR , up-SBST-PST and boy-DAT girl ... boy-DAT girl up-SBST-PST and I-bur-ERG-DAT come-AOR this place-OBL-DAT .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_baseline",
+    "idx": 77,
+    "source": "Жаваб я ашукь гада ваз ви кани яр авани ?",
+    "raw": "Gloss: Answer-PTP 1sg.ERG ashuq-OBL-DAT 2sg-DAT 1sg.ERG 2sg-gen why ask-AOR what ?\nFINAL_TRANSLATION: What is it that you, ashuq, want to ask me?",
+    "extracted": "Answer-PTP 1sg.ERG ashuq-OBL-DAT 2sg-DAT 1sg.ERG 2sg-gen why ask-AOR what ?",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_baseline",
+    "idx": 79,
+    "source": "Чун гафариз~аламукьнава .",
+    "raw": "Gloss: go-AOR 1sg.abs this place-INESS-SPSS-EL be-PST\nFINAL_TRANSLATION: I went there and it was like this place.",
+    "extracted": "go-AOR 1sg.abs this place-INESS-SPSS-EL be-PST",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_baseline",
+    "idx": 4,
+    "source": "Ахпа отпуска гана заз .",
+    "raw": "Gloss: After vacation-OBL-GEN go-AOR this girl-OBL-GEN\nFINAL_TRANSLATION: After vacation, she went there.",
+    "extracted": "After vacation-OBL-GEN go-AOR this girl-OBL-GEN",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 63,
+    "source": "тек къари тир ама .",
+    "raw": "Gloss: 1sg.ERG-DAT this house-INESS-GEN come-AOR\nFINAL_TRANSLATION: I came to this house.",
+    "extracted": "1sg.ERG-DAT this house-INESS-GEN come-AOR",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 10,
+    "source": "Хъсан жи къайгъудик амукьна заз еке тир хъсанвилер къалурна жамаатдин патай .",
+    "raw": "Gloss: Hassan-ERG-DAT come-AOR 1sg.abs this house-OBL-GEN be-AOR that Hassan's-OBL-GEN family-ERG-DAT go-PST .\nFINAL_TRANSLATION: Hassan came, and that was when Hassan's family went to that house.",
+    "extracted": "Hassan-ERG-DAT come-AOR 1sg.abs this house-OBL-GEN be-AOR that Hassan's-OBL-GEN family-ERG-DAT go-PST .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 70,
+    "source": "Севастопольда мугьарибе хьана ,",
+    "raw": "Gloss: Sevastopol-INESS go-AOR 1sg.abs\nFINAL_TRANSLATION: I went to Sevastopol.",
+    "extracted": "Sevastopol-INESS go-AOR 1sg.abs",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 29,
+    "source": "Кани ярдиз ви рикӀе лугьудай гафар амани ?",
+    "raw": "Gloss: want-ERG-PL 2sg-DAT like.that say-ENT-AOR give-IMPF-PST water-GEN ?\nFINAL_TRANSLATION: You want to give water like that?",
+    "extracted": "want-ERG-PL 2sg-DAT like.that say-ENT-AOR give-IMPF-PST water-GEN ?",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 59,
+    "source": "Жи диде , бубани амаш , кӀарасар агъана канзава ма чуьлдай .",
+    "raw": "Gloss: 1sg.abs this-AND brother-ERG-GEN mother-ABS-DAT be-AOR 1sg.abs that-AND go-AOR-PST .\nFINAL_TRANSLATION: I am this brother’s mother, and I went there.",
+    "extracted": "1sg.abs this-AND brother-ERG-GEN mother-ABS-DAT be-AOR 1sg.abs that-AND go-AOR-PST .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 41,
+    "source": "« Гьуьлуьн кӀануз фин патакайни зун гьуьлуьн шивдихъ галаз ккӀана кӀанзава » лугьуда .",
+    "raw": "Gloss: « \"Gyulun\" 1sg.abs-DAT want-AOR celebrate-MSD this \"Gyulun\" festival-OBL-GEN be-PST , dance-AOR , music-AOR , people-ERG-DAT come-AOR » say-ENT .\nFINAL_TRANSLATION: “The ‘Gyulun’ festival is being celebrated here — dancing, singing, and people are coming.”",
+    "extracted": "« \"Gyulun\" 1sg.abs-DAT want-AOR celebrate-MSD this \"Gyulun\" festival-OBL-GEN be-PST , dance-AOR , music-AOR , people-ERG-DAT come-AOR » say-ENT .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 9,
+    "source": "Гьабурни кӀвалариз-къариз ахъатна .",
+    "raw": "Gloss: гьабур-ни кӀва-лариз-къариз ахъат-на\ngirl-ERG-DAT house-ABL-PL-ERG-GEN return-AOR\nFINAL_TRANSLATION: The girl returned to the house.",
+    "extracted": "гьабур-ни кӀва-лариз-къариз ахъат-на\ngirl-ERG-DAT house-ABL-PL-ERG-GEN return-AOR",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 43,
+    "source": "Юлдашари меслят акуна ки , гьава къенин хьиз чими яз ...",
+    "raw": "Gloss: friend-PL-ERG house-INESS see-AOR that , dog-ERG-DAT 1sg.abs come-AOR this folk.tale .\nFINAL_TRANSLATION: My friends saw the house, and the dog came to me with this folk tale.",
+    "extracted": "friend-PL-ERG house-INESS see-AOR that , dog-ERG-DAT 1sg.abs come-AOR this folk.tale .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 32,
+    "source": "Концертар гуз фейла акуртӀа ки , бес гьакъикъетдай , ида вичиз кхьанва дастан .",
+    "raw": "Gloss: Concert-PL-FOC go-AOR feel-PTP-TEMP-AOR that , but , say-AOC , 1sg.abs name-ERG-DAT one dastan put-AOC want-FUT .\nFINAL_TRANSLATION: The concert went well, but I want to write something in her honor.",
+    "extracted": "Concert-PL-FOC go-AOR feel-PTP-TEMP-AOR that , but , say-AOC , 1sg.abs name-ERG-DAT one dastan put-AOC want-FUT .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 29,
+    "source": "Кани ярдиз ви рикӀе лугьудай гафар амани ?",
+    "raw": "Gloss: want-ERG-GEN this one word give-ENT-AOR be-PST ?\nFINAL_TRANSLATION: Do you want to give me this word?",
+    "extracted": "want-ERG-GEN this one word give-ENT-AOR be-PST ?",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 43,
+    "source": "Юлдашари меслят акуна ки , гьава къенин хьиз чими яз ...",
+    "raw": "Gloss: friend-PL-ERG-GEN word-ABS give-AOR-PURP be-PST\nFINAL_TRANSLATION: I gave them a word of friendship.",
+    "extracted": "friend-PL-ERG-GEN word-ABS give-AOR-PURP be-PST",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 21,
+    "source": "И кар акур жибури лагьана ки , яда къе вуча ма чав .",
+    "raw": "Gloss: I this all bread-ERG-DAT eat-AOR that , you-OBL-DAT one jar-ERG-AOR put.in.AOC-AOR water order.IMPV\nFINAL_TRANSLATION: I ate all the bread, and you put one jar of water in it for me.",
+    "extracted": "I this all bread-ERG-DAT eat-AOR that , you-OBL-DAT one jar-ERG-AOR put.in.AOC-AOR water order.IMPV",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 7,
+    "source": "Берлиндай Франциядиз ,",
+    "raw": "Gloss: Berlin-ERG-DAT France-INESS\nFINAL_TRANSLATION: In Berlin, in France",
+    "extracted": "Berlin-ERG-DAT France-INESS",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 15,
+    "source": "« Гьа и луьтквечидини », лагьана , « идани », лагьана « зун », лагьана , « гададивай къакъудна », лагьана , « алцурарна вичин кӀвализ тухузвай тир .",
+    "raw": "Gloss: « come-PTP and 1sg.abs tell-ERG-GEN that », say-AOR , « I am », say-AOR , « this », say-AOR , « go-AOR-PTP after take-AOC-PTP », say-AOR , « 2sg-DAT your hand-OBL-DAT give-AOC-PTP to him .»\nFINAL_TRANSLATION: \"Come and tell me that, 'I am,' 'this,' 'go and take it,' 'give your hand to him.'\"",
+    "extracted": "« come-PTP and 1sg.abs tell-ERG-GEN that », say-AOR , « I am », say-AOR , « this », say-AOR , « go-AOR-PTP after take-AOC-PTP », say-AOR , « 2sg-DAT your hand-OBL-DAT give-AOC-PTP to him .»",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 56,
+    "source": "Польшадай аниз , Берлиндиз",
+    "raw": "Gloss: Poland-INESS be-AOR , Berlin-OBL-DAT\nFINAL_TRANSLATION: It is in Poland, Berlin.",
+    "extracted": "Poland-INESS be-AOR , Berlin-OBL-DAT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 28,
+    "source": "Зу кьилелни пара атайди я .",
+    "raw": "Gloss: go-AOR 1sg.abs head-ERG-DAT give-ENT-AOP-PURP be-PST .\nFINAL_TRANSLATION: I went to give the head, and it was given.",
+    "extracted": "go-AOR 1sg.abs head-ERG-DAT give-ENT-AOP-PURP be-PST .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 23,
+    "source": "хуьруьн абурун кӀвалар чила ава , асканда пенжер",
+    "raw": "Gloss: house-ERG-DAT they(ABS) house-INESS be-AOR , askan-GEN penjir\nFINAL_TRANSLATION: They were in the house, and the askan was at the penjir.",
+    "extracted": "house-ERG-DAT they(ABS) house-INESS be-AOR , askan-GEN penjir",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_lezgi_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 29,
+    "source": "Кани ярдиз ви рикӀе лугьудай гафар амани ?",
+    "raw": "Gloss: want-ERG-PL-ERG-GEN , love-ERG-GEN one word give.will-ENT-AOP-PURP be-PST ?\nFINAL_TRANSLATION: To give a word of love?",
+    "extracted": "want-ERG-PL-ERG-GEN , love-ERG-GEN one word give.will-ENT-AOP-PURP be-PST ?",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_baseline",
+    "idx": 23,
+    "source": "Nzvzbzng x nrlc kc tqbqpe x sc tzmwipeng .",
+    "raw": "Gloss: NMLZ1-travel-NMLZ.POSS-PDIR.HITHER DEM2.DIST PFV RL-go-COS-PDIR.YON-1MINI and PFV RL-search-TR-COS-1MINII place.DEM2.DIST wq .\nFINAL_TRANSLATION: We went there and looked for the place.",
+    "extracted": "NMLZ1-travel-NMLZ.POSS-PDIR.HITHER DEM2.DIST PFV RL-go-COS-PDIR.YON-1MINI and PFV RL-search-TR-COS-1MINII place.DEM2.DIST wq .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_baseline",
+    "idx": 55,
+    "source": "30 . Nzryapwx-krbo Mz Doa Kxnzsiklu Pawa Merikol Li",
+    "raw": "Gloss: 30 . PAS-prepare.for-NMLZ.POSS-PDIR.HITHER Mr child TPNYM Kxnzsiklu Pawa Merikol Li\nFINAL_TRANSLATION: EP 30. Things were being prepared for the arrival of the children of Kxnzsiklu Pawa Merikol Li.",
+    "extracted": "30 . PAS-prepare.for-NMLZ.POSS-PDIR.HITHER Mr child TPNYM Kxnzsiklu Pawa Merikol Li",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_baseline",
+    "idx": 70,
+    "source": "Elakr nrlc ngrlxtxo .",
+    "raw": "Gloss: Elakr place SUBR daylight-GDIR.DOWN-PDIR.YON-3MINIA .\nFINAL_TRANSLATION: There was a place at daylight.",
+    "extracted": "Elakr place SUBR daylight-GDIR.DOWN-PDIR.YON-3MINIA .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 78,
+    "source": "Rpi-mopwz kxetu r ami kx , \" Nim ncblo kznike ?\"",
+    "raw": "Gloss: MID-say-PDIR.HITHER-3MINIA SUBR , \" thing-DEM2.DIST mankind DEM2.DIST who/what ?\"\nFINAL_TRANSLATION: He said to them, \"Who are those people?\"",
+    "extracted": "MID-say-PDIR.HITHER-3MINIA SUBR , \" thing-DEM2.DIST mankind DEM2.DIST who/what ?\"",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 82,
+    "source": "Mz nzvz-krgr kc , tqvzdzkr , tqvzokr x tqrkawitikr lue kxetuting .",
+    "raw": "Gloss: PREP village PCLF.B&G-3MINII-PL , RL-go-COS-PDIR.YON-1MINI , RL-go-COS-PDIR.YON-1MINI and RL-go-COS-PDIR.YON-1MINI place.DEM2.DIST SUBR\nFINAL_TRANSLATION: The village people went there, went there, and went there.",
+    "extracted": "PREP village PCLF.B&G-3MINII-PL , RL-go-COS-PDIR.YON-1MINI , RL-go-COS-PDIR.YON-1MINI and RL-go-COS-PDIR.YON-1MINI place.DEM2.DIST SUBR",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 20,
+    "source": "A' rvzmim doa kx bletipx-lxblrng mz Sade kcng tqvz-ngrmle .",
+    "raw": "Gloss: but MID-say-bz(PDIR.YON).o(1MINI) DAT.3AUGII SUBR thing-DEM2.DIST RL-go-COS-PDIR.YON-1MINI PREP priest Sade DEM2.DIST thing-DEM2.DIST RL-go-COS-PDIR.YON-1MINI .\nFINAL_TRANSLATION: But he said to them, \"The things that Father Sade went to do.\"",
+    "extracted": "but MID-say-bz(PDIR.YON).o(1MINI) DAT.3AUGII SUBR thing-DEM2.DIST RL-go-COS-PDIR.YON-1MINI PREP priest Sade DEM2.DIST thing-DEM2.DIST RL-go-COS-PDIR.YON-1MINI .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 11,
+    "source": "Aijz rkalzm Nzlvz sc tqvokipemle bagr Nea .",
+    "raw": "Gloss: Aijz rkalzm Nzlvz PFV RL-go-COS-PDIR.YON-1AUGI bagr Nea .\nFINAL_TRANSLATION: I went to Nzlvz with the bag from Nea.",
+    "extracted": "Aijz rkalzm Nzlvz PFV RL-go-COS-PDIR.YON-1AUGI bagr Nea .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 64,
+    "source": "X rpibo bade kx trtingr .",
+    "raw": "Gloss: and MID-say-bz(PDIR.YON).o(1MINI) DAT.3AUGII SUBR trtingr .\nFINAL_TRANSLATION: And I said to them, no.",
+    "extracted": "and MID-say-bz(PDIR.YON).o(1MINI) DAT.3AUGII SUBR trtingr .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 74,
+    "source": "63 . Skul Kc Naim Nzglqtrpq Nabzn",
+    "raw": "Gloss: 63 . Skul Kc Naim Nzglqtrpq Nabzn\nFINAL_TRANSLATION: EP 63. Skul Kc Naim Nzglqtrpq Nabzn",
+    "extracted": "63 . Skul Kc Naim Nzglqtrpq Nabzn",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 61,
+    "source": "Zbz mzli kcpe milzpq , dakxnzng kcng sc tqtwzope trtenge mz Menabz mz rum kc tqtupx-ngrm mqngr Ncbr .",
+    "raw": "Gloss: so.then PREP month SUBR be.one , NMLZ1-CAUS-gather-GDIR.OUT-PDIR.HITHER-3MINII DEM2.DIST place.DEM2.DIST PREP village GEN1A NMLZ1-talk-CAUS-hot-PDIR.YON-NMLZ and NMLZ1-teach-NMLZ be.3AUGII PREP way GEN1A village , way PFV government , and way GEN1A church.building .\nFINAL_TRANSLATION: So then, on that day, we gathered together the people of the villages, for admonishing and teaching them about the rules of the village, rules of the government, and rules of the church.",
+    "extracted": "so.then PREP month SUBR be.one , NMLZ1-CAUS-gather-GDIR.OUT-PDIR.HITHER-3MINII DEM2.DIST place.DEM2.DIST PREP village GEN1A NMLZ1-talk-CAUS-hot-PDIR.YON-NMLZ and NMLZ1-teach-NMLZ be.3AUGII PREP way GEN1A village , way PFV government , and way GEN1A church.building .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 7,
+    "source": "Mcpxle kcng ncblo kx nangi nidr kcmiti nede .",
+    "raw": "Gloss: mcpxle kcng ncblo kx nangi nidr kcmiti nede\nFINAL_TRANSLATION: We were told that they had been sent to the village.",
+    "extracted": "mcpxle kcng ncblo kx nangi nidr kcmiti nede",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 28,
+    "source": "A' da esz' kx trkatr elr , rmakx-zlwzngr mc x yagox-zvz-ngrgr badr doa kxnzsiklu .",
+    "raw": "Gloss: but DEM2.DIST be.one SUBR NEG-see-COS-PDIR.HITHER-3MINII , NEG-be.3AUGII-1MINI-3MINII PREP and NEG-go-COS-PDIR.YON-3MINII badr DAT.3MINII thing SUBR\nFINAL_TRANSLATION: But that one didn't see it, and he didn't go there, not even the thing.",
+    "extracted": "but DEM2.DIST be.one SUBR NEG-see-COS-PDIR.HITHER-3MINII , NEG-be.3AUGII-1MINI-3MINII PREP and NEG-go-COS-PDIR.YON-3MINII badr DAT.3MINII thing SUBR",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 14,
+    "source": "Rlrq nzata-krngele ?”",
+    "raw": "Gloss: Rlrq nzata-krngele ?\nFINAL_TRANSLATION: What about the village?",
+    "extracted": "Rlrq nzata-krngele ?",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 95,
+    "source": "Yzuo-moukr Ncipx x mwikr Nebz .",
+    "raw": "Gloss: be.married-1MINI Ncipx.vil and sleep-INTS-also-1MINI Nebz\nFINAL_TRANSLATION: I married into Ncipx village, and we also slept there.",
+    "extracted": "be.married-1MINI Ncipx.vil and sleep-INTS-also-1MINI Nebz",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 23,
+    "source": "Nzvzbzng x nrlc kc tqbqpe x sc tzmwipeng .",
+    "raw": "Gloss: NMLZ1-travel-NMLZ.POSS-PDIR.HITHER-3MINIA DEM2.DIST place.SUBR PFV RL-go-COS-PDIR.YON-1MINI and PFV RL-say-COS-PDIR.HITHER-1MINI PREP way GEN1A NMLZ1-travel-NMLZ.POSS-PDIR.HITHER-3MINII .\nFINAL_TRANSLATION: We went to that place and said to them, \"This is the way we travel.\"",
+    "extracted": "NMLZ1-travel-NMLZ.POSS-PDIR.HITHER-3MINIA DEM2.DIST place.SUBR PFV RL-go-COS-PDIR.YON-1MINI and PFV RL-say-COS-PDIR.HITHER-1MINI PREP way GEN1A NMLZ1-travel-NMLZ.POSS-PDIR.HITHER-3MINII .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 66,
+    "source": "Kx krlzmgr kc Nctekzmuli tryapewxu a' nge'txpepo , murde nenq matqtx-zlwzpe .",
+    "raw": "Gloss: SUBR 3AUG-test-3AUGIA DEM2.DIST NCTEKZMULI tryapewxu A' be.1MINII DEM2.DIST PFV RL-say-COS-PDIR.HITHER-3AUGIA , because NEG-see-3MINIA thing DEM2.DIST point plastic .\nFINAL_TRANSLATION: When they tested me at Nctekzmul, I said to them, “The things that the prefect saw and did not see are these here.”",
+    "extracted": "SUBR 3AUG-test-3AUGIA DEM2.DIST NCTEKZMULI tryapewxu A' be.1MINII DEM2.DIST PFV RL-say-COS-PDIR.HITHER-3AUGIA , because NEG-see-3MINIA thing DEM2.DIST point plastic .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 58,
+    "source": "Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu .",
+    "raw": "Gloss: Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu .  \nFINAL_TRANSLATION: They were the people of Srpi who had come from Nrpakxmrlz and arrived at Matiu.",
+    "extracted": "Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 48,
+    "source": "Kx mwi-lxlr-ngrgr kc mz nrlckxbq , tewa kxetu kc tqdcpe , vzmimq nenq , brlrpc x brlrmei .",
+    "raw": "Gloss: SUBR travel-GDIR.OUT-PDIR.HITHER-3MINII DEM2.DIST PREP road PFV RL-go-COS-PDIR.HITHER-3MINII , thing DEM2.DIST PFV RL-CAUS-carry-COS-1MINI thing , NMLZ1-prepare.for-NMLZ.POSS-PDIR.HITHER DEM2.DIST place , and NMLZ1-prepare-for-NMLZ.POSS-PDIR.HITHER DEM2.DIST place .\nFINAL_TRANSLATION: Having traveled out there, I went to the road, carried things there, prepared for us to go there, and prepared for us to go there.",
+    "extracted": "SUBR travel-GDIR.OUT-PDIR.HITHER-3MINII DEM2.DIST PREP road PFV RL-go-COS-PDIR.HITHER-3MINII , thing DEM2.DIST PFV RL-CAUS-carry-COS-1MINI thing , NMLZ1-prepare.for-NMLZ.POSS-PDIR.HITHER DEM2.DIST place , and NMLZ1-prepare-for-NMLZ.POSS-PDIR.HITHER DEM2.DIST place .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 88,
+    "source": "79 . Nzrblx-krbz Natqgu Badr Leplz Kcng Tzrtekqtrng Natq",
+    "raw": "Gloss: 79 . PAS-prepare.for-NMLZ1-travel-NMLZ.POSS-PDIR.HITHER Natqgu DEM2.DIST DEM1.DIST daylight-GDIR.DOWN-PDIR.YON-3MINIA TPNYM Natq .\nFINAL_TRANSLATION: EP 79. Things were being prepared for the arrival of the Natqgu people, at that time when it was daylight in Natq.",
+    "extracted": "79 . PAS-prepare.for-NMLZ1-travel-NMLZ.POSS-PDIR.HITHER Natqgu DEM2.DIST DEM1.DIST daylight-GDIR.DOWN-PDIR.YON-3MINIA TPNYM Natq .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 46,
+    "source": "Rpim Rik bange kx naope a' sa naom dq ncblo kzble kx natekqtrle nide .",
+    "raw": "Gloss: but MID-say-PDIR.HITHER-3MINIA , Mr Rik DEM2.DIST PFV RL-go-COS-PDIR.YON-1AUGI SUBR , NEG-IRR-CAUS-be-3MINIA and NEG-IRR-CAUS-be-3MINIA-NEG be.3MINII here .  \nFINAL_TRANSLATION: But Mr. Rik said, \"I didn't go there, I wasn't there.\"",
+    "extracted": "but MID-say-PDIR.HITHER-3MINIA , Mr Rik DEM2.DIST PFV RL-go-COS-PDIR.YON-1AUGI SUBR , NEG-IRR-CAUS-be-3MINIA and NEG-IRR-CAUS-be-3MINIA-NEG be.3MINII here .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_natugu_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 58,
+    "source": "Kabzle mz Srpi natekqtrle Nrpakxmrlz kc tqyr Matiu .",
+    "raw": "Gloss: Kabzle DEM1.DIST PREP Srpi village NATEKQTRLE NRPAKXMRLZ PFV RL-CAUS-hang-GDIR.OUT-PDIR.HITHER-3MINIA DEM2.DIST PFV RL-say-COS-again-1MINI Matiu .\nFINAL_TRANSLATION: That place, the village of Srpi, where they hung it, they said again, Matiu.",
+    "extracted": "Kabzle DEM1.DIST PREP Srpi village NATEKQTRLE NRPAKXMRLZ PFV RL-CAUS-hang-GDIR.OUT-PDIR.HITHER-3MINIA DEM2.DIST PFV RL-say-COS-again-1MINI Matiu .",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_baseline",
+    "idx": 142,
+    "source": "Yizin xaličabin ok’qo rixin, xedyoqor yezun barun yičin.",
+    "raw": "Gloss: DEM2.IPL.OBL-PL-ERG other-DISTR-DEF-PL-ERG III-do-PFV.CVB DEM1.IISG.OBL-POSS.LAT go-IPFV.CVB DEM2.IPL.OBL-LAT III-go-PFV.CVB DEM1.IISG.OBL-POSS.LAT II-see-PFV.CVB\nFINAL_TRANSLATION: The others did this, and the girl went to see them.",
+    "extracted": "DEM2.IPL.OBL-PL-ERG other-DISTR-DEF-PL-ERG III-do-PFV.CVB DEM1.IISG.OBL-POSS.LAT go-IPFV.CVB DEM2.IPL.OBL-LAT III-go-PFV.CVB DEM1.IISG.OBL-POSS.LAT II-see-PFV.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_baseline",
+    "idx": 441,
+    "source": "Kikxor aynosi, łin ħaƛun, Ħusen muši begira q’ˤida ičin.",
+    "raw": "Gloss: DEM2.IISG.OBL-GEN1-OBL child-PL-ERG DEM1.IISG.OBL-POSS.LAT-DUB mountain-TOP III-go-PFV.CVB DEM1.ISG.OBL-LAT-DUB one.OBL-AD.ESS-ATTR.OBL-AD.ESS II-must-QUOT\nFINAL_TRANSLATION: The children went to the mountain, and the boy said: \"You must go there!\"",
+    "extracted": "DEM2.IISG.OBL-GEN1-OBL child-PL-ERG DEM1.IISG.OBL-POSS.LAT-DUB mountain-TOP III-go-PFV.CVB DEM1.ISG.OBL-LAT-DUB one.OBL-AD.ESS-ATTR.OBL-AD.ESS II-must-QUOT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_baseline",
+    "idx": 252,
+    "source": "Šebi roqäƛin bara bayan bisnosi, nesä esin, hemedur bazarno resunč’ey, ƛelin iduɣor bowa retinč’ey, howlo hunix räsuru č’ʷadma teł bicin nexsiƛin.",
+    "raw": "Gloss: DEM1.ISG.OBL-POSS.LAT-ATTR.OBL-AD.ESS from.here one-EMPH boy-APUD.LAT I.PL-come-PFV.CVB DEM2.IISG.OBL-GEN1-DUB-AD.ESS so-EMPH information III-take-PFV.CVB from.here camel-PL-TOP III.PL-drive-PFV.CVB go-IPFV.CVB you-NMLZ one boy meet-NEG.PST.WIT-PST.WIT.INT-QUOT\nFINAL_TRANSLATION: When the merchants came to the shepherd with the horses, they wanted to take his information, if you want, send her to someone else.",
+    "extracted": "DEM1.ISG.OBL-POSS.LAT-ATTR.OBL-AD.ESS from.here one-EMPH boy-APUD.LAT I.PL-come-PFV.CVB DEM2.IISG.OBL-GEN1-DUB-AD.ESS so-EMPH information III-take-PFV.CVB from.here camel-PL-TOP III.PL-drive-PFV.CVB go-IPFV.CVB you-NMLZ one boy meet-NEG.PST.WIT-PST.WIT.INT-QUOT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 441,
+    "source": "Kikxor aynosi, łin ħaƛun, Ħusen muši begira q’ˤida ičin.",
+    "raw": "Gloss: DEM2.IISG.OBL-GEN1-DUB man-ERG DEM1.ISG.OBL-POSS.LAT III-go-PFV.CVB DEM2.IPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT\nFINAL_TRANSLATION: When they went outside, the wife asked her husband: \"Whose might those mules and the wares on them be?\"",
+    "extracted": "DEM2.IISG.OBL-GEN1-DUB man-ERG DEM1.ISG.OBL-POSS.LAT III-go-PFV.CVB DEM2.IPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 318,
+    "source": "Yiłas hunar šebi yołƛin nesä bazarganqo esirnosi, nesä eƛin:",
+    "raw": "Gloss: DEM2.IPL.OBL-GEN1-OBL-AD.ESS house-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW\nFINAL_TRANSLATION: After they went to look into the house, they found 2 Sah (5 kg) of gold there.",
+    "extracted": "DEM2.IPL.OBL-GEN1-OBL-AD.ESS house-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_jpg",
+    "idx": 324,
+    "source": "Žedułäy bełiqanzar biša rodanix sis idu ičix zown.",
+    "raw": "Gloss: DEM1.SG DEM1.ISG.OBL-GEN1 house-TOP III-do-PFV.CVB be.NPRS-PST.UNW one-EMPH one son\nFINAL_TRANSLATION: He built a house and had only one son.",
+    "extracted": "DEM1.SG DEM1.ISG.OBL-GEN1 house-TOP III-do-PFV.CVB be.NPRS-PST.UNW one-EMPH one son",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 133,
+    "source": "Bara ɣunoxorno yik’in, gonda tełxor akrošawt’ani magalazas čantan kurno, riynoxuq nełar ħažataw, q’ʷarʕaraw łinałäyn esirno.",
+    "raw": "Gloss: wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT\nFINAL_TRANSLATION: When they went outside, the wife asked her husband: \"Whose might those mules and the wares on them be?\"",
+    "extracted": "wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 414,
+    "source": "Yisä ħukmu bodin, igorno ik’in salam teƛno bäsrur, di kumak bodanƛin.",
+    "raw": "Gloss: DEM1.IISG.OBL-GEN1 house-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW\nFINAL_TRANSLATION: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.",
+    "extracted": "DEM1.IISG.OBL-GEN1 house-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_cheatsheet_txt",
+    "idx": 290,
+    "source": "Ciqqo ełu yut’ixno ričin, biynč’ey zamanno bik’in, sasiłno.",
+    "raw": "Gloss: Ciqqo I-IV-GEN1 house-TOP II-become-PST.UNW DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW\nFINAL_TRANSLATION: The house became theirs, and they found two Sah (5 kg) of gold there.",
+    "extracted": "Ciqqo I-IV-GEN1 house-TOP II-become-PST.UNW DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 130,
+    "source": "Howt’o hunäza bik’ixnan mežuł ħumukuli c’oxiyäƛin?”",
+    "raw": "Gloss: Howt’o hunäza bik’ixnan mežuł ħumukuli c’oxiyäƛin?\nFINAL_TRANSLATION: What are you doing, my dear?",
+    "extracted": "Howt’o hunäza bik’ixnan mežuł ħumukuli c’oxiyäƛin?",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 261,
+    "source": "Q’orol ɣˤanaza eƛin:",
+    "raw": "Gloss: Q’orol ɣˤanaza eƛin: DEM1.IISG.OBL-GEN1 mountain-TOP III-become-PST.UNW\nFINAL_TRANSLATION: The mountain became his.",
+    "extracted": "Q’orol ɣˤanaza eƛin: DEM1.IISG.OBL-GEN1 mountain-TOP III-become-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_pdfpages_impactful_jpg",
+    "idx": 53,
+    "source": "Hemedur raziłi zahir rodin kidbez babiya.",
+    "raw": "Gloss: so DEM1.IPL be-SIM.CVB one.OBL-ERG wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT\nFINAL_TRANSLATION: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.",
+    "extracted": "so DEM1.IPL be-SIM.CVB one.OBL-ERG wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 436,
+    "source": "Žek’u iziłxanuzo sida osiw ezä tełno yičirno, q’ˤida mečoƛ’ortown yegirinč’ey ža xanä kikix zown.",
+    "raw": "Gloss: DEM1.IISG.OBL-ERG boy-POSS.LAT III-small-EMPH stick give-PFV.CVB\nFINAL_TRANSLATION: The eagle gave a small stick to the boy.",
+    "extracted": "DEM1.IISG.OBL-ERG boy-POSS.LAT III-small-EMPH stick give-PFV.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 161,
+    "source": "Sida ʕomoyä eƛin, däƛ’ ci Ħišoƛin yołƛin, sidenägon ʕAbdal yołƛin, łˤora äƛirägon Qˤaƛuƛin yołƛin.",
+    "raw": "Gloss: one.OBL-ERG day-CONT.ESS DEM1.ISG.OBL-LAT III-become-PFV.CVB be.NPRS-PST.UNW DEM2.IISG-OBL-POSS.ABL-TOP DEM2.IISG-OBL-POSS.ABL-TOP DEM2.IISG-OBL-POSS.ABL-TOP DEM2.IISG-OBL-POSS.ABL-TOP\nFINAL_TRANSLATION: One day, the boy became a man, and his brothers became men too.",
+    "extracted": "one.OBL-ERG day-CONT.ESS DEM1.ISG.OBL-LAT III-become-PFV.CVB be.NPRS-PST.UNW DEM2.IISG-OBL-POSS.ABL-TOP DEM2.IISG-OBL-POSS.ABL-TOP DEM2.IISG-OBL-POSS.ABL-TOP DEM2.IISG-OBL-POSS.ABL-TOP",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_jpg",
+    "idx": 328,
+    "source": "Zamanaƛ’aza best’alawni kidbeder, ža łočyaƛ’ yoɣanir nełaz eniws ƛirbas uži ayn.",
+    "raw": "Gloss: one.OBL-ERG time-SUPER.VERS.DIST best’alawni kidbeder DEM1.ISG.OBL-LAT III-go-PFV.CVB DEM2.IISG.OBL-POSS.LAT go-PFV.CVB DEM2.IISG.OBL-POSS.LAT be.NPRS-PST.UNW DEM2.IISG-OBL-POSS.LAT II-go-PFV.CVB\nFINAL_TRANSLATION: After a while, the best of the boys went to the place where they were going, and he went there too.",
+    "extracted": "one.OBL-ERG time-SUPER.VERS.DIST best’alawni kidbeder DEM1.ISG.OBL-LAT III-go-PFV.CVB DEM2.IISG.OBL-POSS.LAT go-PFV.CVB DEM2.IISG.OBL-POSS.LAT be.NPRS-PST.UNW DEM2.IISG-OBL-POSS.LAT II-go-PFV.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 161,
+    "source": "Sida ʕomoyä eƛin, däƛ’ ci Ħišoƛin yołƛin, sidenägon ʕAbdal yołƛin, łˤora äƛirägon Qˤaƛuƛin yołƛin.",
+    "raw": "Gloss: one.OBL day-CONT.ESS dragon III-become-PFV.CVB DEM1.IISG.OBL-POSS.LAT water-AD.LAT bear-GEN1 ear go-PST.UNW\nFINAL_TRANSLATION: One day, Bear Ear went to the spring where the dragon was, to get water.",
+    "extracted": "one.OBL day-CONT.ESS dragon III-become-PFV.CVB DEM1.IISG.OBL-POSS.LAT water-AD.LAT bear-GEN1 ear go-PST.UNW",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 374,
+    "source": "Ħusenä salamno teƛno, iduɣor oqno.",
+    "raw": "Gloss: ħusenä salamno teƛno, iduɣor oqno.\nFINAL_TRANSLATION: The man was sitting there, and he became angry.",
+    "extracted": "ħusenä salamno teƛno, iduɣor oqno.",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_summary_tables_txt",
+    "idx": 183,
+    "source": "Šebi roqno deber, tusnaq’ä yałru dikinwa necet’a ixiw muši kurxanuƛin, žoyä bayan bisnosi, neła hemedur q’ˤano t’umi bayräsi yoł, žedałäy nasi guluči, nasi aqiw bat’a boda koƛ’inč’ey ƛexasiƛin esin.",
+    "raw": "Gloss: Šebi roqno deber tusnaq’ä yałru dikinwa necet’a ixiw muši kurxanuƛin žoyä bayan bisnosi neła hemedur q’ˤano t’umi bayräsi yoł žedałäy nasi guluči nasi aqiw bat’a boda koƛ’inč’ey ƛexasiƛin esin\nFINAL_TRANSLATION: When the foxes came to the house, the old man said to them: “You must come to me,” and they brought their children and their wives, and they were given food and drink.",
+    "extracted": "Šebi roqno deber tusnaq’ä yałru dikinwa necet’a ixiw muši kurxanuƛin žoyä bayan bisnosi neła hemedur q’ˤano t’umi bayräsi yoł žedałäy nasi guluči nasi aqiw bat’a boda koƛ’inč’ey ƛexasiƛin esin",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 378,
+    "source": "Ik’in, neširur yeda ʕaƛ bukayza mečoƛ’or aynosi, yizzoxay gurow č’ura rukayx zownanu.",
+    "raw": "Gloss: I.PL-go-PFV.CVB DEM2.IISG.OBL-POSS.LAT girl-ERG seven.OBL mountain-TOP II-see-PFV.CVB DEM1.IISG.OBL-LAT III-become-PFV.CVB DEM2.IISG.OBL-LAT IV-lead-PFV.CVB DEM2.IISG.OBL-LAT III-become-PFV.CVB DEM2.IISG.OBL-LAT III-become-PFV.CVB\nFINAL_TRANSLATION: They went, and the girl saw seven mountains, became a woman, led them, became a woman, became a woman.",
+    "extracted": "I.PL-go-PFV.CVB DEM2.IISG.OBL-POSS.LAT girl-ERG seven.OBL mountain-TOP II-see-PFV.CVB DEM1.IISG.OBL-LAT III-become-PFV.CVB DEM2.IISG.OBL-LAT IV-lead-PFV.CVB DEM2.IISG.OBL-LAT III-become-PFV.CVB DEM2.IISG.OBL-LAT III-become-PFV.CVB",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 64,
+    "source": "Žeda bexurxozo xabaryoqor aħyan kurno aɣˤuz mogola tełerno oqno ozatawni žek’un ičäsi zown.",
+    "raw": "Gloss: DEM2.IISG.OBL-POSS.LAT gold-GEN1 two sah III-find-PST.UNW DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT\nFINAL_TRANSLATION: When they found two Sah (5 kg) of gold, at least he might escape.",
+    "extracted": "DEM2.IISG.OBL-POSS.LAT gold-GEN1 two sah III-find-PST.UNW DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT",
+    "reviewed": false
+  },
+  {
+    "condition": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt",
+    "idx": 85,
+    "source": "Šidaƛin, esirno neła.",
+    "raw": "Gloss: one.OBL-ERG wife-ERG DEM1.IISG.OBL\nFINAL_TRANSLATION: She, the wife, was there.",
+    "extracted": "one.OBL-ERG wife-ERG DEM1.IISG.OBL",
+    "reviewed": false
+  }
+]

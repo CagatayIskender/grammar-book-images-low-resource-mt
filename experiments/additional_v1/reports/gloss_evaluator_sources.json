@@ -1,0 +1,14 @@
+{
+  "evaluator": "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/baseline/src/eval.py",
+  "evaluator_sha256": "302f425267d42b06bce2e9741d67bde073e17f2595bc68ce6436ceb688c7a4d9",
+  "data_parser": "/dss/dsshome1/07/ge92kun2/grammamt/Database/2023glossingST/baseline/src/data.py",
+  "data_parser_sha256": "738c2429e12b7604717c4919495c9e53f19182fb03463162357000c7a6221c48",
+  "inspected_functions": [
+    "eval_accuracy",
+    "eval_stems_grams",
+    "eval_morpheme_glosses",
+    "eval_word_glosses",
+    "evaluate_igt"
+  ],
+  "decision": "No official-equivalent gloss accuracy claimed without full normalization and manual extraction validation. Gold alignment does permit oracle inputs."
+}

@@ -1,0 +1,3931 @@
+{
+  "version": "additional_v1",
+  "created_utc": "2026-09-25T15:15:38.191369+00:00",
+  "post_hoc": true,
+  "models": [
+    "qwen3",
+    "qwen35"
+  ],
+  "excluded_models": [
+    "gemini25flashlite",
+    "gpt56luna"
+  ],
+  "contrasts": [
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_shot_baseline.json",
+      "id": "A_methods_000"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_shot_baseline.json",
+      "id": "A_methods_001"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_002"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "A_methods_003"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "A_methods_004"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_005"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "A_methods_006"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "A_methods_007"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_008"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Natugu",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_natugu_grammar_original_shot_baseline.json",
+      "id": "A_methods_009"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Natugu",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen3_natugu_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_natugu_grammar_original_shot_baseline.json",
+      "id": "A_methods_010"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Natugu",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_natugu_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_011"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Tsez",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen3_tsez_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_tsez_grammar_original_shot_baseline.json",
+      "id": "A_methods_012"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Tsez",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_tsez_grammar_original_shot_baseline.json",
+      "id": "A_methods_013"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Tsez",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen3_tsez_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_014"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Tsez",
+      "cohort": "common99",
+      "left": "configs/matched_gold_v2/qwen3_tsez_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_tsez_grammar_original_shot_baseline.json",
+      "id": "A_methods_015"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Tsez",
+      "cohort": "common99",
+      "left": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_tsez_grammar_original_shot_baseline.json",
+      "id": "A_methods_016"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen3",
+      "language": "Tsez",
+      "cohort": "common99",
+      "left": "configs/matched_gold_v2/qwen3_tsez_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_017"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_shot_baseline.json",
+      "id": "A_methods_018"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_shot_baseline.json",
+      "id": "A_methods_019"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_020"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "A_methods_021"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "A_methods_022"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_023"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "A_methods_024"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "A_methods_025"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_026"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Natugu",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen35_natugu_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_natugu_grammar_original_shot_baseline.json",
+      "id": "A_methods_027"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Natugu",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen35_natugu_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_natugu_grammar_original_shot_baseline.json",
+      "id": "A_methods_028"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Natugu",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen35_natugu_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_natugu_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_029"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Tsez",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen35_tsez_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_tsez_grammar_original_shot_baseline.json",
+      "id": "A_methods_030"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Tsez",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_tsez_grammar_original_shot_baseline.json",
+      "id": "A_methods_031"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Tsez",
+      "cohort": "native",
+      "left": "configs/matched_gold_v2/qwen35_tsez_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_032"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Tsez",
+      "cohort": "common99",
+      "left": "configs/matched_gold_v2/qwen35_tsez_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_tsez_grammar_original_shot_baseline.json",
+      "id": "A_methods_033"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Tsez",
+      "cohort": "common99",
+      "left": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_tsez_grammar_original_shot_baseline.json",
+      "id": "A_methods_034"
+    },
+    {
+      "package": "A",
+      "family": "A_methods",
+      "model": "qwen35",
+      "language": "Tsez",
+      "cohort": "common99",
+      "left": "configs/matched_gold_v2/qwen35_tsez_grammar_original_modelgloss_baseline.json",
+      "right": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_baseline.json",
+      "id": "A_methods_035"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_036"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt.json",
+      "id": "B_format_037"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_038"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt.json",
+      "id": "B_format_039"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_040"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_041"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_042"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt.json",
+      "id": "B_format_043"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_044"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt.json",
+      "id": "B_format_045"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_046"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_047"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_048"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_049"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_050"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt.json",
+      "id": "B_format_051"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_052"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt.json",
+      "id": "B_format_053"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_054"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_055"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_056"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt.json",
+      "id": "B_format_057"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_058"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt.json",
+      "id": "B_format_059"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_060"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_061"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_062"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_modelgloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_063"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_064"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_cheatsheet_txt.json",
+      "id": "B_format_065"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_066"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_cheatsheet_txt.json",
+      "id": "B_format_067"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_068"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_069"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_070"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_summary_tables_txt.json",
+      "id": "B_format_071"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_072"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_summary_tables_txt.json",
+      "id": "B_format_073"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_074"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_075"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_076"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_cyrillic_shot_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_077"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_078"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "id": "B_format_079"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_080"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "id": "B_format_081"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_082"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_083"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_084"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_085"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_086"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt.json",
+      "id": "B_format_087"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_088"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt.json",
+      "id": "B_format_089"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_090"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_091"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_092"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_093"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_094"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_cheatsheet_txt.json",
+      "id": "B_format_095"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_096"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_cheatsheet_txt.json",
+      "id": "B_format_097"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_098"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_099"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_100"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_101"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_102"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_summary_tables_txt.json",
+      "id": "B_format_103"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_104"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_summary_tables_txt.json",
+      "id": "B_format_105"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_106"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_107"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_108"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_109"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_110"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_cheatsheet_txt.json",
+      "id": "B_format_111"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_112"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_cheatsheet_txt.json",
+      "id": "B_format_113"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_114"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_115"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_116"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_117"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_118"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_summary_tables_txt.json",
+      "id": "B_format_119"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_120"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_summary_tables_txt.json",
+      "id": "B_format_121"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_122"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_123"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_124"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_125"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_126"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt.json",
+      "id": "B_format_127"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_128"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt.json",
+      "id": "B_format_129"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_130"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_131"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_132"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt.json",
+      "id": "B_format_133"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_134"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt.json",
+      "id": "B_format_135"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_136"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_137"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_138"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_chain_gloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_139"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_140"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt.json",
+      "id": "B_format_141"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_142"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt.json",
+      "id": "B_format_143"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_144"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_145"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_146"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt.json",
+      "id": "B_format_147"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_148"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt.json",
+      "id": "B_format_149"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_150"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_151"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_152"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_modelgloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_153"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_154"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_txt.json",
+      "id": "B_format_155"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_156"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_txt.json",
+      "id": "B_format_157"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_158"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_159"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_160"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_summary_tables_txt.json",
+      "id": "B_format_161"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_162"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_summary_tables_txt.json",
+      "id": "B_format_163"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_164"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_165"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_166"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_cyrillic_shot_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_167"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_168"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "id": "B_format_169"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_170"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "id": "B_format_171"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_172"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_173"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_174"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_175"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_176"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_summary_tables_txt.json",
+      "id": "B_format_177"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_178"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_summary_tables_txt.json",
+      "id": "B_format_179"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_180"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_181"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_182"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "id": "B_context_183"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_184"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_cheatsheet_txt.json",
+      "id": "B_format_185"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_186"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_cheatsheet_txt.json",
+      "id": "B_format_187"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_188"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_189"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_190"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_191"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_192"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_summary_tables_txt.json",
+      "id": "B_format_193"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_194"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_summary_tables_txt.json",
+      "id": "B_format_195"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_196"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_197"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_198"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "id": "B_context_199"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_200"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_cheatsheet_txt.json",
+      "id": "B_format_201"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_202"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_cheatsheet_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_cheatsheet_txt.json",
+      "id": "B_format_203"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_204"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_cheatsheet_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_205"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_206"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_pdfpages_impactful_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_207"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_208"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_summary_tables_txt.json",
+      "id": "B_format_209"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_210"
+    },
+    {
+      "package": "B",
+      "family": "B_format",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_summary_tables_jpg.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_summary_tables_txt.json",
+      "id": "B_format_211"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_212"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_summary_tables_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_213"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "valid84",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_214"
+    },
+    {
+      "package": "B",
+      "family": "B_context",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "cohort": "sensitivity83",
+      "left": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_summary_text_txt.json",
+      "right": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_shot_baseline.json",
+      "id": "B_context_215"
+    }
+  ],
+  "generation": [
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "cd8cc62f7306ea9e8e63e4edaac8eb778874d52d3c4276770f2a82b4be1e3b85",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "54c3690d88c4d053ce42b590ab08733726d96243a7ede1dc13aab1694600d8cd",
+      "owner_group": "G_qwen3_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "cd8cc62f7306ea9e8e63e4edaac8eb778874d52d3c4276770f2a82b4be1e3b85",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "5f9530ee197f75153154e2e0717c9e5adf2e34b15695498a2751c0f560758e83",
+      "owner_group": "G_qwen3_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "0bbd644b021421be5bae928c105a13b1e61a75a780687ee5c7b1ea3afc40f668",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "92bfa95bf08bdb375c51568d441f9c5788df3048ced59680c1246b83b2d20416",
+      "owner_group": "F_qwen3_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "0bbd644b021421be5bae928c105a13b1e61a75a780687ee5c7b1ea3afc40f668",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "aa802f07dd149a05fdd194914593c0b5213fc9abc219be289368c2efaa28a0fd",
+      "owner_group": "F_qwen3_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "f5604bb163c535330cd23340b606a9a3b63b966f3fe84cd8e3b48893e57ae09b",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "020368e47963091122196a568b5a966fe7b485ea819ace6928b0227aaf48b6ef",
+      "owner_group": "G_qwen3_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "f5604bb163c535330cd23340b606a9a3b63b966f3fe84cd8e3b48893e57ae09b",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "58004b211127fd488e1c9f0043905bb7e5900db3c49229923ac334d522f81f25",
+      "owner_group": "G_qwen3_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "a31db6169329d3d36cc7618e53de5884f51f7be879556dda26e73d46ae713003",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "1daaa5a10547eff9c86dd1c03f319fa1978bbd78be9404a32fbda28c141bf4e3",
+      "owner_group": "F_qwen3_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "a31db6169329d3d36cc7618e53de5884f51f7be879556dda26e73d46ae713003",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "856997218f225de91cd1ebb94baf6baba94e832380d3575b530e340c288b4739",
+      "owner_group": "F_qwen3_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "42a3b2cb0e93da8d945b2fe2b5ce6f75b85e370718a7338c7f936b26341d479a",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "202e36daef7185ed5ea35b583105160a1d95c5a41aa438978013762e3b274729",
+      "owner_group": "G_qwen3_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "42a3b2cb0e93da8d945b2fe2b5ce6f75b85e370718a7338c7f936b26341d479a",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "f7ccea5818808f77e002d49beacc8d92805479ef7e9f02390a572cedf896f948",
+      "owner_group": "G_qwen3_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "96e8c17b75e2f14ff803294692f5d65051528798032d9138dc86a4249a0250a1",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "c24f363fe0c36d34f78c5d9bdde633659b132804df96d7df836e2e481b036a0e",
+      "owner_group": "F_qwen3_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "96e8c17b75e2f14ff803294692f5d65051528798032d9138dc86a4249a0250a1",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "09e96641cc77defd12ee6b160ccf453eb92ac48756384bfd83c54170777d480d",
+      "owner_group": "F_qwen3_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "06573566275bee2e54e99750dc33490bac0fb8ff43c05431490feefef445b481",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "a822a15bae97e5683d544704cd79ca51fc4537b94f15333bb7de566fa648f749",
+      "owner_group": "G_qwen3_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "06573566275bee2e54e99750dc33490bac0fb8ff43c05431490feefef445b481",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "dedcb1001b1cff00a7ff45bfd44fc8015167e4780d6b0502023c5832e11a6564",
+      "owner_group": "G_qwen3_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "5ba4b0396092f3d6175beddab16280cf1f16c00cd593c2baea965a6f8a436d04",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "e66df3d214c2fc1078c82c438034e92d3131ceb50a101645288b62a6deeec63d",
+      "owner_group": "F_qwen3_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "5ba4b0396092f3d6175beddab16280cf1f16c00cd593c2baea965a6f8a436d04",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "5d63090571d5aaab69c36a8b0f11f70736a113029cf613983d3a92f21c42c4c8",
+      "owner_group": "F_qwen3_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "dc4fb52143dd3e28e27b174c1ae1b92df0cef04d1d4ededff86a6a9015707bb4",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_gitksan_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "de9aa9c12b922937bd0ec20b241382b065b3ebf25bd9d431c209578fcff0a852",
+      "owner_group": "G_qwen35_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "dc4fb52143dd3e28e27b174c1ae1b92df0cef04d1d4ededff86a6a9015707bb4",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_gitksan_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "3a0c4ec6c55673715d29f67620a078d1c50cba5a6c14f1cfc81a3f1b91256a31",
+      "owner_group": "G_qwen35_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "6d46a5f425d5e5436ca179adaf4abbfed2c5b4d3545008d6a916bc56f33f2006",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_gitksan_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "568709a90caa9020a7558b15897b001d532052bfe5a4d1e5a17d5228e627381b",
+      "owner_group": "F_qwen35_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "6d46a5f425d5e5436ca179adaf4abbfed2c5b4d3545008d6a916bc56f33f2006",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_gitksan_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "0a30b54df73d81df768a528534df1b17f6c8b198b4a9a983fc936b58a635c6ae",
+      "owner_group": "F_qwen35_gitksan"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "ae88a2e47ce9acda5b7d5582b9a3566b04759d5a0d7f334b1dd98f8a7fbe5dd7",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_lezgi_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "ecd2bb37200f6f1e50c2309aecc8e776456ed670756fa90f2f6029a1884fbe86",
+      "owner_group": "G_qwen35_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "ae88a2e47ce9acda5b7d5582b9a3566b04759d5a0d7f334b1dd98f8a7fbe5dd7",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_lezgi_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "dcddd3dc013c90ac101c060884aa292ecc57dd27ce6fdb063f55d31dc673f21e",
+      "owner_group": "G_qwen35_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "51c02b441d53d0690aec46f60ab636ee9ea6994dd6739f63b6c2551f42226e62",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "b071c579f7d85ae3012fb13d83c1cbdad030748eb0fb212f10713ac78b3b9d43",
+      "owner_group": "F_qwen35_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "51c02b441d53d0690aec46f60ab636ee9ea6994dd6739f63b6c2551f42226e62",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "9591ecd8ebd434876a05fe26aca531cbb715b1260d04a19c200cd8f1120834b0",
+      "owner_group": "F_qwen35_lezgi"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "c36803fe2a5c5afa8e1e2f3aa06883aea1e9a8c8b388b2ab21e3eac8085b942b",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_natugu_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "c5da43f47e052e4aa871d9d0df82a6d716dc0212843be6c953984151b032db1a",
+      "owner_group": "G_qwen35_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "c36803fe2a5c5afa8e1e2f3aa06883aea1e9a8c8b388b2ab21e3eac8085b942b",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_natugu_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "c2bd7ee8e7a3f3a570da8cd63af432414e75171e8b14b500b00a510197f87417",
+      "owner_group": "G_qwen35_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_natugu_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "cf239a8af9462f3c71662e2c6a7da25d85305799caa9e1fefb5ffa1e8d370ac7",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_natugu_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "676eeb83c994ad82d7f70cf4b8ee432af10cf425217a28914d79a08ae11c09a6",
+      "owner_group": "F_qwen35_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_natugu_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "cf239a8af9462f3c71662e2c6a7da25d85305799caa9e1fefb5ffa1e8d370ac7",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_natugu_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "94cdb0226d15982b5dcf5f36ab48c1f2b603d2bbcc17962bce013b17a7f6e32f",
+      "owner_group": "F_qwen35_natugu"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_tsez_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "07e22fa0abb33e7807040a63f305e5c4de0c60a48ec5e40931f02731769ab138",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_tsez_grammar_original_modelgloss_baseline_s20260910_t512",
+      "fingerprint": "8e7cba320bd27058c50398017638b43c97c4e03fef40a6872dd53de021e4e259",
+      "owner_group": "G_qwen35_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_tsez_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "07e22fa0abb33e7807040a63f305e5c4de0c60a48ec5e40931f02731769ab138",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": true,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_tsez_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "fingerprint": "a45a6fa5a9aa95b59f38a31e6b23e2a6321824df48e5d44d1e3bb2fd4c50dd3a",
+      "owner_group": "G_qwen35_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "4d0fa03d9da6a17067b76d474b22ad92d675368d5a00b5ba904a9c4f9e036e04",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_tsez_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "fingerprint": "407debde1351cdd679aea3d9c5742035bd20ef8b9096c46a2841a9140e40e6bd",
+      "owner_group": "F_qwen35_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "4d0fa03d9da6a17067b76d474b22ad92d675368d5a00b5ba904a9c4f9e036e04",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 1024,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_tsez_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "fingerprint": "aabf4917801147ee0a52205b2049e7f3fdacf1b884037910f3868593d3feddb8",
+      "owner_group": "F_qwen35_tsez"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_shot_baseline.json",
+      "parent_sha256": "d58994ebe1b8f7f431577d2699cf44f569b0e6fc85a92e487be70524109e2a5b",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_shot_baseline_s20260910_t512",
+      "fingerprint": "1209a0cb93f9b58da5c161d4de4660cf9a7cf1252562192518a63dad152a1eb8",
+      "owner_group": "I_qwen3_gitksan_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt.json",
+      "parent_sha256": "cd305129a614c1f51a7463369d9d81f12fd022d7bc49ca93f8391424617fc1fb",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260910_t512",
+      "fingerprint": "884d30796a52e0674bcce25aa6d5d482ad7e18a1f5103e485679d2a5b6009850",
+      "owner_group": "I_qwen3_gitksan_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_shot_baseline.json",
+      "parent_sha256": "d58994ebe1b8f7f431577d2699cf44f569b0e6fc85a92e487be70524109e2a5b",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_shot_baseline_s20260925_t512",
+      "fingerprint": "cfd8f5bbb54e1d127cb83226950d1a1073266cceb68ab71a733a57f4ef730705",
+      "owner_group": "I_qwen3_gitksan_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt.json",
+      "parent_sha256": "cd305129a614c1f51a7463369d9d81f12fd022d7bc49ca93f8391424617fc1fb",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260925_t512",
+      "fingerprint": "ea93f3ed5e0eb4a643c6d9ba0e70895950e96ecbbdc12231939387d02a8b499f",
+      "owner_group": "I_qwen3_gitksan_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_grammar_original_shot_baseline.json",
+      "parent_sha256": "d58994ebe1b8f7f431577d2699cf44f569b0e6fc85a92e487be70524109e2a5b",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_grammar_original_shot_baseline_s20261001_t512",
+      "fingerprint": "c555ce02bd9e9c0101c472f9940ad34b6b7e447a90fe3734496cd88bc501be52",
+      "owner_group": "I_qwen3_gitksan_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt.json",
+      "parent_sha256": "cd305129a614c1f51a7463369d9d81f12fd022d7bc49ca93f8391424617fc1fb",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20261001_t512",
+      "fingerprint": "0c9dd782807f32313e8205439f6a612c8bfd417b6b831de35dd1b4db21b53124",
+      "owner_group": "I_qwen3_gitksan_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "parent_sha256": "9c4ed8fd620e6584fe8557612226aafce6b750d069c2688671fa68573dce8491",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260910_t512",
+      "fingerprint": "630f5b62e4cc8f867bcfefc739e860e23d21881f7b0a507af546c755e53aee46",
+      "owner_group": "I_qwen3_lezgi_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "a31db6169329d3d36cc7618e53de5884f51f7be879556dda26e73d46ae713003",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260925_t512",
+      "fingerprint": "77dec23fda3bc3692dbf9f3270874a3ba77d033c66b5ecdbe92f514466f008a8",
+      "owner_group": "I_qwen3_lezgi_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "parent_sha256": "9c4ed8fd620e6584fe8557612226aafce6b750d069c2688671fa68573dce8491",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260925_t512",
+      "fingerprint": "343a116eb19ef0ccd45734abc4b5b01b7500fc39c78bf850690323d6d7401c60",
+      "owner_group": "I_qwen3_lezgi_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "a31db6169329d3d36cc7618e53de5884f51f7be879556dda26e73d46ae713003",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20261001_t512",
+      "fingerprint": "4f53cc8f3f88c358da57afde0cb3456b50745c3a44fa97182cbf273168951542",
+      "owner_group": "I_qwen3_lezgi_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "parent_sha256": "9c4ed8fd620e6584fe8557612226aafce6b750d069c2688671fa68573dce8491",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20261001_t512",
+      "fingerprint": "75a43ae854ed20ececa0e3d83cee9039d57623e1de1e0e488f22521c5bb807a6",
+      "owner_group": "I_qwen3_lezgi_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "parent_sha256": "6851ddd788191ddcbf8f5cf43ca718e509dc747af2f9c533235a6d41f95d8709",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260910_t512",
+      "fingerprint": "4bb99148b408d9f63351feea20cea75f82cfaa2db1989ea7e3455975591dc991",
+      "owner_group": "I_qwen3_natugu_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "42a3b2cb0e93da8d945b2fe2b5ce6f75b85e370718a7338c7f936b26341d479a",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_baseline_s20260925_t512",
+      "fingerprint": "4d1b4a854109124ffff2edcb63c3bfcf810044fb459174e5754feb0ec8eaae43",
+      "owner_group": "I_qwen3_natugu_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "parent_sha256": "6851ddd788191ddcbf8f5cf43ca718e509dc747af2f9c533235a6d41f95d8709",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260925_t512",
+      "fingerprint": "5e33a6b9e4528afef5dc3aec693cf46f12914df7e1bcefd4348380022537f33e",
+      "owner_group": "I_qwen3_natugu_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "42a3b2cb0e93da8d945b2fe2b5ce6f75b85e370718a7338c7f936b26341d479a",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_baseline_s20261001_t512",
+      "fingerprint": "d523647a72f83973fca59a8342e210f55a73fa1077bb381ae58d82dafdd3a76b",
+      "owner_group": "I_qwen3_natugu_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "parent_sha256": "6851ddd788191ddcbf8f5cf43ca718e509dc747af2f9c533235a6d41f95d8709",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20261001_t512",
+      "fingerprint": "0f2457e7d43e3594cd1665dcd7ae135c5e3589a3d71f0eb120d5d43c96f4b776",
+      "owner_group": "I_qwen3_natugu_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_summary_text_txt.json",
+      "parent_sha256": "f857b7f37cd2ee4311970aa279908bb8d85c71b532454a3285c34c7157eab0df",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20260910_t512",
+      "fingerprint": "8bd2fc41250559f1866d4bb2c66ffdca0b47e67748299d06fe4ec584e23bc011",
+      "owner_group": "I_qwen3_tsez_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "5ba4b0396092f3d6175beddab16280cf1f16c00cd593c2baea965a6f8a436d04",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260925_t512",
+      "fingerprint": "18e4df826f57aee2ab8220d41fe61c225cdfe4ac89de34faabd15a74b29873a3",
+      "owner_group": "I_qwen3_tsez_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_summary_text_txt.json",
+      "parent_sha256": "f857b7f37cd2ee4311970aa279908bb8d85c71b532454a3285c34c7157eab0df",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20260925_t512",
+      "fingerprint": "e6c2492011604c82fc43f260dfed7f52eb87c047620b252488719c279c7975f2",
+      "owner_group": "I_qwen3_tsez_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "5ba4b0396092f3d6175beddab16280cf1f16c00cd593c2baea965a6f8a436d04",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20261001_t512",
+      "fingerprint": "ca7980f2c937ee4ce10d3f3038af6be9c991009d3b3b6ecfdf94c1d8152511d9",
+      "owner_group": "I_qwen3_tsez_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen3_tsez_grammar_original_chain_gloss_summary_text_txt.json",
+      "parent_sha256": "f857b7f37cd2ee4311970aa279908bb8d85c71b532454a3285c34c7157eab0df",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+        "revision": "0c351dd01ed87e9c1b53cbc748cba10e6187ff3b",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3-VL-8B-Instruct/snapshots/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b"
+      },
+      "id": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20261001_t512",
+      "fingerprint": "8f0dd8dda1524a64db4c7ee722caace9a546367dd986dae9c53e9b744d989ce6",
+      "owner_group": "I_qwen3_tsez_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_shot_baseline.json",
+      "parent_sha256": "8ec0f88bac1d72dc4fbcf73fe6abb06fc3eb4c6f3222458999ed4cad0c13619f",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_gitksan_grammar_original_shot_baseline_s20260910_t512",
+      "fingerprint": "78a257d3bc0f652cda11364b36471c30c978369abdacf1f8a95064a78af9b76c",
+      "owner_group": "I_qwen35_gitksan_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt.json",
+      "parent_sha256": "bdfe7d1e7ddf5b7235cf574c7c54880c2fa354c32556e369dc74f8e74a67fad2",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260910_t512",
+      "fingerprint": "bb318642063628cf97269414a5292e88db738f0cf30273ca35537ef19ec9412d",
+      "owner_group": "I_qwen35_gitksan_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_shot_baseline.json",
+      "parent_sha256": "8ec0f88bac1d72dc4fbcf73fe6abb06fc3eb4c6f3222458999ed4cad0c13619f",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_gitksan_grammar_original_shot_baseline_s20260925_t512",
+      "fingerprint": "9c88d7cc4d6ee2f2a320375615bc2fa189d404439320cb0242f449a0d2649989",
+      "owner_group": "I_qwen35_gitksan_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt.json",
+      "parent_sha256": "bdfe7d1e7ddf5b7235cf574c7c54880c2fa354c32556e369dc74f8e74a67fad2",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260925_t512",
+      "fingerprint": "9317812a1f8a25a789681a39cccb29c189e0f152bbb3e0ede05cfcc7a8ee196d",
+      "owner_group": "I_qwen35_gitksan_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_gitksan_grammar_original_shot_baseline.json",
+      "parent_sha256": "8ec0f88bac1d72dc4fbcf73fe6abb06fc3eb4c6f3222458999ed4cad0c13619f",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_gitksan_grammar_original_shot_baseline_s20261001_t512",
+      "fingerprint": "d697a7d69c9e5e9bd191d4305d15e23e2592680154d6ffca6e825d6f2ab71b39",
+      "owner_group": "I_qwen35_gitksan_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt.json",
+      "parent_sha256": "bdfe7d1e7ddf5b7235cf574c7c54880c2fa354c32556e369dc74f8e74a67fad2",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20261001_t512",
+      "fingerprint": "1b7b00eed61bd2bd683c5655ff412d06fc4c0d3617b37ac26c1ce95301ea75a3",
+      "owner_group": "I_qwen35_gitksan_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "parent_sha256": "39df1687df5b8e9ecc39e4bbd99970bc6bc05e57d11260dfb7c70967c804835c",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260910_t512",
+      "fingerprint": "58908deca5dccc9606f06fd43aa5aa3b8882dab0da6d037ceab7c991472293ce",
+      "owner_group": "I_qwen35_lezgi_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "51c02b441d53d0690aec46f60ab636ee9ea6994dd6739f63b6c2551f42226e62",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20260925_t512",
+      "fingerprint": "cc621a89a694d8a437834de8f8e4927231a3e6d4076a93caad70600e14d4fcf0",
+      "owner_group": "I_qwen35_lezgi_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "parent_sha256": "39df1687df5b8e9ecc39e4bbd99970bc6bc05e57d11260dfb7c70967c804835c",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260925_t512",
+      "fingerprint": "1997da6ae09d65a8433e9c80b26f35f135ebae7d80002bb8cd176dd35fbe29ee",
+      "owner_group": "I_qwen35_lezgi_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "51c02b441d53d0690aec46f60ab636ee9ea6994dd6739f63b6c2551f42226e62",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20261001_t512",
+      "fingerprint": "88edb647ea47aedb5839eec47282d072ac8d3c6f9a7a6fd0a0324766b1cd4ea3",
+      "owner_group": "I_qwen35_lezgi_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt.json",
+      "parent_sha256": "39df1687df5b8e9ecc39e4bbd99970bc6bc05e57d11260dfb7c70967c804835c",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20261001_t512",
+      "fingerprint": "099f47bd5359d5bc0405d1b693c46228c120018daf3d53c24335138663623971",
+      "owner_group": "I_qwen35_lezgi_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "parent_sha256": "39dca904a947d90f5e62963e425594a3cbb8f5b864886237a49b22c8f7fb803f",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260910_t512",
+      "fingerprint": "3486840e05fcd787b61a2ea923490e5fa84065ca4ecd64af4f2902029475ccfc",
+      "owner_group": "I_qwen35_natugu_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "c36803fe2a5c5afa8e1e2f3aa06883aea1e9a8c8b388b2ab21e3eac8085b942b",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_natugu_grammar_original_modelgloss_baseline_s20260925_t512",
+      "fingerprint": "067247841e28db5d3dfb5ca898f08b33ef121c4d6e5a573bf4830b55056a2866",
+      "owner_group": "I_qwen35_natugu_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "parent_sha256": "39dca904a947d90f5e62963e425594a3cbb8f5b864886237a49b22c8f7fb803f",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260925_t512",
+      "fingerprint": "88106515d7da1b61d36d6dfa58dc2c1179f8da37338dfd73ef0ed6f5859fe262",
+      "owner_group": "I_qwen35_natugu_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_natugu_grammar_original_modelgloss_baseline.json",
+      "parent_sha256": "c36803fe2a5c5afa8e1e2f3aa06883aea1e9a8c8b388b2ab21e3eac8085b942b",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_natugu_grammar_original_modelgloss_baseline_s20261001_t512",
+      "fingerprint": "7fec327d1e605c3345ea1f4ad00b91ee7386b81b402e61458fa3400adbe67e81",
+      "owner_group": "I_qwen35_natugu_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg.json",
+      "parent_sha256": "39dca904a947d90f5e62963e425594a3cbb8f5b864886237a49b22c8f7fb803f",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20261001_t512",
+      "fingerprint": "5bc08fc63cc02e388473c648cc159c08edc07a38d15fc7cac51ae1eebcd2a1bf",
+      "owner_group": "I_qwen35_natugu_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_summary_text_txt.json",
+      "parent_sha256": "5ed1adf9c5fc857dbf837487d5c1309e5e475de0ee2d9faaef83be8ce837097c",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20260910,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt_s20260910_t512",
+      "fingerprint": "1e348fb20cd1e06f3b0e72b4f02911104b5264bb4a21fb6e66d75f8ba76b7963",
+      "owner_group": "I_qwen35_tsez_20260910"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "4d0fa03d9da6a17067b76d474b22ad92d675368d5a00b5ba904a9c4f9e036e04",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_tsez_grammar_original_chain_gloss_baseline_s20260925_t512",
+      "fingerprint": "c585408d3d53eae24c5ea8ba3f8d1af4a8e2327838a6dbec8a11ef21125182f9",
+      "owner_group": "I_qwen35_tsez_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_summary_text_txt.json",
+      "parent_sha256": "5ed1adf9c5fc857dbf837487d5c1309e5e475de0ee2d9faaef83be8ce837097c",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20260925,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt_s20260925_t512",
+      "fingerprint": "dbb9b5e0f4ca8f3d60b92206d4494ccbabb35399385bc2480fd813b8f13c7311",
+      "owner_group": "I_qwen35_tsez_20260925"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_baseline.json",
+      "parent_sha256": "4d0fa03d9da6a17067b76d474b22ad92d675368d5a00b5ba904a9c4f9e036e04",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_tsez_grammar_original_chain_gloss_baseline_s20261001_t512",
+      "fingerprint": "3e7e0933839c39dc3c34eabcd56d1943fc80a12c053ff44eddcc0e54ca3725be",
+      "owner_group": "I_qwen35_tsez_20261001"
+    },
+    {
+      "parent": "configs/matched_gold_v2/qwen35_tsez_grammar_original_chain_gloss_summary_text_txt.json",
+      "parent_sha256": "5ed1adf9c5fc857dbf837487d5c1309e5e475de0ee2d9faaef83be8ce837097c",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20261001,
+      "budget": 512,
+      "oracle": false,
+      "runtime": {
+        "model_id": "Qwen/Qwen3.5-9B",
+        "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+        "snapshot": "/dss/dssfs05/lwp-dss-0003/pn39je/pn39je-dss-0004/ge92kun2/cache/huggingface/hub/models--Qwen--Qwen3.5-9B/snapshots/c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+      },
+      "id": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt_s20261001_t512",
+      "fingerprint": "b0614e008835da98128271fee142fe84b6d551340cfd0cea2d4dc416aba5f2f9",
+      "owner_group": "I_qwen35_tsez_20261001"
+    }
+  ],
+  "groups": {
+    "G_qwen3_gitksan": [
+      "qwen3_gitksan_grammar_original_modelgloss_baseline_s20260910_t512",
+      "qwen3_gitksan_grammar_original_modelgloss_baseline_s20260910_t512_oracle"
+    ],
+    "F_qwen3_gitksan": [
+      "qwen3_gitksan_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "qwen3_gitksan_grammar_original_chain_gloss_baseline_s20260910_t1024"
+    ],
+    "G_qwen3_lezgi": [
+      "qwen3_lezgi_grammar_original_modelgloss_baseline_s20260910_t512",
+      "qwen3_lezgi_grammar_original_modelgloss_baseline_s20260910_t512_oracle"
+    ],
+    "F_qwen3_lezgi": [
+      "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260910_t1024"
+    ],
+    "G_qwen3_natugu": [
+      "qwen3_natugu_grammar_original_modelgloss_baseline_s20260910_t512",
+      "qwen3_natugu_grammar_original_modelgloss_baseline_s20260910_t512_oracle"
+    ],
+    "F_qwen3_natugu": [
+      "qwen3_natugu_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "qwen3_natugu_grammar_original_chain_gloss_baseline_s20260910_t1024"
+    ],
+    "G_qwen3_tsez": [
+      "qwen3_tsez_grammar_original_modelgloss_baseline_s20260910_t512",
+      "qwen3_tsez_grammar_original_modelgloss_baseline_s20260910_t512_oracle"
+    ],
+    "F_qwen3_tsez": [
+      "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260910_t1024"
+    ],
+    "G_qwen35_gitksan": [
+      "qwen35_gitksan_grammar_original_modelgloss_baseline_s20260910_t512",
+      "qwen35_gitksan_grammar_original_modelgloss_baseline_s20260910_t512_oracle"
+    ],
+    "F_qwen35_gitksan": [
+      "qwen35_gitksan_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "qwen35_gitksan_grammar_original_chain_gloss_baseline_s20260910_t1024"
+    ],
+    "G_qwen35_lezgi": [
+      "qwen35_lezgi_grammar_original_modelgloss_baseline_s20260910_t512",
+      "qwen35_lezgi_grammar_original_modelgloss_baseline_s20260910_t512_oracle"
+    ],
+    "F_qwen35_lezgi": [
+      "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20260910_t1024"
+    ],
+    "G_qwen35_natugu": [
+      "qwen35_natugu_grammar_original_modelgloss_baseline_s20260910_t512",
+      "qwen35_natugu_grammar_original_modelgloss_baseline_s20260910_t512_oracle"
+    ],
+    "F_qwen35_natugu": [
+      "qwen35_natugu_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "qwen35_natugu_grammar_original_chain_gloss_baseline_s20260910_t1024"
+    ],
+    "G_qwen35_tsez": [
+      "qwen35_tsez_grammar_original_modelgloss_baseline_s20260910_t512",
+      "qwen35_tsez_grammar_original_modelgloss_baseline_s20260910_t512_oracle"
+    ],
+    "F_qwen35_tsez": [
+      "qwen35_tsez_grammar_original_chain_gloss_baseline_s20260910_t512",
+      "qwen35_tsez_grammar_original_chain_gloss_baseline_s20260910_t1024"
+    ],
+    "I_qwen3_gitksan_20260910": [
+      "qwen3_gitksan_grammar_original_shot_baseline_s20260910_t512",
+      "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260910_t512"
+    ],
+    "I_qwen3_gitksan_20260925": [
+      "qwen3_gitksan_grammar_original_shot_baseline_s20260925_t512",
+      "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260925_t512"
+    ],
+    "I_qwen3_gitksan_20261001": [
+      "qwen3_gitksan_grammar_original_shot_baseline_s20261001_t512",
+      "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20261001_t512"
+    ],
+    "I_qwen3_lezgi_20260910": [
+      "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260910_t512"
+    ],
+    "I_qwen3_lezgi_20260925": [
+      "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260925_t512",
+      "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260925_t512"
+    ],
+    "I_qwen3_lezgi_20261001": [
+      "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20261001_t512",
+      "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20261001_t512"
+    ],
+    "I_qwen3_natugu_20260910": [
+      "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260910_t512"
+    ],
+    "I_qwen3_natugu_20260925": [
+      "qwen3_natugu_grammar_original_modelgloss_baseline_s20260925_t512",
+      "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260925_t512"
+    ],
+    "I_qwen3_natugu_20261001": [
+      "qwen3_natugu_grammar_original_modelgloss_baseline_s20261001_t512",
+      "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20261001_t512"
+    ],
+    "I_qwen3_tsez_20260910": [
+      "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20260910_t512"
+    ],
+    "I_qwen3_tsez_20260925": [
+      "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260925_t512",
+      "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20260925_t512"
+    ],
+    "I_qwen3_tsez_20261001": [
+      "qwen3_tsez_grammar_original_chain_gloss_baseline_s20261001_t512",
+      "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20261001_t512"
+    ],
+    "I_qwen35_gitksan_20260910": [
+      "qwen35_gitksan_grammar_original_shot_baseline_s20260910_t512",
+      "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260910_t512"
+    ],
+    "I_qwen35_gitksan_20260925": [
+      "qwen35_gitksan_grammar_original_shot_baseline_s20260925_t512",
+      "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260925_t512"
+    ],
+    "I_qwen35_gitksan_20261001": [
+      "qwen35_gitksan_grammar_original_shot_baseline_s20261001_t512",
+      "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20261001_t512"
+    ],
+    "I_qwen35_lezgi_20260910": [
+      "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260910_t512"
+    ],
+    "I_qwen35_lezgi_20260925": [
+      "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20260925_t512",
+      "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260925_t512"
+    ],
+    "I_qwen35_lezgi_20261001": [
+      "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20261001_t512",
+      "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20261001_t512"
+    ],
+    "I_qwen35_natugu_20260910": [
+      "qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260910_t512"
+    ],
+    "I_qwen35_natugu_20260925": [
+      "qwen35_natugu_grammar_original_modelgloss_baseline_s20260925_t512",
+      "qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260925_t512"
+    ],
+    "I_qwen35_natugu_20261001": [
+      "qwen35_natugu_grammar_original_modelgloss_baseline_s20261001_t512",
+      "qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20261001_t512"
+    ],
+    "I_qwen35_tsez_20260910": [
+      "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt_s20260910_t512"
+    ],
+    "I_qwen35_tsez_20260925": [
+      "qwen35_tsez_grammar_original_chain_gloss_baseline_s20260925_t512",
+      "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt_s20260925_t512"
+    ],
+    "I_qwen35_tsez_20261001": [
+      "qwen35_tsez_grammar_original_chain_gloss_baseline_s20261001_t512",
+      "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt_s20261001_t512"
+    ]
+  },
+  "generation_comparisons": [
+    {
+      "package": "G",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "left": "qwen3_gitksan_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "right": "qwen3_gitksan_grammar_original_modelgloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "F",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "left": "qwen3_gitksan_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "right": "qwen3_gitksan_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "G",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "left": "qwen3_lezgi_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "right": "qwen3_lezgi_grammar_original_modelgloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "F",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "left": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "right": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "G",
+      "model": "qwen3",
+      "language": "Natugu",
+      "left": "qwen3_natugu_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "right": "qwen3_natugu_grammar_original_modelgloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "F",
+      "model": "qwen3",
+      "language": "Natugu",
+      "left": "qwen3_natugu_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "right": "qwen3_natugu_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "G",
+      "model": "qwen3",
+      "language": "Tsez",
+      "left": "qwen3_tsez_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "right": "qwen3_tsez_grammar_original_modelgloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "F",
+      "model": "qwen3",
+      "language": "Tsez",
+      "left": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "right": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "G",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "left": "qwen35_gitksan_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "right": "qwen35_gitksan_grammar_original_modelgloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "F",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "left": "qwen35_gitksan_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "right": "qwen35_gitksan_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "G",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "left": "qwen35_lezgi_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "right": "qwen35_lezgi_grammar_original_modelgloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "F",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "left": "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "right": "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "G",
+      "model": "qwen35",
+      "language": "Natugu",
+      "left": "qwen35_natugu_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "right": "qwen35_natugu_grammar_original_modelgloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "F",
+      "model": "qwen35",
+      "language": "Natugu",
+      "left": "qwen35_natugu_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "right": "qwen35_natugu_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "G",
+      "model": "qwen35",
+      "language": "Tsez",
+      "left": "qwen35_tsez_grammar_original_modelgloss_baseline_s20260910_t512_oracle",
+      "right": "qwen35_tsez_grammar_original_modelgloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "F",
+      "model": "qwen35",
+      "language": "Tsez",
+      "left": "qwen35_tsez_grammar_original_chain_gloss_baseline_s20260910_t1024",
+      "right": "qwen35_tsez_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "left": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260910_t512",
+      "right": "qwen3_gitksan_grammar_original_shot_baseline_s20260910_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20260925,
+      "left": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260925_t512",
+      "right": "qwen3_gitksan_grammar_original_shot_baseline_s20260925_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Gitksan",
+      "seed": 20261001,
+      "left": "qwen3_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20261001_t512",
+      "right": "qwen3_gitksan_grammar_original_shot_baseline_s20261001_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "left": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260910_t512",
+      "right": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20260925,
+      "left": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260925_t512",
+      "right": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20260925_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Lezgi",
+      "seed": 20261001,
+      "left": "qwen3_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20261001_t512",
+      "right": "qwen3_lezgi_grammar_original_chain_gloss_baseline_s20261001_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260910,
+      "left": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260910_t512",
+      "right": "qwen3_natugu_grammar_original_modelgloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20260925,
+      "left": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260925_t512",
+      "right": "qwen3_natugu_grammar_original_modelgloss_baseline_s20260925_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Natugu",
+      "seed": 20261001,
+      "left": "qwen3_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20261001_t512",
+      "right": "qwen3_natugu_grammar_original_modelgloss_baseline_s20261001_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260910,
+      "left": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20260910_t512",
+      "right": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20260925,
+      "left": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20260925_t512",
+      "right": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20260925_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen3",
+      "language": "Tsez",
+      "seed": 20261001,
+      "left": "qwen3_tsez_grammar_original_chain_gloss_summary_text_txt_s20261001_t512",
+      "right": "qwen3_tsez_grammar_original_chain_gloss_baseline_s20261001_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20260910,
+      "left": "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260910_t512",
+      "right": "qwen35_gitksan_grammar_original_shot_baseline_s20260910_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20260925,
+      "left": "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20260925_t512",
+      "right": "qwen35_gitksan_grammar_original_shot_baseline_s20260925_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Gitksan",
+      "seed": 20261001,
+      "left": "qwen35_gitksan_pdf1_brown_original_shot_cheatsheet_txt_s20261001_t512",
+      "right": "qwen35_gitksan_grammar_original_shot_baseline_s20261001_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20260910,
+      "left": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260910_t512",
+      "right": "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20260925,
+      "left": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20260925_t512",
+      "right": "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20260925_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Lezgi",
+      "seed": 20261001,
+      "left": "qwen35_lezgi_grammar_original_chain_gloss_cheatsheet_txt_s20261001_t512",
+      "right": "qwen35_lezgi_grammar_original_chain_gloss_baseline_s20261001_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20260910,
+      "left": "qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260910_t512",
+      "right": "qwen35_natugu_grammar_original_modelgloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20260925,
+      "left": "qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20260925_t512",
+      "right": "qwen35_natugu_grammar_original_modelgloss_baseline_s20260925_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Natugu",
+      "seed": 20261001,
+      "left": "qwen35_natugu_grammar_original_modelgloss_cheatsheet_jpg_s20261001_t512",
+      "right": "qwen35_natugu_grammar_original_modelgloss_baseline_s20261001_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20260910,
+      "left": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt_s20260910_t512",
+      "right": "qwen35_tsez_grammar_original_chain_gloss_baseline_s20260910_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20260925,
+      "left": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt_s20260925_t512",
+      "right": "qwen35_tsez_grammar_original_chain_gloss_baseline_s20260925_t512"
+    },
+    {
+      "package": "I",
+      "model": "qwen35",
+      "language": "Tsez",
+      "seed": 20261001,
+      "left": "qwen35_tsez_grammar_original_chain_gloss_summary_text_txt_s20261001_t512",
+      "right": "qwen35_tsez_grammar_original_chain_gloss_baseline_s20261001_t512"
+    }
+  ],
+  "metrics": [
+    "chrF++",
+    "BLEU"
+  ],
+  "primary_metric": "chrF++",
+  "samples": 100000,
+  "seed": 20260925,
+  "confidence": 0.95,
+  "resampling": "source-text cluster bootstrap; all rows within a sampled source cluster retained",
+  "test": "two-sided null-centered paired bootstrap with plus-one p-values",
+  "holm": "A_methods, B_context, B_format: each pools both metrics, both Qwen models and all listed cohorts/masks",
+  "ci": "pointwise percentile intervals, not multiplicity adjusted",
+  "no_duplicate_cohorts": "common99 is separately tested only for Tsez; other-language shared views alias native or Lezgi masks",
+  "output_budget_scope": "Gemini pilot excluded by user; preselect all eight Qwen/language no-book pairs at 512 and 1024, no result-dependent expansion",
+  "generation_inference": "F/G: separate exploratory Holm families per package across both metrics and masks/cohorts; I: descriptive across-seed stability",
+  "seeds": [
+    20260910,
+    20260925,
+    20261001
+  ],
+  "human_gates": {
+    "D": "formal gloss scoring skipped: no extraction validator; automatic coverage only",
+    "E": "human faithfulness review skipped: no qualified evaluator; inventory only",
+    "H": "skipped: no validated matched and irrelevant-control materials",
+    "J": "skipped: no manually verified transcription targets",
+    "K": "skipped by user: no qualified evaluator",
+    "L": "runtime comparability and a verified Natugu contamination mask required before any MTOB baseline"
+  },
+  "pending_scopes": {
+    "H": "Qwen3/Qwen3.5 x Gitksan Brown/Natugu x shot, five conditions each",
+    "J": "two sampled regions per source/material, both Qwen models",
+    "K": "40 Natugu items, three no-book methods for both models, 240 judgments per evaluator",
+    "L": "eight no-book Qwen/language baselines; contexts require matched reruns if compatibility cannot be certified"
+  }
+}
