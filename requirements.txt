@@ -1,0 +1,17 @@
+# Main environment: Qwen3-VL-8B-Instruct, Gemini (OpenRouter), scoring and reports.
+# Versions are the ones recorded in the provenance files of the primary study.
+# Install torch for your CUDA version first, for example:
+#   pip install torch==2.7.1 --index-url https://download.pytorch.org/whl/cu118
+torch==2.7.1
+transformers==4.57.6
+huggingface_hub
+accelerate
+sacrebleu==2.6.0
+unbabel-comet==2.2.7
+numpy==2.2.6
+scipy==1.15.3
+PyMuPDF
+requests
+
+# Qwen3.5-9B needs a newer transformers release than 4.57.6, which does not know
+# the qwen3_5 model type. Use a separate environment for those runs; see README.

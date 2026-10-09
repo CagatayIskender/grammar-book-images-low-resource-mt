@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the thesis."
+title: "Leveraging Grammar-Book Images in Vision-Language Models for Low-Resource Machine Translation"
+type: software
+authors:
+  - family-names: Iskenderoglu
+    given-names: Cagatay
+license: MIT
+repository-code: "https://github.com/CagatayIskender/grammar-book-images-low-resource-mt"
+preferred-citation:
+  type: thesis
+  thesis-type: "Master's thesis"
+  title: "Leveraging Grammar-Book Images in Vision-Language Models for Low-Resource Machine Translation"
+  authors:
+    - family-names: Iskenderoglu
+      given-names: Cagatay
+  institution:
+    name: "Technical University of Munich"
+  year: 2026

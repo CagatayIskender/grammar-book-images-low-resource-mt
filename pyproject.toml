@@ -1,7 +1,9 @@
 [project]
-name = "grammamt"
-version = "0.1.0"
-description = "Add your description here"
+name = "grammar-book-images-low-resource-mt"
+version = "1.0.0"
+description = "Code, results and reports for the master's thesis 'Leveraging Grammar-Book Images in Vision-Language Models for Low-Resource Machine Translation'"
 readme = "README.md"
+license = "MIT"
 requires-python = ">=3.11"
+# Pinned versions are in requirements.txt.
 dependencies = []
